@@ -14,6 +14,14 @@ description: Write an awesome description for your new site here. You can edit t
   results) and in your feed.xml site description.
 baseurl: ''
 url: ''
+defaults:
+  - scope:
+      path: "_uploads"
+    values:
+      image: true
+sass:
+    sass_dir: _sass
+    style: compressed
 twitter_username: benlongden
 github_username: blongden73
 theme: minima
