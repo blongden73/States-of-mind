@@ -10,6 +10,7 @@ Intro text: "Last year, there were 700,000 referrals of children and young peopl
   or ethical approach for supporting young people's mental health. We believe that
   a social remedy is needed urgently. We are here to help. \n"
 Big Number: '700,000'
+Big Number 2: 86% UK GPs
 layout: home
 ---
 
