@@ -12,11 +12,21 @@
   <div class="som-wrapper flex">
     <div class="som-left">
       <h1 class="numbers">{{page ['Big Number']}}</h1>
-      <h1 class="numbers">{{page ['Big Number']}}</h1>
-      
+      <h1 class="numbers">{{page ['Big Number 2']}}</h1>
     </div>
     <div class="som-right">
-      <p class="courier">{{page ['Copy']}}</p>
+      <p class="courier">{{page ['Copy a']}}</p>
+      <p class="courier">{{page ['Copy b']}}</p>
+    </div>
+  </div>
+</div>
+<div class="som-panel white">
+  <div class="som-wrapper flex">
+    <div class="som-left">
+      <h1>{{page ['Copy 1']}}</h1>
+    </div>
+    <div class="som-right">
+      <img src="{{page ['about image'] | prepend: site.baseurl}}">
     </div>
   </div>
 </div>
