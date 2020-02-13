@@ -1,14 +1,22 @@
 ---
 title: What we do
 date: 2020-02-13 22:41:00 Z
+Research Description: "Research - Insight and Policy \n\nLinks to projects/ blogs/
+  collaborations \n\nEducation and Mental Health \n\nPsychologists for Social Change
+  \n\nUCL Research \n"
+Education Description: "Education - Self Awareness and Interpersonal development \n\nOur
+  Education Series provides young people with a therapeutic environment to develop
+  emotional  intelligence by exploring their personal history and relationship to
+  self. \n\nThrough a trauma informed and humanistic approach, our education programme
+  provides young people with a space to learn about the nature of distress through
+  the experience of a shared reflective space. \n\nDownload workshop content - link
+  to content \n"
 ---
 
+We are interested in how individuals are influenced by systems and how systems can be improved to support young people’s wellbeing. 
 
-Education - 
-Self Awareness and Interpersonal development. 
+From family, friendships, education to society, the systems we inhabit shape our views of ourselves and the world. 
 
-Our Education Series provides young people with a therapeutic environment to develop emotional  intelligence by exploring their personal history and relationship to self. 
+To improve mental health, we must design psychologically healthy environments for the next generation. We must innovate, from the bottom up. 
 
-Through a trauma informed and humanistic approach, our education programme provides young people with a space to learn about the nature of distress through the experience of a shared reflective space. 
-
-Download workshop content - link to content. 
+Our work focuses on listening to young people and working with them to create new models of psychological support that are non clinical and non pathologizing. 
