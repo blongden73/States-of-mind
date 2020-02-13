@@ -9,6 +9,7 @@ Intro text: "Last year, there were 700,000 referrals of children and young peopl
   treatment for depression. \n\nWe agree that pharmaceutical drugs are not a sustainable
   or ethical approach for supporting young people's mental health. We believe that
   a social remedy is needed urgently. We are here to help. \n"
+Big Number: '700,000'
 layout: home
 ---
 
