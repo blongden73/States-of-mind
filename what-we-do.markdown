@@ -11,6 +11,9 @@ Education Description: "Education - Self Awareness and Interpersonal development
   provides young people with a space to learn about the nature of distress through
   the experience of a shared reflective space. \n\nDownload workshop content - link
   to content \n"
+Projects Description: "Projects - Social Change   \n\nTalk for Health \n\nAnna Freud
+  National Centre for Children and Families \n\nStudent led early intervention initiatives
+  \n\n\n"
 ---
 
 We are interested in how individuals are influenced by systems and how systems can be improved to support young people’s wellbeing. 
