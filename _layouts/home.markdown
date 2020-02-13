@@ -9,15 +9,15 @@
 </div>
 
 <div class="som-panel">
-
-</div>
-
-<div class="som-content__grid">
-    <div class="som-wrapper flex wrap">
-      <div class="som-square__1"></div>
-      <div class="som-square__2"></div>
-      <div class="som-square__2"></div>
-      <div class="som-square__1"></div>
+  <div class="som-wrapper flex">
+    <div class="som-left">
+      <h1 class="numbers">{{page ['Big Number']}}</h1>
+      <h1 class="numbers">{{page ['Big Number']}}</h1>
+      
     </div>
+    <div class="som-right">
+      <p class="courier">{{page ['Copy']}}</p>
+    </div>
+  </div>
 </div>
 {% include footer.html %}

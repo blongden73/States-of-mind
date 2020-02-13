@@ -8,11 +8,23 @@
 
 $black: #4A4A4A;
 $grey: #333333;
+//brights
 $lightBlue: #85bfe4;
 $darkPink: #ea6e80;
 $pink: #eea8bb;
 $yellow: #ffdc7b;
 $green: #a8c1ac;
+//neutrals
+$nu-pink: #edc9c9;
+$nu-green: #a8c1ac;
+$nu-slate: #e7eee7;
+$nu-blue: #a3c3ce;
+$nu-olive: #ded9b3;
+$nu-grey: #9b9b9b;
+$nu-pink: #c69dbb;
+$nu-beige: #e8e3df;
+//dark
+$dark-blue:#406d84;
 
 @keyframes gradient {
   0% {
@@ -57,7 +69,7 @@ body {
   left: 50%;
   transform: translateX(-50%);
   z-index: 1;
-  display: none;
+  pointer-events: none;
 }
 
 .col {
@@ -120,6 +132,12 @@ body {
   }
 }
 
+.courier {
+  font-family: courier, monospace;
+  font-size: 17px;
+  line-height: 21px;
+}
+
 .flex {
   display: flex;
   flex-direction: column;
@@ -147,6 +165,13 @@ ul {
       margin-right: 0;
     }
   }
+}
+
+.numbers {
+  font-size: 9.5vw;
+  line-height: 0.2;
+  font-weight: 200;
+  letter-spacing: -10px;
 }
 
 .som-header {
@@ -312,5 +337,23 @@ ul {
 
 .som-panel {
   height: 100vh;
-  background-color: #333;
+  background-color: $dark-blue;
+  color: $nu-slate;
+
+  .som-left, .som-right {
+    width: 50%;
+    height: 100vh;
+  }
+
+  .som-left {
+    border-right: 1px solid #fff;
+  }
+
+  .som-right {
+    p {
+      max-width: 290px;
+      margin-left: 74px;
+      margin-top: 70px;
+    }
+  }
 }
