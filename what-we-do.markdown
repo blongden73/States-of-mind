@@ -9,10 +9,6 @@ Carousel:
   Category: 'Education, Self Awareness & Interpersonal Development.
 
 '
-- Image: "/uploads/selfa-a5d12a.jpg"
-  Headline: Projects and Social Change studies.
-  Category: Projects
-  Link: 
 - Image: "/uploads/Manos.jpg"
   Headline: A case study about research we did.
   Category: Research, Insight and Policy.
@@ -20,6 +16,10 @@ Carousel:
 - Image: "/uploads/self.jpg"
   Headline: 
   Category: Self Awareness
+  Link: 
+- Image: "/uploads/selfa-a5d12a.jpg"
+  Headline: Projects and Social Change studies.
+  Category: Projects
   Link: 
 Research Description: "Research - Insight and Policy:\n\nLinks to projects/ blogs/
   collaborations \n\nEducation and Mental Health \n\nPsychologists for Social Change
