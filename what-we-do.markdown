@@ -12,10 +12,6 @@ Carousel:
   Headline: A case study about research we did.
   Category: Research, Insight and Policy.
   Link: 
-- Image: "/uploads/foto%203.jpg"
-  Headline: 
-  Category: Self Awareness
-  Link: 
 - Image: "/uploads/foto%204.jpg"
   Headline: Projects and Social Change studies.
   Category: Projects
