@@ -1,6 +1,19 @@
 ---
 title: What we do
 date: 2020-02-13 22:41:00 Z
+Carousel:
+- Image: 
+  Headline: 
+  Link: 
+  Category: 
+- Image: 
+  Headline: 
+  Category: 
+  Link: 
+- Image: 
+  Headline: 
+  Category: 
+  Link: 
 Research Description: "Research - Insight and Policy \n\nLinks to projects/ blogs/
   collaborations \n\nEducation and Mental Health \n\nPsychologists for Social Change
   \n\nUCL Research \n"
