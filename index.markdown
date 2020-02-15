@@ -33,10 +33,10 @@ Copy 4: "What do young people need? \n</br></br>\nThis was the question we asked
   \n"
 Copy 5: "We do not believe that mental health is a fixed construct, but an experience,
   that is facilitated through the quality of our relationships with ourselves and
-  the world. \n\nWe believe in hope and opportunity amidst chaos and uncertainty,
+  the world. \n</br></br>\nWe believe in hope and opportunity amidst chaos and uncertainty,
   our mission is bring change to the lives of young people in our society, who struggle
-  to make sense of their lives. \n\nWe work with them to create a more hopeful vision
-  for life. "
+  to make sense of their lives. \n</br></br>\nWe work with them to create a more hopeful
+  vision for life. "
 layout: home
 ---
 
