@@ -26,10 +26,10 @@ Copy 3: 'The state of our mind is not static or fixed - we have designed a model
   draws on multiple theories and approaches for psychological growth, to promote sustainable
   systems. We view mental ill health as a sign that systems need psychological investment:
   we employ collaborative thinking to design solutions from the bottom up. '
-Copy 4: "What do young people need? \n\nThis was the question we asked 3 years ago
-  and from which States of Mind was born. Designed by young people and nurtured by
-  psychological thinking. Our model goes beyond biological paradigms of mental illness,
-  to provide a more dynamic and evolving understanding of psychological distress.
+Copy 4: "What do young people need? \n</br></br>\nThis was the question we asked 3
+  years ago and from which States of Mind was born. Designed by young people and nurtured
+  by psychological thinking. Our model goes beyond biological paradigms of mental
+  illness, to provide a more dynamic and evolving understanding of psychological distress.
   \n"
 Copy 5: "We do not believe that mental health is a fixed construct, but an experience,
   that is facilitated through the quality of our relationships with ourselves and
