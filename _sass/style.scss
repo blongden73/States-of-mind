@@ -14,6 +14,7 @@ $darkPink: #ea6e80;
 $pink: #eea8bb;
 $yellow: #ffdc7b;
 $green: #a8c1ac;
+$bright-grey:#bebebe;
 //neutrals
 $nu-pink: #edc9c9;
 $nu-green: #a8c1ac;
@@ -28,12 +29,15 @@ $dark-blue:#406d84;
 
 @keyframes gradient {
   0% {
-    background-color: $green;
+    background-color: $nu-olive;
     width: 92vh;
     height: 92vh;
   }
+  10% {
+    background-color: $nu-olive;
+  }
   25% {
-    background-color: $darkPink;
+    background-color: $dark-blue;
   }
   50% {
     background-color: $pink;
@@ -44,7 +48,7 @@ $dark-blue:#406d84;
     background-color: $yellow;
   }
   100% {
-    background-color: $lightBlue;
+    background-color: $nu-olive;
     width: 92vh;
     height: 92vh;
   }
@@ -104,6 +108,10 @@ body {
   z-index: 1;
   pointer-events: none;
   display: none;
+
+  &.display {
+    display: flex;
+  }
 }
 
 .col {
@@ -177,6 +185,15 @@ body {
   color: $nu-grey;
 }
 
+.olive {
+  background-color: $nu-olive !important;
+  color: $grey;
+}
+.blue {
+  background-color: $nu-blue !important;
+  color: $grey;
+}
+
 .flex {
   display: flex;
   flex-direction: column;
@@ -197,8 +214,7 @@ ul {
   padding: 0;
 
   li {
-    width: 7.55vw;
-    margin-right: 10px;
+    margin-right: 30px;
 
     &:last-child {
       margin-right: 0;
@@ -289,10 +305,43 @@ ul {
   }
 }
 
+.circle {
+  width: 92vh;
+  height: 92vh;
+  background-color: $nu-olive;
+  border-radius: 50%;
+  animation-name: gradient;
+  animation-duration: 7s;
+  animation-iteration-count: infinite;
+  animation-fill-mode: forwards;
+  animation-timing-function: linear;
+  will-change: transform;
+  transition: all ease-in-out 1s;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  transform-origin: center;
+  z-index: 10;
+
+  &.left {
+    left: 0;
+  }
+  &.right {
+    right: 0;
+    transform: translate(50%, -100%);
+  }
+  &.bottom {
+    top: 0;
+    bottom: 0;
+    transform: translate(50%, 50%);
+  }
+}
+
 .som-cirlce__large {
   width: 92vh;
   height: 92vh;
-  background-color: $green;
+  background-color: $nu-olive;
   border-radius: 50%;
   animation-name: gradient;
   animation-duration: 7s;
@@ -323,6 +372,7 @@ ul {
     left: 50%;
     top: 45%;
     transform: translate(-50%, -50%);
+    margin-left: 50px;
 
     span {
       display: block;
@@ -330,10 +380,12 @@ ul {
       line-height: 75px;
       letter-spacing: -2px;
       text-transform: capitalize;
+      margin-left: -110px;
+
 
     }
     .som-splash__broken-text {
-      margin-left: 250px;
+      margin-left: 100px;
     }
   }
 }
@@ -375,9 +427,12 @@ ul {
 }
 
 .som-panel {
-  height: 100vh;
+  min-height: 100vh;
+  height: auto;
   background-color: $dark-blue;
-  color: $nu-slate;
+  color: $bright-grey;
+  position: relative;
+  overflow: hidden;
 
   .som-left, .som-right {
     width: 50%;
@@ -394,15 +449,54 @@ ul {
   }
 
   &.white {
+    padding-bottom: 100px;
     h1 {
       color: $nu-grey;
-      @include font-size(3, 2.8);
-      @include size(5);
+      @include font-size(3, 2.6);
+      @include size(4);
+      font-weight: 200;
+      margin-top: 100px;
+      margin-bottom: 100px;
     }
 
     p {
       color: $nu-grey;
-      @include size(3);
+      @include font-size(1, 1.1);
+      @include size(2.7);
+      margin-left: 55%;
+    }
+  }
+  &.olive {
+    padding-bottom: 100px;
+
+    h1 {
+      color: $grey;
+      @include font-size(3, 2.8);
+      @include size(7);
+      font-weight: 200;
+      margin-top: -100px !important;
+      margin-left: 73%;
+    }
+
+    p {
+      color: $grey;
+      @include size(2);
+      margin-top: 100px;
+    }
+  }
+  &.blue {
+    h1 {
+      color: $grey;
+      @include font-size(3, 2.8);
+      @include size(4);
+      font-weight: 200;
+      margin-top: -100px !important;
+      margin-left: 55%;
+    }
+
+    p {
+      color: $grey;
+      @include size(2);
     }
   }
 

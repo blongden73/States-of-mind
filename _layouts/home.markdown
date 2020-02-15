@@ -19,6 +19,7 @@
       <p class="courier">{{page ['Copy b']}}</p>
     </div>
   </div>
+  <!-- <div class="circle right bottom"></div> -->
 </div>
 <div class="som-panel white">
   <div class="som-wrapper flex">
@@ -28,6 +29,24 @@
     </div>
     <div class="som-right">
       <img src="{{page ['About image'] | prepend: site.baseurl}}">
+    </div>
+  </div>
+</div>
+<div class="som-panel olive">
+  <div class="som-wrapper flex">
+    <div class="som-left">
+      <p class="courier">{{page ['Copy 3']}}</p>
+      <h1>{{page ['Copy 4']}}</h1>
+    </div>
+  </div>
+</div>
+<div class="som-panel blue">
+  <div class="circle left"></div>
+  <div class="som-wrapper flex">
+    <div class="som-left">
+    </div>
+    <div class="som-right">
+      <p class="courier">{{page ['Copy 5']}}</p>
     </div>
   </div>
 </div>
