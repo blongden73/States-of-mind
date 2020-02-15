@@ -69,6 +69,20 @@ $dark-blue:#406d84;
   }
 }
 
+@mixin widths($col, $property) {
+  $property: calc(90vw / 4 * #{$col} + (1.1% * #{$col}));
+
+  @include mq($from: tablet) {
+    $property: calc(90vw / 6 * #{$col} + (1.1% * #{$col}));
+  }
+  @include mq($from: desktop) {
+    $property: calc(90vw / 10 * #{$col} + (1.1% * #{$col}));
+  }
+  @include mq($from: wide) {
+    $property: calc(90vw / 12 * #{$col} + (1.1% * #{$col}));
+  }
+}
+
 body {
   font-family: 'Apercu Pro';
   padding: 0;
@@ -384,9 +398,16 @@ ul {
       @include font-size(3, 2.8);
       @include size(5);
     }
+
+    p {
+      color: $nu-grey;
+      @include size(3);
+    }
   }
 
   .som-right {
+    overflow: hidden;
+
     p {
       max-width: 290px;
       margin-left: 74px;
@@ -395,6 +416,15 @@ ul {
       &:nth-child(2) {
         margin-top: 215px;
       }
+    }
+
+    img {
+      @include size(3.35);
+      height: 100%;
+      object-fit: cover;
+      object-position: center;
+      position: absolute;
+      right: 0;
     }
   }
 }

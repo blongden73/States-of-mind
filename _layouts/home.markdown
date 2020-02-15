@@ -24,9 +24,10 @@
   <div class="som-wrapper flex">
     <div class="som-left">
       <h1>{{page ['Copy 1']}}</h1>
+      <p class="courier">{{page ['Copy 2']}}</p>
     </div>
     <div class="som-right">
-      <img src="{{page ['about image'] | prepend: site.baseurl}}">
+      <img src="{{page ['About image'] | prepend: site.baseurl}}">
     </div>
   </div>
 </div>
