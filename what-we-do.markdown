@@ -9,13 +9,13 @@ Carousel:
   Category: 'Education, Self Awareness & Interpersonal Development.
 
 '
-- Image: "/uploads/Manos.jpg"
-  Headline: A case study about research we did.
-  Category: Research, Insight and Policy.
-  Link: 
 - Image: "/uploads/SocialChange-2b9602.jpg"
   Headline: Projects and Social Change studies.
   Category: Projects
+  Link: 
+- Image: "/uploads/Manos.jpg"
+  Headline: A case study about research we did.
+  Category: Research, Insight and Policy.
   Link: 
 - Image: "/uploads/self.jpg"
   Headline: 
