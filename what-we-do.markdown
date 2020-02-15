@@ -2,29 +2,31 @@
 title: What we do
 date: 2020-02-13 22:41:00 Z
 Carousel:
-- Image: 
-  Headline: 
+- Image: "/uploads/Bea-85a92a"
+  Headline: "A case study about education project we did.\n\n"
   Link: 
-  Category: 
-- Image: 
-  Headline: 
-  Category: 
+  Category: 'Education, Self Awareness & Interpersonal Development.
+
+'
+- Image: "/uploads/Manos.jpg"
+  Headline: A case study about research we did.
+  Category: Research, Insight and Policy.
   Link: 
-- Image: 
-  Headline: 
-  Category: 
+- Image: "/uploads/SocialChange-f4eda0.jpg"
+  Headline: Projects and Social Change studies.
+  Category: Projects
   Link: 
-Research Description: "Research - Insight and Policy \n\nLinks to projects/ blogs/
+Research Description: "Research - Insight and Policy:\n\nLinks to projects/ blogs/
   collaborations \n\nEducation and Mental Health \n\nPsychologists for Social Change
   \n\nUCL Research \n"
-Education Description: "Education - Self Awareness and Interpersonal development \n\nOur
-  Education Series provides young people with a therapeutic environment to develop
-  emotional  intelligence by exploring their personal history and relationship to
-  self. \n\nThrough a trauma informed and humanistic approach, our education programme
+Education Description: "Education - Self Awareness and Interpersonal development:
+  \n\nOur Education Series provides young people with a therapeutic environment to
+  develop emotional  intelligence by exploring their personal history and relationship
+  to self. \n\nThrough a trauma informed and humanistic approach, our education programme
   provides young people with a space to learn about the nature of distress through
   the experience of a shared reflective space. \n\nDownload workshop content - link
   to content \n"
-Projects Description: "Projects - Social Change   \n\nTalk for Health \n\nAnna Freud
+Projects Description: "Projects - Social Change:   \n\nTalk for Health \n\nAnna Freud
   National Centre for Children and Families \n\nStudent led early intervention initiatives
   \n\n\n"
 ---
