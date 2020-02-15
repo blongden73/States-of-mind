@@ -590,6 +590,8 @@ ul {
 .som-footer {
   padding-top: 50px;
   padding-bottom: 100px;
+  background-color: $nu-slate;
+
   .som-wrapper {
     justify-content: space-between;
   }
@@ -636,4 +638,28 @@ ul {
 }
 .som-footer-right {
   @include size(2.8);
+}
+
+.som-carousel {
+  width: 100%;
+  min-height: 60vh;
+  background-color: $pink;
+  padding-top: 200px;
+
+  ul {
+    display: flex;
+    padding-left: 5%;
+    overflow-x: auto;
+    &::-webkit-scrollbar {    display: none;}
+
+    li {
+      background-color: red;
+      width: 25%;
+      flex-grow: 3;
+      flex-wrap: nowrap;
+      height: 60vh;
+      margin: 1px;
+      flex: none;
+    }
+  }
 }
