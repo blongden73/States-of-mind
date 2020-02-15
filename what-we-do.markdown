@@ -4,15 +4,21 @@ date: 2020-02-13 22:41:00 Z
 Carousel:
 - Image: "/uploads/Bea-85a92a"
   Headline: "A case study about education project we did.\n\n"
-  Category: Education
   Link: 
+  Category: 'Education, Self Awareness & Interpersonal Development.
+
+'
 - Image: "/uploads/Manos.jpg"
   Headline: A case study about research we did.
   Category: Research, Insight and Policy.
   Link: 
-- Image: "/uploads/SocialChange-f4eda0.jpg"
+- Image: "/uploads/selfa.jpg"
   Headline: Projects and Social Change studies.
   Category: Projects
+  Link: 
+- Image: "/uploads/self.jpg"
+  Headline: 
+  Category: Self Awareness
   Link: 
 Research Description: "Research - Insight and Policy:\n\nLinks to projects/ blogs/
   collaborations \n\nEducation and Mental Health \n\nPsychologists for Social Change
