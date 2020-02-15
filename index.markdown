@@ -18,7 +18,7 @@ Copy b: "Agreed that the prescribing of antidepressants has increased due to pro
 Copy 1: "We have designed a flexible and constantly evolving programme that allows
   young people to learn about, create and lead their own mental health initiatives,
   drawing on the human Resources inherent in us all. \n"
-About image: "/uploads/som_splash.jpg"
+About image: "/uploads/home_image_2.jpg"
 Copy 2: 'We agree that pharmaceutical drugs are not a sustainable or ethical approach
   for supporting young people''s mental health. We believe that a social remedy is
   needed urgently. We are here to help. '
