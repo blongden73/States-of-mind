@@ -12,7 +12,7 @@ Carousel:
   Headline: A case study about research we did.
   Category: Research, Insight and Policy.
   Link: 
-- Image: "/uploads/self.jpg"
+- Image: "/uploads/try.jpg"
   Headline: 
   Category: Self Awareness
   Link: 
