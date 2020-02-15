@@ -8,7 +8,7 @@
   </div>
 </div>
 
-<div class="som-panel">
+<div class="som-panel gridded">
   <div class="som-wrapper flex">
     <div class="som-left">
       <h1 class="numbers">{{page ['Big Number']}}</h1>
@@ -19,7 +19,6 @@
       <p class="courier">{{page ['Copy b']}}</p>
     </div>
   </div>
-  <!-- <div class="circle right bottom"></div> -->
 </div>
 <div class="som-panel white">
   <div class="som-wrapper flex">
@@ -28,7 +27,7 @@
       <p class="courier">{{page ['Copy 2']}}</p>
     </div>
     <div class="som-right">
-      <img src="{{page ['About image'] | prepend: site.baseurl}}">
+      <img class="animate-in" src="{{page ['About image'] | prepend: site.baseurl}}">
     </div>
   </div>
 </div>
@@ -40,10 +39,11 @@
     </div>
   </div>
 </div>
-<div class="som-panel blue">
+<div class="som-panel blue gridded">
   <div class="circle left"></div>
   <div class="som-wrapper flex">
     <div class="som-left">
+      <div class="grid-line"></div>
     </div>
     <div class="som-right">
       <p class="courier">{{page ['Copy 5']}}</p>
