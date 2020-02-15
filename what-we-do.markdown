@@ -5,10 +5,8 @@ date: 2020-02-13 22:41:00 Z
 Carousel:
 - Image: "/uploads/Bea-85a92a"
   Headline: "A case study about education project we did.\n\n"
+  Category: Education, Self Awareness & Interpersonal Development.
   Link: 
-  Category: 'Education, Self Awareness & Interpersonal Development.
-
-'
 - Image: "/uploads/Manos.jpg"
   Headline: A case study about research we did.
   Category: Research, Insight and Policy.
