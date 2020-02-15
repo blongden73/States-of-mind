@@ -8,7 +8,7 @@ Carousel:
   Category: 'Education, Self Awareness & Interpersonal Development.
 
 '
-- Image: "/uploads/SocialChange-2b9602.jpg"
+- Image: "/uploads/selfa-a5d12a.jpg"
   Headline: Projects and Social Change studies.
   Category: Projects
   Link: 
