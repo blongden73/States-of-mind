@@ -2,23 +2,31 @@
 title: What we do
 date: 2020-02-13 22:41:00 Z
 Carousel:
-- Image: "/uploads/Bea-85a92a"
+- Image: "/uploads/foto1.jpg"
   Headline: "A case study about education project we did.\n\n"
   Link: 
   Category: 'Education, Self Awareness & Interpersonal Development.
 
 '
-- Image: "/uploads/Manos.jpg"
+- Image: "/uploads/foto%202.jpg"
   Headline: A case study about research we did.
   Category: Research, Insight and Policy.
   Link: 
-- Image: "/uploads/try.jpg"
+- Image: "/uploads/foto%203.jpg"
   Headline: 
   Category: Self Awareness
   Link: 
-- Image: "/uploads/selfa-a5d12a.jpg"
+- Image: "/uploads/foto%204.jpg"
   Headline: Projects and Social Change studies.
   Category: Projects
+  Link: 
+- Image: "/uploads/foto%205.jpg"
+  Headline: 
+  Category: 
+  Link: 
+- Image: "/uploads/foto%206.jpg"
+  Headline: 
+  Category: 
   Link: 
 Research Description: "Research - Insight and Policy:\n\nLinks to projects/ blogs/
   collaborations \n\nEducation and Mental Health \n\nPsychologists for Social Change
