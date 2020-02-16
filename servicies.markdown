@@ -13,8 +13,8 @@ Project Based Learning programme for Wellbeing: |
 Wellbeing Reports: "We provide tailored research questionnaires and reports that convey
   students views on the key issues affecting their wellbeing at school.\nDownload
   sample report.\nFor more information please contact info@statesofmind.org\n "
-Field name  Wellbeing Ambassadors Programme: 'Launched in Newham in 2019, our Wellbeing
-  Ambassadors Programme provides schools with training and resources for schools to
-  create an approach to wellbeing health that is informed and led by students. '
+Wellbeing Ambassadors Programme: 'Launched in Newham in 2019, our Wellbeing Ambassadors
+  Programme provides schools with training and resources for schools to create an
+  approach to wellbeing health that is informed and led by students. '
 ---
 
