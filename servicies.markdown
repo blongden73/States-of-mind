@@ -1,7 +1,6 @@
 ---
 title: Services
 date: 2020-02-13 23:08:00 Z
-published: false
 Education Series description: "We offer a series of seminars and workshops that can
   be delivered in school and community settings.\n<br/><br/>\nSeries 1. Identity <br/>\nSeries
   2. Society<br/>\nSeries 3. Fear <br/>\nSeries 4. Depression and Low mood<br/> \nSeries
