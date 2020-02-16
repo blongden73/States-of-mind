@@ -6,4 +6,4 @@ categories:
 - news & events
 ---
 
-2019 - States of Mind launches Wellbeing Ambassadors Programme across Newham Borough.
+2019 - States of Mind launches Wellbeing Ambassadors Programme across Newham Borough
