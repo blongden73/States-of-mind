@@ -6,24 +6,24 @@ Carousel:
 - Image: "/uploads/foto1.jpg"
   Headline: "A case study about education project we did.\n\n"
   Link: 
-  Category: 'Education, Self Awareness & Interpersonal Development.
+  Category: 'Education
 
 '
 - Image: "/uploads/foto%202.jpg"
-  Headline: A case study about research we did.
-  Category: Research, Insight and Policy.
+  Headline: A case study about Self Awareness & Interpersonal Development.
+  Category: Self Awareness
   Link: 
 - Image: "/uploads/foto%204.jpg"
-  Headline: Projects and Social Change studies.
+  Headline: Case studies about Social Change.
   Category: Projects
   Link: 
 - Image: "/uploads/foto%205.jpg"
-  Headline: 
-  Category: 
+  Headline: A case study about research.
+  Category: Research, Insight and Policy.
   Link: 
 - Image: "/uploads/foto%206.jpg"
-  Headline: 
-  Category: 
+  Headline: Know more
+  Category: 'Talk for Health '
   Link: 
 Research Description: "Research - Insight and Policy:\n\nLinks to projects/ blogs/
   collaborations \n\nEducation and Mental Health \n\nPsychologists for Social Change
