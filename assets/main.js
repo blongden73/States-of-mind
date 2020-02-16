@@ -42,9 +42,37 @@ document.addEventListener('scroll', function(){
   animateImages();
 });
 
+var $circle = $('.circle-follower');
 
+function moveCircle(e) {
+	TweenLite.to($circle, 0.3, {
+    css: {
+      left: e.pageX,
+      top: e.pageY
+    }
+  });
+}
+
+$(window).on('mousemove', moveCircle);
+
+function enlarger(){
+  var enlarge = document.querySelectorAll('.magnify');
+  var follower = document.querySelector('.circle-follower');
+  for(var i = 0; i < enlarge.length; i++) {
+    console.log(enlarge[i]);
+    enlarge[i].addEventListener('mouseover', function(){
+      console.log('enter');
+      follower.classList.add('enlarge');
+    });
+    enlarge[i].addEventListener('mouseleave', function(){
+      console.log('leave');
+      follower.classList.remove('enlarge');
+    });
+  }
+}
 
 function init(){
   grid();
+  enlarger();
 }
 init();
