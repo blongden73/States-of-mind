@@ -6,4 +6,4 @@ categories:
 - news & events
 ---
 
-2020 - States of Mind begins ‘ Mental Health in Education’’ research project with UCL.
+2020 - States of Mind begins ‘ Mental Health in Education’’ research project with UCL
