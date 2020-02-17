@@ -1,7 +1,7 @@
 ---
-layout: what
 title: What we do
 date: 2020-02-13 22:41:00 Z
+layout: what
 Carousel:
 - Image: "/uploads/foto1.jpg"
   Headline: "A case study about education project we did.\n\n"
