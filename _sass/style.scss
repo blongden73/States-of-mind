@@ -95,6 +95,12 @@ body {
   color: $grey;
 }
 
+#canvas4 {
+  position: fixed;
+  z-index: 0;
+  filter:blur(20px);
+}
+
 .circle-follower {
   position: absolute;
   width: 20px;
@@ -102,7 +108,7 @@ body {
   top: 50%;
   left: 50%;
   margin: 0px 0 0 0px;
-  background: white;
+  background: $lightBlue;
   border-radius: 80%;
   backface-visibility: hidden;
   pointer-events: none;
@@ -206,6 +212,19 @@ body {
   }
 }
 
+.som-inner-content {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+
+  @include mq(desktop) {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-left: 270px;
+  }
+}
+
 .courier {
   font-family: courier, monospace;
   font-size: 17px;
@@ -264,7 +283,7 @@ ul {
 .som-header {
   position: fixed;
   width: 100%;
-  z-index: 1;
+  z-index: 10000000;
   padding-top: 60px;
 
   .flex {
@@ -626,6 +645,7 @@ ul {
   padding-top: 50px;
   padding-bottom: 100px;
   background-color: $nu-slate;
+  position: relative;
 
   .som-wrapper {
     justify-content: space-between;
@@ -684,6 +704,7 @@ ul {
   &.services {
     background-color: none;
 
+
     p {
       position: absolute;
       bottom: 20px;
@@ -705,8 +726,13 @@ ul {
     }
 
     li {
-      background-color: transparent;
+      background-color: #ffffffc7;
       border: 1px solid #121212;
+
+
+      &:hover {
+        background-color: $nu-olive;
+      }
     }
   }
 
@@ -797,6 +823,42 @@ ul {
       color: #333;
       border-bottom: 1px solid #333;
 
+    }
+  }
+}
+
+.som-news-wrapper {
+  min-height: 100vh;
+  padding-top: 200px;
+  position: relative;
+  z-index: 10;
+
+  ul {
+    border-left: 1px solid #121212;
+    @include font-size(3, 3)
+    padding-left: 30px;
+
+    a {
+      text-decoration: none;
+      color: inherit;
+    }
+    li {
+      height: 50vh;
+      border-top: 1px solid #121212;
+
+      p {
+        @include font-size(1, 1.2)
+      }
+
+      &:before {
+        display: inline-block;
+        content: '';
+        width: 35px;
+        height: 35px;
+        background-color: $yellow;
+        border-radius: 50%;
+        margin-left: -48px;
+      }
     }
   }
 }

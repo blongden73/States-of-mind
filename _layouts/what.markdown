@@ -2,7 +2,7 @@
 <div class="som-carousel">
   <ul>
     {% for item in page['Carousel']  %}
-        <li>
+        <li class="magnify">
           <a href="{{item.Link}}"></a>
           <h1><span>{{item.Category}}</span>{{item.Headline}}</h1>
           <img src="{{item.Image}}">

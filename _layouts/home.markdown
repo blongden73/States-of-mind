@@ -3,7 +3,7 @@
   <div class="som_splash__image-wrapper">
     <img class="som-splash__image" src="{{page ['header image'] | prepend: site.baseurl}}">
   </div>
-  <div class="som-cirlce__large">
+  <div class="som-cirlce__large magnify">
     <h1>Welcome to the <span>therapeutic</span> <span class="som-splash__broken-text">rebellion</span></h1>
   </div>
 </div>

@@ -18,14 +18,16 @@ function getScrollPercent() {
 
 function animateImages(){
   var images = document.querySelectorAll('.animate-in');
-  for(var i = 0; i < images.length; i++){
-    var imagesTop = images[i].getBoundingClientRect().top;
-    console.log(imagesTop);
+  if(images) {
+    for(var i = 0; i < images.length; i++){
+      var imagesTop = images[i].getBoundingClientRect().top;
+      console.log(imagesTop);
 
-    if(imagesTop <= 100) {
-      images[i].classList.add('animateNow');
-    } else {
-      images[i].classList.remove('animateNow');
+      if(imagesTop <= 100) {
+        images[i].classList.add('animateNow');
+      } else {
+        images[i].classList.remove('animateNow');
+      }
     }
   }
 }
@@ -34,10 +36,12 @@ document.addEventListener('scroll', function(){
   var scroll = getScrollPercent();
   var circle = document.querySelector('.som-cirlce__large');
   console.log(scroll);
-  if(scroll >= 4) {
-    circle.classList.add('remove');
-  } else {
-    circle.classList.remove('remove');
+  if(circle) {
+    if(scroll >= 4) {
+      circle.classList.add('remove');
+    } else {
+      circle.classList.remove('remove');
+    }
   }
   animateImages();
 });
@@ -71,8 +75,71 @@ function enlarger(){
   }
 }
 
+function animatedCircles() {
+    // Multiple Animated Circle - Get Canvas element by Id
+    var canvas4 = document.getElementById( "canvas4" );
+    // Set Canvas dimensions
+
+    canvas4.width   = screen.width;
+    canvas4.height  = screen.height;
+    // Get drawing context
+    var c4 = canvas4.getContext( '2d' );
+    // The Circle class
+    function Circle( x, y, dx, dy, radius ) {
+    	this.x 	= x;
+    	this.y 	= y;
+    	this.dx = dx;
+    	this.dy = dy;
+    	this.radius = radius;
+    	this.draw = function() {
+    		c4.beginPath();
+    		c4.arc( this.x, this.y,  this.radius, 0, Math.PI * 2, false  );
+        var grd = c4.createLinearGradient(0, 0, screen.width, 0);
+        grd.addColorStop(0, "#edc9c9");
+        grd.addColorStop(0.25, "#a8c1ac");
+        grd.addColorStop(0.5, "#85bfe4");
+        grd.addColorStop(1, "white");
+        c4.fillStyle = grd;
+        c4.fill();
+  	  }
+  	this.update = function() {
+  		if( this.x + this.radius > screen.width || this.x - this.radius < 0 ) {
+  			this.dx = -this.dx;
+  		}
+  		if( this.y + this.radius > screen.height || this.y - this.radius < 0 ) {
+  			this.dy = -this.dy;
+  		}
+  		this.x += this.dx;
+  		this.y += this.dy;
+  		this.draw();
+  	}
+  }
+  var circles = [];
+  // Radius
+  var radius = 200;
+  for( var i = 0; i < 5; i++ )  {
+  	// Starting Position
+  	var x = Math.random() * ( screen.width - radius * 2 ) + radius;
+  	var y = Math.random() * ( screen.height - radius * 2) + radius;
+  	// Speed in x and y direction
+    	var dx = ( Math.random() - 0.5 ) * 2;
+    	var dy = ( Math.random() - 0.5 ) * 2;
+  	circles.push( new Circle( x, y, dx, dy, radius ) );
+  }
+  function animate4() {
+  	requestAnimationFrame( animate4 );
+  	c4.clearRect( 0, 0, screen.width, screen.height );
+  	for( var r = 0; r < 5; r++ ) {
+  		circles[ r ].update();
+  	}
+  }
+  animate4();
+}
+
+
 function init(){
   grid();
   enlarger();
+  animatedCircles();
 }
 init();
