@@ -1,7 +1,6 @@
 ---
 title: What we do
 date: 2020-02-13 22:41:00 Z
-layout: what
 Carousel:
 - Image: "/uploads/foto1.jpg"
   Headline: "A case study about education project we did.\n\n"
@@ -33,11 +32,11 @@ Education Description: "Education - Self Awareness and Interpersonal development
   develop emotional  intelligence by exploring their personal history and relationship
   to self. \n\nThrough a trauma informed and humanistic approach, our education programme
   provides young people with a space to learn about the nature of distress through
-  the experience of a shared reflective space. \n\nDownload workshop content - link
-  to content \n"
+  the experience of a shared reflective space. \n\nDownload workshop content [here](http://)\n"
 Projects Description: "Projects - Social Change:   \n\nTalk for Health \n\nAnna Freud
   National Centre for Children and Families \n\nStudent led early intervention initiatives
   \n\n\n"
+layout: what
 ---
 
 We are interested in how individuals are influenced by systems and how systems can be improved to support young people’s wellbeing.
