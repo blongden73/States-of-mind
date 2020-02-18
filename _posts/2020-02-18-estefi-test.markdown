@@ -1,6 +1,8 @@
 ---
 title: Estefi test
 date: 2020-02-18 14:25:00 Z
+categories:
+- Blog
 image: "/uploads/foto1.jpg"
 ---
 
