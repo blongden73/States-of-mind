@@ -2,7 +2,7 @@
 title: What we do
 date: 2020-02-13 22:41:00 Z
 Carousel:
-- Image: "/uploads/foto1.jpg"
+- Image: "/uploads/GIRL-SEAKING.jpg"
   Headline: "A case study about education project we did.\n\n"
   Link: 
   Category: 'Education
