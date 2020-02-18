@@ -12,7 +12,7 @@ Carousel:
   Headline: A case study about Self Awareness & Interpersonal Development.
   Category: Self Awareness
   Link: 
-- Image: "/uploads/foto%204.jpg"
+- Image: "/uploads/IMG_4084-6439c3.jpg"
   Headline: Case studies about Social Change.
   Category: Projects
   Link: 
