@@ -2,7 +2,7 @@
 title: What we do
 date: 2020-02-13 22:41:00 Z
 Carousel:
-- Image: "/uploads/GIRL-SEAKING.jpg"
+- Image: "/uploads/foto1.jpg"
   Headline: "A case study about education project we did.\n\n"
   Link: 
   Category: 'Education
@@ -12,7 +12,7 @@ Carousel:
   Headline: A case study about Self Awareness & Interpersonal Development.
   Category: Self Awareness
   Link: 
-- Image: "/uploads/IMG_4084-6439c3.jpg"
+- Image: "/uploads/foto%204.jpg"
   Headline: Case studies about Social Change.
   Category: Projects
   Link: 
@@ -36,6 +36,9 @@ Education Description: "Education - Self Awareness and Interpersonal development
 Projects Description: "Projects - Social Change:   \n\nTalk for Health \n\nAnna Freud
   National Centre for Children and Families \n\nStudent led early intervention initiatives
   \n\n\n"
+Research image: "/uploads/GIRL-SEAKING.jpg"
+Education image: "/uploads/IMG_4084.jpg"
+Projects image: "/uploads/GIRL-SEAKING.jpg"
 layout: what
 ---
 
