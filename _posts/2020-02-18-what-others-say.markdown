@@ -3,6 +3,7 @@ title: What others say
 date: 2020-02-18 00:32:00 Z
 categories:
 - Blog
+image: "/uploads/_MG_6364.jpg"
 ---
 
 “ Young people aren't listened to because of what they are: Young. 
