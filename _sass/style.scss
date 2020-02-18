@@ -1005,7 +1005,7 @@ ul {
 
   ul {
     border-left: 1px solid #121212;
-    @include font-size(3, 3)
+    @include font-size(3, 3);
     padding-left: 30px;
 
     a {
