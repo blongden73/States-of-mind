@@ -5,6 +5,17 @@
     font-weight: normal;
     font-style: normal;
 }
+@font-face {
+  font-family: 'FugueHead';
+  src: url('FugueHead.eot');
+  src: url('FugueHead.eot?#iefix') format('embedded-opentype'),
+      url('FugueHead.woff2') format('woff2'),
+      url('FugueHead.woff') format('woff'),
+      url('FugueHead.ttf') format('truetype'),
+      url('FugueHead.svg#FugueHead') format('svg');
+  font-weight: 600;
+  font-style: normal;
+}
 
 $black: #4A4A4A;
 $grey: #333333;
@@ -108,12 +119,13 @@ body {
   top: 50%;
   left: 50%;
   margin: 0px 0 0 0px;
-  background: $lightBlue;
+  background: $pink;
   border-radius: 80%;
   backface-visibility: hidden;
   pointer-events: none;
   z-index: 10000;
   transition: transform ease-in-out 1s;
+  opacity: 0.5;
 
   &.enlarge {
     transform: scale(3);
@@ -210,6 +222,11 @@ body {
   @include mq($from: desktop) {
     padding: 0;
   }
+
+  &.padding {
+    padding-top: 200px;
+    padding-bottom: 200px;
+  }
 }
 
 .som-inner-content {
@@ -222,6 +239,23 @@ body {
     margin-left: auto;
     margin-right: auto;
     margin-left: 270px;
+  }
+}
+
+.som-page-title {
+  padding-top: 100px;
+  font-family: 'FugueHead';
+  position: relative;
+
+  .som-wrapper {
+    padding-bottom: 20px;
+  }
+
+  h1 {
+    @include font-size(8, 8);
+    margin-bottom: 0;
+    color: transparent;
+    -webkit-text-stroke: 1.5px #333;
   }
 }
 
@@ -388,6 +422,14 @@ ul {
 
   &.left {
     left: 0;
+
+    &.animate-in {
+      transform: translate(-100%, -50%);
+    }
+
+    &.animateNow {
+      transform: translate(-50%, -50%);
+    }
   }
   &.right {
     right: 0;
@@ -508,6 +550,17 @@ ul {
   .som-left, .som-right {
     width: 50%;
     height: 100vh;
+
+    p {
+      font-family: courier, monospace;
+
+      a {
+        font-style: italic;
+        color: inherit;
+        text-decoration: none;
+        border-bottom: 1px solid #121212;
+      }
+    }
   }
 
   .som-left {
@@ -535,6 +588,7 @@ ul {
       @include font-size(1, 1.1);
       @include size(2.7);
       margin-left: 55%;
+      font-family: courier, monospace;
     }
   }
   &.olive {
@@ -578,6 +632,7 @@ ul {
       max-width: 290px;
       margin-left: 74px;
       margin-top: 114px;
+      font-family: courier, monospace;
 
       &:nth-child(2) {
         margin-top: 285px;
@@ -598,7 +653,6 @@ ul {
 
          &.animateNow {
            transform: translateX(0);
-
          }
       }
     }
@@ -698,29 +752,43 @@ ul {
 .som-carousel {
   width: 100%;
   min-height: 70vh;
-  padding-top: 200px;
   padding-bottom: 100px;
+
+  &:not(.services) {
+    h1 {
+      opacity: 0;
+    }
+  }
 
   &.services {
     background-color: none;
 
-
     p {
       position: absolute;
-      bottom: 20px;
+      bottom: 10px;
       padding-left: 20px;
       padding-right: 20px;
       @include font-size(1, 1.2);
+      font-family: courier, monospace;
+
+      a {
+        font-style: italic;
+        color: inherit;
+        text-decoration: none;
+        border-bottom: 1px solid #121212;
+      }
+
     }
 
     h1 {
       text-align: left;
       color: #333;
+      @include font-size(2.5, 2.5);
     }
 
     ul li:nth-child(odd) {
       h1 {
-        top: 20px;
+        top: 10px;
         bottom: auto;
       }
     }
@@ -728,6 +796,24 @@ ul {
     li {
       background-color: #ffffffc7;
       border: 1px solid #121212;
+
+
+      &.project {
+        &:hover {
+          background-color: $nu-blue;
+        }
+      }
+      &.research {
+        &:hover {
+          background-color: $nu-pink;
+        }
+      }
+
+      &.ambassadors {
+        &:hover {
+          background-color: $pink;
+        }
+      }
 
 
       &:hover {
@@ -740,6 +826,7 @@ ul {
     display: flex;
     padding-left: 5%;
     overflow-x: auto;
+    overflow-y: hidden;
     &::-webkit-scrollbar {    display: none;}
 
     li {
@@ -752,6 +839,12 @@ ul {
       flex: none;
       position: relative;
 
+      &:hover {
+        h1 {
+          opacity: 1;
+        }
+      }
+
       &:nth-child(odd) {
         h1 {
           top: auto;
@@ -762,11 +855,25 @@ ul {
       h1 {
         position: absolute;
         z-index: 10;
-        top: 20px;
+        top: 10px;
         text-align: center;
         color: $nu-slate;
         padding-left: 20px;
         padding-right: 20px;
+
+        &.shadow-headline {
+          position: fixed;
+          top: 0;
+          left: 0;
+          // transform: translate(-200%, -200%);
+          width: 300px;
+          bottom: auto;
+          margin: -200px 0 0 -150px;
+          backface-visibility: hidden;
+          pointer-events: none;
+          z-index: 10000;
+          transition: transform ease-in-out 1s;
+        }
 
         span {
           display: block;
@@ -829,7 +936,6 @@ ul {
 
 .som-news-wrapper {
   min-height: 100vh;
-  padding-top: 200px;
   position: relative;
   z-index: 10;
 
@@ -860,5 +966,14 @@ ul {
         margin-left: -48px;
       }
     }
+  }
+}
+
+.fade-in > * {
+  opacity: 0;
+  transition: opacity 1s ease-in-out;
+
+  &.faded {
+    opacity: 1;
   }
 }

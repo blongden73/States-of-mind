@@ -8,7 +8,7 @@
   </div>
 </div>
 
-<div class="som-panel gridded">
+<div class="som-panel gridded fade-in">
   <div class="som-wrapper flex">
     <div class="som-left">
       <h1 class="numbers">{{page ['Big Number']}}</h1>
@@ -31,7 +31,7 @@
     </div>
   </div>
 </div>
-<div class="som-panel olive">
+<div class="som-panel olive fade-in">
   <div class="som-wrapper flex">
     <div class="som-left">
       <p class="courier">{{page ['Copy 3']}}</p>
@@ -40,7 +40,7 @@
   </div>
 </div>
 <div class="som-panel blue gridded">
-  <div class="circle left"></div>
+  <div class="circle left animate-in"></div>
   <div class="som-wrapper flex">
     <div class="som-left">
       <div class="grid-line"></div>

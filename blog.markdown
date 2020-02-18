@@ -8,6 +8,7 @@ Field name: "\n“ Young people aren't listened to because of what they are: You
   all of the time, but one thing that remains with them is the fundamental belief
   in who they are and who they want to be - that's one of the most valuable things
   that a young person can contribute to the world around them. “ \n\nSebastian "
+layout: blog  
 ---
 
 As Others See Us

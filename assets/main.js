@@ -21,7 +21,6 @@ function animateImages(){
   if(images) {
     for(var i = 0; i < images.length; i++){
       var imagesTop = images[i].getBoundingClientRect().top;
-      console.log(imagesTop);
 
       if(imagesTop <= 100) {
         images[i].classList.add('animateNow');
@@ -32,10 +31,26 @@ function animateImages(){
   }
 }
 
+function fadein() {
+  var fader = document.querySelectorAll('.fade-in');
+  if(fader) {
+    for(i=0; i<fader.length; i++){
+      var faderTop = fader[i].getBoundingClientRect().top;
+      var children = fader[i].querySelector('*');
+      console.log(faderTop, (screen.height)/2);
+
+      if(faderTop <= (screen.height)/2) {
+        children.classList.add('faded');
+      } else {
+        children.classList.remove('faded');
+      }
+    }
+  }
+}
+
 document.addEventListener('scroll', function(){
   var scroll = getScrollPercent();
   var circle = document.querySelector('.som-cirlce__large');
-  console.log(scroll);
   if(circle) {
     if(scroll >= 4) {
       circle.classList.add('remove');
@@ -44,9 +59,12 @@ document.addEventListener('scroll', function(){
     }
   }
   animateImages();
+  fadein();
 });
 
+//this is jquery lol ooops
 var $circle = $('.circle-follower');
+var $headline = $('.shadow-headline');
 
 function moveCircle(e) {
 	TweenLite.to($circle, 0.3, {
@@ -57,7 +75,21 @@ function moveCircle(e) {
   });
 }
 
+function moveHeadline(e) {
+	TweenLite.to($headline, 0.3, {
+    css: {
+      left: e.pageX,
+      top: e.pageY
+    }
+  });
+}
+
 $(window).on('mousemove', moveCircle);
+$(window).on('mousemove', moveHeadline);
+
+
+
+
 
 function enlarger(){
   var enlarge = document.querySelectorAll('.magnify');
@@ -140,6 +172,8 @@ function animatedCircles() {
 function init(){
   grid();
   enlarger();
-  animatedCircles();
+  if(document.querySelector('canvas')){
+    animatedCircles();
+  }
 }
 init();
