@@ -1,6 +1,7 @@
 ---
 title: Contact
 date: 2020-02-13 23:10:00 Z
+layout: contact
 ---
 
 States of Mind is an organisation that has been designed to listen to your experiences in life.
