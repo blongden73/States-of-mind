@@ -698,12 +698,14 @@ ul {
 .som-blog-content {
     display: flex;
     flex-wrap: wrap;
+    margin-bottom: 100px;
 
     li {
       width: 50%;
       border-right: 1px solid #121212;
       margin: 0;
       box-sizing: border-box;
+      border-bottom: 1px solid #121212;
 
       .blog-image-wrappaer {
         height: 500px;
