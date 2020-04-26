@@ -8,6 +8,7 @@ Intro image: "/uploads/intro_image.jpg"
 Quote text: "I’m so glad that we have \Lthe opportunity, it blows \Lmy mind how we
   do it, \Lwe’ve done so much. \LWe are not just spreading awareness about \LMental
   Health we are developing as people. \n\n"
+Quote image: "/uploads/quote_image.jpg"
 layout: home
 ---
 
