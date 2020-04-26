@@ -35,6 +35,7 @@ What We Are Doing description: "# Reimagining \nMental Health\nWe believe that t
   \nour programme sees students create \na social impact project with the aim \nof
   improving the wellbeing of their community. \n\LDiscover more about our programme
   and work.\n\L"
+What we are doing image: "/uploads/what_image.jpg"
 layout: home
 ---
 
