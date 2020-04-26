@@ -23,6 +23,18 @@ Why we are here description: "# Interconnectedness\nMental health concerns are \
   challenges.\n\n# Change\nWe believe in hope and \nopportunity amidst chaos \nand
   uncertainty. Our mission \nis bring hope to the lives \nof young people in our \nsociety
   and create a future \nthat values the beauty and \ncomplexity of the human \nexperience. "
+What We Are Doing description: "# Reimagining \nMental Health\nWe believe that the
+  benefits of psychology and therapy should be available to everyone, especially \nthose
+  at an early stage in life. \n\nBy exploring our mind, emotions and behaviour, we
+  can make sense of our world and move into adulthood with more confidence and purpose.
+  \n\nThrough education, self exploration \nand project-led learning, our programme
+  helps foster emotional intelligence and self awareness in \nyoung people. \n\n#
+  Creating Change\nTogether \nPioneering ideas emerge when we explore our problems
+  together. \LAnd by tapping into the voices and experiences of this generation, we
+  can create a future that works for everyone.\n \nInfused with project-led learning,
+  \nour programme sees students create \na social impact project with the aim \nof
+  improving the wellbeing of their community. \n\LDiscover more about our programme
+  and work.\n\L"
 layout: home
 ---
 
