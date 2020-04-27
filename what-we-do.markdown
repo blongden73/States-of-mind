@@ -31,6 +31,14 @@ Carousel:
   Category: 'Talk for Health '
   Link: 
 Intro image: "/uploads/what_intro.jpg"
+Ambassador image: "/uploads/ambassador_image.jpg"
+Ambassador description: "# Wellbeing Ambassadors Programme\n\nLaunched in Newham in
+  2019, our Wellbeing Ambassadors Programme provides schools with training and resources
+  for schools to create an approach to wellbeing that is informed and led by students.
+  We’re designing a model that helps students develop self awareness and emotional
+  intelligence as part of their academic life. \n\nFramed around three key elements,
+  the program is underpinned by a project-led approach where students harness their
+  insights to create a social impact. \n"
 layout: what
 ---
 
