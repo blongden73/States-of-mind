@@ -11,9 +11,7 @@ Quote text: "I’m so glad that we have \Lthe opportunity, it blows \Lmy mind ho
 Quote image: "/uploads/quote_image.jpg"
 Why we are here image: "/uploads/scroller1.jpg"
 Why we are here description: |-
-  <img src="/uploads/connected_icon.svg">
-
-  # Interconnectedness
+  # <img src="/uploads/connected_icon.svg">Interconnectedness
 
   Mental health concerns are
   often spoken about as isolated
@@ -26,9 +24,7 @@ Why we are here description: |-
   supports emotional and mental
   wellbeing.
 
-  <img src="/uploads/space_icon.svg">
-
-  # Space & exploration
+  # <img src="/uploads/space_icon.svg">Space & exploration
 
   Growing up, we often have little
   space to openly explore how our
@@ -46,9 +42,7 @@ Why we are here description: |-
   different for struggling with
   life’s challenges.
 
-  <img src="/uploads/change_icon.svg">
-
-  # Change
+  # <img src="/uploads/change_icon.svg">Change
 
   We believe in hope and
   opportunity amidst chaos
