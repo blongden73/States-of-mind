@@ -3,10 +3,10 @@ title: Who
 date: 2020-02-13 23:08:00 Z
 Who we are splash image: "/uploads/who_we_are.jpg"
 Intro text: |-
-  **We came into being in 2017, as
+  We came into being in 2017, as
   an organisation advocating for
   new ways of thinking about
-  mental health.**
+  mental health.
 
   Our mission is create a world
   where everyone has the tools to
