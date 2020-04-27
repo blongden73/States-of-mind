@@ -33,7 +33,15 @@ Our values description: "\n# <img src=\"/uploads/growth_icon.svg\"> Growth\nWe d
   and find \nnew ways forward. Our model \nhas been developed by hundreds \nof conversations
   with many \ndifferent people and \norganisations.  "
 Team:
-  Key 1: 
+- image: "/uploads/bea.png"
+  name: Bea Herbert
+  title: 'Founder and Director tiny bio and tiny bio and tiny bio '
+- image: "/uploads/chris.png"
+  name: Chris Bagley
+  title: "Director of Research\Ltiny bio and tiny bio and tiny bio \n"
+- image: "/uploads/littleman.png"
+  name: 'Sebastian Bogan '
+  title: 'Social Development Lead '
 layout: services
 ---
 
