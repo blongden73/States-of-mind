@@ -42,6 +42,11 @@ Team:
 - image: "/uploads/littleman.png"
   name: 'Sebastian Bogan '
   title: 'Social Development Lead '
+Logos:
+- Logo: "/uploads/psychosynthesis.png"
+- Logo: "/uploads/annafrued.png"
+- Logo: "/uploads/talkforhealth.png"
+- Logo: "/uploads/peabody.png"
 layout: services
 ---
 
