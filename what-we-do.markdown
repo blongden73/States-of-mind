@@ -54,6 +54,7 @@ Eduacation description: |-
   We provide space for students to openly explore their mind, behaviour and identity outside of clinical settings. These sessions involve an exploration of how the mind and personality are shaped by experience, using neuroscience, evolutionary, humanistic and psychosocial theory to provide insight into our emotional and mental landscapes.
 
   Our model uses a group learning approach, so that young people reflect and learn together in a therapeutic context. By integrating personal experience with critical thinking, we provide an emotionally informed learning environment.
+Education image: "/uploads/education_image.jpg"
 layout: what
 ---
 
