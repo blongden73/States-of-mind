@@ -1,6 +1,12 @@
 ---
 title: What we do
 date: 2020-02-13 22:41:00 Z
+Intro text: "# To Live Their Potential\n\nWhat do young people need to live \ntheir
+  potential?\n\nOur world needs the thinkers, \ndo-ers and leaders of tomorrow \nto
+  feel like they’ve got this. \n\nBut in a rapidly changing world, \nbeing young and
+  transitioning into \nadult life is more challenging than \never. We believe there’s
+  a better \nway of supporting young people’s \nwellbeing, and we’ll only find it
+  by \nfully engaging them in the process \nof change. \n"
 Carousel:
 - Image: "/uploads/foto1.jpg"
   Headline: "A case study about education project we did.\n\n"
@@ -24,12 +30,6 @@ Carousel:
   Headline: Know more
   Category: 'Talk for Health '
   Link: 
-Intro text: "# To Live Their\nPotential\n\nWhat do young people need to live \ntheir
-  potential?\n\nOur world needs the thinkers, \ndo-ers and leaders of tomorrow \nto
-  feel like they’ve got this. \n\nBut in a rapidly changing world, \nbeing young and
-  transitioning into \nadult life is more challenging than \never. We believe there’s
-  a better \nway of supporting young people’s \nwellbeing, and we’ll only find it
-  by \nfully engaging them in the process \nof change. \n"
 layout: what
 ---
 
