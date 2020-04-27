@@ -30,6 +30,7 @@ Carousel:
   Headline: Know more
   Category: 'Talk for Health '
   Link: 
+Intro image: "/uploads/what_intro.jpg"
 layout: what
 ---
 
