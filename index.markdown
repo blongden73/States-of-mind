@@ -64,7 +64,7 @@ What We Are Doing description: "# Reimagining \nMental Health\nWe believe that t
   can create a future that works for everyone.\n \nInfused with project-led learning,
   \nour programme sees students create \na social impact project with the aim \nof
   improving the wellbeing of their community. \n\LDiscover more about our programme
-  and work.\n\L"
+  and work.\n\L"
 What we are doing image: "/uploads/what_image.jpg"
 layout: home
 ---
