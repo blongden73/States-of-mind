@@ -31,6 +31,7 @@ Carousel:
   Category: 'Talk for Health '
   Link: 
 Intro image: "/uploads/what_intro.jpg"
+What we do lead image: "/uploads/what_we_do.jpg"
 Ambassador image: "/uploads/ambassador_image.jpg"
 Ambassador description: "# Wellbeing Ambassadors Programme\n\nLaunched in Newham in
   2019, our Wellbeing Ambassadors Programme provides schools with training and resources
