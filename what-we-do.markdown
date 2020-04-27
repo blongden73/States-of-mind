@@ -49,6 +49,12 @@ Eduacation description: |-
   # Research
   We provide space for students to openly explore their mind, behaviour and identity outside of clinical settings. These sessions involve an exploration of how the mind and personality are shaped by experience, using neuroscience, evolutionary, humanistic and psychosocial theory to provide insight into our emotional and mental landscapes. Our model uses a group learning approach, so that young people reflect and learn together in a therapeutic context. By integrating personal experience with critical thinking, we provide an emotionally informed learning environment.
 Education image: "/uploads/education_image.jpg"
+Research image: "/uploads/research_change_image.jpg"
+Research description: "# Research & Social Change\n\nOur research enables young people’s
+  voices to inform the way emotional and mental wellbeing is supported in society.
+  We work with young people to find what’s causing the problems and what they believe
+  will work better. \n\nWe design our research projects to enable young people to
+  shape the future and inspire new ways of thinking. \n"
 layout: what
 ---
 
