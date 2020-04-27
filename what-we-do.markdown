@@ -55,6 +55,11 @@ Research description: "# Research & Social Change\n\nOur research enables young 
   We work with young people to find what’s causing the problems and what they believe
   will work better. \n\nWe design our research projects to enable young people to
   shape the future and inspire new ways of thinking. \n"
+Case study text: 'Breaking the Silence is a youth led working research project exploring
+  students views about mental health and identity in education. The project was launched
+  in 2019 as a response to Ofsted’s Consultation. A group of students from London
+  colleges reported their findings and views in an open letter to Amanda Speilman.  We
+  are currently working alongside UCL to develop the research project. '
 layout: what
 ---
 
