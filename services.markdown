@@ -1,5 +1,5 @@
 ---
-title: Services
+title: Who
 date: 2020-02-13 23:08:00 Z
 Education Series description: |-
   We offer a series of seminars and workshops that can be delivered in school and community settings.
