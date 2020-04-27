@@ -39,6 +39,21 @@ Ambassador description: "# Wellbeing Ambassadors Programme\n\nLaunched in Newham
   intelligence as part of their academic life. \n\nFramed around three key elements,
   the program is underpinned by a project-led approach where students harness their
   insights to create a social impact. \n"
+Eduacation description: |-
+  # Education
+  Our mission is to make psychological theory and practice more accessible for young people, so that they can benefit from the rich insights that psychology can bring to our understanding of ourselves and others.
+
+  We provide a series of seminars that draw on a range of psychological models to explore the human mind, behaviour and emotions. Through a group learning model, students develop a shared understanding of how our personal histories of life shape our mind, personality and self-perception.
+
+  # Exploration
+  We provide space for students to openly explore their mind, behaviour and identity outside of clinical settings. These sessions involve an exploration of how the mind and personality are shaped by experience, using neuroscience, evolutionary, humanistic and psychosocial theory to provide insight into our emotional and mental landscapes.
+
+  Our model uses a group learning approach, so that young people reflect and learn together in a therapeutic context. By integrating personal experience with critical thinking, we provide an emotionally informed learning environment.
+
+  # Research
+  We provide space for students to openly explore their mind, behaviour and identity outside of clinical settings. These sessions involve an exploration of how the mind and personality are shaped by experience, using neuroscience, evolutionary, humanistic and psychosocial theory to provide insight into our emotional and mental landscapes.
+
+  Our model uses a group learning approach, so that young people reflect and learn together in a therapeutic context. By integrating personal experience with critical thinking, we provide an emotionally informed learning environment.
 layout: what
 ---
 
