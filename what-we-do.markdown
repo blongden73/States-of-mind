@@ -24,21 +24,12 @@ Carousel:
   Headline: Know more
   Category: 'Talk for Health '
   Link: 
-Research Description: "Research - Insight and Policy:\n\nLinks to projects/ blogs/
-  collaborations \n\nEducation and Mental Health \n\nPsychologists for Social Change
-  \n\nUCL Research \n"
-Education Description: "Education - Self Awareness and Interpersonal development:
-  \n\nOur Education Series provides young people with a therapeutic environment to
-  develop emotional  intelligence by exploring their personal history and relationship
-  to self. \n\nThrough a trauma informed and humanistic approach, our education programme
-  provides young people with a space to learn about the nature of distress through
-  the experience of a shared reflective space. \n\nDownload workshop content [here](http://)\n"
-Projects Description: "Projects - Social Change:   \n\nTalk for Health \n\nAnna Freud
-  National Centre for Children and Families \n\nStudent led early intervention initiatives
-  \n\n\n"
-Research image: "/uploads/GIRL-SEAKING.jpg"
-Education image: "/uploads/IMG_4084.jpg"
-Projects image: "/uploads/GIRL-SEAKING.jpg"
+Intro text: "# To Live Their\nPotential\n\nWhat do young people need to live \ntheir
+  potential?\n\nOur world needs the thinkers, \ndo-ers and leaders of tomorrow \nto
+  feel like they’ve got this. \n\nBut in a rapidly changing world, \nbeing young and
+  transitioning into \nadult life is more challenging than \never. We believe there’s
+  a better \nway of supporting young people’s \nwellbeing, and we’ll only find it
+  by \nfully engaging them in the process \nof change. \n"
 layout: what
 ---
 
