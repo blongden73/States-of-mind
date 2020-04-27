@@ -22,15 +22,16 @@ Intro text: |-
   intelligence and self awareness as
   part of their everyday life.
 Our Values Image: "/uploads/Our_values.png"
-Our values description: "# Growth\nWe do not believe that mental \nhealth is a fixed
-  concept, but \na dynamic experience, that is \nfacilitated through the quality \nof
-  our relationships with \nourselves and the world.\n\n# Collaboration\nWe believe
+Our values description: "\n# <img src=\"/uploads/growth_icon.svg\"> Growth\nWe do
+  not believe that mental \nhealth is a fixed concept, but \na dynamic experience,
+  that is \nfacilitated through the quality \nof our relationships with \nourselves
+  and the world.\n\n# <img src=\"/uploads/collab_icon.svg\"> Collaboration\nWe believe
   in working with \nothers to share ideas, \novercome challenges and find \nnew ways
   forward. Our model \nhas been developed by hundreds \nof conversations with many
-  \ndifferent people and \norganisations. \n\n# Collaboration\nWe believe in working
-  with \nothers to share ideas, \novercome challenges and find \nnew ways forward.
-  Our model \nhas been developed by hundreds \nof conversations with many \ndifferent
-  people and \norganisations.  "
+  \ndifferent people and \norganisations. \n\n# <img src=\"/uploads/SOM_icon.svg\">
+  Collaboration\nWe believe in working with \nothers to share ideas, \novercome challenges
+  and find \nnew ways forward. Our model \nhas been developed by hundreds \nof conversations
+  with many \ndifferent people and \norganisations.  "
 layout: services
 ---
 
