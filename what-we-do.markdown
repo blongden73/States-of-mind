@@ -58,11 +58,11 @@ Eduacation description: "# Education\nOur mission is to make psychological theor
   critical point, systems must evolve to listen more closely to the voices and needs
   of young people at an earlier stage. By embedding our model within education, we
   aim to develop more effective methods for the education system to ensure the psychological
-  health of young people throughout their academic life. \n\nWe believe that social
-  action is a therapeutic tool to create change for individuals and our society. \nOur
+  health of young people throughout their academic life. \nWe believe that social
+  action is a therapeutic tool to create change for individuals and our society. Our
   organisation combines education and social action as we recognise that neither can
   stand alone. We support young people to lead their own projects and initiatives,
-  so that they can take forward their learning and insights to a wider audience. \n\nWe
+  so that they can take forward their learning and insights to a wider audience. \nWe
   bring psychology to life by supporting students to create solutions to the problems
   affecting their peers. Our programme uses a social enterprise model that facilitates
   students to research, design and deliver initiatives that can create a social impact
