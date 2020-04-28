@@ -63,7 +63,7 @@ Eduacation description: "# Education\nOur mission is to make psychological theor
   society. Our organisation combines education and social action as we recognise that
   neither can stand alone. We support young people to lead their own projects and
   initiatives, so that they can take forward their learning and insights to a wider
-  audience. \nWe bring psychology to life by supporting students to create solutions
+  audience.** \n**We bring psychology to life by supporting students to create solutions
   to the problems affecting their peers. Our programme uses a social enterprise model
   that facilitates students to research, design and deliver initiatives that can create
   a social impact within their school community**\n"
