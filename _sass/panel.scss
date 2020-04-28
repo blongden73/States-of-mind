@@ -208,6 +208,17 @@
       ul {
         li {
           width: 50%;
+
+          img {
+            margin-bottom: 20px;
+            border-radius: 50%;
+            overflow: hidden;
+            max-width: 171px;
+          }
+          p {
+            @include font-size(1,1);
+            margin-bottom: 20px;
+          }
           &:nth-child(even) {
             margin-left: auto;
           }
@@ -409,11 +420,34 @@
           }
         }
       }
+      a {
+        padding: 20px;
+        border: 1px solid #121212;
+        display: block;
+        width: max-content;
+        margin-top: 30px;
+      }
     }
   }
 
   //Quote
   &.quote {
+    h3 {
+      font-family: 'Prestige';
+      color: #121212;
+      margin-top: 40px;
+    }
+
+    a {
+      font-family: 'Prestige';
+      color: #121212 !important;
+      font-style: normal !important;
+      border: 1px solid #121212;
+      padding: 20px;
+      margin-top: 20px;
+      display: inline-block;
+    }
+
     h1 {
       &:before {
         background-image: url('http://statesofmind.siteleaf.net/uploads/quote.svg');

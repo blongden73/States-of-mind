@@ -54,7 +54,7 @@
           <li class="team">
             <img src="{{item.image}}">
             <h1>{{item.name}}</h1>
-            <p>{{item.title}}</p>
+            <p>{{item.description}}</p>
           </li>
       {% endfor %}
       </ul>

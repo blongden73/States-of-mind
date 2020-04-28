@@ -54,7 +54,7 @@
       </div>
     </div>
     <div class="som-right">
-      <h1 class="centred uncentre">{{page ['Quote text']}}</h1>
+      <div class="quote-wrapper centred uncentre">{{page ['Quote text'] | markdownify}}</div>
     </div>
   </div>
 </div>

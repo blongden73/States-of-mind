@@ -614,6 +614,7 @@ ul {
       color: #121212;
       font-family: 'Prestige';
       text-align: center;
+      line-height: 1.2;
     }
 
     .links.flex {
@@ -629,6 +630,11 @@ ul {
       font-family: 'Prestige';
       border: 1px solid #121212;
       margin-top: 20px;
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
     }
   }
 
