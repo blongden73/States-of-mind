@@ -39,7 +39,7 @@
   </div>
   </div>
 </div>
-<div class="som-panel scroller left team pink">
+<div class="som-panel scroller left team blue">
   <div class="flex">
   <div class="som-left">
   <div class="som-left-title centred">
@@ -63,7 +63,7 @@
   </div>
   </div>
 </div>
-<div class="som-panel beige">
+<div class="som-panel white">
   <div class="som-wrapper">
   <div class="som-sub-head">
     Who we’ve worked with

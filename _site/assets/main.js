@@ -154,10 +154,10 @@ function animatedCircles() {
 }
 
 function homePage(){
+  console.log('hello');
   var enter = document.querySelector('.circle-container');
   var welcome = document.querySelector('.som-welcome');
   var homepage = document.querySelector('.init-homepage');
-  console.log('hello');
 
   if(enter){
     enter.addEventListener('click', function(){
