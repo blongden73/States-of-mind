@@ -40,15 +40,33 @@ Ambassador description: "# Wellbeing Ambassadors Programme\n\nLaunched in Newham
   intelligence as part of their academic life. \n\nFramed around three key elements,
   the program is underpinned by a project-led approach where students harness their
   insights to create a social impact. \n"
-Eduacation description: |-
-  # Education
-  Our mission is to make psychological theory and practice more accessible for young people, so that they can benefit from the rich insights that psychology can bring to our understanding of ourselves and others. We provide a series of seminars that draw on a range of psychological models to explore the human mind, behaviour and emotions. Through a group learning model, students develop a shared understanding of how our personal histories of life shape our mind, personality and self-perception.
-
-  # Exploration
-  We provide space for students to openly explore their mind, behaviour and identity outside of clinical settings. These sessions involve an exploration of how the mind and personality are shaped by experience, using neuroscience, evolutionary, humanistic and psychosocial theory to provide insight into our emotional and mental landscapes. Our model uses a group learning approach, so that young people reflect and learn together in a therapeutic context. By integrating personal experience with critical thinking, we provide an emotionally informed learning environment.
-
-  # Research
-  We provide space for students to openly explore their mind, behaviour and identity outside of clinical settings. These sessions involve an exploration of how the mind and personality are shaped by experience, using neuroscience, evolutionary, humanistic and psychosocial theory to provide insight into our emotional and mental landscapes. Our model uses a group learning approach, so that young people reflect and learn together in a therapeutic context. By integrating personal experience with critical thinking, we provide an emotionally informed learning environment.
+Eduacation description: "# Education\nOur mission is to make psychological theory
+  and practice more accessible for young people, so that they can benefit from the
+  rich insights that psychology can bring to our understanding of ourselves and others.
+  We provide a series of seminars that draw on a range of psychological models to
+  explore the human mind, behaviour and emotions. Through a group learning model,
+  students develop a shared understanding of how our personal histories of life shape
+  our mind, personality and self-perception.\n\n# Exploration\nWe provide space for
+  students to openly explore their mind, behaviour and identity outside of clinical
+  settings. These sessions involve an exploration of how the mind and personality
+  are shaped by experience, using neuroscience, evolutionary, humanistic and psychosocial
+  theory to provide insight into our emotional and mental landscapes. Our model uses
+  a group learning approach, so that young people reflect and learn together in a
+  therapeutic context. By integrating personal experience with critical thinking,
+  we provide an emotionally informed learning environment.\n\n# Social impact\nWe
+  understand that in order to prevent psychological distress from developing to a
+  critical point, systems must evolve to listen more closely to the voices and needs
+  of young people at an earlier stage. By embedding our model within education, we
+  aim to develop more effective methods for the education system to ensure the psychological
+  health of young people throughout their academic life. \n\nWe believe that social
+  action is a therapeutic tool to create change for individuals and our society. \nOur
+  organisation combines education and social action as we recognise that neither can
+  stand alone. We support young people to lead their own projects and initiatives,
+  so that they can take forward their learning and insights to a wider audience. \n\nWe
+  bring psychology to life by supporting students to create solutions to the problems
+  affecting their peers. Our programme uses a social enterprise model that facilitates
+  students to research, design and deliver initiatives that can create a social impact
+  within their school community\n"
 Education image: "/uploads/education_image.jpg"
 Research image: "/uploads/research_change_image.jpg"
 Research description: "# Research & Social Change\n\nOur research enables young people’s
