@@ -38,7 +38,7 @@ Ambassador description: "# Wellbeing Ambassadors Programme\n\nLaunched in Newham
   We’re designing a model that helps students develop self awareness and emotional
   intelligence as part of their academic life. \n\nFramed around three key elements,
   the program is underpinned by a project-led approach where students harness their
-  insights to create a social impact. \n"
+  insights to create a social impact. \n\n[Download our curriculum](/)"
 Eduacation description: "# Education\nOur mission is to make psychological theory
   and practice more accessible for young people, so that they can benefit from the
   rich insights that psychology can bring to our understanding of ourselves and others.
