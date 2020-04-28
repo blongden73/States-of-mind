@@ -73,7 +73,7 @@
       <div class="logo"><img src="{{item.Logo}}"></div>
   {% endfor %}
   </div>
-  <div class="circle">
+  <div class="circle team">
     <div class="circle-text">
     <h1>Stay Tuned</h1>
     <p>To find out about some of the projects we’ve been collaborating on with our partners, head  to our News & Events page, or comtact us to find out how we can collaborate.</p>
