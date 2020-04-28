@@ -29,9 +29,9 @@ Our values description: "\n# <img src=\"/uploads/growth_icon.svg\"> Growth\nWe d
   in working with \nothers to share ideas, \novercome challenges and find \nnew ways
   forward. Our model \nhas been developed by hundreds \nof conversations with many
   \ndifferent people and \norganisations. \n\n# <img src=\"/uploads/SOM_icon.svg\">
-  Collaboration\nWe believe in working with \nothers to share ideas, \novercome challenges
-  and find \nnew ways forward. Our model \nhas been developed by hundreds \nof conversations
-  with many \ndifferent people and \norganisations.  "
+  Change\nWe believe in hope and opportunity amidst chaos and uncertainty. Our mission
+  is bring hope to the lives of young people in our society and create a future that
+  values the beauty and complexity of the human experience. "
 Team:
 - image: "/uploads/bea.png"
   name: Bea Herbert
