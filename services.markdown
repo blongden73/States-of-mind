@@ -40,7 +40,7 @@ Team:
     projects that enable young people to design innovations for wellbeing. Drawing
     on her training in Psychosynthesis Psychotherapy, Bea is the Project Manager and
     Lead Facilitator at States of Mind. "
-- image: "/uploads/chris.png"
+- image: "/uploads/norton.jpg"
   name: 'Michael Norton '
   description: "Director\n\nMichael has dedicated his life to enhancing society and
     empowering young people through social entrepreneurship.  Michael founded the
