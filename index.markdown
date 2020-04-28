@@ -5,10 +5,10 @@ Intro text: "We educate &\L collaborate with young people, supporting them \nto 
   solutions to the challenges of life \nand build a world that better supports their
   wellbeing."
 Intro image: "/uploads/intro_image.jpg"
-Quote text: "I’m so glad that we have \Lthe opportunity, it blows \Lmy mind how we
-  do it, \Lwe’ve done so much. \LWe are not just spreading awareness about \LMental
+Quote text: "# I’m so glad that we have \Lthe opportunity, it blows \Lmy mind how
+  we do it, \Lwe’ve done so much. \LWe are not just spreading awareness about \LMental
   Health we are developing as people. \n\n### Hear more of our students have to say.
-  \n\n[Listen up](/)\n\n"
+  \n[Listen up](/)\n\n"
 Quote image: "/uploads/quote_image.jpg"
 Why we are here image: "/uploads/scroller1.jpg"
 Why we are here description: |-
