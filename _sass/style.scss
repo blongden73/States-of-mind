@@ -580,8 +580,6 @@ ul {
   margin-bottom: 50px;
 
   .som-welcome & {
-    background-color: transparent;
-    border: 1px solid #121212;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -590,7 +588,7 @@ ul {
     margin: auto;
     height: 80vh;
     width: 80vh;
-
+    background-color: $nu-pink;
   }
 
   .circle-text {
