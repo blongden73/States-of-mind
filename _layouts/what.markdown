@@ -48,7 +48,7 @@
   </div>
   </div>
 </div>
-<div class="som-carousel">
+<div id="carousel" class="som-carousel">
   <div class="som-wrapper">
     <div class="som-panel-title">
       <h1>What our community says…</h1>

@@ -5,6 +5,7 @@
   z-index: 10000;
   opacity: 1;
   display: none;
+  pointer-events: none;
 
   @include mq($from: desktop) {
     display: block;

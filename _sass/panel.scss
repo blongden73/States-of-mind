@@ -353,6 +353,12 @@
             display: none;
           }
         }
+
+        a {
+          font-family: 'Prestige';
+          font-style: normal;
+          @include font-size(1,1);
+        }
       }
     }
 

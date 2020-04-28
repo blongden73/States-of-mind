@@ -64,7 +64,6 @@ document.addEventListener('scroll', function(){
 
 //this is jquery lol ooops
 var $circle = $('.circle-follower');
-var $headline = $('.shadow-headline');
 
 function moveCircle(e) {
 	TweenLite.to($circle, 0.3, {
@@ -75,21 +74,7 @@ function moveCircle(e) {
   });
 }
 
-function moveHeadline(e) {
-	TweenLite.to($headline, 0.3, {
-    css: {
-      left: e.pageX,
-      top: e.pageY
-    }
-  });
-}
-
 $(window).on('mousemove', moveCircle);
-$(window).on('mousemove', moveHeadline);
-
-
-
-
 
 function enlarger(){
   var enlarge = document.querySelectorAll('.magnify');
