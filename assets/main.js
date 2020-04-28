@@ -168,10 +168,25 @@ function animatedCircles() {
   animate4();
 }
 
+function homePage(){
+  console.log('hello');
+  var enter = document.querySelector('.circle-container');
+  var welcome = document.querySelector('.som-welcome');
+  var homepage = document.querySelector('.init-homepage');
+
+  if(enter){
+    enter.addEventListener('click', function(){
+      welcome.classList.add('init');
+      homepage.classList.add('init');
+    });
+  }
+}
+
 
 function init(){
   grid();
   enlarger();
+  homePage();
   if(document.querySelector('canvas')){
     animatedCircles();
   }
