@@ -42,17 +42,9 @@ Why we are here description: |-
   different for struggling with
   life’s challenges.
 
-  # <img src="/uploads/change_icon.svg">Change
+  # <img src="/uploads/change_icon.svg">Collaboration and Design
 
-  We believe in hope and
-  opportunity amidst chaos
-  and uncertainty. Our mission
-  is bring hope to the lives
-  of young people in our
-  society and create a future
-  that values the beauty and
-  complexity of the human
-  experience.
+  We are working with young people and psychologists to understand approaches to mental health that aren’t working for young people and to design, together, new methods that do. Through talks, self exploration and collaborative, project-led learning, we work to create a world where our emotional wellbeing is prioritised and supported. One that enables us to feel valued and fulfilled in our everyday lives.
 What We Are Doing description: "# Reimagining \nMental Health\nWe believe that the
   benefits of psychology and therapy should be available to everyone, especially \nthose
   at an early stage in life. \n\nBy exploring our mind, emotions and behaviour, we
