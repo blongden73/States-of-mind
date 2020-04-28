@@ -150,6 +150,7 @@ h1 {
   z-index: 0;
   opacity: 1;
   filter:blur(80px);
+  pointer-events: none;
 }
 
 .circle-follower {
@@ -545,13 +546,16 @@ ul {
 
 @keyframes enlarge{
   0% {
-    transform: scale(1) translate(-50%, -50%);
+    height: 80vh;
+    width: 80vh;
   }
   50% {
-    transform: scale(1.2) translate(-50%, -50%);
+    height: 85vh;
+    width: 85vh;
   }
   100% {
-    transform: scale(1) translate(-50%, -50%);
+    height: 80vh;
+    width: 80vh;
   }
 }
 
@@ -560,7 +564,8 @@ ul {
   height: 92vh;
   background-color: $nu-blue;
   border-radius: 50%;
-  animation-duration: 7s;
+  animation-duration: 4s;
+  animation-name: enlarge;
   animation-iteration-count: infinite;
   animation-fill-mode: forwards;
   animation-timing-function: linear;
@@ -573,6 +578,20 @@ ul {
   z-index: 0;
   margin-top: 50px;
   margin-bottom: 50px;
+
+  .som-welcome & {
+    background-color: transparent;
+    border: 1px solid #121212;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    transform-origin: center;
+    margin: auto;
+    height: 80vh;
+    width: 80vh;
+
+  }
 
   .circle-text {
     position: absolute;
@@ -1178,5 +1197,5 @@ ul {
     color: #121212;
   }
 }
-
+@import 'homepage';
 @import 'panel';
