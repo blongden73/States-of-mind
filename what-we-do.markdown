@@ -1,7 +1,7 @@
 ---
 title: What we do
 date: 2020-02-13 22:41:00 Z
-Intro text: "# To Live Their Potential>\n\nOur world needs the thinkers, \ndo-ers
+Intro text: "# To Live Their Potential?\n\nOur world needs the thinkers, \ndo-ers
   and leaders of tomorrow \nto feel like they’ve got this. \n\nBut in a rapidly changing
   world, \nbeing young and transitioning into \nadult life is more challenging than
   \never. We believe there’s a better \nway of supporting young people’s \nwellbeing,
