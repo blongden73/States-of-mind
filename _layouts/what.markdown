@@ -89,10 +89,10 @@
       </div>
     </div>
     <div class="som-right">
-      <div class="som-scroll-sub-head">
-        Youth Led Research
-      </div>
       <h1 class="centred small">
+        <div class="som-scroll-sub-head">
+          Youth Led Research
+        </div>
         Case Study
         <span>{{page ['Case study text']}}</span></h1>
     </div>

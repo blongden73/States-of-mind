@@ -127,10 +127,9 @@ function animatedCircles() {
     		c4.beginPath();
     		c4.arc( this.x, this.y,  this.radius, 0, Math.PI * 2, false  );
         var grd = c4.createLinearGradient(0, 0, screen.width, 0);
-        grd.addColorStop(0, "#edc9c9");
-        grd.addColorStop(0.25, "#a8c1ac");
-        grd.addColorStop(0.5, "#85bfe4");
-        grd.addColorStop(1, "white");
+        grd.addColorStop(0, "#A3C3CF");
+        grd.addColorStop(0.75, "#EDC9C9");
+        grd.addColorStop(1, "#C69DBB");
         c4.fillStyle = grd;
         c4.fill();
   	  }
