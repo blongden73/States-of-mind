@@ -80,8 +80,8 @@ Case study text: 'Breaking the Silence is a youth led working research project e
   colleges reported their findings and views in an open letter to Amanda Speilman.  We
   are currently working alongside UCL to develop the research project. '
 Case Study Video: |-
-  <iframe src="https://player.vimeo.com/video/396270113" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-  <p><a href="https://vimeo.com/396270113">States of Mind - Schools</a> from <a href="https://vimeo.com/user62929828">Bea Herbert</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+  <iframe src="https://player.vimeo.com/video/328675194" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+  <p><a href="https://vimeo.com/328675194">Breaking the Silence: Students respond to Ofsted Consultation</a> from <a href="https://vimeo.com/user62929828">Bea Herbert</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 What we do splash image: "/uploads/what_we_do.jpg"
 layout: what
 ---
