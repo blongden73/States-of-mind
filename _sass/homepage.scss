@@ -4,6 +4,11 @@
   width: 100%;
   z-index: 10000;
   opacity: 1;
+  display: none;
+
+  @include mq($from: desktop) {
+    display: block;
+  }
 
   &.init {
     opacity: 0;
@@ -42,11 +47,14 @@
 }
 
 .init-homepage {
-  opacity:0;
-  overflow: hidden;
-  height: 100vh;
   transition: opacity 1s ease-in-out;
   transition-delay: 1.5s;
+
+  @include mq($from: desktop) {
+    opacity:0;
+    overflow: hidden;
+    height: 100vh;
+  }
 
   &.init {
     opacity: 1;
