@@ -46,7 +46,7 @@ Why we are here description: |-
   # <img src="/uploads/change_icon.svg">Collaboration and Design
 
   We are working with young people and psychologists to understand approaches to mental health that aren’t working for young people and to design, together, new methods that do. Through talks, self exploration and collaborative, project-led learning, we work to create a world where our emotional wellbeing is prioritised and supported. One that enables us to feel valued and fulfilled in our everyday lives.
-What We Are Doing description: "# Reimagining \nMental Health\nWe believe that the
+What We Are Doing description: "# Reimagining Mental Health\n\nWe believe that the
   benefits of psychology and therapy should be available to everyone, especially \nthose
   at an early stage in life. \n\nBy exploring our mind, emotions and behaviour, we
   can make sense of our world and move into adulthood with more confidence and purpose.
