@@ -7,28 +7,37 @@ Intro text: "# To Live Their Potential?\n\nOur world needs the thinkers, \ndo-er
   \never. We believe there’s a better \nway of supporting young people’s \nwellbeing,
   and we’ll only find it by \nfully engaging them in the process \nof change. \n"
 Carousel:
-- Image: "/uploads/foto1.jpg"
-  Headline: "A case study about education project we did.\n\n"
-  Link: 
-  Category: 'Education
+- Image: 
+  Quote: 'The programme has helped me see mental health with a different perspective.
 
 '
-- Image: "/uploads/foto%202.jpg"
-  Headline: A case study about Self Awareness & Interpersonal Development.
-  Category: Self Awareness
-  Link: 
-- Image: "/uploads/foto%204.jpg"
-  Headline: Case studies about Social Change.
-  Category: Projects
-  Link: 
-- Image: "/uploads/foto%205.jpg"
-  Headline: A case study about research.
-  Category: Research, Insight and Policy.
-  Link: 
-- Image: "/uploads/foto%206.jpg"
-  Headline: Know more
-  Category: 'Talk for Health '
-  Link: 
+  Name: Neeraja
+  Age: 17
+- Image: 
+  Quote: It’s a good way to discover yourself without having to seek something that
+    is more medicalised. We are catering to our own needs in a specific school.
+  Name: Grace
+  Age: 17
+- Image: 
+  Quote: The programme is less focused on mental illness and more on a wider education,
+    one that feels less clinical and more involved
+  Name: Amiira
+  Age: 17
+- Image: 
+  Quote: Bringing in this programme demonstrates that our school cares about our mental
+    health and that it's not just all about academics or getting the grades.
+  Name: Zi
+  Age: 17
+- Image: 
+  Quote: Schools don't always know how to help us, so they are helping us to help
+    each other
+  Name: Nafeesa
+  Age: 17
+- Image: 
+  Quote: I’m really grateful for this programme, it has really opened my eyes. I feel
+    really grateful to be a part of something so special, it seems really significant.
+  Name: Luvna
+  Age: 16
 Intro image: "/uploads/what_intro.jpg"
 What we do lead image: "/uploads/what_we_do.jpg"
 Ambassador image: "/uploads/ambassador_image.jpg"
