@@ -46,14 +46,14 @@ Eduacation description: "# Education\nOur mission is to make psychological theor
   We provide a series of seminars that draw on a range of psychological models to
   explore the human mind, behaviour and emotions. Through a group learning model,
   students develop a shared understanding of how our personal histories of life shape
-  our mind, personality and self-perception.\n\n# Exploration\nWe provide space for
-  students to openly explore their mind, behaviour and identity outside of clinical
-  settings. These sessions involve an exploration of how the mind and personality
-  are shaped by experience, using neuroscience, evolutionary, humanistic and psychosocial
-  theory to provide insight into our emotional and mental landscapes. Our model uses
-  a group learning approach, so that young people reflect and learn together in a
-  therapeutic context. By integrating personal experience with critical thinking,
-  we provide an emotionally informed learning environment.\n\n# Social impact\nWe
+  our mind, personality and self-perception.\n[Book programme](/)\n\n# Exploration\nWe
+  provide space for students to openly explore their mind, behaviour and identity
+  outside of clinical settings. These sessions involve an exploration of how the mind
+  and personality are shaped by experience, using neuroscience, evolutionary, humanistic
+  and psychosocial theory to provide insight into our emotional and mental landscapes.
+  Our model uses a group learning approach, so that young people reflect and learn
+  together in a therapeutic context. By integrating personal experience with critical
+  thinking, we provide an emotionally informed learning environment.\n\n# Social impact\nWe
   understand that in order to prevent psychological distress from developing to a
   critical point, systems must evolve to listen more closely to the voices and needs
   of young people at an earlier stage. By embedding our model within education, we
