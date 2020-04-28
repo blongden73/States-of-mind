@@ -40,7 +40,7 @@ Carousel:
   Age: 16
 Intro image: "/uploads/what_intro.jpg"
 What we do lead image: "/uploads/what_we_do.jpg"
-Ambassador image: "/uploads/_MG_6378.jpg"
+Ambassador image: "/uploads/ambassador-c73089.jpg"
 Ambassador description: "# Wellbeing Ambassadors Programme\n\nLaunched in Newham in
   2019, our Wellbeing Ambassadors Programme provides schools with training and resources
   for schools to create an approach to wellbeing that is informed and led by students.
