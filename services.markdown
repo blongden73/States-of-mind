@@ -35,23 +35,23 @@ Our values description: "\n# <img src=\"/uploads/growth_icon.svg\"> Growth\nWe d
 Team:
 - image: "/uploads/bea.png"
   name: Bea Herbert
-  description: "Founder and Director \n\nBea founded States of Mind in 2017, driven
+  description: "**Founder and Director** \n\nBea founded States of Mind in 2017, driven
     by a desire to create change in the mental health system. She specialises in co-creating
     projects that enable young people to design innovations for wellbeing. Drawing
     on her training in Psychosynthesis Psychotherapy, Bea is the Project Manager and
     Lead Facilitator at States of Mind. "
 - image: "/uploads/norton.jpg"
   name: 'Michael Norton '
-  description: "Director\n\nMichael has dedicated his life to enhancing society and
-    empowering young people through social entrepreneurship.  Michael founded the
-    Directory of Social Change , Changemakers, YouthBank UK and Unltd. He received
+  description: "**Director**\n\nMichael has dedicated his life to enhancing society
+    and empowering young people through social entrepreneurship.  Michael founded
+    the Directory of Social Change , Changemakers, YouthBank UK and Unltd. He received
     an OBE in 1998 for services to the voluntary sector. Michael has supported the
     development of States of Mind since it’s inception and oversees the delivery of
     States of Mind’s social action projects. "
 - image: "/uploads/chris.png"
   name: 'Chris Bagley '
   description: |-
-    Director of Research
+    **Director of Research**
 
     Chris is an Educational Psychologist who works with the most disadvantaged members of society; those whose voices are ignored or minimised in public debate. His doctorate thesis and published articles shine a light on how the most vulnerable young people and families struggle to cope within the confines of our inflexible education system. Chris believes in promoting reform by listening to young people, parents, professionals and academic research. Chris leads on States of Mind’s research projects.
 Logos:
