@@ -218,6 +218,17 @@
           p {
             @include font-size(1,1);
             margin-bottom: 20px;
+
+            strong {
+              font-family: 'Circular';
+              font-weight: 700;
+              display: block;
+              margin-bottom: 20px;
+            }
+
+            &:after {
+              display: none;
+            }
           }
           &:nth-child(even) {
             margin-left: auto;

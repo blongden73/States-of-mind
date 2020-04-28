@@ -54,7 +54,7 @@
           <li class="team">
             <img src="{{item.image}}">
             <h1>{{item.name}}</h1>
-            <p>{{item.description}}</p>
+            <p>{{item.description | markdownify}}</p>
           </li>
       {% endfor %}
       </ul>
