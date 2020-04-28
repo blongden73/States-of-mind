@@ -51,7 +51,7 @@ Eduacation description: "# Education\nOur mission is to make psychological theor
   outside of clinical settings. These sessions involve an exploration of how the mind
   and personality are shaped by experience, using neuroscience, evolutionary, humanistic
   and psychosocial theory to provide insight into our emotional and mental landscapes.
-  Our model uses a group learning approach, so that young people reflect and learn
+  \n\nOur model uses a group learning approach, so that young people reflect and learn
   together in a therapeutic context. By integrating personal experience with critical
   thinking, we provide an emotionally informed learning environment.\n\n# Social impact\nWe
   understand that in order to prevent psychological distress from developing to a
