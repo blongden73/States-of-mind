@@ -21,7 +21,7 @@ Intro text: |-
   opportunity to develop emotional
   intelligence and self awareness as
   part of their everyday life.
-Our Values Image: "/uploads/Our_values.png"
+Our Values Image: "/uploads/hands.jpg"
 Our values description: "\n# <img src=\"/uploads/growth_icon.svg\"> Growth\nWe do
   not believe that mental \nhealth is a fixed concept, but \na dynamic experience,
   that is \nfacilitated through the quality \nof our relationships with \nourselves
