@@ -1,0 +1,487 @@
+//Panel colours
+.green {
+  background-color: $nu-green !important;
+}
+
+.white {
+  background-color: #fff !important;
+}
+
+.blue {
+  background-color: $nu-blue !important;
+}
+
+.beige {
+  background-color: $nu-beige !important;
+}
+
+.pink {
+  background-color: $nu-pink !important;
+}
+
+.som-panel {
+  min-height: 100vh;
+  height: auto;
+  background-color: grey;
+  color: $bright-grey;
+  position: relative;
+  overflow: hidden;
+  border-bottom: 1px solid #121212;
+  will-change: opacity;
+
+  //general panel styles
+  .som-left, .som-right {
+    width: 100%;
+    min-height: 50vh;
+    position: relative;
+
+    @include mq($from: desktop) {
+      width: 50%;
+      min-height: 100vh;
+    }
+
+    img {
+      &.animate-in {
+         transform: translateX(100%);
+         transition: all ease-in-out 1s;
+
+         &.animateNow {
+           transform: translateX(0);
+         }
+      }
+    }
+
+    .som-scroll-sub-head {
+      margin-bottom: 20px;
+      margin-top: 20px;
+      text-align: left;
+      font-family: 'Prestige';
+      color: #121212;
+
+      @include mq($from: desktop) {
+        margin-bottom: 25vh;
+        margin-top: 25vh;
+        text-align: center;
+      }
+    }
+
+    .som-video-style {
+      position: relative;
+      z-index: 10;
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      transform: translate(-50%, -50%);
+
+      p {
+        font-family: 'Circular';
+        color: #121212;
+
+        a {
+          font-style: normal;
+        }
+      }
+    }
+
+    .som-image-style {
+      @include size(4.35);
+      height: 80vw;
+      object-fit: cover;
+      object-position: center;
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      transform: translate(-50%, -50%);
+      z-index: 10;
+
+      @include mq($from:desktop) {
+        height: 45vw;
+      }
+
+      img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        z-index: 10;
+        position: relative;
+      }
+
+      &:after {
+        position: absolute;
+        top: 10px;
+        bottom: -15px;
+        right: -10px;
+        left: 10px;
+        border: 1px solid #121212;
+        content: '';
+        display: block;
+        background-color: #fff;
+      }
+    }
+
+    .centred {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 85%;
+      text-align: center;
+
+      &.small {
+
+        span {
+          @include font-size(1.8, 1.8);
+          margin-top: 20px;
+          display: block;
+        }
+      }
+
+      &.uncentre {
+        top: 0;
+        transform: translate(-50%, 0);
+
+        @include mq($from: desktop) {
+          top: 50%;
+          transform: translate(-50%, -50%);
+        }
+      }
+    }
+
+    h1 {
+      @include font-size(1.8, 1.8);
+      line-height: 1.2;
+      margin: 0;
+      color: #121212;
+
+      @include mq($from: desktop) {
+        @include font-size(3, 2.5);
+      }
+    }
+
+    p {
+      font-family: 'Prestige';
+
+      a {
+        font-style: italic;
+        color: inherit;
+        text-decoration: none;
+        border-bottom: 1px solid #121212;
+      }
+    }
+  }
+
+  .som-sub-head {
+    margin-bottom: 20px;
+    margin-top: 40px;
+    text-align: center;
+    font-family: 'Prestige';
+    color: #121212;
+  }
+
+  .logos {
+    width: max-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    mix-blend-mode: multiply;
+
+    .logo {
+      margin-right: 20px;
+      height: auto;
+    }
+  }
+  //End general panel styles
+
+  //Panel Types
+
+  //Contact
+  &.contact {
+    background-color: transparent;
+  }
+
+  //Scroller
+  &.scroller {
+    overflow: unset;
+
+    .som-team-grid {
+      margin-top: 25vh;
+      ul {
+        li {
+          width: 50%;
+          &:nth-child(even) {
+            margin-left: auto;
+          }
+        }
+      }
+    }
+
+    &.left {
+      .som-left-title {
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 30px;
+
+        &.centred {
+          position: absolute;
+          top: 50%;
+          left: 50%;
+          transform: translate(-50%, -50%);
+        }
+
+        svg {
+          width: 100%;
+          height: auto;
+        }
+      }
+
+      .som-left_numbers {
+        margin-left: 10%;
+        position: absolute;
+        bottom: 30px;
+
+        span {
+          display: block;
+          @include font-size(4, 3);
+          color: #121212;
+        }
+      }
+      .som-left {
+        position: relative;
+        height: 50vh;
+        top: 0;
+
+        @include mq($from: desktop) {
+          position: sticky;
+          height: 100vh;
+        }
+
+        img {
+          width: 100%;
+          height: 100%;
+          object-fit: cover;
+        }
+      }
+    }
+
+    &.right {
+      .som-right {
+        position: sticky;
+        height: 50vh;
+        top: 0;
+
+        @include mq($from: desktop) {
+          height: 100vh;
+        }
+
+        img {
+          width: 100%;
+          height: 100%;
+          object-fit: cover;
+        }
+      }
+    }
+
+    &.book {
+      .som-scroll-sub-head {
+        margin-bottom: 10px !important;
+      }
+      .som-scroll-text {
+        width: 80%;
+
+        @include mq($from: desktop) {
+          @include size(4.2);
+        }
+
+        h1 {
+          margin-bottom: 20px;
+          @include font-size(2.2, 2.2);
+          margin-top: 10px;
+
+          @include mq($from: desktop) {
+            margin-top: 100px;
+            margin-bottom: 25vh;
+            @include font-size(4, 3);
+          }
+
+          &:nth-child(2) {
+            margin-top: 10px;
+          }
+        }
+
+        p {
+          font-family: 'Circular';
+          @include font-size(1, 1.2);
+          margin-bottom: 10px;
+
+          @include mq($from: desktop) {
+            @include font-size(1.9, 1.9);
+          }
+
+          &:after {
+            display: none;
+          }
+        }
+      }
+    }
+
+    .som-scroll-text {
+      margin-left: auto;
+      margin-right: auto;
+      @include size(3.35);
+      padding-bottom: 20px;
+
+      @include mq($from: desktop) {
+        padding-bottom: 50vh;
+      }
+
+      &.bottom {
+        padding-bottom: 0;
+        position: absolute;
+        bottom: 30px;
+      }
+
+      &.right {
+        margin-left: 5%;
+      }
+
+      &.left {
+        margin-left: 10%;
+
+        .som-scroll-sub-head {
+          text-align: left;
+        }
+      }
+
+      img {
+        display: block;
+      }
+
+      .som-scroll-sub-head {
+        margin-bottom: 20px;
+        margin-top: 20px;
+        text-align: left;
+        font-family: 'Prestige';
+        color: #121212;
+
+        @include mq($from: desktop) {
+          margin-bottom: 25vh;
+          margin-top: 25vh;
+          text-align: center;
+        }
+      }
+
+      h1 {
+        @include font-size(1.8, 1.8);
+
+        @include mq($from: desktop) {
+          @include font-size(2.5, 1.9);
+        }
+      }
+
+      p {
+        margin-bottom: 20px;
+        color: #121212;
+        @include font-size(1.2, 1.2);
+
+        @include mq($from: desktop) {
+          margin-bottom: 200px;
+        }
+
+        &:last-child {
+          &:after {
+            display: none;
+          }
+        }
+
+        &:after {
+          width: 100%;
+          height: 1px;
+          background-color: $nu-grey;
+          content: '';
+          display: none;
+          position: absolute;
+          margin-top: 100px;
+          left: 0;
+
+          @include mq($from: desktop) {
+            display: block;
+          }
+        }
+      }
+    }
+  }
+
+  //Quote
+  &.quote {
+    h1 {
+      &:before {
+        background-image: url('http://statesofmind.siteleaf.net/uploads/quote.svg');
+        width: 30px;
+        height: 30px;
+        background-repeat: no-repeat;
+        background-size: 100%;
+        background-size: cover;
+        content: '';
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+
+        @include mq($from: desktop) {
+          width: 50px;
+          height: 50px;
+        }
+      }
+    }
+  }
+
+  //Overlap
+  &.overlap {
+    &.full {
+      &.right{
+        &:after {
+          display: none;
+        }
+      }
+      &.left{
+        &:after {
+          display: none;
+        }
+      }
+    }
+    &.right {
+      &:after {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        right: 0;
+        width: 25%;
+        background-color: #fff;
+        content: '';
+        z-index: 0;
+        display: none;
+
+        @include mq($from: desktop) {
+          display: block;
+        }
+      }
+    }
+    &.left {
+      &:after {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        width: 25%;
+        background-color: #fff;
+        content: '';
+        z-index: 0;
+        display: none;
+
+        @include mq($from: desktop) {
+          display: block;
+        }
+      }
+    }
+  }
+}

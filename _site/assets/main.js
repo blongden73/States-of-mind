@@ -64,7 +64,6 @@ document.addEventListener('scroll', function(){
 
 //this is jquery lol ooops
 var $circle = $('.circle-follower');
-var $headline = $('.shadow-headline');
 
 function moveCircle(e) {
 	TweenLite.to($circle, 0.3, {
@@ -75,20 +74,7 @@ function moveCircle(e) {
   });
 }
 
-function moveHeadline(e) {
-	TweenLite.to($headline, 0.3, {
-    css: {
-      left: e.pageX,
-      top: e.pageY
-    }
-  });
-}
-
 $(window).on('mousemove', moveCircle);
-$(window).on('mousemove', moveHeadline);
-
-
-
 
 
 function enlarger(){
@@ -127,10 +113,9 @@ function animatedCircles() {
     		c4.beginPath();
     		c4.arc( this.x, this.y,  this.radius, 0, Math.PI * 2, false  );
         var grd = c4.createLinearGradient(0, 0, screen.width, 0);
-        grd.addColorStop(0, "#edc9c9");
-        grd.addColorStop(0.25, "#a8c1ac");
-        grd.addColorStop(0.5, "#85bfe4");
-        grd.addColorStop(1, "white");
+        grd.addColorStop(0, "#A3C3CF");
+        grd.addColorStop(0.75, "#C69DBB");
+        grd.addColorStop(1, "#EDC9C9");
         c4.fillStyle = grd;
         c4.fill();
   	  }
@@ -148,8 +133,8 @@ function animatedCircles() {
   }
   var circles = [];
   // Radius
-  var radius = 200;
-  for( var i = 0; i < 5; i++ )  {
+  var radius = 250;
+  for( var i = 0; i < 3; i++ )  {
   	// Starting Position
   	var x = Math.random() * ( screen.width - radius * 2 ) + radius;
   	var y = Math.random() * ( screen.height - radius * 2) + radius;
