@@ -60,9 +60,11 @@
   <ul>
     {% for item in page['Carousel']  %}
         <li class="magnify">
-          <a href="{{item.Link}}"></a>
-          <h1 class="shadow-headline"><span>{{item.Category}}</span>{{item.Headline}}</h1>
+          <h1 class="shadow-headline">{{item.Quote}}</h1>
+          <h1 class="shadow-headline attrib">{{item.Name}}<span>{{item.Age}}</span></h1>
+          {% if item.Image %}
           <img src="{{item.Image}}">
+          {% endif %}
         </li>
     {% endfor %}
   </ul>

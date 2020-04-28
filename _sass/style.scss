@@ -986,7 +986,7 @@ ul {
     }
 
     li {
-      background-color: $nu-olive;
+      background-color: $nu-blue;
       width: 26%;
       flex-grow: 3;
       flex-wrap: nowrap;
@@ -1011,6 +1011,9 @@ ul {
       &:hover {
         h1 {
           opacity: 1;
+        }
+        img {
+          opacity: 0;
         }
       }
 
@@ -1037,6 +1040,31 @@ ul {
           width: 300px;
           bottom: auto;
           z-index: 10000;
+          line-height: 1.2;
+
+          &:before {
+            background-image: url('http://statesofmind.siteleaf.net/uploads/quote.svg');
+            width: 30px;
+            height: 30px;
+            background-repeat: no-repeat;
+            background-size: 100%;
+            background-size: cover;
+            content: '';
+            display: block;
+          }
+
+          &.attrib {
+            bottom: 10px;
+            top: auto;
+
+            &:before {
+              display: none;
+            }
+
+            span {
+              font-size:inherit;
+            }
+          }
         }
 
         span {

@@ -20,7 +20,6 @@
   <div class="som-wrapper flex">
     <div class="som-left green">
       <div class="som-scroll-sub-head">
-        What is States of Mind?
       </div>
       <h1 class="centred">{{page ['Intro text']}}</h1>
     </div>
