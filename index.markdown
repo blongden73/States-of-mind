@@ -62,5 +62,4 @@ What we are doing image: "/uploads/what_image.jpg"
 layout: home
 ---
 
-## Welcome to the
-# therapeutic rebellion
+## 
