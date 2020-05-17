@@ -94,10 +94,3 @@ What we do splash image: "/uploads/what_we_do.jpg"
 layout: what
 ---
 
-We are interested in how individuals are influenced by systems and how systems can be improved to support young people’s wellbeing.
-
-From family, friendships, education to society, the systems we inhabit shape our views of ourselves and the world.
-
-To improve mental health, we must design psychologically healthy environments for the next generation. We must innovate, from the bottom up.
-
-Our work focuses on listening to young people and working with them to create new models of psychological support that are non clinical and non pathologizing.
