@@ -5,11 +5,11 @@ categories:
 - news & events
 tags:
 - news & events
+Intro: 'In one of our research projects, we’re exploring how the UK’s education system
+  is having an impact on student mental health. '
+Byline: By Bea Herbert
+Image: "/uploads/Breaking%20the%20Silence.png"
 ---
-
-In one of our research projects, we’re exploring how the UK’s education system is having an impact on student mental health. 
-
-By Bea Herbert
 
 Breaking the Silence is a youth-led research project exploring young people’s views on how aspects of the UK education system are having an impact on their mental health, identity and personal development. 
 
