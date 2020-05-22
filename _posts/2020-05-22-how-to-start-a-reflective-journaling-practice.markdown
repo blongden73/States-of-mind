@@ -1,11 +1,15 @@
 ---
 title: How to start a reflective journaling practice
 date: 2020-05-22 20:38:00 Z
+categories:
+- news & events
+tags:
+- news & events
+Intro: 'We’ve all heard about the perks of keeping a diary. But what if writing could
+  help you live the life you want? '
+Byline: 'By Camille Pellicer '
+Image: 
 ---
-
-We’ve all heard about the perks of keeping a diary. But what if writing could help you live the life you want? 
-
-By Camille Pellicer 
 
 “I never travel without my diary. One should always have something sensational to read in the train.” Oscar Wilde was right. A diary recalls one’s sensation from the past, present, and future, so it follows that it would always be a sensational read. Wilde humours his audience by hinting that his life was always more interesting than any character from a novel, and considering his biography and fantastic work of art, he was probably right.
 
