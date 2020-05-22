@@ -8,7 +8,7 @@ tags:
 Intro: 'Self awareness is a process. But by nurturing it, you can better understand
   yourself and your world. '
 Byline: 'By Camille Pellicer '
-Image: 
+Image: "/uploads/Self%20awareness.png"
 Image Credit: 'Photo credit: Marwane Pallas, @marwanepallas'
 ---
 
