@@ -4,7 +4,7 @@
     <img class="som-splash__image" src="{{page ['Who we are splash image']}}">
   </div>
 </div>
-<div class="som-panel scroller left beige book">
+<div class="som-panel scroller left beige book noPad">
   <div class="flex">
   <div class="som-left white">
     <div class="som-left-title">
@@ -24,7 +24,7 @@
   </div>
   </div>
 </div>
-<div class="som-panel scroller left white">
+<div class="som-panel scroller left white noPad">
   <div class="flex">
   <div class="som-left">
     <img src="{{page ['Our Values Image']}}">
@@ -39,7 +39,7 @@
   </div>
   </div>
 </div>
-<div class="som-panel scroller left team blue">
+<div class="som-panel scroller left team blue noPad">
   <div class="flex">
   <div class="som-left">
   <div class="som-left-title centred">
@@ -52,7 +52,9 @@
       <ul>
       {% for item in page['Team']  %}
           <li class="team">
-            <img src="{{item.image}}">
+            <div class="team-wrapper">
+              <img src="{{item.image}}">
+            </div>
             <h1>{{item.name}}</h1>
             <p>{{item.description | markdownify}}</p>
           </li>

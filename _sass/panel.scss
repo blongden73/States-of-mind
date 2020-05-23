@@ -52,6 +52,10 @@
   padding-top: 40px;
   padding-bottom: 40px;
 
+  &.som-news {
+    padding: 0;
+  }
+
   &.noPad {
     padding: 0;
   }
@@ -104,10 +108,20 @@
     .som-video-style {
       position: relative;
       z-index: 10;
-      position: absolute;
-      left: 50%;
-      top: 50%;
-      transform: translate(-50%, -50%);
+
+      @include mq($from: desktop) {
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+      }
+
+      iframe {
+        @include mq($until: tablet) {
+          width: 100%;
+          height: auto;
+        }
+      }
 
       p {
         font-family: 'Circular';
@@ -178,12 +192,17 @@
           @include font-size(1,1);
           margin-bottom: 10px;
           margin-top: 0px;
+          text-align: center;
         }
 
         span {
-          @include font-size(1.8, 1.8);
+          @include font-size(1.2, 1.2);
           margin-top: 20px;
           display: block;
+
+          @include mq($from: desktop) {
+            @include font-size(1.8, 1.8);
+          }
         }
       }
 
@@ -255,17 +274,31 @@
     overflow: unset;
 
     .som-team-grid {
-      margin-top: 25vh;
+      margin-top: 30px;
+
+      @include mq($from: desktop) {
+        margin-top: 25vh;
+      }
+
       ul {
         li {
           width: 100%;
 
-          img {
-            margin-bottom: 20px;
-            border-radius: 50%;
-            overflow: hidden;
-            max-width: 171px;
+          .team-wrapper {
+              max-width: 171px;
+              max-height: 171px;
+              margin-bottom: 20px;
+              border-radius: 50%;
+              overflow: hidden;
           }
+
+          img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            object-position: center;
+          }
+
           p {
             @include font-size(1,1);
             margin-bottom: 20px;
@@ -289,10 +322,14 @@
 
     &.left {
       .som-left-title {
-        width: 80%;
+        width: 90%;
         margin-left: auto;
         margin-right: auto;
         margin-top: 30px;
+
+        @include mq($from: desktop) {
+          width: 80%;
+        }
 
         &.centred {
           position: absolute;
@@ -308,19 +345,29 @@
       }
 
       .som-left_numbers {
-        margin-left: 10%;
-        position: absolute;
-        bottom: 30px;
+        margin-left: 5%;
+        margin-bottom: 10px;
+
+
+        @include mq($from: desktop) {
+          position: absolute;
+          bottom: 30px;
+          margin-left: 10%;
+        }
 
         span {
           display: block;
-          @include font-size(4, 3);
+          @include font-size(2, 2);
           color: #121212;
+
+          @include mq($from: desktop){
+            @include font-size(4, 3);
+          }
         }
       }
       .som-left {
         position: relative;
-        height: 50vh;
+        min-height: 50vh;
         top: 0;
 
         @include mq($from: desktop) {
@@ -425,6 +472,7 @@
       }
 
       &.left {
+        margin-left: 5%;
 
         @include mq($from:desktop) {
           margin-left: 10%;
