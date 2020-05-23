@@ -15,8 +15,6 @@ According to the poet William Meredith, the worst thing that can happen in the l
 
 One of the biggest gifts of humankind is having the possibility to constantly reinvent yourself and to endlessly explore and learn about this collective human experience. As we develop a practice of self awareness, we can experience a richer life, we can allow deep healing and expand ourselves  by opening up space within us to establish meaning and foster change.
 
-![Self awareness (Photo by Marwane Pallas).jpg](/uploads/Self%20awareness%20(Photo%20by%20Marwane%20Pallas).jpg)
-
 # What is self awareness?
 
 Self awareness is a human faculty that enables us to become observers of our own life journey. It allows us to witness – without judgement – our mental, emotional and physical states. Through self awareness, we can make sense of and process our human experience with the powerful gift of conscious attention. By developing this natural aptitude, we can learn to regulate the quality of our reality and access an empowering sense of freedom and choice.
@@ -32,6 +30,8 @@ external self awareness (how other people view us and our place in the world).
 In Western societies, some of the most popular methods used to develop self awareness are creative processes, physical exercise, meditation, journaling and therapy. The list goes on but there’s no right way to ‘pay attention’ or be ‘self aware’ – your own journey is unique to you.
 
 At States of Mind, we’re passionate about the benefits of self awareness, so we create safe spaces for young people to learn about and develop it for themselves.The teenage and young adult years are an ideal time to explore and nurture self awareness, allowing us to grow in a direction of our choice. We believe that by giving more people the opportunity to develop self awareness from a young age, they can learn to manage difficult experiences with more confidence and live significantly happier, healthier lives.
+
+![Self awareness (Photo by Marwane Pallas).jpg](/uploads/Self%20awareness%20(Photo%20by%20Marwane%20Pallas).jpg)
 
 # Cultivating self awareness: 5 of our tips
 
