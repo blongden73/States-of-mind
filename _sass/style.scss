@@ -670,7 +670,7 @@ ul {
   opacity: 1;
 
   &.what-we-do {
-    object-position: -215px;
+    object-position: -159px 100px;
 
     @include mq($from: desktop) {
       object-position: center;
