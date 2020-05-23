@@ -346,8 +346,8 @@
 
         h1 {
           margin-bottom: 20px;
-          @include font-size(2.2, 2.2);
-          margin-top: 10px;
+          @include font-size(2.2, 1.8);
+          margin-top: 30px;
 
           @include mq($from: desktop) {
             margin-top: 100px;
@@ -416,7 +416,8 @@
 
       img {
         display: block;
-        transform: scale(0.9);  
+        transform: scale(0.7);
+        transform-origin: left;
 
         @include mq($from: desktop) {
           transform: scale(1);
@@ -516,8 +517,9 @@
     h1 {
       &:before {
         background-image: url('http://statesofmind.siteleaf.net/uploads/quote.svg');
-        width: 30px;
-        height: 30px;
+        width: 50px;
+        height: 50px;
+        margin-bottom: 10px;
         background-repeat: no-repeat;
         background-size: 100%;
         background-size: cover;
