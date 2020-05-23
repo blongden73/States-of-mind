@@ -317,7 +317,7 @@ h1 {
   transform-origin: center;
 
   &.clicked {
-    background-color: #fff;
+    background-color: #166482;
     animation-name: jump;
     animation-duration: 0.5s;
     animation-iteration-count: 1;
@@ -337,7 +337,7 @@ h1 {
   right: 0;
   left: 0;
   z-index: 100;
-  background-color: #166482;
+  background-color: #fffff9;
   opacity: 0;
   transition: opacity 0.5s ease-in-out;
   transition-delay: 0.5s;
@@ -359,14 +359,13 @@ h1 {
     padding-top: 10px;
 
     li {
-      color: #fff;
+      color: #121212;
       display: block;
-      color: #fff;
       font-size: 44px;
       line-height: 1;
 
       a {
-        color: #fff;
+        color: #121212;
         text-decoration: none;
       }
     }
