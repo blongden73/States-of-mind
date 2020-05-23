@@ -2,9 +2,7 @@
 title: Meet Neeraja – Wellbeing Ambassador
 date: 2020-05-21 21:40:00 Z
 categories:
-- news & events
-tags:
-- news & events
+- journal
 Field name: Intro
 Byline: Introduction by Tempe Nakiska
 Image: "/uploads/1-9db443.jpg"
