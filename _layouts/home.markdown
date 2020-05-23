@@ -19,8 +19,6 @@
 <div class="som-panel fade-in overlap right green">
   <div class="som-wrapper flex">
     <div class="som-left green">
-      <div class="som-scroll-sub-head">
-      </div>
       <h1 class="centred">{{page ['Intro text']}}</h1>
     </div>
     <div class="som-right">
@@ -30,7 +28,7 @@
     </div>
   </div>
 </div>
-<div class="som-panel scroller left white">
+<div class="som-panel scroller left white noPad">
   <div class="flex">
   <div class="som-left">
     <img src="{{page ['Why we are here image']}}">
@@ -57,7 +55,7 @@
     </div>
   </div>
 </div>
-<div class="som-panel scroller right blue book">
+<div class="som-panel scroller right blue book noPad">
   <div class="flex">
   <div class="som-left">
     <div class="som-scroll-text left">
