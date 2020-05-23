@@ -294,6 +294,11 @@
               margin-bottom: 20px;
               border-radius: 50%;
               overflow: hidden;
+
+              img {
+                transform: scale(1);
+
+              }
           }
 
           img {
@@ -373,6 +378,18 @@
         position: relative;
         min-height: 0;
         top: 0;
+
+        &.our-team {
+          min-height: 70vh;
+
+          .som-left-title {
+            margin-top: 0;
+
+            @include mq($from: desktop) {
+              margin-top: 30px;
+            }
+          }
+        }
 
         @include mq($from: desktop) {
           position: sticky;
