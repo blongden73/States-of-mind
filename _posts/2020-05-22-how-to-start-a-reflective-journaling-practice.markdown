@@ -2,9 +2,7 @@
 title: How to start a reflective journaling practice
 date: 2020-05-22 20:38:00 Z
 categories:
-- news & events
-tags:
-- news & events
+- journal
 Intro: 'We’ve all heard about the perks of keeping a diary. But what if writing could
   help you live the life you want? '
 Byline: 'By Camille Pellicer '
