@@ -57,6 +57,23 @@ Team:
     within the confines of our inflexible education system. Chris believes in promoting
     reform by listening to young people, parents, professionals and academic research.
     Chris leads on States of Mind’s research projects."
+- image: "/uploads/Tempe.jpg"
+  name: 'Tempe Nakiska '
+  description: "**Creative Director **"
+- image: "/uploads/Sebastian.png"
+  name: Sebastian Bogdan
+  description: '**Social Development Lead** Sebastian is one of the many young people
+    that States of Mind has worked with. His first experience with the organisation
+    was through a programme delivered in Six 21. Passionately working with and leading
+    his team as a Project Manager, Sebastian helped reinforce a positive learning
+    atmosphere and stood as an advocate for the importance of mental health within
+    his sixth form. Now, he is working with States of Mind to aid other young people
+    with their well-being on a wider scale."
+
+'
+- image: 
+  name: 'Camille Pellicer '
+  description: "**Journalist**"
 Logos:
 - Logo: "/uploads/psychosynthesis.png"
 - Logo: "/uploads/annafrued.png"
