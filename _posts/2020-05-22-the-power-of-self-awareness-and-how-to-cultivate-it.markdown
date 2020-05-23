@@ -2,9 +2,7 @@
 title: The power of self awareness, and how to cultivate it
 date: 2020-05-22 20:41:00 Z
 categories:
-- news & events
-tags:
-- news & events
+- journal
 Intro: 'Self awareness is a process. But by nurturing it, you can better understand
   yourself and your world. '
 Byline: 'By Camille Pellicer '
