@@ -8,6 +8,7 @@ Intro: 'Self awareness is a process. But by nurturing it, you can better underst
 Byline: 'By Camille Pellicer '
 Image: "/uploads/Self%20awareness.png"
 Image Credit: 'Photo credit: Marwane Pallas, @marwanepallas'
+layout: post
 ---
 
 According to the poet William Meredith, the worst thing that can happen in the life of a man is that “he did not pay attention”. In the busyness of modern life, rarely are we provided with safe spaces to step back and consciously reflect on our mental and emotional wellbeing. Without this ability to reflect and process the meaning in our everyday life and personal experience, we can easily become caught up in unhealthy unconscious behaviour and feel unfulfilled with how things are. 
