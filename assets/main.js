@@ -166,11 +166,21 @@ function homePage(){
   }
 }
 
+function menu(){
+  var menu = document.querySelector('.menu-mobile');
+  var menuWrapper = document.querySelector('.mobile-menu-options');
+  menu.addEventListener('click', function(){
+    this.classList.toggle('clicked');
+    menuWrapper.classList.toggle('clicked');
+  });
+}
+
 
 function init(){
   grid();
   enlarger();
   homePage();
+  menu();
   if(document.querySelector('canvas')){
     animatedCircles();
   }
