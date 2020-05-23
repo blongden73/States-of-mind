@@ -1390,6 +1390,19 @@ ul {
     left: 0;
     right: 0;
     z-index: 1000;
+
+    &.at-share-btn {
+      position: relative;
+      padding: 8px 2px 6px 8px !important;
+      margin: 10px !important;
+      margin-left: 0 !important;
+      line-height: 1;
+      display: inline-block;
+
+      &:nth-child(3){
+        display: none;
+      }
+    }
   }
 }
 

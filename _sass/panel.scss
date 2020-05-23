@@ -416,6 +416,11 @@
 
       img {
         display: block;
+        transform: scale(0.9);  
+
+        @include mq($from: desktop) {
+          transform: scale(1);
+        }
       }
 
       .som-scroll-sub-head {
@@ -444,7 +449,7 @@
       }
 
       p {
-        margin-bottom: 20px;
+        margin-bottom: 40px;
         color: #121212;
         @include font-size(1, 1);
 
