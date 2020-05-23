@@ -71,7 +71,7 @@ Team:
     with their well-being on a wider scale."
 
 '
-- image: "/uploads/IMG_4544%20copy.jpg"
+- image: "/uploads/IMG_4544%20copy%20copy.jpg"
   name: 'Camille Pellicer '
   description: "**Journalist**"
 Logos:
