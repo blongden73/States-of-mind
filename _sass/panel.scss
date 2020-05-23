@@ -126,6 +126,11 @@
       p {
         font-family: 'Circular';
         color: #121212;
+        text-align: center;
+
+        @include mq($from: desktop){
+          text-align: left;
+        }
 
         a {
           font-style: normal;
@@ -135,7 +140,7 @@
 
     .som-image-style {
       width: 100%;
-      height: 80vw;
+      height: 50vh;
       object-fit: cover;
       object-position: center;
       z-index: 10;
@@ -232,7 +237,6 @@
       font-family: 'Prestige';
 
       a {
-        font-style: italic;
         color: inherit;
         text-decoration: none;
         border-bottom: 1px solid #121212;
@@ -367,11 +371,12 @@
       }
       .som-left {
         position: relative;
-        min-height: 50vh;
+        min-height: 0;
         top: 0;
 
         @include mq($from: desktop) {
           position: sticky;
+          min-height: 50vh;
           height: 100vh;
         }
 
@@ -386,7 +391,7 @@
     &.right {
       .som-right {
         position: sticky;
-        height: 50vh;
+        min-height: 0;
         top: 0;
 
         @include mq($from: desktop) {
@@ -463,8 +468,13 @@
 
       &.bottom {
         padding-bottom: 0;
-        position: absolute;
-        bottom: 30px;
+        margin-top: 20px;
+
+        @include mq($from: desktop){
+          position: absolute;
+          bottom: 30px;
+          margin-top: 0;
+        }
       }
 
       &.right {
@@ -596,6 +606,7 @@
         display: block;
         margin-left: auto;
         margin-right: auto;
+        margin-top: 20px;
 
         @include mq($from: desktop) {
           width: 50px;

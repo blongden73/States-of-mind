@@ -78,7 +78,7 @@
   </div>
   <div class="som-right white">
     <div class="som-image-style">
-      <img src="{{page ['Research image']}}">
+      <img class="top" src="{{page ['Research image']}}">
     </div>
   </div>
   </div>

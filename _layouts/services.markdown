@@ -1,7 +1,7 @@
 {% include header.html %}
 <div class="som-splash">
   <div class="som_splash__image-wrapper">
-    <img class="som-splash__image" src="{{page ['Who we are splash image']}}">
+    <img class="som-splash__image who-we-are" src="{{page ['Who we are splash image']}}">
   </div>
 </div>
 <div class="som-panel scroller left beige book noPad">
