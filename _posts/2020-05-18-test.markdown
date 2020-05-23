@@ -5,6 +5,7 @@ categories:
 - journal
 Field name: 
 Image: "/uploads/hands.jpg"
+layout: post
 ---
 
 tets test test
