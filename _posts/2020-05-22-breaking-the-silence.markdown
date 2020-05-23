@@ -2,9 +2,7 @@
 title: Breaking the silence
 date: 2020-05-22 20:32:00 Z
 categories:
-- news & events
-tags:
-- news & events
+- journal
 Intro: 'In one of our research projects, we’re exploring how the UK’s education system
   is having an impact on student mental health. '
 Byline: By Bea Herbert
