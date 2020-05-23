@@ -59,7 +59,7 @@ Team:
     Chris leads on States of Mind’s research projects."
 - image: "/uploads/Tempe.jpg"
   name: 'Tempe Nakiska '
-  description: "**Creative Director **"
+  description: "**Creative Director**"
 - image: "/uploads/Sebastian.png"
   name: Sebastian Bogdan
   description: '**Social Development Lead** Sebastian is one of the many young people
