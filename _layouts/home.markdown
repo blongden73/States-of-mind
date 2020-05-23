@@ -47,7 +47,7 @@
   <div class="som-wrapper flex">
     <div class="som-left green">
       <div class="som-image-style">
-        <img src="{{page ['Quote image']}}">
+        <img class="top" src="{{page ['Quote image']}}">
       </div>
     </div>
     <div class="som-right">
@@ -67,7 +67,7 @@
   </div>
   <div class="som-right white">
     <div class="som-image-style">
-      <img src="{{page ['What we are doing image']}}">
+      <img class="top" src="{{page ['What we are doing image']}}">
     </div>
   </div>
   </div>

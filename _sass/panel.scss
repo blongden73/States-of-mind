@@ -19,6 +19,27 @@
   background-color: $nu-pink !important;
 }
 
+.top {
+  object-position: top;
+}
+
+.bottom {
+  object-position: bottom;
+}
+
+.left {
+  object-position: left;
+}
+
+.right {
+  object-position: right;
+}
+
+.centre {
+  object-position: center;
+}
+
+
 .som-panel {
   min-height: 100vh;
   height: auto;
