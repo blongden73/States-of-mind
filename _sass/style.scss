@@ -167,6 +167,11 @@ h1 {
   z-index: 10000;
   transition: transform ease-in-out 1s;
   opacity: 0.5;
+  display: none;
+
+  @include mq($from: desktop){
+    display: block;
+  }
 
   &.enlarge {
     transform: scale(3);
@@ -246,6 +251,11 @@ h1 {
 
   @include mq($from: desktop) {
     display: block;
+    margin-left: 33%;
+  }
+
+  @include mq($from: wide){
+    margin-left: 45%;
   }
 
   ul {
@@ -291,8 +301,8 @@ h1 {
 
 .menu-mobile {
   display: block;
-  width: 60px;
-  height: 60px;
+  width: 40px;
+  height: 40px;
   background-color: #166482;
   border-radius: 50%;
   position: absolute;
@@ -467,10 +477,15 @@ ul {
   position: fixed;
   width: 100%;
   z-index: 10000000;
-  padding-top: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+
+  &.white {
+    background-color: #fffff9 !important;
+    color: #121212;
+  }
 
   .flex {
-    justify-content: space-between;
 
     ul {
       display: flex;
@@ -548,8 +563,12 @@ ul {
 .som-hero-text {
 
   &.som-wrapper {
-    height: 100vh;
+    height: 80vh;
     position: relative;
+
+    @include mq($from: desktop) {
+      height: 100vh;
+    }
   }
 
   &.half {
@@ -570,11 +589,15 @@ ul {
 }
 
 .som-splash {
-  height: 100vh;
+  height: 80vh;
   width: 100%;
   position: relative;
   overflow: hidden;
   border-bottom: 1px solid #121212;
+
+  @include mq($from:desktop){
+    height: 100vh;
+  }
 
   .som-breath {
     position: absolute;
@@ -1592,6 +1615,30 @@ ul {
     color: #121212;
   }
 
+  blockquote {
+    padding: 0;
+    margin: 0;
+
+    p {
+      font-size: 32px;
+      line-height: 1.2;
+      color: #121212 !important;
+      text-align: center;
+
+      &:before {
+        background-image: url('/uploads/quote.svg');
+        content: '';
+        display: block;
+        width: 50px;
+        height: 50px;
+        background-size: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 10px;
+      }
+    }
+  }
+
   ol {
     margin: 0;
     padding: 0;
@@ -1615,6 +1662,11 @@ ul {
     p {
       padding: 0;
     }
+  }
+
+  iframe {
+    margin-left: 6%;
+    margin-bottom: 30px;
   }
 }
 

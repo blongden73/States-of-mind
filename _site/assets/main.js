@@ -175,12 +175,29 @@ function menu(){
   });
 }
 
+function headerScroll(){
+  var test = document.querySelector('.headertest');
+  var header = document.querySelector('.som-header');
+  document.addEventListener('scroll', function(){
+    console.log(test.getBoundingClientRect().top);
+
+    if(test.getBoundingClientRect().top <= -10){
+        console.log(true)
+        header.classList.add('white');
+    }else {
+      console.log(false)
+      header.classList.remove('white');
+    }
+  });
+}
+
 
 function init(){
   grid();
   enlarger();
   homePage();
   menu();
+  headerScroll();
   if(document.querySelector('canvas')){
     animatedCircles();
   }
