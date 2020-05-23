@@ -6,6 +6,7 @@ categories:
 Field name: Intro
 Byline: Introduction by Tempe Nakiska
 Image: "/uploads/1-9db443.jpg"
+layout: post
 ---
 
 In our new interview series, we hear from students who’ve been in our programme. 
