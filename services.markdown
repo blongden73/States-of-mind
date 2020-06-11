@@ -59,10 +59,11 @@ Team:
     Chris leads on States of Mind’s research projects."
 - image: "/uploads/Tempe.jpg"
   name: 'Tempe Nakiska '
-  description: |-
-    **Creative Director **
-
-    Tempe is an editor and creative consultant who lives between London and Melbourne. Formerly the Editor at HERO and HEROINE magazines and Brand Manager at The Collective, she has applied her background in lifestyle journalism to her passion for new ways of living and supporting wellbeing. Tempe guides our brand storytelling, as we share our mission and work with the world.
+  description: "Creative Director \n\nTempe is an editor and creative consultant who
+    lives between London and Melbourne. Formerly the Editor at HERO and HEROINE magazines
+    and Brand Manager at The Collective, she has applied her background in lifestyle
+    journalism to her passion for new ways of living and supporting wellbeing. Tempe
+    guides our brand storytelling, as we share our mission and work with the world."
 - image: "/uploads/Sebastian.png"
   name: Sebastian Bogdan
   description: '**Social Development Lead** Sebastian is one of the many young people
