@@ -58,7 +58,7 @@ What We Are Doing description: "# Reimagining Mental Health\n\nWe believe that t
   \nour programme sees students create \na social impact project with the aim \nof
   improving the wellbeing of their community. \n\LDiscover more about our programme
   and work.\n\L"
-What we are doing image: "/uploads/what_image.jpg"
+What we are doing image: "/uploads/Pembury.jpg"
 layout: home
 ---
 
