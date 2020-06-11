@@ -59,7 +59,10 @@ Team:
     Chris leads on States of Mind’s research projects."
 - image: "/uploads/Tempe.jpg"
   name: 'Tempe Nakiska '
-  description: "**Creative Director**"
+  description: |-
+    **Creative Director **
+
+    Tempe is an editor and creative consultant who lives between London and Melbourne. Formerly the Editor at HERO and HEROINE magazines and Brand Manager at The Collective, she has applied her background in lifestyle journalism to her passion for new ways of living and supporting wellbeing. Tempe guides our brand storytelling, as we share our mission and work with the world.
 - image: "/uploads/Sebastian.png"
   name: Sebastian Bogdan
   description: '**Social Development Lead** Sebastian is one of the many young people
@@ -73,7 +76,11 @@ Team:
 '
 - image: "/uploads/IMG_4544%20copy%20copy.jpg"
   name: 'Camille Pellicer '
-  description: "**Journalist**"
+  description: "**Journalist** \n\nCamille has an MA in Applied Imagination in the
+    Creative Industries at Central Saint Martins. With a background in journalism,
+    producing and directing, her work focuses on telling the story of the human experience.
+    Camille produces creative content for States of Mind and connects with emerging
+    young artists who connect with our values and mission."
 Logos:
 - Logo: "/uploads/psychosynthesis.png"
 - Logo: "/uploads/annafrued.png"
