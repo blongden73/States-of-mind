@@ -1,7 +1,7 @@
 ---
 title: Who
 date: 2020-02-13 23:08:00 Z
-Who we are splash image: "/uploads/bea%20talking.jpg"
+Who we are splash image: "/uploads/IMG_4220%20(1).jpg"
 Intro text: |-
   We came into being in 2017, as
   an organisation advocating for
