@@ -38,7 +38,7 @@ Carousel:
     really grateful to be a part of something so special, it seems really significant.
   Name: Luvna
   Age: 16
-Intro image: "/uploads/what_intro.jpg"
+Intro image: "/uploads/yousif%20talking.JPG"
 What we do lead image: "/uploads/what_we_do.jpg"
 Ambassador image: "/uploads/ambassador-c73089.jpg"
 Ambassador description: "# Wellbeing Ambassadors Programme\n\nLaunched in Newham in
