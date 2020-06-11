@@ -66,15 +66,13 @@ Team:
     guides our brand storytelling, as we share our mission and work with the world."
 - image: "/uploads/Sebastian.png"
   name: Sebastian Bogdan
-  description: '**Social Development Lead** Sebastian is one of the many young people
+  description: "**Social Development Lead** Sebastian is one of the many young people
     that States of Mind has worked with. His first experience with the organisation
     was through a programme delivered in Six 21. Passionately working with and leading
     his team as a Project Manager, Sebastian helped reinforce a positive learning
     atmosphere and stood as an advocate for the importance of mental health within
     his sixth form. Now, he is working with States of Mind to aid other young people
-    with their well-being on a wider scale."
-
-'
+    with their well-being on a wider scale.\n"
 - image: "/uploads/IMG_4544%20copy%20copy.jpg"
   name: 'Camille Pellicer '
   description: "**Journalist** \n\nCamille has an MA in Applied Imagination in the
