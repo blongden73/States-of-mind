@@ -75,7 +75,7 @@ Eduacation description: "# Education\nOur mission is to make psychological theor
   to the problems affecting their peers. Our programme uses a social enterprise model
   that facilitates students to research, design and deliver initiatives that can create
   a social impact within their school community**\n"
-Education image: "/uploads/education_image.jpg"
+Education image: "/uploads/_MG_5468.jpg"
 Research image: "/uploads/Pembury.jpg"
 Research description: "# Research & Social Change\n\nOur research enables young people’s
   voices to inform the way emotional and mental wellbeing is supported in society.
