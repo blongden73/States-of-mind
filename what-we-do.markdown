@@ -1,11 +1,21 @@
 ---
 title: What we do
 date: 2020-02-13 22:41:00 Z
-Intro text: "# To Live Their Potential?\n\nOur world needs the thinkers, \ndo-ers
-  and leaders of tomorrow \nto feel like they’ve got this. \n\nBut in a rapidly changing
-  world, \nbeing young and transitioning into \nadult life is more challenging than
-  \never. We believe there’s a better \nway of supporting young people’s \nwellbeing,
-  and we’ll only find it by \nfully engaging them in the process \nof change. \n"
+Intro text: |-
+  # to live their potential?
+
+  Our world needs the thinkers,
+  do-ers and leaders of tomorrow
+  to feel like they’ve got this.
+
+  But in a rapidly changing world,
+  being young and transitioning into
+  adult life is more challenging than
+  ever. We believe there’s a better
+  way of supporting young people’s
+  wellbeing, and we’ll only find it by
+  fully engaging them in the process
+  of change.
 Carousel:
 - Image: "/uploads/1-9db443.jpg"
   Quote: 'The programme has helped me see mental health with a different perspective.
@@ -48,33 +58,31 @@ Ambassador description: "# Wellbeing Ambassadors Programme\n\nLaunched in Newham
   intelligence as part of their academic life. \n\nFramed around three key elements,
   the program is underpinned by a project-led approach where students harness their
   insights to create a social impact. \n\n[Download our curriculum](/uploads/States%20ofMind%20Ambassadors%20Training%20Programme.pdf)"
-Eduacation description: "# Education\nOur mission is to make psychological theory
+Eduacation description: "# Education\n\nOur mission is to make psychological theory
   and practice more accessible for young people, so that they can benefit from the
-  rich insights that psychology can bring to our understanding of ourselves and others.
-  We provide a series of seminars that draw on a range of psychological models to
-  explore the human mind, behaviour and emotions. Through a group learning model,
-  students develop a shared understanding of how our personal histories of life shape
-  our mind, personality and self-perception.\n[Book programme](/)\n\n# Exploration\nWe
-  provide space for students to openly explore their mind, behaviour and identity
-  outside of clinical settings. These sessions involve an exploration of how the mind
-  and personality are shaped by experience, using neuroscience, evolutionary, humanistic
-  and psychosocial theory to provide insight into our emotional and mental landscapes.
-  \n**Our model uses a group learning approach, so that young people reflect and learn
-  together in a therapeutic context. By integrating personal experience with critical
-  thinking, we provide an emotionally informed learning environment.**\n\n# Social
-  impact\nWe understand that in order to prevent psychological distress from developing
-  to a critical point, systems must evolve to listen more closely to the voices and
-  needs of young people at an earlier stage. By embedding our model within education,
-  we aim to develop more effective methods for the education system to ensure the
-  psychological health of young people throughout their academic life. \n**We believe
-  that social action is a therapeutic tool to create change for individuals and our
-  society. Our organisation combines education and social action as we recognise that
-  neither can stand alone. We support young people to lead their own projects and
-  initiatives, so that they can take forward their learning and insights to a wider
-  audience.** \n**We bring psychology to life by supporting students to create solutions
-  to the problems affecting their peers. Our programme uses a social enterprise model
-  that facilitates students to research, design and deliver initiatives that can create
-  a social impact within their school community**\n"
+  rich insights that psychology can bring to our understanding of ourselves and others.\n\n
+  - Explore the human mind, behaviour and emotions in a series of seminars that draw
+  on a range of psychological models \n\n- Develop a shared understanding of how our
+  personal histories of life shape our mind, personality and self-perception, through
+  a group learning model.\n[Book programme](/)\n\n# Exploration\n\nWe provide space
+  for students to openly explore their mind, behaviour and identity outside of clinical
+  settings. - Explore how the mind and personality are shaped by experience, using
+  neuroscience, evolutionary, humanistic and psychosocial theory to provide insight
+  into our emotional and mental landscapes. \n\nOur model uses a group learning approach,
+  so that young people reflect and learn together in a therapeutic context. By integrating
+  personal experience with critical thinking, we provide an emotionally informed learning
+  environment.\n\n# Social impact\n\nIn order to prevent psychological distress from
+  reaching a crisis point, systems must evolve to listen more closely to the voices
+  and needs of young people at an earlier stage. By embedding our model within education,
+  we aim to develop more effective methods for the education system to support young
+  people's mental health, throughout their academic life and beyond. \n\nWe combine
+  education with social action for meaningful and sustainable change. Using a social
+  enterprise model, our program supports young people to lead their own projects and
+  initiatives, so they can take their learning and insights forward to a wider audience.
+  \n\n- Identify problems affecting you and your peers, and bring the psychology you’ve
+  learned to life by exploring ways you can improve the situation.\n\n- Research,
+  design and deliver an initiative with the aim of creating a social impact within
+  your school community.\n"
 Education image: "/uploads/_MG_5468.jpg"
 Research image: "/uploads/Pembury.jpg"
 Research description: "# Research & Social Change\n\nOur research enables young people’s
