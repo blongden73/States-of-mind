@@ -51,13 +51,14 @@ Carousel:
 Intro image: "/uploads/_MG_4951.jpg"
 What we do lead image: "/uploads/what_we_do.jpg"
 Ambassador image: "/uploads/ambassador-c73089.jpg"
-Ambassador description: "# Wellbeing Ambassadors Programme\n\nLaunched in Newham in
-  2019, our Wellbeing Ambassadors Programme provides schools with training and resources
-  for schools to create an approach to wellbeing that is informed and led by students.
-  We’re designing a model that helps students develop self awareness and emotional
-  intelligence as part of their academic life. \n\nFramed around three key elements,
-  the program is underpinned by a project-led approach where students harness their
-  insights to create a social impact. \n\n[Download our curriculum](/uploads/States%20ofMind%20Ambassadors%20Training%20Programme.pdf)"
+Ambassador description: |-
+  # Wellbeing Ambassadors Programme
+
+  Launched in Newham in 2019, our Wellbeing Ambassadors Programme provide training and resources for schools to create an approach to wellbeing that is informed and led by students. We’re designing a model that helps students develop self awareness and emotional intelligence as part of their academic life.
+
+  Framed around three key elements, the program is underpinned by a project-led approach where students harness their insights to create a social impact.
+
+  [Download our curriculum](/uploads/States%20ofMind%20Ambassadors%20Training%20Programme.pdf)
 Eduacation description: |-
   # Education
 
