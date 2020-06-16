@@ -22,16 +22,18 @@ Intro text: |-
   intelligence and self awareness as
   part of their everyday life.
 Our Values Image: "/uploads/hands.jpg"
-Our values description: "\n# <img src=\"/uploads/growth_icon.svg\"> Growth\nWe do
-  not believe that mental \nhealth is a fixed concept, but \na dynamic experience,
-  that is \nfacilitated through the quality \nof our relationships with \nourselves
-  and the world.\n\n# <img src=\"/uploads/collab_icon.svg\"> Collaboration\nWe believe
-  in working with \nothers to share ideas, \novercome challenges and find \nnew ways
-  forward. Our model \nhas been developed by hundreds \nof conversations with many
-  \ndifferent people and \norganisations. \n\n# <img src=\"/uploads/SOM_icon.svg\">
-  Change\nWe believe in hope and opportunity amidst chaos and uncertainty. Our mission
-  is bring hope to the lives of young people in our society and create a future that
-  values the beauty and complexity of the human experience. "
+Our values description: |-
+  # <img src="/uploads/growth_icon.svg"> Growth
+
+  We believe that mental health isn't a fixed concept, but a dynamic experience. And that it's shaped by the quality of our relationships with ourselves and the world. We reflect constantly on how we're doing and the impact we're having. We work steadily to evolve and share our progress as we go.
+
+  # <img src="/uploads/collab_icon.svg"> Collaboration
+
+  By sharing ideas and insights with each other, we can overcome challenges and find new ways forward. We tap into the vast and varied knowledge and experience available to us. We listen, ask questions, and elevate voices, to help shape new systems that support emotional and mental wellbeing.
+
+  # <img src="/uploads/SOM_icon.svg"> Opportunity
+
+  No matter how chaotic and uncertain life gets, opportunity can be found. We work to create spaces where meaning can rise from difficulty. So that we can bring hope to the lives of young people in our society, creating a future that values the beauty and complexity of the human experience.
 Team:
 - image: "/uploads/bea.png"
   name: Bea Herbert
