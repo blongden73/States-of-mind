@@ -84,7 +84,7 @@ Eduacation description: "# Education\n\nOur mission is to make psychological the
   design and deliver an initiative with the aim of creating a social impact within
   your school community.\n"
 Education image: "/uploads/_MG_5468.jpg"
-Research image: "/uploads/Pembury.jpg"
+Research image: "/uploads/IMG_1801%20(1).jpg"
 Research description: "# Research & Social Change\n\nOur research enables young people’s
   voices to inform the way emotional and mental wellbeing is supported in society.
   We work with young people to find what’s causing the problems and what they believe
