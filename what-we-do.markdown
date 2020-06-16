@@ -58,31 +58,23 @@ Ambassador description: "# Wellbeing Ambassadors Programme\n\nLaunched in Newham
   intelligence as part of their academic life. \n\nFramed around three key elements,
   the program is underpinned by a project-led approach where students harness their
   insights to create a social impact. \n\n[Download our curriculum](/uploads/States%20ofMind%20Ambassadors%20Training%20Programme.pdf)"
-Eduacation description: "# Education\n\nOur mission is to make psychological theory
-  and practice more accessible for young people, so that they can benefit from the
-  rich insights that psychology can bring to our understanding of ourselves and others.\n\n
-  - Explore the human mind, behaviour and emotions in a series of seminars that draw
-  on a range of psychological models \n\n- Develop a shared understanding of how our
-  personal histories of life shape our mind, personality and self-perception, through
-  a group learning model.\n[Book programme](/)\n\n# Exploration\n\nWe provide space
-  for students to openly explore their mind, behaviour and identity outside of clinical
-  settings. - Explore how the mind and personality are shaped by experience, using
-  neuroscience, evolutionary, humanistic and psychosocial theory to provide insight
-  into our emotional and mental landscapes. \n\nOur model uses a group learning approach,
-  so that young people reflect and learn together in a therapeutic context. By integrating
-  personal experience with critical thinking, we provide an emotionally informed learning
-  environment.\n\n# Social impact\n\nIn order to prevent psychological distress from
-  reaching a crisis point, systems must evolve to listen more closely to the voices
-  and needs of young people at an earlier stage. By embedding our model within education,
-  we aim to develop more effective methods for the education system to support young
-  people's mental health, throughout their academic life and beyond. \n\nWe combine
-  education with social action for meaningful and sustainable change. Using a social
-  enterprise model, our program supports young people to lead their own projects and
-  initiatives, so they can take their learning and insights forward to a wider audience.
-  \n\n- Identify problems affecting you and your peers, and bring the psychology you’ve
-  learned to life by exploring ways you can improve the situation.\n\n- Research,
-  design and deliver an initiative with the aim of creating a social impact within
-  your school community.\n"
+Eduacation description: |-
+  # Education
+
+  Our mission is to make psychological theory and practice more accessible for young people, so that they can benefit from the rich insights that psychology can bring to our understanding of ourselves and others.
+
+  * Explore the human mind, behaviour and emotions in a series of seminars that draw on a range of psychological models
+
+  * Develop a shared understanding of how our personal histories of life shape our mind, personality and self-perception, through a group learning model.
+    [Book programme](/)
+
+  # Exploration
+
+  We provide space for students to openly explore their mind, behaviour and identity outside of clinical settings. - Explore how the mind and personality are shaped by experience, using neuroscience, evolutionary, humanistic and psychosocial theory to provide insight into our emotional and mental landscapes. Our model uses a group learning approach, so that young people reflect and learn together in a therapeutic context. By integrating personal experience with critical thinking, we provide an emotionally informed learning environment.
+
+  # Social impact
+
+  In order to prevent psychological distress from reaching a crisis point, systems must evolve to listen more closely to the voices and needs of young people at an earlier stage. By embedding our model within education, we aim to develop more effective methods for the education system to support young people's mental health, throughout their academic life and beyond. We combine education with social action for meaningful and sustainable change. Using a social enterprise model, our program supports young people to lead their own projects and initiatives, so they can take their learning and insights forward to a wider audience.
 Education image: "/uploads/_MG_5468.jpg"
 Research image: "/uploads/IMG_1801%20(1).jpg"
 Research description: "# Research & Social Change\n\nOur research enables young people’s
