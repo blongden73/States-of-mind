@@ -2,10 +2,10 @@
 title: How to start a reflective journaling practice
 date: 2020-05-22 20:38:00 Z
 categories:
-- Habits
+- Journal
 tags:
 - self awareness
-- habits
+- journalling
 Intro: 'We’ve all heard about the perks of keeping a diary. But what if writing could
   help you live the life you want? '
 Byline: 'By Camille Pellicer '
@@ -19,9 +19,11 @@ Oscar Wilde was right. A diary recalls one’s sensation from the past, present,
 
 We are not all future Oscar Wildes and we may not have the ambition to write an impressive body of work in theatre, poetry and literature, but I’ll take a risk in suggesting that we may all share the ambition to grow and improve as human beings in our lifetime. 
 
-This is where the art of self-reflection comes in. Writing a self-reflective journal is about being an active witness of your own experience. By taking a closer look at yourself, you can find clarity on who you were, who you are and who you wish to become. 
+This is where the art of self-reflection comes in. Writing a self-reflective journal is about being an active witness of your own experience. 
 
-We all encounter countless teachers in our life. Our first teachers are our parents, then our primary school teachers, our friends, our first boyfriends or girlfriends and the list goes on. But ultimately, the main teacher who remains with us our entire life is ourselves. By developing the habit of reflecting on and learning through our own experience, we become simultaneously the teacher and the student to our own self. With time and practice we can become our most reliable teacher. Once we learn to trust our instinct, we can reflect and analyse our experience and dare to share our dreams with our higher self. 
+> By taking a closer look at yourself, you can find clarity on who you were, who you are and who you wish to become. 
+
+We all encounter countless teachers in our life. Our first teachers are our parents, then our primary school teachers, our friends, our first boyfriends or girlfriends and the list goes on. But ultimately, the main teacher who remains with us our entire life is ourselves. By developing the habit of reflecting on and learning through our own experience, we become simultaneously the teacher and the student to our own self. With time and practice we can become our most reliable teacher. Once we learn to trust our instinct, we can reflect and analyse our experience and dare to share our dreams with ourselves and the world. 
 
 Put simply, a reflective practice is the habit of thinking and reflecting on what you do and who you are, and journaling can be an effective approach. There is no right or wrong way to write a journal, but below are some simple tips to help you get started:
 
