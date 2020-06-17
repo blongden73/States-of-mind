@@ -1,8 +1,8 @@
 ---
-title: Meet Neeraja – Wellbeing Ambassador
+title: 'Meet Neeraja: Wellbeing Ambassador'
 date: 2020-05-21 21:40:00 Z
 categories:
-- journal
+- Community
 Intro: 'In our new interview series, we hear from students who’ve taken part in our
   programme. '
 Byline: Introduction by Tempe Nakiska
@@ -10,9 +10,11 @@ Image: "/uploads/1-9db443.jpg"
 layout: post
 ---
 
-One of the best things about our work is collaborating with inspiring young people from all over London. In our Wellbeing Ambassadors Programme, we teach secondary school and college age students about mental health and emotional intelligence, provide a space for them to explore their mind, behaviour and identity, and hear their ideas for how their learning environment could be a happier, healthier place. Then we help turn those ideas into reality, as students use what they’ve learned to design and run an initiative to improve wellbeing at their school. 
+One of the best things about our work is collaborating with inspiring young people from all over London. 
+
+In our Wellbeing Ambassadors Programme, we teach secondary school and college age students about mental health and emotional intelligence, provide a space for them to explore their mind, behaviour and identity, and hear their ideas for how their learning environment could be a happier, healthier place. Then we help turn those ideas into reality, as students use what they’ve learned to design and run an initiative to improve wellbeing at their school. 
  
-In the first part of our new series of interviews with students in our Wellbeing Ambassadors Programme, we speak with Neeraja, who was part of the first cohort in Newham Borough. As project manager for the team, she oversaw the development of not one but two new wellbeing initiatives for her college. (We think that’s pretty great). 
+> In the first part of our new series of interviews with students in the programme, we speak with Neeraja, who was part of the first cohort in Newham Borough. As project manager for the team, she oversaw the development of not one but two new wellbeing initiatives for her college. 
  
 Neeraja's team designed and co-facilitated peer talking groups for wellbeing which were run as lunchtime drop in sessions and in tutorials, as well as launching the Nameless Book, an opportunity for students across her college to submit stories about what they learned from overcoming challenging experiences in their lives. 
  
