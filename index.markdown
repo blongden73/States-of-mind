@@ -12,7 +12,7 @@ Quote text: |-
   [Listen](/what-we-do#carousel)
 Quote image: "/uploads/quote_image.jpg"
 Why we are here image: "/uploads/scroller1.jpg"
-Why we are here description: "# <img src=\"/uploads/connected_icon.svg\">Interconnectedness\n\nGrowing
+Why we are here description: "# <img src=\"/uploads/connected_icon.svg\">Space\n\nGrowing
   numbers of young people in the UK are seeking help for their mental health, but
   many aren’t getting the support they need. \n\nWith the NHS unable to meet the rising
   demand, we believe it's time for a new approach, one that is co-created with young
