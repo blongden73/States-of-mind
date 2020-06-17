@@ -26,14 +26,14 @@ Why we are here description: "# <img src=\"/uploads/connected_icon.svg\">\n\nGro
   make sure our society's approach to mental health is working. We work alongside
   young people and psychologists to create social impact and research projects that
   enable young people's experiences, views and ideas to be a driving force for change. "
-What We Are Doing description: "# Reimagining Mental Health\n\nOur vision is for a
+What We Are Doing description: "# Reimagining mental health\n\nOur vision is for a
   world where it's natural to talk about and care for our emotional and mental wellbeing.
   Where times of suffering don't disconnect us, but help us align with who we are,
   acknowledge our needs, and make sense of our lives, together.  \n\nWe educate young
   people about mental health through a programme that fosters self awareness, connection,
   and hope. Our work is based on therapeutic approaches, which offer a chance to understand
   yourself, others, and explore how you can fully land in your potential, with integrity.
-  \n\n# Creating Change Together\n \nIdeas raised to action can change the world.
+  \n\n# Creating change together\n \nIdeas raised to action can change the world.
   Working with and listening to young people, we combine insights with social action
   so that the problems we find can be transformed into meaningful change. \n\nOur
   programme's project-based learning model enables young people to identify key issues
