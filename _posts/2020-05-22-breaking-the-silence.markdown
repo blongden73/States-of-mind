@@ -3,6 +3,9 @@ title: Breaking the silence
 date: 2020-05-22 20:32:00 Z
 categories:
 - journal
+tags:
+- research
+- breaking the silence
 Intro: 'In one of our research projects, we’re exploring how the UK’s education system
   is having an impact on student mental health. '
 Byline: By Bea Herbert
@@ -35,10 +38,10 @@ Students feel that often, the role of teachers seems to be to teach to the test,
  
 The findings from the young people’s work so far illustrate how young people want to be seen as individuals, with individual needs and unique ambitions. Ofsted inspections focus school’s targets on Academic performance, rather than their ability to provide a holistic and student focused culture of general wellbeing and self determination. There is a stigma around non academic pathways and alternative routes to employment which frames less academic students as having ‘failed ‘ the ‘ true test of intelligence’.  
 
-The research the student’s have initiated continues to develop with States of Mind recently collaborating with UCL to develop the research base. 
+*The research the student’s have initiated continues to develop with States of Mind recently collaborating with UCL to develop the research base.*
 
 
-**Listen to our podcast episode on the Breaking the Silence project, below. **
+**Listen to our podcast episode on the Breaking the Silence project, below.**
 
 
 <iframe src="https://anchor.fm/bea-herbert/embed/episodes/Breaking-The-Silence--Young-peoples-views-on-Education-and-Identity-eeb7ej" height="102px" width="400px" frameborder="0" scrolling="no"></iframe> 
