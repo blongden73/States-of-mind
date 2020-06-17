@@ -3,7 +3,10 @@ title: Welcome to States of Mind
 date: 2020-05-23 12:12:00 Z
 categories:
 - journal
-Field name: hello
+- news
+Intro: 'We’re combining education and social action to give mental health a new meaning
+  – one founded in empowerment and connection, rather than confusion and separateness. '
+Byline: States of mind
 Image: "/uploads/1080x1080%20copy%2023.jpg"
 layout: post
 ---
