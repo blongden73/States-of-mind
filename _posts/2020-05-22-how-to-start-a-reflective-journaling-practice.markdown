@@ -2,8 +2,7 @@
 title: How to start a reflective journaling practice
 date: 2020-05-22 20:38:00 Z
 categories:
-- journal
-- tools
+- Habits
 tags:
 - self awareness
 - habits
