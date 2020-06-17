@@ -2,7 +2,7 @@
 title: What we do
 date: 2020-02-13 22:41:00 Z
 Intro text: |-
-  # to live their potential?
+  # ...to live their potential?
 
   Our world needs the thinkers,
   do-ers and leaders of tomorrow
