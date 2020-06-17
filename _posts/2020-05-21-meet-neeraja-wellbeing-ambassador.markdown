@@ -2,6 +2,8 @@
 title: 'Meet Neeraja: Wellbeing Ambassador'
 date: 2020-05-21 21:40:00 Z
 categories:
+- journal
+tags:
 - Community
 Intro: 'In our new interview series, we hear from students who’ve taken part in our
   programme. '
