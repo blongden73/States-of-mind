@@ -40,7 +40,7 @@ Carousel:
   Age: 17
 - Image: "/uploads/3-12428b.jpg"
   Quote: Schools don't always know how to help us, so they are helping us to help
-    each other
+    each other.
   Name: Nafeesa
   Age: 17
 - Image: "/uploads/5-833cad.jpg"
@@ -56,7 +56,7 @@ Ambassador description: |-
 
   Launched in Newham in 2019, our Wellbeing Ambassadors Programme provide training and resources for schools to create an approach to wellbeing that is informed and led by students. We’re designing a model that helps students develop self awareness and emotional intelligence as part of their academic life.
 
-  Framed around three key elements, the program is underpinned by a project-led approach where students harness their insights to create a social impact.
+  With three core components, the program is underpinned by a project-led approach where students harness their insights to create a social impact.
 
   [Download our curriculum](/uploads/States%20ofMind%20Ambassadors%20Training%20Programme.pdf)
 Eduacation description: |-
