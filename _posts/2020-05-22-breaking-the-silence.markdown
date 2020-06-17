@@ -18,16 +18,14 @@ The project was initiated in response to Ofsted’s consultation on their new In
 
 Over the period of the consultation, 80 students have shared their views around their experience in education, exploring Ofsted’s influence on the culture of schools and the subsequent impact this has on student’s mental health and identity.The results expose a complex account of how the UK education system, under Ofsted’s current framework, is contributing to a decline in the mental health of students.  The working group have revealed an account, that provides a new context for understanding a factor contributing to the rising levels of mental health concerns experienced by young people. Student’s have summarised their findings in an open letter to Amanda Speilman, calling for their voices and experiences to be heard.
 
-
-Read the Open Letter here. [links to Open Letter blog]
-
-
 A sharing from Julia, student working group member:
 
 “I have been doing work experience with States of Mind for 10 weeks and I have learned a lot more not only about mental health but also how it fits in our society today.  States of Mind has allowed me to be able to see the bigger picture and feel like, for once, my opinion and the voices of other young people have been listened to and that they actually matter. I enjoyed every week and every activity that we did and I genuinely feel like all of it has a purpose and that it should become a much bigger deal and acknowledged by more people. I would recommend States of Mind to anyone who cares about the current system and who wants to learn more not just about the world but about themselves. The whole experience has been enjoyable and I have learnt skills that I will take with me for life.”
 
 
-It is in the interest of parents, employers and society as a whole to advocate for an education system that enables young people to flourish as individuals, with unique skill sets, ambitions and confidence in speaking their views critically and truthfully with others. Yet often, young people’s experience of education feels limiting, minimising their sense of choice, personal identity and unique personal interests. 
+> It's in the interest of parents, employers and society as a whole to advocate for an education system that enables young people to flourish as individuals, with unique skill sets, ambitions and confidence in speaking their views critically and truthfully with others. 
+
+But often, young people’s experience of education feels limiting, minimising their sense of choice, personal identity and unique personal interests. 
 
 This research project allowed young people to lead the conversation around their experience in education and explore the issues that most mattered to them. As the primary stakeholders of education, their voices are key to understanding the issues and proposing reforms that can enable a more engaging and fulfilling experience of learning and developing within school. 
 
@@ -40,8 +38,7 @@ The findings from the young people’s work so far illustrate how young people w
 The research the student’s have initiated continues to develop with States of Mind recently collaborating with UCL to develop the research base. 
 
 
-Below you can listen to our podcast episode on the Breaking the Silence project. 
+**Listen to our podcast episode on the Breaking the Silence project, below. **
 
-[Embed Link for podcast:]
 
 <iframe src="https://anchor.fm/bea-herbert/embed/episodes/Breaking-The-Silence--Young-peoples-views-on-Education-and-Identity-eeb7ej" height="102px" width="400px" frameborder="0" scrolling="no"></iframe> 
