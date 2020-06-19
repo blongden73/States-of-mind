@@ -38,10 +38,10 @@ Team:
 - image: "/uploads/bea.png"
   name: Bea Herbert
   description: "**Founder and Director** Bea founded States of Mind in 2017, driven
-    by a desire to create change in the mental health system. She specialises in co-creating
-    projects that enable young people to design innovations for wellbeing. Drawing
-    on her training in Psychosynthesis Psychotherapy, Bea is the Project Manager and
-    Lead Facilitator at States of Mind. "
+    by a desire to create change in how our society speak about and supports experiences
+    of emotional distress. She specialises in co-creating projects that enable young
+    people to design innovations for wellbeing. Drawing on her training in Psychosynthesis
+    Psychotherapy, Bea is the Project Manager and Lead Facilitator at States of Mind. "
 - image: "/uploads/norton.jpg"
   name: 'Michael Norton '
   description: "**Director** Michael has dedicated his life to enhancing society and
