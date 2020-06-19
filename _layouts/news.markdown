@@ -15,7 +15,7 @@
       <div class="som-news-info-wrapper">
         <div class="som-scroll-text right">
           <h1>{{post.title}}</h1>
-          <h2 class="courier">{{post.categories}}</h2>
+          <h2 class="courier">{{post.Section}}</h2>
           <p>{{post.Intro}}</p>
         </div>
       </div>

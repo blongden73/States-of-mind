@@ -11,7 +11,7 @@
     <div class="som-news-info-wrapper">
       <div class="som-scroll-text right">
         <h1>{{page.title}}</h1>
-        <h2 class="courier">{{page.categories}} {{page.Byline}}</h2>
+        <h2 class="courier">{{page.Section}} {{page.Byline}}</h2>
         <h2 class="courier">{{page.date | date: "%a, %b %d, %y"}} </h2>
         <p>{{page.Intro}}</p>
         <!-- Go to www.addthis.com/dashboard to customize your tools -->
