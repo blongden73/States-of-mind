@@ -61,7 +61,7 @@ Ambassador description: |-
 Eduacation description: |-
   # Education
 
-  Our mission is to make psychological theory and practice more accessible for young people, so that they can benefit from the rich insights that psychology can bring to our understanding of ourselves and others.**Explore the human mind, behaviour and emotions in a series of seminars that draw on a range of psychological models. **Develop a shared understanding of how our personal histories of life shape our mind, personality and self-perception, through a group learning model.**
+  **Our mission is to make psychological theory and practice more accessible for young people, so that they can benefit from the rich insights that psychology can bring to our understanding of ourselves and others.**Explore the human mind, behaviour and emotions in a series of seminars that draw on a range of psychological models.** **Develop a shared understanding of how our personal histories of life shape our mind, personality and self-perception, through a group learning model.**
   [Book programme](/)
 
   # Exploration
