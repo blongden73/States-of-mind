@@ -48,7 +48,7 @@ Carousel:
     really grateful to be a part of something so special, it seems really significant.
   Name: Luvna
   Age: 16
-Intro image: "/uploads/Screenshot%202020-06-19%20at%2018.49.23.png"
+Intro image: "/uploads/MG_4483.jpg"
 What we do lead image: "/uploads/what_we_do.jpg"
 Ambassador image: "/uploads/ambassador-c73089.jpg"
 Ambassador description: |-
