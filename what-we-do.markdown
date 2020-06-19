@@ -76,8 +76,8 @@ Eduacation description: "# Education\n\nOur mission is to make psychological the
   from reaching a crisis point, systems must evolve to listen more closely to the
   voices and needs of young people at an earlier stage. By embedding our model within
   education, we aim to develop more effective methods for the education system to
-  support young people's mental health, throughout their academic life and beyond.**
-  \n\n**We combine education with social action for meaningful and sustainable change.
+  support young people's mental health, throughout their academic life and beyond.
+  \n\nWe combine education with social action for meaningful and sustainable change.
   Using a social enterprise model, our program supports young people to lead their
   own projects and initiatives, so they can take their learning and insights forward
   to a wider audience.**"
