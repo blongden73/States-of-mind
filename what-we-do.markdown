@@ -11,8 +11,7 @@ Intro text: |-
   But in a rapidly changing world,
   being young and transitioning into
   adult life is more challenging than
-  ever. We believe there’s a better
-  way of supporting young people’s
+  ever. We believe there are better ways of supporting young people’s
   wellbeing, and we’ll only find it by
   fully engaging them in the process
   of change.
