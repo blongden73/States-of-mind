@@ -479,7 +479,7 @@
       padding-bottom: 20px;
 
       @include mq($from: desktop) {
-        padding-bottom: 50vh;
+        padding-bottom: 30vh;
         @include size(3.35);
       }
 
