@@ -68,11 +68,11 @@ Eduacation description: |-
 
   # Exploration
 
-  We provide space for students to openly explore their mind, behaviour and identity outside of clinical settings. - Explore how the mind and personality are shaped by experience, using neuroscience, evolutionary, humanistic and psychosocial theory to provide insight into our emotional and mental landscapes. **Our model uses a group learning approach, so that young people reflect and learn together in a therapeutic context. By integrating personal experience with critical thinking, we provide an emotionally informed learning environment.**
+  We provide space for students to openly explore their mind, behaviour and identity outside of clinical settings. **Explore how the mind and personality are shaped by experience, using neuroscience, evolutionary, humanistic and psychosocial theory to provide insight into our emotional and mental landscapes. **Our model uses a group learning approach, so that young people reflect and learn together in a therapeutic context. By integrating personal experience with critical thinking, we provide an emotionally informed learning environment.**
 
   # Social impact
 
-  In order to prevent psychological distress from reaching a crisis point, systems must evolve to listen more closely to the voices and needs of young people at an earlier stage. By embedding our model within education, we aim to develop more effective methods for the education system to support young people's mental health, throughout their academic life and beyond.**We combine education with social action for meaningful and sustainable change. Using a social enterprise model, our program supports young people to lead their own projects and initiatives, so they can take their learning and insights forward to a wider audience.**
+  In order to prevent psychological distress from reaching a crisis point, systems must evolve to listen more closely to the voices and needs of young people at an earlier stage. **By embedding our model within education, we aim to develop more effective methods for the education system to support young people's mental health, throughout their academic life and beyond.**We combine education with social action for meaningful and sustainable change. Using a social enterprise model, our program supports young people to lead their own projects and initiatives, so they can take their learning and insights forward to a wider audience.**
 Education image: "/uploads/GIRLS%20IN%20A%20LINE.JPG"
 Research image: "/uploads/IMG_1801%20(1).jpg"
 Research description: "# Research & Social Change\n\nOur research enables young people’s
