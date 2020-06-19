@@ -80,11 +80,11 @@ Research description: "# Research & Social Change\n\nOur research enables young 
   We work with young people to find what’s causing the problems and what they believe
   will work better. \n\nWe design our research projects to enable young people to
   shape the future and inspire new ways of thinking. \n"
-Case study text: 'Breaking the Silence is a youth led working research project exploring
-  students views about mental health and identity in education. The project was launched
-  in 2019 as a response to Ofsted’s Consultation. A group of students from London
-  colleges reported their findings and views in an open letter to Amanda Speilman.  We
-  are currently working alongside UCL to develop the research project. '
+Case study text: 'Breaking the Silence is a youth led research project exploring students
+  views about mental health and identity in education. The project was launched in
+  2019 as a response to Ofsted’s Consultation. A group of students from London colleges
+  reported their findings and views in an open letter to Amanda Speilman.  We are
+  currently working alongside UCL to develop the research project. '
 Case Study Video: |-
   <iframe src="https://player.vimeo.com/video/328675194" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
   <p><a href="https://vimeo.com/328675194">Breaking the Silence: Students respond to Ofsted Consultation</a> from <a href="https://vimeo.com/user62929828">Bea Herbert</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
