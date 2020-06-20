@@ -66,8 +66,7 @@ Eduacation description: |-
 
   # Exploration
 
-  We provide space for students to openly explore their mind, behaviour and identity outside of clinical settings.**Explore how the mind and personality are shaped by experience, using neuroscience, evolutionary, humanistic and psychosocial theory to provide insight into our emotional and mental landscapes.**
-  **Our model uses a group learning approach, so that young people reflect and learn together in a therapeutic context. By integrating personal experience with critical thinking, we provide an emotionally informed learning environment.**
+  We create spaces that explore the underlying causes of distress. We are curious about what lays behind the surface of problems and by uncovering the complexity of issues, we work with young people to find design solutions that can really work.**Our research underpins our work and we use it to provide clarity, direction and purpose. By combining research and storytelling, we have developed an approach that is built from a meaningful search for better ways of helping people.** **We embrace complexity and dedicate our work to understand what’s contributing to problems, so that we can create new and sustainable solutions.**
 
   # Social impact
 
