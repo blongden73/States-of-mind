@@ -58,19 +58,29 @@ Ambassador description: |-
   With three core components, the programme is underpinned by a project-led approach where students harness their insights to create a social impact.
 
   [Download our curriculum](/uploads/States%20ofMind%20Ambassadors%20Training%20Programme.pdf)
-Eduacation description: |-
-  # Education
-
-  Our mission is to make psychological theory and practice more accessible for young people, so that they can benefit from the rich insights that psychology can bring to our understanding of ourselves and others.**Explore the human mind, behaviour and emotions in a series of seminars that draw on a range of psychological models.**  **Develop a shared understanding of how our personal histories of life shape our mind, personality and self-perception, through a group learning model.**
-  [Book programme](/)
-
-  # Exploration
-
-  We create spaces that explore the underlying causes of distress. We are curious about what lays behind the surface of problems and by exploring the complexity of issues, we work with young people to find solutions that can really work.**Our research underpins our work and we use it to provide clarity, direction and purpose. By combining research and storytelling, we have developed an approach that is built from a meaningful search for better ways of helping people.** ** We embracing complexity and dedicate our work to revealing what’s really contributing to problems, so that we can create meaningful and sustainable solutions.**
-
-  # Social impact
-
-  In order to prevent psychological distress from reaching a crisis point, systems must evolve to listen more closely to the voices and needs of young people at an earlier stage.**By embedding our model within education, we aim to develop more effective methods for the education system to support young people's mental health, throughout their academic life and beyond.** **We combine education with social action for meaningful and sustainable change. Using a social enterprise model, our program supports young people to lead their own projects and initiatives, so they can take their learning and insights forward to a wider audience.**
+Eduacation description: "# Education\n\nOur mission is to make psychological theory
+  and practice more accessible for young people, so that they can benefit from the
+  rich insights that psychology can bring to our understanding of ourselves and others.**Explore
+  the human mind, behaviour and emotions in a series of seminars that draw on a range
+  of psychological models.**  **Develop a shared understanding of how our personal
+  histories of life shape our mind, personality and self-perception, through a group
+  learning model.**\n[Book programme](/)\n\n# Exploration\n\nWe create spaces that
+  explore the underlying causes of distress. We are curious about what lays behind
+  the surface of problems and by exploring the complexity of issues, we work with
+  young people to find solutions that can really work.**Our research underpins our
+  work and we use it to provide clarity, direction and purpose. \nBy combining research
+  and storytelling, we have developed an approach that is built from a meaningful
+  search for better ways of helping people.** **We embracing complexity and dedicate
+  our work to revealing what’s really contributing to problems, so that we can create
+  meaningful and sustainable solutions.**\n\n# Social impact\n\nIn order to prevent
+  psychological distress from reaching a crisis point, systems must evolve to listen
+  more closely to the voices and needs of young people at an earlier stage.**By embedding
+  our model within education, we aim to develop more effective methods for the education
+  system to support young people's mental health, throughout their academic life and
+  beyond.** **We combine education with social action for meaningful and sustainable
+  change. Using a social enterprise model, our program supports young people to lead
+  their own projects and initiatives, so they can take their learning and insights
+  forward to a wider audience.**"
 Education image: "/uploads/GIRLS%20IN%20A%20LINE.JPG"
 Research image: "/uploads/IMG_1801%20(1).jpg"
 Research description: |-
