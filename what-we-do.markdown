@@ -66,7 +66,7 @@ Eduacation description: |-
 
   # Exploration
 
-  We create spaces that explore the underlying causes of distress. We are curious about what lays behind the surface of problems and by exploring the complexity of issues, we work with young people to find solutions that can really work.**Our research underpins our work and we use it to provide clarity, direction and purpose. By combining research and storytelling, we have developed an approach that is built from a meaningful search for better ways of helping people.** **We embrace complexity and dedicate our work towards understanding what’s contributing to problems, so that we can meaningful and sustainable solutions.**
+  We create spaces that explore the underlying causes of distress. We are curious about what lays behind the surface of problems and by exploring the complexity of issues, we work with young people to find solutions that can really work.**Our research underpins our work and we use it to provide clarity, direction and purpose. By combining research and storytelling, we have developed an approach that is built from a meaningful search for better ways of helping people.** ** We embracing complexity and dedicate our work to revealing what’s really contributing to problems, so that we can create meaningful and sustainable solutions.**
 
   # Social impact
 
