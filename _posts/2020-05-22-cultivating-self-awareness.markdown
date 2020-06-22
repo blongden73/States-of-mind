@@ -61,7 +61,7 @@ Self awareness allows you to become the observer of your thought process, of you
 
 Ultimately, we all share a collective human experience. Self awareness is a gift that can expand our understanding of what it means to be human, and to be on this wild ride called life, together.
 
-*Learn more about how our programmes help to foster self awareness and emotional intelligence here.*
+*Learn more about how our programmes help to foster self awareness and emotional intelligence [here](http://statesofmind.org/what-we-do).*
 
 **References:**
 *Tascha Eurich, "What Self-Awareness Really Is (and How to Cultivate It)”, Harvard Business Review, 2018*
