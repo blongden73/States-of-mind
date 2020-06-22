@@ -9,6 +9,7 @@ Intro: 'In our new interview series, we hear from students who’ve taken part i
   programme. '
 Byline: Introduction by Tempe Nakiska
 Image: "/uploads/1-9db443.jpg"
+Section: 
 layout: post
 ---
 
