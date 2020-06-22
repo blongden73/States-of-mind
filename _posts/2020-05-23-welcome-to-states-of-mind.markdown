@@ -7,9 +7,9 @@ tags:
 - States of mind
 Intro: 'We’re combining education and social action to give mental health a new meaning
   – one founded in empowerment and connection. Here''s how. '
-Byline: By States of mind
+Byline: By States of Mind
 Image: "/uploads/1080x1080%20copy%2023.jpg"
-Section: 
+Section: THIS IS THE SECTION!!!!!
 layout: post
 ---
 

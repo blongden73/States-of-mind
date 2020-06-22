@@ -2,7 +2,7 @@
 title: How to start a reflective journaling practice
 date: 2020-05-22 20:38:00 Z
 categories:
-- Journal
+- journal
 tags:
 - self awareness
 - journalling
@@ -10,6 +10,7 @@ Intro: 'We’ve all heard about the perks of keeping a diary. But what if writin
   help you live the life you want? '
 Byline: 'By Camille Pellicer '
 Image: "/uploads/Journalling%20and%20reflection%201.png"
+Section: 
 layout: post
 ---
 

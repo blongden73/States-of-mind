@@ -11,8 +11,7 @@ Intro text: |-
   But in a rapidly changing world,
   being young and transitioning into
   adult life is more challenging than
-  ever. We believe there’s a better
-  way of supporting young people’s
+  ever. We believe there are better ways of supporting young people’s
   wellbeing, and we’ll only find it by
   fully engaging them in the process
   of change.
@@ -48,43 +47,44 @@ Carousel:
     really grateful to be a part of something so special, it seems really significant.
   Name: Luvna
   Age: 16
-Intro image: "/uploads/_MG_4951.jpg"
+Intro image: "/uploads/MG_4948.jpg"
 What we do lead image: "/uploads/what_we_do.jpg"
 Ambassador image: "/uploads/ambassador-c73089.jpg"
 Ambassador description: |-
   # Wellbeing Ambassadors Programme
 
-  Launched in Newham in 2019, our Wellbeing Ambassadors Programme provide training and resources for schools to create an approach to wellbeing that is informed and led by students. We’re designing a model that helps students develop self awareness and emotional intelligence as part of their academic life.
+  Launched in Newham in 2019, our Wellbeing Ambassadors Programme provides training and resources for schools to create an approach to wellbeing that is informed and led by students. We’re designing a model that helps students develop self awareness and emotional intelligence as part of their academic life.
 
-  With three core components, the program is underpinned by a project-led approach where students harness their insights to create a social impact.
+  With three core components, the programme is underpinned by a project-led approach where students harness their insights to create a social impact.
 
   [Download our curriculum](/uploads/States%20ofMind%20Ambassadors%20Training%20Programme.pdf)
 Eduacation description: |-
   # Education
 
-  Our mission is to make psychological theory and practice more accessible for young people, so that they can benefit from the rich insights that psychology can bring to our understanding of ourselves and others. **Explore the human mind, behaviour and emotions in a series of seminars that draw on a range of psychological models**
-  **Develop a shared understanding of how our personal histories of life shape our mind, personality and self-perception, through a group learning model.**
-    [Book programme](/)
+  Our mission is to make psychological theory and practice more accessible for young people, so that they can benefit from the rich insights that psychology can bring to our understanding of ourselves and others.**Explore the human mind, behaviour and emotions in a series of seminars that draw on a range of psychological models.**  **Develop a shared understanding of how our personal histories of life shape our mind, personality and self-perception, through a group learning model.**
+  [Book programme](/)
 
   # Exploration
 
-  We provide space for students to openly explore their mind, behaviour and identity outside of clinical settings. - Explore how the mind and personality are shaped by experience, using neuroscience, evolutionary, humanistic and psychosocial theory to provide insight into our emotional and mental landscapes. Our model uses a group learning approach, so that young people reflect and learn together in a therapeutic context. By integrating personal experience with critical thinking, we provide an emotionally informed learning environment.
+  We create spaces that explore the underlying causes of distress. We are curious about what lays behind the surface of problems and by exploring the complexity of issues, we work with young people to find solutions that can really work.**Our research underpins our work and we use it to provide clarity, direction and purpose.
+  By combining research and storytelling, we have developed an approach that is built from a meaningful search for better ways of helping people.** **We embrace complexity and dedicate our work to revealing what’s really contributing to problems, so that we can create meaningful and sustainable solutions.**
 
   # Social impact
 
-  In order to prevent psychological distress from reaching a crisis point, systems must evolve to listen more closely to the voices and needs of young people at an earlier stage. By embedding our model within education, we aim to develop more effective methods for the education system to support young people's mental health, throughout their academic life and beyond. We combine education with social action for meaningful and sustainable change. Using a social enterprise model, our program supports young people to lead their own projects and initiatives, so they can take their learning and insights forward to a wider audience.
-Education image: "/uploads/_MG_5468.jpg"
+  In order to prevent psychological distress from reaching a crisis point, systems must evolve to listen more closely to the voices and needs of young people at an earlier stage.**By embedding our model within education, we aim to develop more effective methods for the education system to support young people's mental health, throughout their academic life and beyond.** **We combine education with social action for meaningful and sustainable change. Using a social enterprise model, our program supports young people to lead their own projects and initiatives, so they can take their learning and insights forward to a wider audience.**
+Education image: "/uploads/GIRLS%20IN%20A%20LINE.JPG"
 Research image: "/uploads/IMG_1801%20(1).jpg"
-Research description: "# Research & Social Change\n\nOur research enables young people’s
-  voices to inform the way emotional and mental wellbeing is supported in society.
-  We work with young people to find what’s causing the problems and what they believe
-  will work better. \n\nWe design our research projects to enable young people to
-  shape the future and inspire new ways of thinking. \n"
-Case study text: 'Breaking the Silence is a youth led working research project exploring
-  students views about mental health and identity in education. The project was launched
-  in 2019 as a response to Ofsted’s Consultation. A group of students from London
-  colleges reported their findings and views in an open letter to Amanda Speilman.  We
-  are currently working alongside UCL to develop the research project. '
+Research description: |-
+  # Research & Social Change
+
+  Our research enables young people’s voices to inform the way emotional and mental wellbeing is supported in society. We work with young people to find what’s causing the problems and what they believe will work better.
+
+  We design our research projects to enable young people to shape the future and inspire new ways of thinking.
+Case study text: 'Breaking the Silence is a youth led research project exploring students
+  views about mental health and identity in education. The project was launched in
+  2019 as a response to Ofsted’s Consultation. A group of students from London colleges
+  reported their findings and views in an open letter to Amanda Speilman.  We are
+  currently working alongside UCL to develop the research project. '
 Case Study Video: |-
   <iframe src="https://player.vimeo.com/video/328675194" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
   <p><a href="https://vimeo.com/328675194">Breaking the Silence: Students respond to Ofsted Consultation</a> from <a href="https://vimeo.com/user62929828">Bea Herbert</a> on <a href="https://vimeo.com">Vimeo</a>.</p>

@@ -1,5 +1,5 @@
 ---
-title: Breaking the silence
+title: Getting to know our youth-led research project, Breaking the silence
 date: 2020-05-22 20:32:00 Z
 categories:
 - journal
@@ -10,6 +10,7 @@ Intro: 'In one of our research projects, we’re exploring how the UK’s educat
   is having an impact on student mental health. '
 Byline: By Bea Herbert
 Image: "/uploads/Breaking%20the%20Silence.png"
+Section: 
 layout: post
 ---
 

@@ -9,6 +9,7 @@ Intro: 'In our new interview series, we hear from students who’ve taken part i
   programme. '
 Byline: Introduction by Tempe Nakiska
 Image: "/uploads/1-9db443.jpg"
+Section: 
 layout: post
 ---
 
@@ -74,4 +75,4 @@ Yeah, because through some of the talks, we realised that the tutors also go thr
 
 I think it should have been brought out earlier to be honest. If it had been brought out last year I definitely would have been more involved and I’m kind of sad that I won’t be getting another year. It is such a great programme and I think it will really help change a lot of student’s lives. 
 
-*You can learn more about our Wellbeing Ambassadors Programme here.*
+*You can learn more about our Wellbeing Ambassadors Programme [here](http://statesofmind.org/what-we-do).*
