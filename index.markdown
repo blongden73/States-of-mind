@@ -36,7 +36,7 @@ What We Are Doing description: "# Education\n\nOur vision is for a world where i
   problems we find can be transformed into meaningful change. \n\nOur programme's
   project-based learning model enables young people to identify key issues affecting
   their wellbeing, and then design and lead a social impact initiative as a solution.
-  \n\nLearn more about our programme [here](http://statesofmind.org/what-we-do). \n\L"
+  \n\nLearn more about our programme [Here](/what-we-do) \n\L"
 What we are doing image: "/uploads/Pembury.jpg"
 layout: home
 ---
