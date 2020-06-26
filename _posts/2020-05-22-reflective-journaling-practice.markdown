@@ -10,7 +10,7 @@ Intro: 'We’ve all heard about the perks of keeping a diary. But what if writin
   help you live the life you want? '
 Byline: 'By Camille Pellicer '
 Image: "/uploads/Journalling%20and%20reflection%201.png"
-Section: 
+Section: Tools
 layout: post
 ---
 
