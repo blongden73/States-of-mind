@@ -10,7 +10,7 @@ Intro: 'In one of our research projects, we’re exploring how the UK’s educat
   is having an impact on student mental health. '
 Byline: By Bea Herbert
 Image: "/uploads/Breaking%20the%20Silence.png"
-Section: Research
+Section: Our work
 layout: post
 ---
 
