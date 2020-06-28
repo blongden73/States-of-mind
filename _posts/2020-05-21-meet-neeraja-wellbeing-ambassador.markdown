@@ -1,5 +1,5 @@
 ---
-title: 'Meet Neeraja: Wellbeing Ambassador'
+title: 'Meet Neeraja: "We have started a chain of people talking about mental health"'
 date: 2020-05-21 21:40:00 Z
 categories:
 - journal
@@ -9,7 +9,7 @@ Intro: 'In our new interview series, we hear from students who’ve taken part i
   programme. '
 Byline: Introduction by Tempe Nakiska
 Image: "/uploads/1-9db443.jpg"
-Section: 
+Section: Community
 layout: post
 ---
 
