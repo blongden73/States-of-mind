@@ -678,11 +678,7 @@ ul {
   }
 
   &.who-we-are {
-    object-position: -96vh 100px;
-
-    @include mq($from: desktop) {
-      object-position: center;
-    }
+    object-position: center;
   }
 }
 
