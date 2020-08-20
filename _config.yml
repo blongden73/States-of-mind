@@ -27,7 +27,7 @@ description: Write an awesome description for your new site here. You can edit t
     type: "education-programme"
   values:
     Slides:
-    - Template:
+      Template:
       Title:
       Image:
       Description:
@@ -36,7 +36,7 @@ description: Write an awesome description for your new site here. You can edit t
       Video Url:
       Credit:
       Links:
-      - Link Url:
+        Link Url:
       Quote:
       Quote Credit:
 baseurl:
