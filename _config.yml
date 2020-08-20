@@ -22,17 +22,17 @@ defaults:
     path: education-programme
   values:
     Slides:
-    - Template:
-      Title:
-      Image:
-      Description:
-      Graphic Image:
-      Audio url:
-      Video Url:
-      Credit:
+    - Template: 
+      Title: 
+      Image: 
+      Description: 
+      Graphic Image: 
+      Audio url: 
+      Video Url: 
+      Credit: 
       Links:
-      - Link Url:
-      Quote:
+      - Link Url: 
+      Quote: 
       Quote Credit: 
 email: hello@benlongdendesign.co.uk
 description: Write an awesome description for your new site here. You can edit this
