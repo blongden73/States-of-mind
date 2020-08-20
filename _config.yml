@@ -26,19 +26,6 @@ description: Write an awesome description for your new site here. You can edit t
     path: ""
     type: "_education-progamme"
   values:
-    Slides:
-    - Template:
-      Title:
-      Image:
-      Description:
-      Graphic Image:
-      Audio url:
-      Video Url:
-      Credit:
-      Links:
-      - Link Url:
-      Quote:
-      Quote Credit:
 baseurl:
 url:
 sass:
