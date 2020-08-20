@@ -7,7 +7,7 @@
 <div class="education-list">
   <div class="som-wrapper">
     {% for progamme in site.education-programme %}
-      <h1><a href="">{{progamme.title}}</a></h1>
+      <h1><a href="{{programme.permalink}}">{{progamme.title}}</a></h1>
     {% endfor %}
   </div>
 </div>
