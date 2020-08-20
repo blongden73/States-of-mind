@@ -1,6 +1,7 @@
 ---
 title: Depression
 date: 2020-08-20 16:05:00 Z
+permalink: "/education-programme/depression.html"
 Slides:
 - Template: template-one
   Title: Depression
