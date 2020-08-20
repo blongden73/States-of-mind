@@ -5,6 +5,8 @@ collections:
   education-programme:
     title: Education Programme
     output: true
+    Introduction: This is the introduction to the education programme
+    Year: 2020
   posts:
     title: Posts
     output: true
