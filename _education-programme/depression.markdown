@@ -30,5 +30,6 @@ Slides:
   - Link Url: https://www.theguardian.com/fashion/2020/aug/20/burberry-launches-coronavirus-face-mask-collection-fashion
   Quote: This is the big one!
   Quote Credit: This is the small one!
+layout: presentation
 ---
 
