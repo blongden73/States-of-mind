@@ -10,5 +10,9 @@ Slides:
   Audio url: 
   Video Url: 
   Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
 ---
 
