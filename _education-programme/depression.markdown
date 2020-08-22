@@ -363,14 +363,498 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: 
-- Template: 
+- Template: seven
   Title: 'The stages of the fright response '
   Description: |-
     1. Overwhelmed by threat
-    Out of options
+       Out of options
+
     2. Gas pedal (sympathetic) activation or shut-down
-    Brake (parasympathetic) shut-down
-    Reduced capacity to respond, mentally and physically, to compelling life circumstances
+
+    3. Brake (parasympathetic) shut-down
+
+    4. Reduced capacity to respond, mentally and physically, to compelling life circumstances
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: 
+- Template: four
+  Title: 
+  Description: |-
+    * In her article ‘ Traumatic Immobility, Depression and the Stress Response, Sarah Knutson compared her own experience of depression with the final 3 stages of the stress response:
+
+    1.  Felt constantly threatened (repeated job loss, poverty, homelessness, out of sync with mainstream & workplace values, relationship failure, social pariah): low mood, worry, mental and physical activation, weird appetite and sleep
+    2\.  Felt out of options (low physical, material and social resources; tired all the time, brain not functioning): hopelessness, sadness, despair, indecision
+    3\.  Gas pedal/sympathetic (constant pressure to do something to fix it): worry, activation, insomnia, eating for energy
+    4\.  Brake/parasympathetic (no clue how to fix it, where to turn or if it would ever get better): Low energy, low mood, low appetite and low interest in life; digestive troubles, stomach cramps, poor thinking and concentration; leaden limbs, sleeping a lot
+    5\.  Life indefinitely stalled by Brake (wasting my life, leaving a legacy of suffering and pain, letting myself and others down): Worthlessness, emptiness, guilt, indecision, crying a lot, preoccupied with death and suicide
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: 
+- Template: nineteen
+  Title: 'Depression and social status '
+  Description: "* Rates of depression are highest in countries with the greatest differences
+    in socio economic status within the population.  \n* Video of Johan Hari "
+  Graphic Image: 
+  Audio url: 
+  Video Url: <iframe width="560" height="315" src="https://www.youtube.com/embed/lRhEIz4GbK0"
+    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen></iframe>
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: 
+- Template: seventeen
+  Title: 'Depression as a consequence of unmet human needs '
+  Description: "Self Determination Theory is a framework developed by two psychologists,
+    Ryan and Deci. It provides a framework for understanding how our wellbeing is
+    dependent on how well our social world is able to meet our core needs. \n\nAutonomy:
+    \ Feeling a sense of choice and control \n\nRelatedness : Feeling a sense of belonging
+    and social acceptance \n\nCompetence : Feeling like you are confident and able
+    in your ability to do things well\n"
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: 
+- Template: sixteen
+  Title: 'Social causes of depression: Social exclusion '
+  Description: "Social exclusion and rejection can cause experiences of physical numbness
+    and a lack of emotion.  Baumeister et al, 2003\n\nResearchers who studied people
+    who had been excluded from a society or group found that it was common for them
+    to shut down their emotional response rather than experiencing heightened states
+    of distress.  \n\n“It was as though they had been hit with a stun gun” \n\nThey
+    suggest could be an adaptive response to prevent retaliation against the group
+    and to keep painful emotions out of awareness. \n\n(K. D. Williams, 2001)."
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: "/uploads/loneliness.JPG"
+- Template: five
+  Title: 
+  Description: |-
+    * Durkheim (1897/ 1963) has found that the link between suicide and social exclusion has been evident for over a century
+
+    * Suicide rates are highest among people who are not well integrated into society as a whole
+
+    * "Many suicide attempts are directly traceable to recent experiences of social exclusion, such as loss of job or marriage, and suicide rates are elevated in ethnic groups or occupational categories dwindling in size”  Baumeister et al, 2003
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: 
+- Template: seven
+  Title: Depression and the loss of meaning  ‘The deconstructed state’
+  Description: "Present Orientation Versus Future Orientation \n\nDisordered Time
+    Perception \n\nMeaninglessness \n\nLethargy \n\nLack of Emotion  \n\nEscape From
+    Self-Awareness"
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: 
+- Template: 
+  Title: Life events and depression
+  Description: "Baumeister explored people’s reactions to experiences of setbacks
+    and personal failures. He found that most suicide attempts are preceded by some
+    failure or setback that reflects badly on the self. \n\nHe explored how people
+    respond to distressing experiences by focusing narrowly on the present moment
+    in an attempt to avoid the painful emotions caused by recent failure, which shuts
+    off the mind to states of self awareness and problem solving capacities.  \n\n“
+    \ Time seems to drag, and the person remains stuck in a relatively empty present
+    moment, cut off from past and future. Deprived of reasons for action, the person
+    may become passive, lethargic, and idle.” "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: "(Baumeister, 1990)"
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: 
+- Template: seven
+  Title: 'Depression and abusive relationships  '
+  Description: "Researchers have found that some types of abuse had a particularly
+    strong association with the development of depression in comparison to others.
+    \nPsychological abuse was more strongly associated with depression than any other
+    forms of maltreatment\n\n“verbal and nonverbal acts by a close other in a position
+    of power,” was more strongly associated with depression than any of the other
+    forms of maltreatment. \n\nChildhood neglect, where a caretaker fails to provide
+    for the child’s basic emotional and material needs, was also strongly related
+    to depression. "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 'Infurna et al, 2016 '
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: 
+- Template: twelve
+  Title: 'Time to take a pause '
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: 
+- Template: two
+  Title: What approaches to support recovery from depression do work?
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: 
+- Template: sixteen
+  Title: 'Exercise '
+  Description: |-
+    * A study explored the effectiveness of exercise programmes for treating depression in young people. They compared the results of a 3 times per week exercise regime with a stretching regime that lasted for 12 weeks.
+
+    * By the end of the study:
+
+    * 86% of the exercise group and 50% of thee stretching group had fully recovered from their depressive symptoms.
+
+    * The study followed up with participants a year later and found that the effect was maintained.
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: "( Hughes et al, 2013) "
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: 
+- Template: sixteen
+  Title: Depression and rumination
+  Description: "* People experiencing depression can become very identified with their
+    mind, as a way to escape difficult feelings and internal beliefs. \n* This can
+    lead to rumination, which is the habit of becoming caught in repetitive and ongoing
+    cycles of negative evaluations about ourselves. \n* This is why many therapies
+    and approaches to depression focus on observing our thoughts, introducing more
+    positive activities into our lives or speaking with others about our problems.
+    \ "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: 
+- Template: 
+  Title: 'Cognitive Behavioural Therapy '
+  Description: "CBT is a type of therapy that focuses on changing unhelpful thinking
+    patterns, improving people’s ability to regulate their uncomfortable emotions
+    and developing coping strategies for people’s current problems.\n\nResearch has
+    shown that half of people who use CBT appear to experience a clinically significant
+    improvement. "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: McCarty and. Valeri(2006)
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: "/uploads/family%20therapy.jpeg"
+- Template: one
+  Title: 'Mindfulness for Depression '
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: "/uploads/mindfulness%202.jpeg"
+- Template: five
+  Title: 'Mindfulness for depression '
+  Description: "Mindfulness has been described as’ paying attention in a particular
+    way; on purpose, in the present moment and non-judgementally.’ \n\nMindfulness
+    allows us to take a new perspective on our experience, that is characterised by
+    openness, curiosity and acceptance of our experience. This allows us to strengthen
+    brain networks that enable us to view our thoughts as mental events rather than
+    permanent and factual aspects of our experience. \n\nRecent small trials Recent
+    research has found that young people who took part in mindfulness programmes experience
+    a range of beneficial outcomes including reduced depression, improved coping skills,
+    improved mood, and improved post-traumatic stress symptoms.  Perry-Parrish et
+    al (2016)\n\nA review of nine clinical trials analyzing people with severe depression
+    found MBCT reduced a patient’s chances of relapsing for up to 60 weeks, regardless
+    of their sex, age, education or relationship status. The analysis compared MBCT
+    with routine treatments for depression, including antidepressants. Kuyken  et
+    al ,2016"
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: 
+- Template: fourteen
+  Title: 
+  Description: "“Mindfulness and other meditations, particularly combined with cognitive
+    therapy, work just as well for anxiety or depression as the medications do, but
+    they don’t have those side effects,” D. Goleman"
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: 
+- Template: seven
+  Title: 'Time to Pause '
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: 
+- Template: five
+  Title: 'Psychotherapy and Family Therapy '
+  Description: "Psychodynamic Therapy is a medium to long term therapy that usually
+    takes place in a 1-1 context. The therapy provides a supportive environment that
+    allows you to talk openly with someone who’s objective, neutral and nonjudgmental.
+    \n\nFamily therapy allows members of a family, couples or other groups of people
+    who care about each other to work through their difficult experiences safely in
+    the presence of a therapist. The therapy focuses on supportive people to value
+    their own and each others needs and explore their problems collaboratively. \n\n\nOne study compared
+    systemic family therapy with psychodynamic therapy for depression and found that
+    both groups improved significantly. \n\nAfter 6-months, 100% of the children in
+    psychodynamic therapy and 81% in family therapy no longer met criteria for depression.
+    \n\nBoth groups saw the same dramatic increase in the child’s overall functioning.
+    \n\nNone of the participants in either group experienced returning depressive
+    symptoms over the 6-month period. "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 'Trowell et al  (2007) '
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: 
+- Template: sixteen
+  Title: 'Mental health apps '
+  Description: "Mental health apps generally work by providing ways for people to
+    self- monitor their mood and behaviour , providing coping strategies and a range
+    of therapeutic practices and techniques.\nThere is little evidence that mental
+    health apps are effective at improving mental health symptoms. Although many of
+    the apps have not been tested with scientific research, most evidence for the
+    apps that have, have not been shown to be effective. \nSome research has shown
+    that mental health apps may have some effect on improving depressive symptoms
+    when compared with doing nothing. However, in comparison to doing something else
+    this effect was reduced to being minimally effective."
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 'Grist et al ( 2017), Firth et al ( 2017) '
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: 
+- Template: sixteen
+  Title: 'Depression and Social support '
+  Description: "* Our close relationships are one of the best resources we have for
+    overcoming an episode of depression in our lives.\n* Relationships can feel difficult
+    to maintain while experiencing depression as it can cause feelings of worthlessness,
+    low mood and a desire to withdraw from our social world.  \n* By connecting and
+    communicating with a small amount of close and trusted people in our lives, it
+    can help to support us through our experience by providing us with: \n* Acceptance
+    and understanding \n* Empathy and compassion \n* Practical support and help with
+    the everyday "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: 
+- Template: sixteen
+  Title: 
+  Description: "* People who experience depression often feel confused, guilty and
+    shameful around the experience of not meeting the expectations of themselves and
+    others. \n* The resistance to feeling the painful emotional states is one of the
+    factors that causes depression to perpetuate. \n* Our close relationships can
+    provide us with a safe space to express painful emotions and bring awareness and
+    acceptance to our experience of depression. "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: 
+- Template: sixteen
+  Title: Unconditional positive regard
+  Description: |-
+    What is Unconditional Positive Regard? 
+
+
+    Unconditional Positive Regard is a term coined by Carl Rogers, who developed person centred-therapy a method where the person seeking therapy was seen as central to the direction of the therapeutic work and held as the expert of their own experience. Rogers used the term to describe the complete and loving acceptance of another person.  
+
+    ‘ True empathy is always free of any evaluative or diagnostic quality’ 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: Carl Rogers, ‘ A Way of Being’ , 1980
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: 
+- Template: five
+  Title: 'Why is unconditional  positive regard beneficial for depression? '
+  Description: |-
+    People who are experiencing depression often hold an underlying belief that they are not loveable, are flawed and not worthy of love & acceptance.  
+
+    Why is unconditional positive regard important when people are experiencing depression? 
+
+
+    By showing unconditional positive regard it allows others to open up about negative beliefs and parts of themselves they feel ashamed of. 
+
+    Unconditional positive regard removes any judgement or evaluation of others and allows others to feel that they are able to be accepted for who they are, without needing to change.
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: 
+- Template: one
+  Title: 'Behavioural activation '
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: 
+- Template: five
+  Title: 'Behavioural activation '
+  Description: "\n\nThe idea behind behavioural activation is to gradually change
+    small aspects of how we live, so that we can slowly change our experience of ourselves
+    in our everyday lives and explore what changes positively affect your mood and
+    wellbeing. \n\nBehaviour Activation works by increasing the amount of rewarding
+    activities in your life. By changing habits and behaviours it creates new pathways
+    in the brain that reinforce behaviour change. \n\nPast research has proven  that
+    BA is effective in the treatment of depressive symptoms. "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 'Cuijpers et al, 2007 '
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: 
+- Template: five
+  Title: 'Tips for behavioural activation '
+  Description: "Don’t chose what you think you should do, chose something that you
+    personally enjoy and want to do. Imagine a positive life that you want to have,
+    what sorts of activities and things are you doing? The aim is to allow yourself
+    to feel joy, contentment and other positive and reassuring feelings through the
+    activities in your everyday life. \n\nStart small and make it measurable. Chose
+    something small. This could be anything from\n\n‘ I want to make my bed every
+    morning’ to\n‘ I want to go to a life drawing class this week.’ \n\nAsk others
+    to help you. By asking for the support of your friends it will help reinforce
+    your goals and will also mean that you can share the experience with somebody
+    else. Ask if they can help you build it into your routine.\n\nRecording your progress
+    will provide more of a sense of control. Once every few weeks reflect on how things
+    have changes and what difference these changes, no matter how small, have made
+    on your mood."
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: 
+- Template: five
+  Title: 'Finding a balance '
+  Description: "Ultimately, our mood is influenced by many aspects of our lives. It
+    is natural and normal to feel uncomfortable emotions and to be triggered by difficult
+    events in our lives. \n\nSometimes we may spend longer periods of time feeling
+    low and powerless over how we experience life. \n\nOvercoming depression involves
+    developing an understanding of the areas of our lives that are not serving us,
+    or that are out of balance, so that we can support ourselves to find new ways
+    of experiencing self care, meaning and purpose in our lives.  "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: 
+- Template: twenty
+  Title: 
+  Description: 'Graphic showing work, relationships, play, rest, meaning and purpose. '
   Graphic Image: 
   Audio url: 
   Video Url: 
