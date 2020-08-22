@@ -131,7 +131,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: 
-- Template: sixteen
+- Template: one
   Title: 'Medical theories of depression '
   Description: 
   Graphic Image: 
