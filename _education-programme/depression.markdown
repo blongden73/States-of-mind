@@ -25,12 +25,12 @@ Slides:
   Title: 
   Description: "* Depression is the most common mental health concern worldwide. \n\n*
     In 2014, 19.7% of people in the UK aged 16 and over showed symptoms of depression,
-    a 1.5 % increase from 2013.\n\n### Evans, J., Macrory, I., & Randall, C. (2016).
-    Measuring national wellbeing: Life in the UK, 2016. ONS. Retreived"
+    a 1.5 % increase from 2013.\n"
   Graphic Image: 
   Audio url: 
   Video Url: 
-  Credit: 
+  Credit: 'Evans, J., Macrory, I., & Randall, C. (2016). Measuring national wellbeing:
+    Life in the UK, 2016. ONS. Retreived'
   Links:
   - Link Url: 
   Quote: 
