@@ -142,7 +142,7 @@ Slides:
   - Link Url: 
   Quote: 
   Quote Credit: 
-  Image: 
+  Image: "/uploads/adrian-swancar-_2NHZjSMLjA-unsplash.jpg"
 - Template: five
   Title: "‘ The chemical imbalance theory’"
   Description: "\nFor a long time, psychiatrists believed that depression was caused
@@ -186,7 +186,201 @@ Slides:
   - Link Url: 
   Quote: 
   Quote Credit: 
+  Image: "/uploads/loneliness.JPG"
+- Template: four
+  Title: 
+  Description: "* Antidepressants have failed to provide an effective remedy for cases
+    of depression in the western world.  \n\nSSRIs and other antidepressants prescription
+    has increased from less than 10 million in 1991 to almost 40 million in 2009.\n\nThese
+    levels of prescribing have not been associated with a reduction in the related
+    burden of care, with the number of people claiming incapacity benefit for a mental
+    or behavioural disorder rising steadily from under 750 000 in 2000 to nearly a
+    million in 2008.\n"
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 'Hugh Middleton and Joanna Moncrieff, British Journal of General Practice '
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
   Image: 
+- Template: fourteen
+  Title: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: "“the claims depression is caused by a natural lack of serotonin in the brain
+    are deeply misleading and unscientific.”"
+  Quote Credit: 'Andrew Skull '
+  Image: 
+- Template: five
+  Title: 'The chemical imbalance theory of depression '
+  Description: "* Although it is often stated with great confidence that depressed
+    people have a serotonin or norepinephrine deficiency, the evidence actually contradicts
+    these claims.”  \n* Professor Emeritus of Neuroscience Elliot Valenstein, in ‘Blaming
+    the Brain’ ( 1998) which reviews the evidence for the serotonin hypothesis. \n*
+    ‘ No abnormality of serotonin in depression has ever been demonstrated’ \n* Psychiatrist
+    David Healey, Psychiatrist, Former secretary for the British Association of Psychopharmacology.\n\n“Patients
+    have been diagnosed with ‘chemical imbalances’ despite the fact that no test exists
+    to support such a claim, and there is no real conception of what a correct chemical
+    imbalance would look like…”"
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: KAISER, 1996; LYNCH, 2015, PP. 31-32.
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: 
+- Template: one
+  Title: 'Recovering from depression without medication '
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: "/uploads/medication%203.jpeg"
+- Template: five
+  Title: 'Recovering from depression without medication  '
+  Description: "A Meta-analysis ( analysis of a large group of research studies) has
+    shown that\n\n“unmedicated patients have much shorter episodes, and better long-term
+    prospects, than medicated patients. Several of these studies have found that the
+    average duration of an untreated episode of major depression is 12–13 weeks.” "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 'Andrews PW, Kornstein SG, Halberstadt LJ, Gardner CO, Neale MC. Blue again:
+    perturbational effects of antidepressants suggest monoaminergic homeostasis in
+    major depression. Front Psychol. 2011;2:159. Published 2011 Jul 7. doi:10.3389/fpsyg.2011.00159'
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: 
+- Template: sixteen
+  Title: 'Psychosocial theories of depression '
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: 
+- Template: four
+  Title: 
+  Description: 'Psychosocial approaches to depression do not view depression as being
+    caused by a chemical imbalance in the brain but explore how our living conditions,
+    social world and life experiences can contribute to the experience of depression. '
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: 
+- Template: sixteen
+  Title: 
+  Description: " “ There is emerging evidence that the most effective antidepressants
+    are not pills but are carefully chosen changes in the way we live.” "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: 
+- Template: sixteen
+  Title: 
+  Description: "* In 2017, nearly 300 million people were living with depression worldwide.
+    \ \n* In 2017 the UN stated “ we need to shift from talking about depression as
+    a chemical imbalance to power imbalances in the way we live.” "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: 
+- Template: fifteen
+  Title: Depression as a Stress Response
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: "(Schauer & Elbert, 2010, p. 111)"
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: 
+- Template: ten
+  Title: 
+  Description: 'If depression is a stress response, what life circumstances might
+    lead somebody to experience stress related depression? '
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: 
+- Template: 'Fight,Flight and “Fright” '
+  Title: 
+  Description: "* Researchers have described a stage of the stress response called
+    ‘Fright’. \n* This is a state of intense distress that is triggered when intense
+    fear combines with a sense of being trapped or constrained. (Schauer & Elbert,
+    2010) \n* If somebody is not able to release energy by escaping or defending themselves
+    from a situation that is highly distressing, the body begins to shut down.  "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: Tonic immobility (fright) is almost always displayed when the person is
+    overwhelmed by threat and not allowed and not able to act aggressively ( defend
+    themselves) against the threat. (Schauer & Elbert, 2010, p. 116.)
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: 
+- Template: 
+  Title: 'The stages of the fright response '
+  Description: |-
+    1. Overwhelmed by threat
+    Out of options
+    2. Gas pedal (sympathetic) activation or shut-down
+    Brake (parasympathetic) shut-down
+    Reduced capacity to respond, mentally and physically, to compelling life circumstances
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: 
+Cover Image: "/uploads/verne-ho-VIO0tyzXL4U-unsplash.jpg"
 layout: presentation
 ---
 
