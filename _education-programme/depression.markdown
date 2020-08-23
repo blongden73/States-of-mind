@@ -176,10 +176,9 @@ Slides:
   Graphic Image: 
   Audio url: 
   Video Url: 
-  Credit: |-
-    Goldberg D, Privett M, Ustun B, Simon G, Linden M. The effects of detection and treatment on the outcome of major depression in primary care: a naturalistic study in 15 cities. Br J Gen Pract. 1998;48(437):1840-1844.
-
-    Schroder, H. S., Duda, J. M., Christensen, K., Beard, C., & Björgvinsson, T. (2020). Stressors and chemical imbalances: Beliefs about the causes of depression in an acute psychiatric treatment sample. Journal of Affective Disorders. 537-545. 
+  Credit: 'Goldberg D, Privett M, Ustun B, Simon G, Linden M. The effects of detection
+    and treatment on the outcome of major depression in primary care: a naturalistic
+    study in 15 cities. Br J Gen Pract. 1998;48(437):1840-1844.'
   Links:
   - Link Url: 
   Quote: 
@@ -199,7 +198,10 @@ Slides:
   Graphic Image: 
   Audio url: 
   Video Url: 
-  Credit: 'Hugh Middleton and Joanna Moncrieff, British Journal of General Practice '
+  Credit: "Schroder, H. S., Duda, J. M., Christensen, K., Beard, C., & Björgvinsson,
+    T. (2020). Stressors and chemical imbalances: Beliefs about the causes of depression
+    in an acute psychiatric treatment sample. Journal of Affective Disorders. 537-545. \n\nHugh
+    Middleton and Joanna Moncrieff, British Journal of General Practice \n"
   Links:
   - Link Url: 
   Quote: 
