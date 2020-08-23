@@ -187,7 +187,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: "/uploads/loneliness.JPG"
-- Template: four
+- Template: five
   Title: 
   Description: "* Antidepressants have failed to provide an effective remedy for cases
     of depression in the western world.  \n\nSSRIs and other antidepressants prescription
