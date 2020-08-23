@@ -6,13 +6,13 @@ Slides:
 - Template: five
   Title: What is depression?
   Image: 
-  Description: "Depression is an experience that is manifests in our mental, emotional
-    and physical experience. \n\nIt is characterised by an intense preoccupation with
-    negative thinking about our past, current and future self. \n\nThese ways of thinking
+  Description: Depression is an experience that is manifests in our mental, emotional
+    and physical experience. It is characterised by an intense preoccupation with
+    negative thinking about our past, current and future self. These ways of thinking
     are accompanied by an emotional experience of meaninglessness and ‘apathy’, which
-    is the loss of interest or pleasure in life.\n\nPeople experiencing depression
-    also experience changes to their physical state, such as increased tiredness and
-    fatigue and difficulty concentrating. "
+    is the loss of interest or pleasure in life. People experiencing depression also
+    experience changes to their physical state, such as increased tiredness and fatigue
+    and difficulty concentrating. 
   Graphic Image: 
   Audio url: 
   Video Url: 
