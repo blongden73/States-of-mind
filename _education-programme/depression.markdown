@@ -145,9 +145,9 @@ Slides:
   Image: "/uploads/adrian-swancar-_2NHZjSMLjA-unsplash.jpg"
 - Template: five
   Title: "‘The chemical imbalance theory’"
-  Description: "\nFor a long time, psychiatrists believed that depression was caused
+  Description: "For a long time, psychiatrists believed that depression was caused
     by a lack of serotonin and dopamine in the brain as these are brain chemicals
-    that are related to our mood and sense of motivation and enjoyment in life. So
+    that are related to our mood and sense of motivation and enjoyment in life. \n\nSo
     far, no research has been able to identify a causal relationship between neurochemistry
     and depression. Some people who have high levels of serotonin can experience chronic
     depression, as well as people with low levels. \n\nThe difficulty with identifying
