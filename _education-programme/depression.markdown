@@ -865,7 +865,7 @@ Slides:
   Quote Credit: 
   Image: 
 Cover Image: "/uploads/verne-ho-VIO0tyzXL4U-unsplash.jpg"
-Cover Colour: "#ffffff"
+Cover Colour: "#121212"
 layout: presentation
 ---
 
