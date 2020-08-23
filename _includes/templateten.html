@@ -1,0 +1,22 @@
+<!--
+{% assign template = slide.Template %}
+{% assign title = slide.Title %}
+{% assign image = slide.Image %}
+{% assign description = slide.Description %}
+{% assign graphic = slide.['Graphic Image'] %}
+{% assign audio = slide.['Audio url'] %}
+{% assign video = slide.['Video Url'] %}
+{% assign credit = slide.['Credit'] %}
+{% assign quote = slide.['Quote'] %}
+{% assign quoteCred = slide.['Quote Credit'] %}
+{% assign links = slide.Links %}
+-->
+<div class="discussion-header">
+  <h1 class="slide-title">Discussion</h1>
+</div>
+<div class="slide-content">
+  <div class="slide-description">{{description | markdownify}}</div>
+  {% if credit %}
+    <small>{{credit}}</small>
+  {% endif %}
+</div>
