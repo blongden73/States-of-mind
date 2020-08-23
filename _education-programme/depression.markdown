@@ -188,9 +188,9 @@ Slides:
   Quote Credit: 
   Image: "/uploads/loneliness.JPG"
 - Template: five
-  Title: 
+  Title: Research on the effectiveness of medical approaches to depression
   Description: "* Antidepressants have failed to provide an effective remedy for cases
-    of depression in the western world.  \n\nSSRIs and other antidepressants prescription
+    of depression in the western world.  \n\n* SSRIs and other antidepressants prescription
     has increased from less than 10 million in 1991 to almost 40 million in 2009.\n\nThese
     levels of prescribing have not been associated with a reduction in the related
     burden of care, with the number of people claiming incapacity benefit for a mental
