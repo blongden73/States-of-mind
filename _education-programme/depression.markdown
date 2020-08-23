@@ -172,9 +172,7 @@ Slides:
     of depressive symptoms at the end of the study.  \n\n“Our findings are in line
     with accumulating evidence that some biogenetic beliefs, like the chemical imbalance
     belief, are linked with poorer expectations for improvement, especially among
-    those with the most troubling symptoms.”\n\nResearch suggests that people who
-    view their emotional distress as the result of chemical imbalances in the brain
-    may feel less hopeful and less in control throughout the recovery process. (2) "
+    those with the most troubling symptoms.”"
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -189,13 +187,15 @@ Slides:
   Image: "/uploads/loneliness.JPG"
 - Template: sixteen
   Title: Research on the effectiveness of medical approaches to depression
-  Description: "* Antidepressants have failed to provide an effective remedy for cases
-    of depression in the western world.  \n\n* SSRIs and other antidepressants prescription
-    has increased from less than 10 million in 1991 to almost 40 million in 2009.\n\nThese
-    levels of prescribing have not been associated with a reduction in the related
-    burden of care, with the number of people claiming incapacity benefit for a mental
-    or behavioural disorder rising steadily from under 750 000 in 2000 to nearly a
-    million in 2008.\n"
+  Description: "Research suggests that people who view their emotional distress as
+    the result of chemical imbalances in the brain may feel less hopeful and less
+    in control throughout the recovery process. (2) \n\n* Antidepressants have failed
+    to provide an effective remedy for cases of depression in the western world.  \n\n*
+    SSRIs and other antidepressants prescription has increased from less than 10 million
+    in 1991 to almost 40 million in 2009.\n\nThese levels of prescribing have not
+    been associated with a reduction in the related burden of care, with the number
+    of people claiming incapacity benefit for a mental or behavioural disorder rising
+    steadily from under 750 000 in 2000 to nearly a million in 2008.\n"
   Graphic Image: 
   Audio url: 
   Video Url: 
