@@ -864,7 +864,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: 
-Cover Image: "/uploads/despression_cover.png"
+Cover Image: "/uploads/verne-ho-VIO0tyzXL4U-unsplash.jpg"
 Cover Colour: "#121212"
 layout: presentation
 ---
