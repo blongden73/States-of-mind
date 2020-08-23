@@ -865,7 +865,7 @@ Slides:
   Quote Credit: 
   Image: 
 Cover Image: "/uploads/depression_Cover.png"
-Cover Colour: "#121212"
+Cover Colour: "#eeeff3"
 layout: presentation
 ---
 
