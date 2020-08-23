@@ -187,7 +187,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: "/uploads/loneliness.JPG"
-- Template: five
+- Template: sixteen
   Title: Research on the effectiveness of medical approaches to depression
   Description: "* Antidepressants have failed to provide an effective remedy for cases
     of depression in the western world.  \n\n* SSRIs and other antidepressants prescription
