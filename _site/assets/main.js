@@ -169,15 +169,18 @@ function homePage(){
 function menu(){
   var menu = document.querySelector('.menu-mobile');
   var menuWrapper = document.querySelector('.mobile-menu-options');
-  menu.addEventListener('click', function(){
-    this.classList.toggle('clicked');
-    menuWrapper.classList.toggle('clicked');
-  });
+  if(menu){
+    menu.addEventListener('click', function(){
+      this.classList.toggle('clicked');
+      menuWrapper.classList.toggle('clicked');
+    });
+  }
 }
 
 function headerScroll(){
   var test = document.querySelector('.headertest');
   var header = document.querySelector('.som-header');
+  if(test) {
   document.addEventListener('scroll', function(){
     console.log(test.getBoundingClientRect().top);
 
@@ -189,6 +192,99 @@ function headerScroll(){
       header.classList.remove('white');
     }
   });
+  }
+}
+
+function elementInViewport(el) {
+  var top = el.offsetTop;
+  var left = el.offsetLeft;
+  var width = el.offsetWidth;
+  var height = el.offsetHeight;
+
+  while(el.offsetParent) {
+    el = el.offsetParent;
+    top += el.offsetTop;
+    left += el.offsetLeft;
+  }
+
+  return (
+    top >= window.pageYOffset &&
+    left >= window.pageXOffset &&
+    (top + height) <= (window.pageYOffset + window.innerHeight) &&
+    (left + width) <= (window.pageXOffset + window.innerWidth)
+  );
+}
+
+var slides =  document.querySelector('.slides-wrapper');
+var slide = document.querySelectorAll('.slide');
+
+function presentation(){
+  console.log('presenting');
+  console.log(slide);
+  var dots = document.querySelector('.dots');
+  var dotsObj = [];
+  for(j = 0; j < slide.length; j++) {
+    console.log(dots);
+    dotsObj.push('<span class="dot"></span>');
+    console.log(dotsObj.join().replace(/,/g, ''));
+    dots.innerHTML = dotsObj.toString().replace(/,/g, '');
+  }
+  slide[0].classList.add('inview');
+  var currentLocation = window.location.pathname;
+  var dot = document.querySelectorAll('.dot');
+  dot[0].classList.add('inview');
+  document.addEventListener('scroll', function(){
+    console.log('scrolling');
+    for(i=0; i < slide.length; i++) {
+      var id = slide[i].id;
+      if(elementInViewport(slide[i])){
+        console.log(id);
+        history.pushState(null, null, currentLocation+'#'+id);
+        slide[i].classList.add('inview');
+        dot[i].classList.add('inview');
+      }else {
+        slide[i].classList.remove('inview');
+        dot[i].classList.remove('inview');
+      }
+    }
+  });
+  var nextSlide = document.querySelector('.next-slide');
+  var previousSlide = document.querySelector('.previous-slide');
+  nextSlide.addEventListener('click', function(){
+    var current = document.querySelector('.inview');
+    var next = document.querySelector('.inview + .slide');
+    next.scrollIntoView({behavior: "smooth", block: "start", inline: "nearest"});
+    console.log('click');
+  });
+  previousSlide.addEventListener('click', function(){
+    var current = document.querySelector('.inview');
+    var previous = current.previousElementSibling;
+    previous.scrollIntoView({behavior: "smooth", block: "start", inline: "nearest"});
+    console.log('click');
+  });
+
+  var start = document.querySelector('.som-button');
+  start.addEventListener('click', function(){
+    var next = document.querySelector('.inview + .slide');
+    next.scrollIntoView({behavior: "smooth", block: "start", inline: "nearest"});
+  });
+
+  document.onkeydown = checkKey;
+  function checkKey(e) {
+    e = e || window.event;
+    if (e.keyCode == '38') {
+      e.preventDefault();
+      var current = document.querySelector('.inview');
+      var previous = current.previousElementSibling;
+      previous.scrollIntoView({behavior: "smooth", block: "start", inline: "nearest"});
+    }
+    else if (e.keyCode == '40') {
+      e.preventDefault();
+      console.log('downKey');
+      var next = document.querySelector('.inview + .slide');
+      next.scrollIntoView({behavior: "smooth", block: "start", inline: "nearest"});
+    }
+  }
 }
 
 
@@ -200,6 +296,9 @@ function init(){
   headerScroll();
   if(document.querySelector('canvas')){
     animatedCircles();
+  }
+  if(slides) {
+    presentation();
   }
 }
 init();

@@ -1,9 +1,10 @@
 {% include miniheader.html %}
 <div class="slides-wrapper">
-  <div class="slide slide-cover">
+  <div id="slide-0" class="slide slide-cover">
     <img src="{{page.['Cover Image']}}">
     <div class="som-wrapper">
       <h1 style="color:{{page.['Cover Colour']}};">{{page.title}}</h1>
+      <div class="som-button">Start presentation</div>
     </div>
   </div>
   {% for slide in page.Slides %}
@@ -18,7 +19,7 @@
   {% assign quote = slide.['Quote'] %}
   {% assign quoteCred = slide.['Quote Credit'] %}
   {% assign links = slide.Links %}
-    <div class="slide {{template}}">
+    <div id="slide-{{ forloop.index }}" class="slide {{template}}">
       <div class="som-wrapper">
         {% if template == "five" %}
           {% include templatefive.html %}
@@ -32,6 +33,10 @@
           {% include templatesixteen.html %}
         {% elsif template == "one" %}
           {% include templateone.html %}
+        {% elsif template == "fourteen" %}
+          {% include templatefourteen.html %}
+        {% elsif template == "nineteen" %}
+          {% include templatenineteen.html %}
         {% else %}
           <div class="dev-info">
             <p>Template: {% if template %}{{template}}{% else %} undefined {% endif %}</p>
@@ -55,7 +60,15 @@
 <div class="slides-footer">
   <div class="slides-counter">
     <div class="som-wrapper">
-      <span>x</span> / {{page.Slides.size}}
+      <div class="controls">
+        <div class="previous-slide">
+          <svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M9 17.99L13.519 14v3.196H26v1.57H13.519V22L9 17.99z" fill="#000"/><circle cx="18" cy="18" r="17.5" transform="rotate(-180 18 18)" stroke="#000"/></svg>
+        </div>
+        <div class="next-slide">
+          <svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M27 18.01L22.481 22v-3.196H10v-1.57h12.481V14L27 18.01z" fill="#000"/><circle cx="18" cy="18" r="17.5" stroke="#000"/></svg>
+        </div>
+      </div>
+      <div class="dots"></div>
     </div>
   </div>
 </div>
