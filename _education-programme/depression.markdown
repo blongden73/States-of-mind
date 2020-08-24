@@ -183,7 +183,7 @@ Slides:
   - Link Url: 
   Quote: 
   Quote Credit: 
-  Image: "/uploads/1134726.jpg"
+  Image: "/uploads/2031089.jpg"
 - Template: sixteen
   Title: Research on the effectiveness of medical approaches to depression
   Description: "Research suggests that people who view their emotional distress as
