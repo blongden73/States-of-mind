@@ -220,7 +220,7 @@ Slides:
     are deeply misleading and unscientific.”"
   Quote Credit: 'Andrew Skull '
   Image: 
-- Template: five
+- Template: sixteen
   Title: 'The chemical imbalance theory of depression '
   Description: "* Although it is often stated with great confidence that depressed
     people have a serotonin or norepinephrine deficiency, the evidence actually contradicts
