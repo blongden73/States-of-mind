@@ -475,7 +475,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: 
-- Template: five
+- Template: six
   Title: Depression and the loss of meaning  ‘The deconstructed state’
   Description: "Present Orientation Versus Future Orientation \n\nDisordered Time
     Perception \n\nMeaninglessness \n\nLethargy \n\nLack of Emotion  \n\nEscape From
