@@ -365,7 +365,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: 
-- Template: sixteen
+- Template: five
   Title: 'The stages of the fright response '
   Description: |-
     1. Overwhelmed by threat
