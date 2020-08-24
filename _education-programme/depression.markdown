@@ -280,7 +280,7 @@ Slides:
   - Link Url: 
   Quote: 
   Quote Credit: 
-  Image: 
+  Image: "/uploads/exclusion.jpg"
 - Template: four
   Title: 
   Description: 'Psychosocial approaches to depression do not view depression as being
