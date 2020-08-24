@@ -617,7 +617,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: "/uploads/mindfulness%202.jpeg"
-- Template: five
+- Template: sixteen
   Title: 'Mindfulness for depression '
   Description: "Mindfulness has been described as’ paying attention in a particular
     way; on purpose, in the present moment and non-judgementally.’ \n\nMindfulness
