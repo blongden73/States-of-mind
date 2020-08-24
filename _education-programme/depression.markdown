@@ -423,7 +423,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: 
-- Template: sixteen
+- Template: six
   Title: 'Depression as a consequence of unmet human needs '
   Description: "Self Determination Theory is a framework developed by two psychologists,
     Ryan and Deci. It provides a framework for understanding how our wellbeing is
