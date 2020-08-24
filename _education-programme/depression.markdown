@@ -347,7 +347,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: 
-- Template: sixteen
+- Template: six
   Title: 'Fight,Flight and “Fright” '
   Description: "* Researchers have described a stage of the stress response called
     ‘Fright’. \n* This is a state of intense distress that is triggered when intense
