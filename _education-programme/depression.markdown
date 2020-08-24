@@ -295,7 +295,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: 
-- Template: sixteen
+- Template: fourteen
   Title: 
   Description: " “ There is emerging evidence that the most effective antidepressants
     are not pills but are carefully chosen changes in the way we live.” "
