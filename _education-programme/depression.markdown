@@ -540,7 +540,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: 
-- Template: two
+- Template: five
   Title: What approaches to support recovery from depression do work?
   Description: 
   Graphic Image: 
