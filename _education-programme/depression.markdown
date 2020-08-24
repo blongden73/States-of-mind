@@ -269,7 +269,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: 
-- Template: sixteen
+- Template: one
   Title: 'Psychosocial theories of depression '
   Description: 
   Graphic Image: 
