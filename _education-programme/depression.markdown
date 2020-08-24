@@ -528,7 +528,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: 
-- Template: five
+- Template: two
   Title: 'Time to take a pause '
   Description: 
   Graphic Image: 
