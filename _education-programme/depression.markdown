@@ -385,7 +385,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: 
-- Template: sixteen
+- Template: list
   Title: 
   Description: |-
     * In her article ‘ Traumatic Immobility, Depression and the Stress Response, Sarah Knutson compared her own experience of depression with the final 3 stages of the stress response:
