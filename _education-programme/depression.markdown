@@ -297,15 +297,15 @@ Slides:
   Image: 
 - Template: fourteen
   Title: 
-  Description: " “ There is emerging evidence that the most effective antidepressants
-    are not pills but are carefully chosen changes in the way we live.” "
+  Description: 
   Graphic Image: 
   Audio url: 
   Video Url: 
   Credit: 
   Links:
   - Link Url: 
-  Quote: 
+  Quote: "“ There is emerging evidence that the most effective antidepressants are
+    not pills but are carefully chosen changes in the way we live.” "
   Quote Credit: 
   Image: 
 - Template: sixteen
