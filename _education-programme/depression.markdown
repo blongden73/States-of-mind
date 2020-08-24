@@ -322,7 +322,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: 
-- Template: fifteen
+- Template: two
   Title: Depression as a Stress Response
   Description: 
   Graphic Image: 
