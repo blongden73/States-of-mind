@@ -390,11 +390,15 @@ Slides:
   Description: |-
     * In her article ‘ Traumatic Immobility, Depression and the Stress Response, Sarah Knutson compared her own experience of depression with the final 3 stages of the stress response:
 
-    1.  Felt constantly threatened (repeated job loss, poverty, homelessness, out of sync with mainstream & workplace values, relationship failure, social pariah): low mood, worry, mental and physical activation, weird appetite and sleep
-    2\.  Felt out of options (low physical, material and social resources; tired all the time, brain not functioning): hopelessness, sadness, despair, indecision
-    3\.  Gas pedal/sympathetic (constant pressure to do something to fix it): worry, activation, insomnia, eating for energy
-    4\.  Brake/parasympathetic (no clue how to fix it, where to turn or if it would ever get better): Low energy, low mood, low appetite and low interest in life; digestive troubles, stomach cramps, poor thinking and concentration; leaden limbs, sleeping a lot
-    5\.  Life indefinitely stalled by Brake (wasting my life, leaving a legacy of suffering and pain, letting myself and others down): Worthlessness, emptiness, guilt, indecision, crying a lot, preoccupied with death and suicide
+    1. Felt constantly threatened (repeated job loss, poverty, homelessness, out of sync with mainstream & workplace values, relationship failure, social pariah): low mood, worry, mental and physical activation, weird appetite and sleep
+
+    2.  Felt out of options (low physical, material and social resources; tired all the time, brain not functioning): hopelessness, sadness, despair, indecision
+
+    3. Gas pedal/sympathetic (constant pressure to do something to fix it): worry, activation, insomnia, eating for energy
+
+    4. Brake/parasympathetic (no clue how to fix it, where to turn or if it would ever get better): Low energy, low mood, low appetite and low interest in life; digestive troubles, stomach cramps, poor thinking and concentration; leaden limbs, sleeping a lot
+
+    5. Life indefinitely stalled by Brake (wasting my life, leaving a legacy of suffering and pain, letting myself and others down): Worthlessness, emptiness, guilt, indecision, crying a lot, preoccupied with death and suicide
   Graphic Image: 
   Audio url: 
   Video Url: 
