@@ -644,16 +644,16 @@ Slides:
   Image: 
 - Template: fourteen
   Title: 
-  Description: "“Mindfulness and other meditations, particularly combined with cognitive
-    therapy, work just as well for anxiety or depression as the medications do, but
-    they don’t have those side effects,” D. Goleman"
+  Description: 
   Graphic Image: 
   Audio url: 
   Video Url: 
   Credit: 
   Links:
   - Link Url: 
-  Quote: 
+  Quote: "“Mindfulness and other meditations, particularly combined with cognitive
+    therapy, work just as well for anxiety or depression as the medications do, but
+    they don’t have those side effects,” D. Goleman"
   Quote Credit: 
   Image: 
 - Template: seven
