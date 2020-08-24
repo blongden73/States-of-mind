@@ -309,7 +309,7 @@ Slides:
   Quote Credit: 
   Image: 
 - Template: five
-  Title: 
+  Title: Psychosocial Theories
   Description: "* In 2017, nearly 300 million people were living with depression worldwide.
     \ \n* In 2017 the UN stated “ we need to shift from talking about depression as
     a chemical imbalance to power imbalances in the way we live.” "
