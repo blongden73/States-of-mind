@@ -347,8 +347,8 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: 
-- Template: 'Fight,Flight and “Fright” '
-  Title: 
+- Template: sixteen
+  Title: 'Fight,Flight and “Fright” '
   Description: "* Researchers have described a stage of the stress response called
     ‘Fright’. \n* This is a state of intense distress that is triggered when intense
     fear combines with a sense of being trapped or constrained. (Schauer & Elbert,
