@@ -216,7 +216,7 @@ Slides:
   Credit: 
   Links:
   - Link Url: 
-  Quote: "“the claims depression is caused by a natural lack of serotonin in the brain
+  Quote: "“The claims depression is caused by a natural lack of serotonin in the brain
     are deeply misleading and unscientific.”"
   Quote Credit: 'Andrew Skull '
   Image: 
