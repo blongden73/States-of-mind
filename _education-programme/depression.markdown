@@ -143,7 +143,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: "/uploads/adrian-swancar-_2NHZjSMLjA-unsplash.jpg"
-- Template: six
+- Template: sixteen
   Title: "‘The chemical imbalance theory’"
   Description: "For a long time, psychiatrists believed that depression was caused
     by a lack of serotonin and dopamine in the brain as these are brain chemicals
