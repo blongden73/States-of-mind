@@ -668,7 +668,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: 
-- Template: five
+- Template: sixteen
   Title: 'Psychotherapy and Family Therapy '
   Description: "Psychodynamic Therapy is a medium to long term therapy that usually
     takes place in a 1-1 context. The therapy provides a supportive environment that
@@ -731,7 +731,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: 
-- Template: sixteen
+- Template: five
   Title: 
   Description: "* People who experience depression often feel confused, guilty and
     shameful around the experience of not meeting the expectations of themselves and
@@ -766,7 +766,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: 
-- Template: five
+- Template: sixteen
   Title: 'Why is unconditional  positive regard beneficial for depression? '
   Description: |-
     People who are experiencing depression often hold an underlying belief that they are not loveable, are flawed and not worthy of love & acceptance.  
@@ -800,8 +800,8 @@ Slides:
   Image: 
 - Template: five
   Title: 'Behavioural activation '
-  Description: "\n\nThe idea behind behavioural activation is to gradually change
-    small aspects of how we live, so that we can slowly change our experience of ourselves
+  Description: "The idea behind behavioural activation is to gradually change small
+    aspects of how we live, so that we can slowly change our experience of ourselves
     in our everyday lives and explore what changes positively affect your mood and
     wellbeing. \n\nBehaviour Activation works by increasing the amount of rewarding
     activities in your life. By changing habits and behaviours it creates new pathways
@@ -816,7 +816,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: 
-- Template: five
+- Template: sixteen
   Title: 'Tips for behavioural activation '
   Description: "Don’t chose what you think you should do, chose something that you
     personally enjoy and want to do. Imagine a positive life that you want to have,
@@ -858,7 +858,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: 
-- Template: twenty
+- Template: sixteen
   Title: 
   Description: 'Graphic showing work, relationships, play, rest, meaning and purpose. '
   Graphic Image: 
