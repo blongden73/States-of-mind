@@ -489,7 +489,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: 
-- Template: 
+- Template: sixteen
   Title: Life events and depression
   Description: "Baumeister explored people’s reactions to experiences of setbacks
     and personal failures. He found that most suicide attempts are preceded by some
@@ -509,7 +509,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: 
-- Template: seven
+- Template: sixteen
   Title: 'Depression and abusive relationships  '
   Description: "Researchers have found that some types of abuse had a particularly
     strong association with the development of depression in comparison to others.
@@ -528,7 +528,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: 
-- Template: twelve
+- Template: five
   Title: 'Time to take a pause '
   Description: 
   Graphic Image: 
