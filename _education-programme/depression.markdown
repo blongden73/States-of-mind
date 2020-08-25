@@ -21,6 +21,8 @@ Slides:
   - Link Url: 
   Quote: 
   Quote Credit: 
+  Cover Image: 
+  Cover Colour: 
 - Template: four
   Title: 
   Description: "* Depression is the most common mental health concern worldwide. \n\n*
@@ -477,9 +479,8 @@ Slides:
   Image: 
 - Template: six
   Title: Depression and the loss of meaning  ‘The deconstructed state’
-  Description: "Present Orientation Versus Future Orientation \n\nDisordered Time
-    Perception \n\nMeaninglessness \n\nLethargy \n\nLack of Emotion  \n\nEscape From
-    Self-Awareness"
+  Description: "Present Orientation Versus Future Orientation \nDisordered Time Perception
+    \nMeaninglessness \nLethargy \nLack of Emotion  \nEscape From Self-Awareness"
   Graphic Image: 
   Audio url: 
   Video Url: 
