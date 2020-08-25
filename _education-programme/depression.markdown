@@ -808,7 +808,7 @@ Slides:
   - Link Url: 
   Quote: 
   Quote Credit: 
-  Image: 
+  Image: "/uploads/pexels-photo-1030940.jpg"
 - Template: five
   Title: 'Behavioural activation '
   Description: "The idea behind behavioural activation is to gradually change small
