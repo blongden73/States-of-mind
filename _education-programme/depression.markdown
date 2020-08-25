@@ -668,7 +668,7 @@ Slides:
   Quote Credit: 
   Image: 
 - Template: two
-  Title: 'Time to Pause '
+  Title: 'Time to take a Pause '
   Description: 
   Graphic Image: 
   Audio url: 
