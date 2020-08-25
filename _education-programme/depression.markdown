@@ -479,8 +479,18 @@ Slides:
   Image: 
 - Template: six
   Title: Depression and the loss of meaning  ‘The deconstructed state’
-  Description: "Present Orientation Versus Future Orientation \nDisordered Time Perception
-    \nMeaninglessness \nLethargy \nLack of Emotion  \nEscape From Self-Awareness"
+  Description: |-
+    * Present Orientation Versus Future Orientation
+
+    * Disordered Time Perception
+
+    * Meaninglessness
+
+    * Lethargy
+
+    * Lack of Emotion
+
+    * Escape From Self-Awareness
   Graphic Image: 
   Audio url: 
   Video Url: 
