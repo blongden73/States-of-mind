@@ -38,30 +38,33 @@
     background-color: #fff;
   }
   &.five {
+    background-color: $nu-pink;
+  }
+  &.four, &.nineteen, &.six, {
     /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f7e3e7+0,ffffff+49,d0eef4+100 */
     background: #f7e3e7; /* Old browsers */
     background: -moz-linear-gradient(-45deg,  #f7e3e7 0%, #ffffff 49%, #d0eef4 100%); /* FF3.6-15 */
     background: -webkit-linear-gradient(-45deg,  #f7e3e7 0%,#ffffff 49%,#d0eef4 100%); /* Chrome10-25,Safari5.1-6 */
     background: linear-gradient(135deg,  #f7e3e7 0%,#ffffff 49%,#d0eef4 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f7e3e7', endColorstr='#d0eef4',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
-  }
-  &.four {
-    background-color: $nu-pink;
+
   }
   &.ten {
     background-color: $nu-beige;
   }
-  &.sixteen {
+  &.sixteen, &.list {
     background-color: $nu-green;
   }
   &.fourteen {
     background-color: $nu-green;
   }
 
+
   small {
     font-family: 'prestige';
-    font-size: 10px;
+    font-size: 9px;
     line-height: 1.3;
+    letter-spacing: 1px;
     margin-top: 20px;
     display: inline-block;
   }
@@ -105,11 +108,27 @@
   z-index: 10;
   max-width: 45%;
 
+  h2 {
+    margin-top: 0;
+  }
+
   .five & {
     max-width: 50%;
 
+    h2 {
+      font-size: 120px;
+      line-height: 0.8;
+      letter-spacing: -5px;
+    }
+
     p, li, small {
       max-width: 82%;
+    }
+  }
+
+  .six & {
+    h2 {
+      letter-spacing: -2px;
     }
   }
 
@@ -141,7 +160,7 @@
 
     h2 {
       font-size: 8vw;
-      letter-spacing: -2px;
+      letter-spacing: -5px;
       line-height: 1;
       max-width: 50%;
     }
@@ -152,14 +171,14 @@
     }
   }
 
-  .sixteen & {
+  .sixteen &, .list & {
     h2 {
       font-size: 55px;
       line-height: 0.9;
       max-width: 85%;
     }
     p, ul, ol, li {
-      font-size: 14px;
+      font-size: 16px;
       max-width: 85%;
     }
 
@@ -170,6 +189,19 @@
     small {
       max-width: 85%;
       display: inline-block;
+    }
+  }
+
+  .list & {
+    max-width: 76%;
+
+    p, ul, ol, li {
+      font-size: 18px;
+      max-width: 85%;
+    }
+
+    li {
+      margin-bottom: 20px;
     }
   }
 
@@ -206,13 +238,14 @@
     iframe {
       width: 100%;
       height: 28vw;
+      margin-bottom: 30px;
     }
 
     h2 {
       font-size: 35px;
       line-height: 0.9;
       max-width: 85%;
-      margin-bottom: 10px;
+      margin-bottom: 30px;
     }
     p, ul, ol, li {
       font-size: 14px;
@@ -362,4 +395,20 @@
       background-color: $nu-pink;
     }
   }
+}
+
+.pagination {
+  padding-top: 4px;
+}
+
+.sixteen + .sixteen {
+  background-color: #fff;
+}
+
+.sixteen + .sixteen + .sixteen {
+  background-color: $nu-beige;
+}
+
+.fourteen + .sixteen {
+  background-color: $nu-blue;
 }

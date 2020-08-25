@@ -4,7 +4,7 @@
     <img src="{{page.['Cover Image']}}">
     <div class="som-wrapper">
       <h1 style="color:{{page.['Cover Colour']}};">{{page.title}}</h1>
-      <div class="som-button">Start presentation</div>
+      <div class="som-button" style="color:{{page.['Cover Colour']}}; border-color:{{page.['Cover Colour']}};">Start presentation</div>
     </div>
   </div>
   {% for slide in page.Slides %}
@@ -31,12 +31,16 @@
           {% include templatetwo.html %}
         {% elsif template == "sixteen" %}
           {% include templatesixteen.html %}
+        {% elsif template == "list" %}
+          {% include templatelist.html %}
         {% elsif template == "one" %}
           {% include templateone.html %}
         {% elsif template == "fourteen" %}
           {% include templatefourteen.html %}
         {% elsif template == "nineteen" %}
           {% include templatenineteen.html %}
+        {% elsif template == "six" %}
+          {% include templatesix.html %}
         {% else %}
           <div class="dev-info">
             <p>Template: {% if template %}{{template}}{% else %} undefined {% endif %}</p>
@@ -67,6 +71,7 @@
         <div class="next-slide">
           <svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M27 18.01L22.481 22v-3.196H10v-1.57h12.481V14L27 18.01z" fill="#000"/><circle cx="18" cy="18" r="17.5" stroke="#000"/></svg>
         </div>
+        <div class="pagination"><span class="update-numbers"></span> /{{page.Slides.size}}</div>
       </div>
       <div class="dots"></div>
     </div>

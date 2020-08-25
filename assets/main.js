@@ -232,6 +232,8 @@ function presentation(){
   slide[0].classList.add('inview');
   var currentLocation = window.location.pathname;
   var dot = document.querySelectorAll('.dot');
+  var numbers = document.querySelector('.update-numbers');
+  numbers.innerHTML = '0 ';
   dot[0].classList.add('inview');
   document.addEventListener('scroll', function(){
     console.log('scrolling');
@@ -242,6 +244,7 @@ function presentation(){
         history.pushState(null, null, currentLocation+'#'+id);
         slide[i].classList.add('inview');
         dot[i].classList.add('inview');
+        numbers.innerHTML = i+' ';
       }else {
         slide[i].classList.remove('inview');
         dot[i].classList.remove('inview');
@@ -284,6 +287,12 @@ function presentation(){
       var next = document.querySelector('.inview + .slide');
       next.scrollIntoView({behavior: "smooth", block: "start", inline: "nearest"});
     }
+  }
+
+  var discussionCount = document.querySelectorAll('.ten');
+  for(g=0; g < discussionCount.length; g++) {
+    var count = g + 1;
+    discussionCount[g].querySelector('.slide-title').innerHTML = "Discussion " + count;
   }
 }
 
