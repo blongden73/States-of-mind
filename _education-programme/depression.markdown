@@ -601,7 +601,7 @@ Slides:
   Quote Credit: 
   Image: 
 - Template: sixteen
-  Title: 'Cognitive Behavioural Therapy '
+  Title: 'Cognitive Behavioural Therapy '
   Description: "CBT is a type of therapy that focuses on changing unhelpful thinking
     patterns, improving people’s ability to regulate their uncomfortable emotions
     and developing coping strategies for people’s current problems.\n\nResearch has
