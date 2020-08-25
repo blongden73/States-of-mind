@@ -187,7 +187,7 @@ Slides:
   Quote Credit: 
   Image: "/uploads/2031089.jpg"
 - Template: sixteen
-  Title: Research on the effectiveness of medical approaches to depression
+  Title: 
   Description: "Research suggests that people who view their emotional distress as
     the result of chemical imbalances in the brain may feel less hopeful and less
     in control throughout the recovery process. (2) \n\n* Antidepressants have failed
