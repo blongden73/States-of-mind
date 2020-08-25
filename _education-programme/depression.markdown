@@ -667,7 +667,7 @@ Slides:
     they don’t have those side effects,” D. Goleman"
   Quote Credit: 
   Image: 
-- Template: five
+- Template: two
   Title: 'Time to Pause '
   Description: 
   Graphic Image: 
