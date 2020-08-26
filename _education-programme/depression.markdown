@@ -872,7 +872,7 @@ Slides:
 - Template: sixteen
   Title: 
   Description: 'Graphic showing work, relationships, play, rest, meaning and purpose. '
-  Graphic Image: 
+  Graphic Image: "/uploads/Group%2097%20(1).png"
   Audio url: 
   Video Url: 
   Credit: 
