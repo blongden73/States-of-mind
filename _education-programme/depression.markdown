@@ -290,7 +290,8 @@ Slides:
   Credit: 
   Links:
   - Link Url: 
-  Quote: 
+  Quote: "“ We need to shift from talking about depression as a chemical imbalance
+    to power imbalances in the way we live. ”"
   Quote Credit: 
   Image: "/uploads/exclusion.jpg"
 - Template: four
@@ -309,15 +310,16 @@ Slides:
   Image: 
 - Template: fourteen
   Title: 
-  Description: 
+  Description: 'In 2017, nearly 300 million people were living with depression worldwide.
+    In 2017 the UN stated:'
+  Quote: "“ There is emerging evidence that the most effective antidepressants are
+    not pills but are carefully chosen changes in the way we live.” "
   Graphic Image: 
   Audio url: 
   Video Url: 
   Credit: 
   Links:
   - Link Url: 
-  Quote: "“ There is emerging evidence that the most effective antidepressants are
-    not pills but are carefully chosen changes in the way we live.” "
   Quote Credit: 
   Image: 
 - Template: five
