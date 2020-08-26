@@ -178,7 +178,7 @@ Slides:
   Quote Credit: 
   Image: 
   Quote: 
-- Template: sixteen
+- Template: fourteen
   Title: Research on the effectiveness of medical approaches to depression
   Description: "65 - 80% of people remain feeling depressed after one year of taking
     antidepressant medications. (1)\n\nA new study, published in the Journal of Affective
@@ -198,7 +198,7 @@ Slides:
     beliefs, like the chemical imbalance belief, are linked with poorer expectations
     for improvement, especially among those with the most troubling symptoms.”"
   Quote Credit: Goldberg D
-  Image: "/uploads/2031089.jpg"
+  Image: "/uploads/pill.jpg"
 - Template: sixteen
   Title: 
   Description: "Research suggests that people who view their emotional distress as
@@ -217,8 +217,6 @@ Slides:
     T. (2020). Stressors and chemical imbalances: Beliefs about the causes of depression
     in an acute psychiatric treatment sample. Journal of Affective Disorders. 537-545. \n\nHugh
     Middleton and Joanna Moncrieff, British Journal of General Practice \n"
-  Links:
-  - Link Url: 
   Quote: 
   Quote Credit: 
   Image: 
@@ -251,6 +249,7 @@ Slides:
   Video Url: 
   Credit: KAISER, 1996; LYNCH, 2015, PP. 31-32.
   Links:
+  - Link Url: 
   - Link Url: 
   - Link Url: 
   Quote: 
