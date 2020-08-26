@@ -194,9 +194,6 @@ Slides:
   Credit: 'Goldberg D, Privett M, Ustun B, Simon G, Linden M. The effects of detection
     and treatment on the outcome of major depression in primary care: a naturalistic
     study in 15 cities. Br J Gen Pract. 1998;48(437):1840-1844.'
-  Quote: "“Our findings are in line with accumulating evidence that some biogenetic
-    beliefs, like the chemical imbalance belief, are linked with poorer expectations
-    for improvement, especially among those with the most troubling symptoms.”"
   Quote Credit: Goldberg D, 2020
   Image: "/uploads/pill.jpg"
 - Template: sixteen
