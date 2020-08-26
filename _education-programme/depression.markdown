@@ -68,27 +68,17 @@ Slides:
 - Template: five
   Title: 'Psychological signs '
   Description: |-
-    continuous low mood or sadness
-
-    feeling hopeless and helpless
-
-    having low self-esteem 
-
-    feeling tearful
-
-    feeling guilt-ridden
-
-    feeling irritable and intolerant of others
-
-    having no motivation or interest in things
-
-    finding it difficult to make decisions
-
-    not getting any enjoyment out of life
-
-    feeling anxious or worried
-
-    having suicidal thoughts or thoughts of harming yourself
+    Continuous low mood or sadness.
+    Feeling hopeless and helpless.
+    Having low self-esteem. 
+    Feeling tearful.
+    Feeling guilt-ridden.
+    Feeling irritable and intolerant of others.
+    Having no motivation or interest in things.
+    Finding it difficult to make decisions.
+    Not getting any enjoyment out of life.
+    Feeling anxious or worried.
+    Having suicidal thoughts or thoughts of harming yourself.
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -101,10 +91,14 @@ Slides:
 - Template: five
   Title: Social Signs
   Description: |-
-    The social symptoms of depression include:
-    * avoiding contact with friends and taking part in fewer social activities
-    * neglecting your hobbies and interests
-    * having difficulties in your home, work or family life
+    ## The social symptoms of depression include:
+
+
+    Avoiding contact with friends and taking part in fewer social activities.
+
+    Neglecting your hobbies and interests.
+
+    Having difficulties in your home, work or family life.
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -117,11 +111,15 @@ Slides:
 - Template: five
   Title: Physical symptoms
   Description: |-
-    * moving or speaking more slowly than usual 
-    * changes in appetite or weight (usually decreased, but sometimes increased) 
-    * unexplained aches and pains
-    lack of energy
-    * disturbed sleep – for example, finding it difficult to fall asleep at night or waking up very early in the morning
+    Moving or speaking more slowly than usual.
+
+    Changes in appetite or weight (usually decreased, but sometimes increased).
+
+    Unexplained aches and pains.
+
+    Lack of energy.
+
+    Disturbed sleep – for example, finding it difficult to fall asleep at night or waking up very early in the morning.
   Graphic Image: 
   Audio url: 
   Video Url: 
