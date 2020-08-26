@@ -26,9 +26,10 @@ Slides:
   Cover Colour: 
 - Template: four
   Title: 
-  Description: "* Depression is the most common mental health concern worldwide. \n\n*
-    In 2014, 19.7% of people in the UK aged 16 and over showed symptoms of depression,
-    a 1.5 % increase from 2013.\n"
+  Description: |-
+    Depression is the most common mental health concern worldwide.
+
+    In 2014, 19.7% of people in the UK aged 16 and over showed symptoms of depression, a 1.5 % increase from 2013.
   Graphic Image: 
   Audio url: 
   Video Url: 
