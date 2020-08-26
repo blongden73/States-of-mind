@@ -91,8 +91,7 @@ Slides:
 - Template: five
   Title: Social Signs
   Description: |-
-    ## The social symptoms of depression include:
-
+    ### The social symptoms of depression include:
 
     Avoiding contact with friends and taking part in fewer social activities.
 
