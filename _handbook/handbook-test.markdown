@@ -3,11 +3,11 @@ title: Handbook test
 date: 2020-08-26 14:46:00 Z
 Form: |-
   <form action="https://getform.io/f/f29364ba-bd98-4c2f-b3f9-7c58ed7f3625" method="POST">
-  <p>Question</p>
+  <p>How does this mindset affect your feelings and behaviour?</p>
     <input type="text" name="name">
-  <p>Question</p>
+  <p>How long have you had this mindset? </p>
     <input type="email" name="email">
-  <p>Question</p>
+  <p>How did this mindset first develop? </p>
     <input type="text" name="message">
     <button type="submit">Send submissions</button>
 
@@ -36,11 +36,11 @@ Choose one of the strongest mindsets you have to work with in step 2.
 
 ## Step 2: 
 
-How does this mindset affect your feelings and behaviour? 
+ 
 
-How long have you had this mindset? 
 
-How did this mindset first develop? 
+
+
 
 How does this mindset serve you? ( How has it helped you or provided you with something?) 
 
