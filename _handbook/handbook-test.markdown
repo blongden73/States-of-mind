@@ -1,7 +1,15 @@
 ---
 title: Handbook test
 date: 2020-08-26 14:46:00 Z
-Form: 
+Form: |-
+  <form action="https://getform.io/f/f29364ba-bd98-4c2f-b3f9-7c58ed7f3625" method="POST">
+
+    <input type="text" name="name">
+    <input type="email" name="email">
+    <input type="text" name="message">
+    <button type="submit">Send</button>
+
+  </form>
 layout: handbook
 ---
 
