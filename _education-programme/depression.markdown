@@ -112,7 +112,7 @@ Slides:
   Quote Credit: 
   Image: 
 - Template: five
-  Title: Physical symptoms
+  Title: Physical signs
   Description: |-
     Moving or speaking more slowly than usual
 
