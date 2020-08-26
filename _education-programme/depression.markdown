@@ -92,6 +92,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: 
+  Cover Colour: 
 - Template: five
   Title: Social Signs
   Description: |-
@@ -111,6 +112,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: 
+  Cover Colour: 
 - Template: five
   Title: Physical signs
   Description: |-
@@ -235,7 +237,7 @@ Slides:
   Image: 
 - Template: sixteen
   Title: 'The chemical imbalance theory of depression '
-  Description: "* Although it is often stated with great confidence that depressed
+  Description: "\"Although it is often stated with great confidence that depressed
     people have a serotonin or norepinephrine deficiency, the evidence actually contradicts
     these claims.”  \n* Professor Emeritus of Neuroscience Elliot Valenstein, in ‘Blaming
     the Brain’ ( 1998) which reviews the evidence for the serotonin hypothesis. \n*
@@ -249,6 +251,7 @@ Slides:
   Video Url: 
   Credit: KAISER, 1996; LYNCH, 2015, PP. 31-32.
   Links:
+  - Link Url: 
   - Link Url: 
   Quote: 
   Quote Credit: 
@@ -800,7 +803,7 @@ Slides:
     By showing unconditional positive regard it allows others to open up about negative beliefs and parts of themselves they feel ashamed of. 
 
     Unconditional positive regard removes any judgement or evaluation of others and allows others to feel that they are able to be accepted for who they are, without needing to change.
-  Graphic Image: 
+  Graphic Image: "/uploads/unconditional%20positive%20regard.jpg"
   Audio url: 
   Video Url: 
   Credit: 
@@ -829,7 +832,7 @@ Slides:
     wellbeing. \n\nBehaviour Activation works by increasing the amount of rewarding
     activities in your life. By changing habits and behaviours it creates new pathways
     in the brain that reinforce behaviour change. \n\nPast research has proven  that
-    BA is effective in the treatment of depressive symptoms. "
+    BA is effective for treating depression. "
   Graphic Image: 
   Audio url: 
   Video Url: 
