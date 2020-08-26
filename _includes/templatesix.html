@@ -14,7 +14,7 @@
 <div class="slide-content">
   <h2 class="slide-title">{{title}}</h2>
   <div class="slide-description">{{description | markdownify}}</div>
-  {% if credit %}
-    <small>{{credit}}</small>
-  {% endif %}
 </div>
+{% if credit %}
+  <small>{{credit}}</small>
+{% endif %}

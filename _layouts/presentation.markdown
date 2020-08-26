@@ -41,6 +41,8 @@
           {% include templatenineteen.html %}
         {% elsif template == "six" %}
           {% include templatesix.html %}
+        {% elsif template == "twenty" %}
+          {% include templatetwenty.html %}
         {% else %}
           <div class="dev-info">
             <p>Template: {% if template %}{{template}}{% else %} undefined {% endif %}</p>

@@ -12,10 +12,14 @@
 {% assign links = slide.Links %}
 -->
 <div class="slide-content">
-  {{video}}
   <h2 class="slide-title">{{title}}</h2>
   <div class="slide-description">{{description | markdownify}}</div>
 </div>
 {% if credit %}
   <small>{{credit}}</small>
 {% endif %}
+<div class="slide-image">
+  {% if graphic %}
+    <img src="{{graphic}}">
+  {% endif  %}
+</div>
