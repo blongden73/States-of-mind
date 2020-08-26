@@ -1,6 +1,6 @@
 ---
-title: NHS mental health services aren't helping young people effectively. This is
-  how we could change that
+title: My experience of our mental health care system showed me what young people
+  really need
 date: 2020-08-26 09:35:00 Z
 categories:
 - journal
@@ -8,9 +8,9 @@ tags:
 - mental health
 - care
 - young people
-Intro: 'How my personal experience of our mental health care system showed me what
-  young people really need – and what needs to change. '
-Byline: 
+Intro: 'The NHS'' mental health services aren''t helping young people effectively.
+  It''s time for change. '
+Byline: By Ella Gregory
 ---
 
 Treatment with the NHS is a minefield of complications. Not only are you likely to encounter mental health staff or doctors whose words trigger you, but you may not even qualify as ‘severe enough’ to get help, a rejection that can enable a common painful desire to compete to be the sickest. Despite this, seeing their GP is the first step in many teenagers’ journey of learning about themselves. Through this, many young people are unwillingly pushed into a mindset of ‘treating’ their ‘issues’, which not only implies that there is something wrong with them but which can quite naturally give way to feelings of anger and resentment.
