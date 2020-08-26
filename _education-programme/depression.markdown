@@ -7,13 +7,13 @@ Slides:
 - Template: five
   Title: What is depression?
   Image: 
-  Description: "Depression is an experience that is manifests in our mental, emotional
-    and physical experience. \n\nIt is characterised by an intense preoccupation with
-    negative thinking about our past, current and future self. These ways of thinking
-    are accompanied by an emotional experience of meaninglessness and ‘apathy’, which
-    is the loss of interest or pleasure in life. \n\nPeople experiencing depression
+  Description: "Depression is an experience that manifests in our mental, emotional
+    and physical experience . \n\nIt is characterised by an intense preoccupation
+    with negative thinking about our past, current and future self. These ways of
+    thinking are accompanied by an emotional experience of meaninglessness and ‘apathy’,
+    which is the loss of interest or pleasure in life. \n\nPeople experiencing depression
     also experience changes to their physical state, such as increased tiredness and
-    fatigue and difficulty concentrating. "
+    fatigue."
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -29,7 +29,7 @@ Slides:
   Description: |-
     Depression is the most common mental health concern worldwide.
 
-    In 2014, 19.7% of people in the UK aged 16 and over showed symptoms of depression, a 1.5 % increase from 2013.
+    In 2014, 19.7% of people in the UK aged 16 and over showed signs of depression, a 1.5 % increase from 2013.
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -169,9 +169,9 @@ Slides:
   Credit: 
   Links:
   - Link Url: 
-  Quote: 
   Quote Credit: 
   Image: 
+  Quote: 
 - Template: sixteen
   Title: Research on the effectiveness of medical approaches to depression
   Description: "65 - 80% of people remain feeling depressed after one year of taking
@@ -188,10 +188,10 @@ Slides:
   Credit: 'Goldberg D, Privett M, Ustun B, Simon G, Linden M. The effects of detection
     and treatment on the outcome of major depression in primary care: a naturalistic
     study in 15 cities. Br J Gen Pract. 1998;48(437):1840-1844.'
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
+  Quote: "“Our findings are in line with accumulating evidence that some biogenetic
+    beliefs, like the chemical imbalance belief, are linked with poorer expectations
+    for improvement, especially among those with the most troubling symptoms.”"
+  Quote Credit: Goldberg D
   Image: "/uploads/2031089.jpg"
 - Template: sixteen
   Title: 
