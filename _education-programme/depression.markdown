@@ -869,7 +869,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: 
-- Template: sixteen
+- Template: twenty
   Title: 
   Description: 
   Graphic Image: "/uploads/Group%2097%20(1).png"
