@@ -881,18 +881,6 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: 
-- Template: five
-  Title: 
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: This is a link to the handbook
-  Quote: 
-  Quote Credit: 
-  Image: 
 Cover Image: "/uploads/depression_Cover.png"
 Cover Colour: "#eeeff3"
 layout: presentation
