@@ -178,7 +178,7 @@ Slides:
   Quote Credit: 
   Image: 
   Quote: 
-- Template: fourteen
+- Template: sixteen
   Title: Research on the effectiveness of medical approaches to depression
   Description: "65 - 80% of people remain feeling depressed after one year of taking
     antidepressant medications. (1)\n\nA new study, published in the Journal of Affective
@@ -197,7 +197,7 @@ Slides:
   Quote: "“Our findings are in line with accumulating evidence that some biogenetic
     beliefs, like the chemical imbalance belief, are linked with poorer expectations
     for improvement, especially among those with the most troubling symptoms.”"
-  Quote Credit: Goldberg D
+  Quote Credit: Goldberg D, 2020
   Image: "/uploads/pill.jpg"
 - Template: sixteen
   Title: 
