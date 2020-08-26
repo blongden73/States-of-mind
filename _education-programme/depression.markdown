@@ -69,15 +69,19 @@ Slides:
   Title: 'Psychological signs '
   Description: |-
     Continuous low mood or sadness
+
     Feeling hopeless and helpless
-    Having low self-esteem 
-    Feeling tearful
+
     Feeling guilt-ridden
+
     Feeling irritable and intolerant of others
+
     Having no motivation or interest in things
+
     Finding it difficult to make decisions
+
     Not getting any enjoyment out of life
-    Feeling anxious or worried
+
     Having suicidal thoughts or thoughts of harming yourself
   Graphic Image: 
   Audio url: 
