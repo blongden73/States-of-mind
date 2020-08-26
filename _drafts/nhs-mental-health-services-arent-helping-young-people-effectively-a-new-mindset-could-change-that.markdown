@@ -8,11 +8,14 @@ tags:
 - mental health
 - care
 - young people
+Intro: 'How my personal experience of our mental health care system showed me what
+  young people really need – and what needs to change. '
+Byline: 
 ---
 
 Treatment with the NHS is a minefield of complications. Not only are you likely to encounter mental health staff or doctors whose words trigger you, but you may not even qualify as ‘severe enough’ to get help, a rejection that can enable a common painful desire to compete to be the sickest. Despite this, seeing their GP is the first step in many teenagers’ journey of learning about themselves. Through this, many young people are unwillingly pushed into a mindset of ‘treating’ their ‘issues’, which not only implies that there is something wrong with them but which can quite naturally give way to feelings of anger and resentment.
 
-The idea that such patients are ill implies that mental health is simply a medical issue, rather than an ongoing process of learning and unlearning. Reorganising structures in your mind is a journey taken over the course of a lifetime with many new paths and avenues, one that can be helped by, but is not solved by, medication. 
+> The idea that such patients are ill implies that mental health is simply a medical issue, rather than an ongoing process of learning and unlearning. Reorganising structures in your mind is a journey taken over the course of a lifetime with many new paths and avenues, one that can be helped by, but is not solved by, medication. 
 
 The tragedy of such services is that they neglect a side of healing that is not medical. The NHS are there to cure and to treat and to fix, and yet most of us escape the confines of distress through introspection and by replacing old behaviours with new ones. To me, the idea that we can visit a therapist and be rid of our issues is a myth. The NHS cannot cure those of us who have been traumatised or hurt, but it can give us the resources to heal ourselves, and can support that journey for a while. 
 
@@ -20,7 +23,7 @@ The issue for me isn’t that the NHS failed to ‘fix’ me: I no longer believ
 
 This ‘sickness’ label not only makes teenagers feel like they are not enough but, in my experience, also furthers their anger and feelings of despair when they may not feel better. This feeds into hostile attitudes about NHS mental health services, especially CAMHS, forming an opinion that is now commonplace and, as far as I can see, hasn’t been addressed. Why is a feeling of intense frustration and anger towards a fundamentally beneficial organisation so commonplace?
 
-It’s time for change
+## It’s time for change
 
 My overwhelming feelings or periods of numbness haven’t disappeared over the years, but I am able to manage them with a lot more confidence, thanks to a form of psycho-education from my psychotherapist and the internet. 
 
@@ -30,7 +33,7 @@ NHS’ diagnostic model is an issue for many people: binding them to the limits 
 
 Additionally, resources do not inspire connection – strange, when many point to a lack of connection as the nub of why as a society we are so distressed and lonely. Trained mental health professionals seem to have no idea about how to help us connect other than seeing our friends. Meditation can be a powerful tool to connect us but using apps on our own in our rooms is not the only way to do it. We can connect online through communities, built by influencers like Yoga with Adriene, Fleur deliss and David Nitchern; people who not only guide us with words of wisdom, but also smile, speak with emotion and offer the chance to engage with members of the community they have built. 
 
-Taking responsibility
+## Taking responsibility
 
 Accepting another person’s help with such an intimate and terrifying journey requires trust. We must not only trust in the method and the practitioner but in ourselves. As patients we have a certain amount of responsibility to keep trying, to be honest with ourselves and others, to trust our instincts, to defend our beliefs and to educate others when they hurt us. This duty extends also to medical professionals and therapists. Not only are they not exempt in making mistakes, but there is an often unspoken-about power imbalance that is especially prevalent with young people. When challenging someone with a university degree over their approach or words, it is easy to give up because they are more experienced, but we owe it to ourselves and to those who will use these services in the future to challenge comments that are triggering and hurtful, to be honest when we are scared. In this way, we can help improve the system. 
 
@@ -38,13 +41,15 @@ The NHS encourages self-awareness, but does not share tools to learn it. So the 
 
 Changing ideas that have been ingrained in us is an arduous, life-long journey. It involves  reading, learning, unlearning, listening, trying, failing, practicing and talking and it is something we cannot rely wholly on the NHS for. Yes, the NHS can fail to meet our needs. But as young people, we cannot use this as an excuse not to do the work ourselves and to do this the NHS must make it clear that the responsibility is on the young person to continue their healing journey and recovery.
 
-Truth and compassion
+## Truth and compassion
 
-I often fear that without system wide change, the NHS will continue to fail young people and rely on outdated methods, but there is still potential for small changes that can have huge results. Not only do pediatricians, GPs and other non mental health specific professionals need to learn more about what it’s like to feel so distressed and lost at a young age but they must also be taught to communicate better. They must actively engage in programmes (for example, peer to peer counselling services like Talk 4 Health) in which they can learn how to respond to someone who may feel utterly alone in their struggle and hopefully build a level of self awareness that can help to undo the anger felt by many. NHS staff must be honest about their own shortcomings and be honest with their patients. 
+I often fear that without system wide change, the NHS will continue to fail young people and rely on outdated methods, but there is still potential for small changes that can have huge results. Not only do paediatricians, GPs and other non mental health specific professionals need to learn more about what it’s like to feel so distressed and lost at a young age but they must also be taught to communicate better. They must actively engage in programmes (for example, peer to peer counselling services like Talk 4 Health) in which they can learn how to respond to someone who may feel utterly alone in their struggle and hopefully build a level of self awareness that can help to undo the anger felt by many. NHS staff must be honest about their own shortcomings and be honest with their patients. 
 
 As a young person, I can provide my perspective: condescending tones and conversations with family members that did not include me only served to further complicate and confuse things.
 Maybe at the time we won’t be able to deal with what you tell us, but I have found it much more helpful to hear truths than to be mollycoddled. If the fear is around the patient angrily responding, then instead of not sharing these truths, CAMHS should look into creating a safe space to destress after a session.
 
-Lastly, I do not believe that it is possible to treat someone if you are assuming their hostility. As such, staff within mental health systems and in any medical profession need to set a good example by practicing love and compassion. Vulnerability is a tool that I see as key to enjoying life and being able to be vulnerable is a skill that many have to learn. We are surrounded by messages that are anti-vulnerability and the NHS should be a haven from these. Vulnerability must be reciprocated, we all have a duty to be as honest as we can, whether we are the patient or the provider.
+> Finally, I do not believe that it is possible to treat someone if you are assuming their hostility. As such, staff within mental health systems and in any medical profession need to set a good example by practicing love and compassion. 
+
+Vulnerability is a tool that I see as key to enjoying life and being able to be vulnerable is a skill that many have to learn. We are surrounded by messages that are anti-vulnerability and the NHS should be a haven from these. Vulnerability must be reciprocated, we all have a duty to be as honest as we can, whether we are the patient or the provider.
 
 Young people are angry, but under that hostility is a soul longing to be loved and understood. Together we can work to restore our voices and feel authentic, as long as we have a mental health system that values honesty and responsibility.
