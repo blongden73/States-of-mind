@@ -3,11 +3,13 @@ title: Handbook test
 date: 2020-08-26 14:46:00 Z
 Form: |-
   <form action="https://getform.io/f/f29364ba-bd98-4c2f-b3f9-7c58ed7f3625" method="POST">
-
+  <p>Question</p>
     <input type="text" name="name">
+  <p>Question</p>
     <input type="email" name="email">
+  <p>Question</p>
     <input type="text" name="message">
-    <button type="submit">Send</button>
+    <button type="submit">Send submissions</button>
 
   </form>
 layout: handbook
