@@ -1,6 +1,6 @@
 ---
-title: NHS mental health services aren't helping young people effectively. A new mindset
-  could change that
+title: NHS mental health services aren't helping young people effectively. This is
+  how we could change that
 date: 2020-08-26 09:35:00 Z
 categories:
 - journal
