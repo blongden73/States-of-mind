@@ -266,7 +266,7 @@ Slides:
   Quote Credit: 
   Image: "/uploads/medication%203.jpeg"
 - Template: six
-  Title: 'Recovering from depression without medication  '
+  Title: 
   Description: "A Meta-analysis ( analysis of a large group of research studies) has
     shown that\n\n“unmedicated patients have much shorter episodes, and better long-term
     prospects, than medicated patients. Several of these studies have found that the
@@ -297,7 +297,7 @@ Slides:
 - Template: four
   Title: 
   Description: 'Psychosocial approaches to depression do not view depression as being
-    caused by a chemical imbalance in the brain but explore how our living conditions,
+    caused by a chemical imbalance in the brain. They explore how our living conditions,
     social world and life experiences can contribute to the experience of depression. '
   Graphic Image: 
   Audio url: 
@@ -323,16 +323,16 @@ Slides:
   Image: 
 - Template: five
   Title: Psychosocial Theories
-  Description: "* In 2017, nearly 300 million people were living with depression worldwide.
-    \ \n* In 2017 the UN stated “ we need to shift from talking about depression as
-    a chemical imbalance to power imbalances in the way we live.” "
+  Description: "In 2017, nearly 300 million people were living with depression worldwide.
+    \ \n\nIn 2017 the UN stated: "
   Graphic Image: 
   Audio url: 
   Video Url: 
   Credit: 
   Links:
   - Link Url: 
-  Quote: 
+  Quote: "“ we need to shift from talking about depression as a chemical imbalance
+    to power imbalances in the way we live.” "
   Quote Credit: 
   Image: 
 - Template: two
