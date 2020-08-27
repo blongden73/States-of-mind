@@ -157,7 +157,7 @@ Slides:
   - Link Url: 
   Quote: 
   Quote Credit: 
-  Image: "/uploads/adrian-swancar-_2NHZjSMLjA-unsplash.jpg"
+  Image: "/uploads/medical%20approaches-9cc8f8.jpeg"
 - Template: sixteen
   Title: "‘The chemical imbalance theory’"
   Description: "For a long time, psychiatrists believed that depression was caused
@@ -889,6 +889,42 @@ Slides:
   Audio url: 
   Video Url: 
   Credit: 'Graphic showing work, relationships, play, rest, meaning and purpose. '
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: 
+- Template: 
+  Title: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: 
+- Template: 
+  Title: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: 
+- Template: 
+  Title: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
   Links:
   - Link Url: 
   Quote: 
