@@ -894,9 +894,17 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: 
-- Template: 
+- Template: sixteen
   Title: 
-  Description: 
+  Description: |-
+    Start small and make it measurable. Chose something small. This could be anything from
+
+    ‘ I want to make my bed every morning’ to
+    ‘ I want to go to a life drawing class this week.’
+
+    Ask others to help you. By asking for the support of your friends it will help reinforce your goals and will also mean that you can share the experience with somebody else. Ask if they can help you build it into your routine.
+
+    Recording your progress will provide more of a sense of control. Once every few weeks reflect on how things have changes and what difference these changes, no matter how small, have made on your mood.
   Graphic Image: 
   Audio url: 
   Video Url: 
