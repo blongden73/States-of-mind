@@ -842,19 +842,31 @@ Slides:
   Image: 
 - Template: sixteen
   Title: 'Tips for behavioural activation '
-  Description: "Don’t chose what you think you should do, chose something that you
+  Description: Don’t chose what you think you should do, chose something that you
     personally enjoy and want to do. Imagine a positive life that you want to have,
     what sorts of activities and things are you doing? The aim is to allow yourself
     to feel joy, contentment and other positive and reassuring feelings through the
-    activities in your everyday life. \n\nStart small and make it measurable. Chose
-    something small. This could be anything from\n\n‘ I want to make my bed every
-    morning’ to\n‘ I want to go to a life drawing class this week.’ \n\nAsk others
-    to help you. By asking for the support of your friends it will help reinforce
-    your goals and will also mean that you can share the experience with somebody
-    else. Ask if they can help you build it into your routine.\n\nRecording your progress
-    will provide more of a sense of control. Once every few weeks reflect on how things
-    have changes and what difference these changes, no matter how small, have made
-    on your mood."
+    activities in your everyday life.
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: 
+- Template: sixteen
+  Title: 
+  Description: |-
+    Start small and make it measurable. Chose something small. This could be anything from
+
+    ‘ I want to make my bed every morning’ to
+    ‘ I want to go to a life drawing class this week.’
+
+    Ask others to help you. By asking for the support of your friends it will help reinforce your goals and will also mean that you can share the experience with somebody else. Ask if they can help you build it into your routine.
+
+    Recording your progress will provide more of a sense of control. Once every few weeks reflect on how things have changes and what difference these changes, no matter how small, have made on your mood.
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -889,26 +901,6 @@ Slides:
   Audio url: 
   Video Url: 
   Credit: 'Graphic showing work, relationships, play, rest, meaning and purpose. '
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Image: 
-- Template: sixteen
-  Title: 
-  Description: |-
-    Start small and make it measurable. Chose something small. This could be anything from
-
-    ‘ I want to make my bed every morning’ to
-    ‘ I want to go to a life drawing class this week.’
-
-    Ask others to help you. By asking for the support of your friends it will help reinforce your goals and will also mean that you can share the experience with somebody else. Ask if they can help you build it into your routine.
-
-    Recording your progress will provide more of a sense of control. Once every few weeks reflect on how things have changes and what difference these changes, no matter how small, have made on your mood.
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
   Links:
   - Link Url: 
   Quote: 
