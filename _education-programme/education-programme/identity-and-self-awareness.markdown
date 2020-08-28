@@ -116,7 +116,7 @@ Slides:
   Image: 
   Description: "Psychology provides us with different models to understand self awareness
     to learn more about our selves. This module uses 3 models, \n\n1. Johari Window
-    \ \n2. Inner child \n3. Subpersonalities \n\nOther models that you can explore
+    \ \n2. Inner child \n3. Subpersonalities\n\nOther models that you can explore
     if you are interested… Maslow’s hierarchy of needs, Freud and the psychodynamic
     model of the personality, Jung and the Five Factor model of the Personality. "
   Graphic Image: 
