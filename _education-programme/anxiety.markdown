@@ -297,7 +297,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: What causes anxiety?
-  Image: 
+  Image: "/uploads/anxiety%207.jpg"
   Description: 
   Graphic Image: 
   Audio url: 
@@ -359,8 +359,8 @@ Slides:
   Title: Anxiety and Social Rank Theory 
   Image: 
   Description: |-
-    Paul Gilbert, an Evolutionary Psychologist has proposed that people feel anxiety as a response to social comparison, as people are hardwired to pay attention to their social status within groups. This draws out our Fear of not being good enough in the eyes of others/ the fear of rejection and not being accepted. 
-     
+    Paul Gilbert, an Evolutionary Psychologist has proposed that people feel anxiety as a response to social comparison, as people are hardwired to pay attention to their social status within groups. This draws out our Fear of not being good enough in the eyes of others/ the fear of rejection and not being accepted.
+
     As one of our primary needs is a sense of belonging, connection and acceptance, our threat system becomes active when we perceive a threat to these needs. 
 
      
