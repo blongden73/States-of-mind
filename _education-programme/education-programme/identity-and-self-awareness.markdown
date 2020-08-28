@@ -694,7 +694,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: Exploring sub personalities
-  Image: 
+  Image: "/uploads/sub%20personalities.jpg"
   Description: 
   Graphic Image: 
   Audio url: 
@@ -708,17 +708,17 @@ Slides:
 - Template: sixteen
   Title: Group Identity  
   Image: 
-  Description: "Values, Beliefs and Behaviour  \n\nOne of the strongest factors that
-    influence and reflect our sense of identity are the groups that we are a part
-    of in our lives. From the moment we are born, we are a part of our family group.
-    As we grow and develop, we encounter new groups at school or in our local community.
-    Throughout our whole lives, out of choice or out of circumstance, we will spend
-    our times in groups that have an influence on us and which reflect our values,
-    beliefs and mindsets about who we are. Groups provide us with a sense of belonging,
-    which is one of our most important needs in terms of our mental health and wellbeing. \n\nResearch
-    has shown consistently that the quality of our social world is one of the most
-    significant indicators of our wellbeing and ability to recover from difficult
-    times in our lives.  "
+  Description: "**Values, Beliefs and Behaviour**\n\nOne of the strongest factors
+    that influence and reflect our sense of identity are the groups that we are a
+    part of in our lives. From the moment we are born, we are a part of our family
+    group. As we grow and develop, we encounter new groups at school or in our local
+    community. Throughout our whole lives, out of choice or out of circumstance, we
+    will spend our times in groups that have an influence on us and which reflect
+    our values, beliefs and mindsets about who we are. Groups provide us with a sense
+    of belonging, which is one of our most important needs in terms of our mental
+    health and wellbeing. \n\nResearch has shown consistently that the quality of
+    our social world is one of the most significant indicators of our wellbeing and
+    ability to recover from difficult times in our lives.  "
   Graphic Image: 
   Audio url: 
   Video Url: 
