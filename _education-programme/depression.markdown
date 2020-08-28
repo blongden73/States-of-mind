@@ -7,13 +7,13 @@ Slides:
 - Template: five
   Title: What is depression?
   Image: 
-  Description: "Depression is an experience that is manifests in our mental, emotional
-    and physical experience. It is characterised by an intense preoccupation with
-    negative thinking about our past, current and future self. These ways of thinking
-    are accompanied by an emotional experience of meaninglessness and ‘apathy’, which
-    is the loss of interest or pleasure in life. \nPeople experiencing depression
+  Description: "Depression is an experience that manifests in our mental, emotional
+    and physical experience . \n\nIt is characterised by an intense preoccupation
+    with negative thinking about our past, current and future self. These ways of
+    thinking are accompanied by an emotional experience of meaninglessness and ‘apathy’,
+    which is the loss of interest or pleasure in life. \n\nPeople experiencing depression
     also experience changes to their physical state, such as increased tiredness and
-    fatigue and difficulty concentrating. "
+    fatigue."
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -26,9 +26,10 @@ Slides:
   Cover Colour: 
 - Template: four
   Title: 
-  Description: "* Depression is the most common mental health concern worldwide. \n\n*
-    In 2014, 19.7% of people in the UK aged 16 and over showed symptoms of depression,
-    a 1.5 % increase from 2013.\n"
+  Description: |-
+    Depression is the most common mental health concern worldwide.
+
+    In 2014, 19.7% of people in the UK aged 16 and over showed signs of depression, a 1.5 % increase from 2013.
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -66,20 +67,22 @@ Slides:
   Image: 
 - Template: five
   Title: 'Psychological signs '
-  Description: |2-
+  Description: |-
+    Continuous low mood or sadness
 
+    Feeling hopeless and helpless
 
-    * continuous low mood or sadness
-    * feeling hopeless and helpless
-    * having low self-esteem 
-    feeling tearful
-    * feeling guilt-ridden
-    * feeling irritable and intolerant of others 
-    * having no motivation or interest in things
-    * finding it difficult to make decisions
-    * not getting any enjoyment out of life
-    * feeling anxious or worried 
-    * having suicidal thoughts or thoughts of harming yourself
+    Feeling guilt-ridden
+
+    Feeling irritable and intolerant of others
+
+    Having no motivation or interest in things
+
+    Finding it difficult to make decisions
+
+    Not getting any enjoyment out of life
+
+    Having suicidal thoughts or thoughts of harming yourself
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -89,13 +92,17 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: 
+  Cover Colour: 
 - Template: five
   Title: Social Signs
   Description: |-
-    The social symptoms of depression include:
-    * avoiding contact with friends and taking part in fewer social activities
-    * neglecting your hobbies and interests
-    * having difficulties in your home, work or family life
+    The social signs of depression include:
+
+    Avoiding contact with friends and taking part in fewer social activities
+
+    Neglecting your hobbies and interests
+
+    Having difficulties in your home, work or family life
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -105,14 +112,19 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: 
+  Cover Colour: 
 - Template: five
-  Title: Physical symptoms
+  Title: Physical signs
   Description: |-
-    * moving or speaking more slowly than usual 
-    * changes in appetite or weight (usually decreased, but sometimes increased) 
-    * unexplained aches and pains
-    lack of energy
-    * disturbed sleep – for example, finding it difficult to fall asleep at night or waking up very early in the morning
+    Moving or speaking more slowly than usual
+
+    Changes in appetite or weight (usually decreased, but sometimes increased)
+
+    Unexplained aches and pains
+
+    Lack of energy
+
+    Disturbed sleep – for example, finding it difficult to fall asleep at night or waking up very early in the morning
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -145,7 +157,7 @@ Slides:
   - Link Url: 
   Quote: 
   Quote Credit: 
-  Image: "/uploads/adrian-swancar-_2NHZjSMLjA-unsplash.jpg"
+  Image: "/uploads/medical%20approaches-9cc8f8.jpeg"
 - Template: sixteen
   Title: "‘The chemical imbalance theory’"
   Description: "For a long time, psychiatrists believed that depression was caused
@@ -163,9 +175,9 @@ Slides:
   Credit: 
   Links:
   - Link Url: 
-  Quote: 
   Quote Credit: 
   Image: 
+  Quote: 
 - Template: sixteen
   Title: Research on the effectiveness of medical approaches to depression
   Description: "65 - 80% of people remain feeling depressed after one year of taking
@@ -182,11 +194,8 @@ Slides:
   Credit: 'Goldberg D, Privett M, Ustun B, Simon G, Linden M. The effects of detection
     and treatment on the outcome of major depression in primary care: a naturalistic
     study in 15 cities. Br J Gen Pract. 1998;48(437):1840-1844.'
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Image: "/uploads/2031089.jpg"
+  Quote Credit: Goldberg D, 2020
+  Image: "/uploads/pill.jpg"
 - Template: sixteen
   Title: 
   Description: "Research suggests that people who view their emotional distress as
@@ -205,8 +214,6 @@ Slides:
     T. (2020). Stressors and chemical imbalances: Beliefs about the causes of depression
     in an acute psychiatric treatment sample. Journal of Affective Disorders. 537-545. \n\nHugh
     Middleton and Joanna Moncrieff, British Journal of General Practice \n"
-  Links:
-  - Link Url: 
   Quote: 
   Quote Credit: 
   Image: 
@@ -225,7 +232,7 @@ Slides:
   Image: 
 - Template: sixteen
   Title: 'The chemical imbalance theory of depression '
-  Description: "* Although it is often stated with great confidence that depressed
+  Description: "\"Although it is often stated with great confidence that depressed
     people have a serotonin or norepinephrine deficiency, the evidence actually contradicts
     these claims.”  \n* Professor Emeritus of Neuroscience Elliot Valenstein, in ‘Blaming
     the Brain’ ( 1998) which reviews the evidence for the serotonin hypothesis. \n*
@@ -239,6 +246,8 @@ Slides:
   Video Url: 
   Credit: KAISER, 1996; LYNCH, 2015, PP. 31-32.
   Links:
+  - Link Url: 
+  - Link Url: 
   - Link Url: 
   Quote: 
   Quote Credit: 
@@ -256,7 +265,7 @@ Slides:
   Quote Credit: 
   Image: "/uploads/medication%203.jpeg"
 - Template: six
-  Title: 'Recovering from depression without medication  '
+  Title: 
   Description: "A Meta-analysis ( analysis of a large group of research studies) has
     shown that\n\n“unmedicated patients have much shorter episodes, and better long-term
     prospects, than medicated patients. Several of these studies have found that the
@@ -281,13 +290,14 @@ Slides:
   Credit: 
   Links:
   - Link Url: 
-  Quote: 
+  Quote: "“ We need to shift from talking about depression as a chemical imbalance
+    to power imbalances in the way we live. ”"
   Quote Credit: 
   Image: "/uploads/exclusion.jpg"
 - Template: four
   Title: 
   Description: 'Psychosocial approaches to depression do not view depression as being
-    caused by a chemical imbalance in the brain but explore how our living conditions,
+    caused by a chemical imbalance in the brain. They explore how our living conditions,
     social world and life experiences can contribute to the experience of depression. '
   Graphic Image: 
   Audio url: 
@@ -300,22 +310,24 @@ Slides:
   Image: 
 - Template: fourteen
   Title: 
-  Description: 
+  Description: 'In 2017, nearly 300 million people were living with depression worldwide.
+    In 2017 the UN stated:'
+  Quote: "“ There is emerging evidence that the most effective antidepressants are
+    not pills but are carefully chosen changes in the way we live.” "
   Graphic Image: 
   Audio url: 
   Video Url: 
   Credit: 
   Links:
   - Link Url: 
-  Quote: "“ There is emerging evidence that the most effective antidepressants are
-    not pills but are carefully chosen changes in the way we live.” "
   Quote Credit: 
   Image: 
 - Template: five
   Title: Psychosocial Theories
-  Description: "* In 2017, nearly 300 million people were living with depression worldwide.
-    \ \n* In 2017 the UN stated “ we need to shift from talking about depression as
-    a chemical imbalance to power imbalances in the way we live.” "
+  Description: |-
+    In 2017, nearly 300 million people were living with depression worldwide. In 2017 the UN stated:
+
+    >  “ We need to shift from talking about depression as a chemical imbalance to power imbalances in the way we live. ”
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -789,7 +801,7 @@ Slides:
     By showing unconditional positive regard it allows others to open up about negative beliefs and parts of themselves they feel ashamed of. 
 
     Unconditional positive regard removes any judgement or evaluation of others and allows others to feel that they are able to be accepted for who they are, without needing to change.
-  Graphic Image: 
+  Graphic Image: "/uploads/unconditional%20positive%20regard.jpg"
   Audio url: 
   Video Url: 
   Credit: 
@@ -818,7 +830,7 @@ Slides:
     wellbeing. \n\nBehaviour Activation works by increasing the amount of rewarding
     activities in your life. By changing habits and behaviours it creates new pathways
     in the brain that reinforce behaviour change. \n\nPast research has proven  that
-    BA is effective in the treatment of depressive symptoms. "
+    BA is effective for treating depression. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -830,19 +842,31 @@ Slides:
   Image: 
 - Template: sixteen
   Title: 'Tips for behavioural activation '
-  Description: "Don’t chose what you think you should do, chose something that you
+  Description: Don’t chose what you think you should do, chose something that you
     personally enjoy and want to do. Imagine a positive life that you want to have,
     what sorts of activities and things are you doing? The aim is to allow yourself
     to feel joy, contentment and other positive and reassuring feelings through the
-    activities in your everyday life. \n\nStart small and make it measurable. Chose
-    something small. This could be anything from\n\n‘ I want to make my bed every
-    morning’ to\n‘ I want to go to a life drawing class this week.’ \n\nAsk others
-    to help you. By asking for the support of your friends it will help reinforce
-    your goals and will also mean that you can share the experience with somebody
-    else. Ask if they can help you build it into your routine.\n\nRecording your progress
-    will provide more of a sense of control. Once every few weeks reflect on how things
-    have changes and what difference these changes, no matter how small, have made
-    on your mood."
+    activities in your everyday life.
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: 
+- Template: sixteen
+  Title: 
+  Description: |-
+    Start small and make it measurable. Chose something small. This could be anything from
+
+    ‘ I want to make my bed every morning’ to
+    ‘ I want to go to a life drawing class this week.’
+
+    Ask others to help you. By asking for the support of your friends it will help reinforce your goals and will also mean that you can share the experience with somebody else. Ask if they can help you build it into your routine.
+
+    Recording your progress will provide more of a sense of control. Once every few weeks reflect on how things have changes and what difference these changes, no matter how small, have made on your mood.
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -877,6 +901,30 @@ Slides:
   Audio url: 
   Video Url: 
   Credit: 'Graphic showing work, relationships, play, rest, meaning and purpose. '
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: 
+- Template: 
+  Title: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: 
+- Template: 
+  Title: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
   Links:
   - Link Url: 
   Quote: 
