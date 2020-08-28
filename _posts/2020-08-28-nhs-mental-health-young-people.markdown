@@ -65,3 +65,5 @@ Maybe at the time we won’t be able to deal with what you tell us, but I have f
 Vulnerability is a tool that I see as key to enjoying life and being able to be vulnerable is a skill that many have to learn. We are surrounded by messages that are anti-vulnerability and the NHS should be a haven from these. Vulnerability must be reciprocated, we all have a duty to be as honest as we can, whether we are the patient or the provider.
 
 Young people are angry, but under that hostility is a soul longing to be loved and understood. Together we can work to restore our voices and feel authentic, as long as we have a mental health system that values honesty and responsibility.
+
+**Left hand side photo: Ella Gregory, 2020**
