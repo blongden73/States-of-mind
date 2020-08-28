@@ -1,6 +1,7 @@
 ---
 title: Body, feelings, mind
 date: 2020-08-28 16:25:00 Z
+permalink: "/education-programme/body-feelings-mind.html"
 Slides:
 - Template: five
   Title: 
@@ -20,21 +21,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: fourteen
-  Title: 
-  Image: 
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: "“In mind-body medicine, the mind and body are not seen as separately functioning
-    entities, but as one functioning unit. The mind and emotions are viewed as influencing
-    the body, as the body, in turn, influences the mind and emotions” \n"
-  Quote Credit: 'Selhub (2007) '
-  Slide Colour: 
+- 
 - Template: sixteen
   Title: 'How effective are mind-body techniques? '
   Image: 
