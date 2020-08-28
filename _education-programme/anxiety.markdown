@@ -277,13 +277,13 @@ Slides:
   Description: |-
     # Social Isolation
      
-    * Anxiety causes us to avoid situations that may threaten our sense of safety. We often feel anxiety around social situations if we do not feel  comfortable enough to interact with others, leading to a loop of avoidance and social isolation.
+    Anxiety causes us to avoid situations that may threaten our sense of safety. We often feel anxiety around social situations if we do not feel  comfortable enough to interact with others, leading to a loop of avoidance and social isolation.
      
     # Weakened immune system 
      
-    1. The prolonged activation of the parasympathetic nervous system and continued release of cortisol into our bloodstream suppresses our body's natural immune response.
+    The prolonged activation of the parasympathetic nervous system and continued release of cortisol into our bloodstream suppresses our body's natural immune response.
      
-    > Muscle tension and fatigue 
+    Muscle tension and fatigue 
      
     The adrenaline and cortisol released in the fight/flight/ freeze response causes the body to tense up as a way of protecting against injury and pain.
   Graphic Image: 
