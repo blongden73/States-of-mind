@@ -575,7 +575,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
+- Template: five
   Title: 
   Image: 
   Description: "Mindsets are the belief patterns that Influence how we think and behave
