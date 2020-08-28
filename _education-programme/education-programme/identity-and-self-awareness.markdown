@@ -227,9 +227,9 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
+- Template: one
   Title: 'Part 2: Identity '
-  Image: 
+  Image: "/uploads/identity.jpg"
   Description: 
   Graphic Image: 
   Audio url: 
@@ -308,7 +308,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: 'Life events and Personal History '
-  Image: 
+  Image: "/uploads/diana-spatariu-HdZX3whmcGg-unsplash.jpg"
   Description: 
   Graphic Image: 
   Audio url: 
