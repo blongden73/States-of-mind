@@ -505,7 +505,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: five
-  Title: 'GETTING STUCK IN THE RATIONAL '
+  Title: Getting stuck in the rational
   Image: 
   Description: |2-
 
