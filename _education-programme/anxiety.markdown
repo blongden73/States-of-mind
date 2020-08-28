@@ -427,9 +427,9 @@ Slides:
   Image: 
   Description: "The key to managing anxiety is to address the underlying cause of
     the fear response.  This part of the module will explore how you can calm the
-    fear response by understanding how you can regulate it. \nExploring your fears
+    fear response by understanding how you can regulate it. \n\nExploring your fears
     and limiting beliefs \nReducing the stress response and activating the ‘soothing
-    system’\nOver-riding rumination by activating the Task Positive Network \nChanging
+    system’\n\nOver-riding rumination by activating the Task Positive Network \n\nChanging
     your state of mind from a need to control, to a state of acceptance and self compassion. "
   Graphic Image: 
   Audio url: 
@@ -456,7 +456,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: five
+- Template: one
   Title: 'Working with limiting beliefs '
   Image: 
   Description: 
@@ -490,14 +490,14 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: five
-  Title: 'Emotional regulation graphic '
+- Template: sixteen
+  Title: 
   Image: 
   Description: 
   Graphic Image: 
   Audio url: 
   Video Url: 
-  Credit: 
+  Credit: 'Emotional regulation graphic '
   Links:
   - Link Url: 
   Quote: 
