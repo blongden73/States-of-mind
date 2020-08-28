@@ -521,6 +521,19 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: five
+  Title: 'The creative mind and problem solving '
+  Image: "/uploads/emotiona%20regulation.jpg"
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: sixteen
   Title: 'The creative mind and problem solving '
   Image: 
@@ -540,19 +553,6 @@ Slides:
     we are having the problem with, we can visualise other aspects that we can’t access
     when we are stuck in the thinking, judging mind that likes to get stuck on one
     belief or potential situation.  "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: five
-  Title: 'The creative mind and problem solving '
-  Image: 
-  Description: 
   Graphic Image: 
   Audio url: 
   Video Url: 
