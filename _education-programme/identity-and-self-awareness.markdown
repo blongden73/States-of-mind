@@ -788,5 +788,6 @@ Slides:
   Slide Colour: 
 Cover Image: "/uploads/self%20awareness%202.jpeg"
 Cover Colour: "#000000"
+layout: presentation
 ---
 
