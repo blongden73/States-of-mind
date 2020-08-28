@@ -458,7 +458,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: 'Working with limiting beliefs '
-  Image: 
+  Image: "/uploads/exercise%20.jpeg"
   Description: 
   Graphic Image: 
   Audio url: 
@@ -556,7 +556,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: 'Developing a breathing practice '
-  Image: 
+  Image: "/uploads/breathing%202-b71dbc.jpeg"
   Description: 
   Graphic Image: 
   Audio url: 
@@ -586,7 +586,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: 'Mindfulness Meditation practice '
-  Image: 
+  Image: "/uploads/cristofer-jeschke-EqyzRKP6mwM-unsplash.jpg"
   Description: 
   Graphic Image: 
   Audio url: 
@@ -646,7 +646,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: one
+- Template: two
   Title: 'Compassionate letter writing '
   Image: 
   Description: 
