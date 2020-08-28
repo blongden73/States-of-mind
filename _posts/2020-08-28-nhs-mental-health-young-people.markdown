@@ -25,13 +25,13 @@ The tragedy of such services is that they neglect a side of healing that is not 
 
 The issue for me isn’t that the NHS failed to ‘fix’ me: I no longer believe that I am broken. It’s that despite using NHS services, I was not taught that my distress was a consequence of not being able to cope with my childhood or events in my life, or that I had the power to alter the way I thought about myself. I thought I was ill and sick and abnormal. 
 
-![Ella photo.jpg](/uploads/Ella%20photo.jpg)
-
 This ‘sickness’ label not only makes teenagers feel like they are not enough but, in my experience, also furthers their anger and feelings of despair when they may not feel better. This feeds into hostile attitudes about NHS mental health services, especially CAMHS, forming an opinion that is now commonplace and, as far as I can see, hasn’t been addressed. Why is a feeling of intense frustration and anger towards a fundamentally beneficial organisation so commonplace?
 
 ## It’s time for change
 
 My overwhelming feelings or periods of numbness haven’t disappeared over the years, but I am able to manage them with a lot more confidence, thanks to a form of psycho-education from my psychotherapist and the internet. 
+
+![Ella photo.jpg](/uploads/Ella%20photo.jpg)
 
 > Thanks to my experiences, I know that the NHS do not lack the resources to help young people – but they must change the way they help. 
 
