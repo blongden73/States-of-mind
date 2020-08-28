@@ -710,5 +710,6 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+layout: presentation
 ---
 
