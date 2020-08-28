@@ -503,13 +503,13 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: five
+- Template: four
   Title: 
   Image: 
   Description: "To break out of the stress response, we need to re-engage the body
     to remind the body that it is safe. When the body feels it is safe, it is able
-    to process new information that can help us to see new possibilities. \nThis part
-    of the module explores how we can activate the soothing system through exercise,
+    to process new information that can help us to see new possibilities.\n \nThis
+    part of the module explores how we can activate the soothing system through exercise,
     breathing, mindfulness and social support. "
   Graphic Image: 
   Audio url: 
@@ -538,7 +538,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
+- Template: five
   Title: 'Breathing Exercises '
   Image: 
   Description: "Breathing exercises are one of the best ways to reduce stress in the
@@ -613,14 +613,14 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: five
+- Template: sixteen
   Title: 'Anxiety and control '
   Image: 
-  Description: graphic
+  Description: 
   Graphic Image: 
   Audio url: 
   Video Url: 
-  Credit: 
+  Credit: graphic
   Links:
   - Link Url: 
   Quote: 
