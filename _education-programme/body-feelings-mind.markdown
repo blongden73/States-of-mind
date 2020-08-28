@@ -608,6 +608,8 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+Cover Image: "/uploads/body%20feelings%20mind.jpeg"
+Cover Colour: 
 layout: presentation
 ---
 
