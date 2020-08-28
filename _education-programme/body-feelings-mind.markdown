@@ -562,7 +562,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: two
+- Template: one
   Title: 'Mindsets '
   Image: 
   Description: graphic
