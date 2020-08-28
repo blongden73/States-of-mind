@@ -645,7 +645,7 @@ Slides:
   Image: 
   Description: |-
     Subpersonalities cause us difficulties when we identify with this one part of ourselves and believe it to be all of us. For example, if we are identified with the ‘ High achiever’ part of ourselves, it may help us to get good grades and maintain a motivation for developing our knowledge and experience. However, if we become over identified with this part of ourselves we may become very distressed by setbacks, we may spend less time with our friends or we may never be satisfied with what we have achieved. 
-     
+
     Our sub personalities all emerge from an unmet need. By exploring these parts of ourselves, we can develop our self awareness and integrate the many different parts of ourselves. You can imagine your sub-personalities as an orchestra and your awareness as the conductor. By bringing awareness to your different sub personalities you can integrate them and enable them to work together as a harmonious whole.
   Graphic Image: 
   Audio url: 
@@ -659,7 +659,13 @@ Slides:
 - Template: five
   Title: 'Integrating sub personalities '
   Image: 
-  Description: "Stages of Integration \n\nRecognition\nAcceptance\nCoordination\nIntegration\nSynthesis"
+  Description: |-
+    Stages of Integration
+    * Recognition
+    * Acceptance
+    * Coordination
+    * Integration
+    * Synthesis
   Graphic Image: 
   Audio url: 
   Video Url: 
