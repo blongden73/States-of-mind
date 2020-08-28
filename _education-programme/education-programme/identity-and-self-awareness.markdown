@@ -48,9 +48,9 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: ten
-  Title: 'What does self awareness mean to you? '
+  Title: 
   Image: 
-  Description: 
+  Description: 'What does self awareness mean to you? '
   Graphic Image: 
   Audio url: 
   Video Url: 
