@@ -24,7 +24,7 @@ Slides:
     mental health and wellbeing. \n\n**How your life history has shaped your self
     - image and aspects of your personality.**\n\nThe different dimensions of your
     identity and the factors that shape it. \n\n**The notion of an authentic self
-    and subpersonalities. **\n\nHow our identity is influenced by group relationships. "
+    and subpersonalities.**\n\nHow our identity is influenced by group relationships. "
   Graphic Image: 
   Audio url: 
   Video Url: 
