@@ -17,7 +17,7 @@ Section: Community
 
 **In our work, we speak with many young people about their experiences, perspectives and ideas on our society's approach to mental health care. Today, we hear from Ella Gregory, as she shares her journey and views on what needs to change so that young people have the support to grow, learn, be well and happy.**
 
-Treatment with the NHS is a minefield of complications. Not only are you likely to encounter mental health staff or doctors whose words trigger you, but you may not even qualify as ‘severe enough’ to get help, a rejection that can enable a common painful desire to compete to be the sickest. Despite this, seeing their GP is the first step in many teenagers’ journey of learning about themselves. Through this, many young people are unwillingly pushed into a mindset of ‘treating’ their ‘issues’, which not only implies that there is something wrong with them but which can quite naturally give way to feelings of anger and resentment.
+"Treatment with the NHS is a minefield of complications. Not only are you likely to encounter mental health staff or doctors whose words trigger you, but you may not even qualify as ‘severe enough’ to get help, a rejection that can enable a common painful desire to compete to be the sickest. Despite this, seeing their GP is the first step in many teenagers’ journey of learning about themselves. Through this, many young people are unwillingly pushed into a mindset of ‘treating’ their ‘issues’, which not only implies that there is something wrong with them but which can quite naturally give way to feelings of anger and resentment.
 
 > The idea that such patients are ill implies that mental health is simply a medical issue, rather than an ongoing process of learning and unlearning. Reorganising structures in your mind is a journey taken over the course of a lifetime with many new paths and avenues, one that can be helped by, but is not solved by, medication. 
 
@@ -64,6 +64,6 @@ Maybe at the time we won’t be able to deal with what you tell us, but I have f
 
 Vulnerability is a tool that I see as key to enjoying life and being able to be vulnerable is a skill that many have to learn. We are surrounded by messages that are anti-vulnerability and the NHS should be a haven from these. Vulnerability must be reciprocated, we all have a duty to be as honest as we can, whether we are the patient or the provider.
 
-Young people are angry, but under that hostility is a soul longing to be loved and understood. Together we can work to restore our voices and feel authentic, as long as we have a mental health system that values honesty and responsibility.
+Young people are angry, but under that hostility is a soul longing to be loved and understood. Together we can work to restore our voices and feel authentic, as long as we have a mental health system that values honesty and responsibility."
 
 **Side photo: Ella Gregory, 2020**
