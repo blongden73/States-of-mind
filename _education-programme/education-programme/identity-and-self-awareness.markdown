@@ -93,14 +93,14 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: five
+- Template: four
   Title: 
   Image: 
   Description: "Self awareness is one tool we can use to improve our wellbeing and
     shape our reality. However, if we are struggling emotionally due to the actions
     of others, experiencing abuse or other challenging experiences, it is not our
     responsibility to manage our problems alone and seeking help for these experiences
-    is really important for our mental health.  \nLinks to helpful places that can
+    is really important for our mental health.  \n\nLinks to helpful places that can
     help. "
   Graphic Image: 
   Audio url: 
