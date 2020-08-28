@@ -746,7 +746,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: one
+- Template: four
   Title: 'Exploring our relationship with groups '
   Image: 
   Description: 
@@ -761,7 +761,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: 'Family and Identity '
-  Image: 
+  Image: "/uploads/family.jpeg"
   Description: 
   Graphic Image: 
   Audio url: 
@@ -772,7 +772,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: one
+- Template: two
   Title: 'End of module reflective practice  '
   Image: 
   Description: 
