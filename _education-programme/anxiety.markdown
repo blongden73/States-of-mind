@@ -338,7 +338,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
-  Title: "“ Better safe than sorry”  \nAnxiety and avoidance  "
+  Title: "“Better safe than sorry”  \nAnxiety and avoidance  "
   Image: 
   Description: "Feelings of stress, combined with our inner fears can cause us to
     retreat into avoidant behaviours that make us feel more comfortable and secure
