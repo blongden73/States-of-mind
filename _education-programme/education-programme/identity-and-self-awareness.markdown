@@ -627,7 +627,7 @@ Slides:
   Title: 
   Image: 
   Description: "If you would like to learn more the psychology of personality you
-    can explore the Enneagram, Myers Briggs and the Big Five Personality test. \nIt
+    can explore the Enneagram, Myers Briggs and the Big Five Personality test.\n\nIt
     is important to recognise that personality tests highlight aspects of our personality
     by showing us dominant traits, however this is not a reflection of our complete
     self, yet it can indicate areas where we can grow and develop. "
