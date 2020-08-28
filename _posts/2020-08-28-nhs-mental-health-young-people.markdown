@@ -31,11 +31,15 @@ This ‘sickness’ label not only makes teenagers feel like they are not enough
 
 My overwhelming feelings or periods of numbness haven’t disappeared over the years, but I am able to manage them with a lot more confidence, thanks to a form of psycho-education from my psychotherapist and the internet. 
 
-Thanks to my experiences, I know that the NHS do not lack the resources to help young people – but they must change the way they help. One fundamental issue is that NHS services are privy to cuts and politics, and private help is a privilege that many cannot access. With a recognition that the NHS will never be able to commit fully as understanding mental health is not their sole mission, we as patients can have more realistic expectations, and NHS professionals can focus on giving us the skills we need to live a fulfilled life. 
+> Thanks to my experiences, I know that the NHS do not lack the resources to help young people – but they must change the way they help. 
+
+One fundamental issue is that NHS services are privy to cuts and politics, and private help is a privilege that many cannot access. With a recognition that the NHS will never be able to commit fully as understanding mental health is not their sole mission, we as patients can have more realistic expectations, and NHS professionals can focus on giving us the skills we need to live a fulfilled life. 
 
 NHS’ diagnostic model is an issue for many people: binding them to the limits of their diagnosis, it can cause people to dismiss symptoms that don't fit in with the criteria, or self diagnose in an effort to explain such symptoms. Meanwhile, other avenues and tools such as the Power Threat Meaning Framework, are not presented to patients, leaving them unexposed to ways of thinking that could inspire a hope and zeal for life. There are many ways to combat our behaviours and help ourselves, and yet when receiving treatment from the NHS, it feels like so many avenues are shut off to you. Not only do the staff not seem to know about them but there doesn’t seem to be a willingness to learn about different paths we can take. 
 
-Additionally, resources do not inspire connection – strange, when many point to a lack of connection as the nub of why as a society we are so distressed and lonely. Trained mental health professionals seem to have no idea about how to help us connect other than seeing our friends. Meditation can be a powerful tool to connect us but using apps on our own in our rooms is not the only way to do it. We can connect online through communities, built by influencers like Yoga with Adriene, Fleur deliss and David Nitchern; people who not only guide us with words of wisdom, but also smile, speak with emotion and offer the chance to engage with members of the community they have built. 
+> Additionally, resources do not inspire connection – strange, when many point to a lack of connection as the nub of why as a society we are so distressed and lonely. 
+
+Trained mental health professionals seem to have no idea about how to help us connect other than seeing our friends. Meditation can be a powerful tool to connect us but using apps on our own in our rooms is not the only way to do it. We can connect online through communities, built by influencers like Yoga with Adriene, Fleur deliss and David Nitchern; people who not only guide us with words of wisdom, but also smile, speak with emotion and offer the chance to engage with members of the community they have built. 
 
 ## Taking responsibility
 
@@ -43,7 +47,9 @@ Accepting another person’s help with such an intimate and terrifying journey r
 
 The NHS encourages self-awareness, but does not share tools to learn it. So the responsibility falls on those of us who are suffering to recognise the limitations and flaws in the service, realise the power we have to change and empower ourselves, look for growth in times when you feel that the system fails you, and extract resilience and self-responsibility from these experiences. 
 
-Changing ideas that have been ingrained in us is an arduous, life-long journey. It involves  reading, learning, unlearning, listening, trying, failing, practicing and talking and it is something we cannot rely wholly on the NHS for. Yes, the NHS can fail to meet our needs. But as young people, we cannot use this as an excuse not to do the work ourselves and to do this the NHS must make it clear that the responsibility is on the young person to continue their healing journey and recovery.
+Changing ideas that have been ingrained in us is an arduous, life-long journey. It involves  reading, learning, unlearning, listening, trying, failing, practicing and talking and it is something we cannot rely wholly on the NHS for. 
+
+> Yes, the NHS can fail to meet our needs. But as young people, we cannot use this as an excuse not to do the work ourselves and to do this the NHS must make it clear that the responsibility is on the young person to continue their healing journey and recovery.
 
 ## Truth and compassion
 
@@ -52,7 +58,7 @@ I often fear that without system wide change, the NHS will continue to fail youn
 As a young person, I can provide my perspective: condescending tones and conversations with family members that did not include me only served to further complicate and confuse things.
 Maybe at the time we won’t be able to deal with what you tell us, but I have found it much more helpful to hear truths than to be mollycoddled. If the fear is around the patient angrily responding, then instead of not sharing these truths, CAMHS should look into creating a safe space to destress after a session.
 
-> Finally, I do not believe that it is possible to treat someone if you are assuming their hostility. As such, staff within mental health systems and in any medical profession need to set a good example by practicing love and compassion. 
+> I do not believe that it is possible to treat someone if you are assuming their hostility. As such, staff within mental health systems and in any medical profession need to set a good example by practicing love and compassion. 
 
 Vulnerability is a tool that I see as key to enjoying life and being able to be vulnerable is a skill that many have to learn. We are surrounded by messages that are anti-vulnerability and the NHS should be a haven from these. Vulnerability must be reciprocated, we all have a duty to be as honest as we can, whether we are the patient or the provider.
 
