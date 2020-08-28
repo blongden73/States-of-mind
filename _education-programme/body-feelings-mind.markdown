@@ -75,7 +75,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: 'Interoception '
-  Image: 
+  Image: "/uploads/hand.jpeg"
   Description: 
   Graphic Image: 
   Audio url: 
@@ -89,9 +89,9 @@ Slides:
 - Template: sixteen
   Title: Why is interoception important for mental health?
   Image: 
-  Description: "\n\nInteroception is a skill that allows us to perceive our internal
-    states and sensations of our body, feelings and mind.   It is a skill that provides
-    us with a starting point for regulating our moods, thoughts and physical health.
+  Description: "Interoception is a skill that allows us to perceive our internal states
+    and sensations of our body, feelings and mind.   It is a skill that provides us
+    with a starting point for regulating our moods, thoughts and physical health.
     \n\nBy bringing awareness to the state of our body, feelings and mind, through
     the process of interoception, we can reduce the intensity of the distress and
     discomfort that we experience. \n\nWhen we turn towards our discomfort, with an
@@ -106,9 +106,9 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: One
+- Template: one
   Title: 'Body '
-  Image: 
+  Image: "/uploads/body%20-%20feeelings.jpeg"
   Description: 
   Graphic Image: 
   Audio url: 
@@ -134,8 +134,8 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: five
-  Title: VAGUS NERVE
+- Template: sixteen
+  Title: Vagus Nerve
   Image: 
   Description: "Breathing is a tool that we can use to connect us with our bodies
     and restore balance to the underlying biological cause of stress, tension and
