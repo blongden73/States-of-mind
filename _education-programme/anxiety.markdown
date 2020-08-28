@@ -115,7 +115,7 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: 'The vagus nerve '
-  Image: 
+  Image: "/uploads/vagus%20nerve.jpg"
   Description: "The vagus nerve causes a response in the heart, lungs and gut, which
     is triggered by a release of adrenaline and cortisol, two hormones that are connected
     with the threat response. \n\nThis causes our heart to beat faster, our breathing
@@ -155,7 +155,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: 'Anxiety and the mind '
-  Image: 
+  Image: "/uploads/anxiety.jpg"
   Description: 'Anxious thought patterns '
   Graphic Image: 
   Audio url: 
