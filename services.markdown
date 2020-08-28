@@ -66,22 +66,18 @@ Team:
     and Brand Manager at The Collective, she has applied her background in lifestyle
     journalism to her passion for new ways of living and supporting wellbeing. Tempe
     guides our brand storytelling, as we share our mission and work with the world."
-- image: "/uploads/Sebastian.png"
-  name: Sebastian Bogdan
-  description: "**Social Development Lead** Sebastian is one of the many young people
-    that States of Mind has worked with. His first experience with the organisation
-    was through a programme delivered in Six 21. Passionately working with and leading
-    his team as a Project Manager, Sebastian helped reinforce a positive learning
-    atmosphere and stood as an advocate for the importance of mental health within
-    his sixth form. Now, he is working with States of Mind to aid other young people
-    with their well-being on a wider scale.\n"
+- image: "/uploads/Ella%20photo-2de983.jpg"
+  name: 'Ella Gregory '
+  description: |-
+    **Social Development Lead**
+
+    Ella is a passionate and empathetic individual who is interested in promoting young people’s growth and self knowledge. She has personal experience with CAMHS and as a result is dedicated to reforming approaches towards mental health. Ella is the co-creator of our new online course. She believes that transforming how we talk about and view our minds and feelings can influence the rest of our lives, because as we understand more about ourselves and our fellow humans, we can connect, solve problems and thrive.
 - image: "/uploads/IMG_4544%20copy%20copy.jpg"
   name: 'Camille Pellicer '
-  description: "**Journalist** \n\nCamille has an MA in Applied Imagination in the
-    Creative Industries at Central Saint Martins. With a background in journalism,
-    producing and directing, her work focuses on telling the story of the human experience.
-    Camille produces creative content for States of Mind and connects with emerging
-    young artists who connect with our values and mission."
+  description: |-
+    **Journalist**
+
+    Camille has an MA in Applied Imagination in the Creative Industries at Central Saint Martins. With a background in journalism, producing and directing, her work focuses on telling the story of the human experience. Camille produces creative content for States of Mind and connects with emerging young artists who connect with our values and mission.
 Logos:
 - Logo: "/uploads/psychosynthesis.png"
 - Logo: "/uploads/annafrued.png"
