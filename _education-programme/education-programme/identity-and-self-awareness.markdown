@@ -473,7 +473,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: Who are you?
-  Image: 
+  Image: "/uploads/identity%205.jpeg"
   Description: 
   Graphic Image: 
   Audio url: 
@@ -498,9 +498,9 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
-  Title: 'PART 3: SOCIETY AND IDENTITY '
-  Image: 
+- Template: one
+  Title: 'Part 3: Society and Identity'
+  Image: "/uploads/identity%205.jpg"
   Description: "We live in a social world and many aspects of our personalities are
     shaped by the social relationships and situations we encounter throughout our
     lives. \nAs it is impossible for our close relationships to be fully present all
