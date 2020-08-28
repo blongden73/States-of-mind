@@ -3,7 +3,7 @@ title: Body, feelings, mind
 date: 2020-08-28 16:25:00 Z
 permalink: "/education-programme/body-feelings-mind.html"
 Slides:
-- Template: four
+- Template: five
   Title: 
   Image: 
   Description: "There is now a large body of research confirming that our mental and
