@@ -17,7 +17,6 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- 
 - Template: five
   Title: 'In this introductory module, you will explore: '
   Image: 
