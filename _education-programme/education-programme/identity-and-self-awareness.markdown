@@ -4,9 +4,9 @@ date: 2020-08-26 15:29:00 Z
 permalink: "/education-programme/identity-and-self-awareness.html"
 position: 0
 Slides:
-- Template: sixteen
+- Template: one
   Title: 'Part 1: Self Awareness'
-  Image: 
+  Image: "/uploads/self%20awareness.jpeg"
   Description: 
   Graphic Image: 
   Audio url: 
@@ -17,10 +17,10 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: five
+- Template: sixteen
   Title: 'In this introductory module, you will explore: '
   Image: 
-  Description: "\n\nWhat self awareness is and why it is so important for maintaining
+  Description: "What self awareness is and why it is so important for maintaining
     mental health and wellbeing. \n\nHow your life history has shaped your self -
     image and aspects of your personality.\n\nThe different dimensions of your identity
     and the factors that shape it. \n\nThe notion of an authentic self and subpersonalities.
