@@ -333,13 +333,10 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
-  Title: Your name
-  Image: 
-  Description: |-
-    Our name is a personal and special aspect of our identity. It is a part of our identity that we are very familiar with, yet we do not always pause to consider the meaning our name has for us. The act of bringing conscious awareness to an aspect of ourselves allows us to connect more deeply with our sense of who we are and the meaning this part of us has in our lives.  We will begin this module by using a reflection on your name to help you understand how self-awareness can be developed and bring us a more conscious understanding of ourselves. 
-
-    By bringing awareness to our name, we can begin to access the unconscious feelings, associations and memories that are connected with this part of our identity.
+- Template: one
+  Title: Your Name
+  Image: "/uploads/identity%206.jpg"
+  Description: 
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -349,10 +346,13 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: one
-  Title: Your Name
+- Template: sixteen
+  Title: Your name
   Image: 
-  Description: 
+  Description: |-
+    Our name is a personal and special aspect of our identity. It is a part of our identity that we are very familiar with, yet we do not always pause to consider the meaning our name has for us. The act of bringing conscious awareness to an aspect of ourselves allows us to connect more deeply with our sense of who we are and the meaning this part of us has in our lives.  We will begin this module by using a reflection on your name to help you understand how self-awareness can be developed and bring us a more conscious understanding of ourselves. 
+
+    By bringing awareness to our name, we can begin to access the unconscious feelings, associations and memories that are connected with this part of our identity.
   Graphic Image: 
   Audio url: 
   Video Url: 
