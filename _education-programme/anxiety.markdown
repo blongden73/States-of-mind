@@ -641,7 +641,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteeen
+- Template: sixteen
   Title: 'Acceptance and Self Compassion  '
   Image: 
   Description: "The anxiety response is kept going when we avoid our feelings through
