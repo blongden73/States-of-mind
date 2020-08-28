@@ -11,7 +11,7 @@ tags:
 Intro: 'The NHS'' mental health services aren''t helping young people effectively.
   It''s time for change. '
 Byline: By Ella Gregory
-Image: "/uploads/Ella%20photo.jpg"
+Image: "/uploads/High-Contrast-pinterest.jpg"
 Section: Community
 ---
 
