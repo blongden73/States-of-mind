@@ -336,7 +336,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
+- Template: five
   Title: Emotional regulation
   Image: 
   Description: Emotional Regulation is a term used to describe our ability to process
@@ -353,10 +353,10 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
-  Title: 'LETTER WRITING AND EMOTIONAL EXPRESSION '
+  Title: Letter writing and emotional expression
   Image: 
   Description: |-
-    We often rely on relationships with other people to help us regulate our emotions but in the absence of these supportive environments it is important that we find healthy ways to cope with difficult emotions on our own. 
+    We often rely on relationships with other people to help us regulate our emotions but in the absence of these supportive environments it is important that we find healthy ways to cope with difficult emotions on our own.
 
     Letter writing, or journaling has been found to be a really effective way to identify and process our emotional world. This letter writing exercise is focused on expressing our emotions towards other people but we can also journal about our own thoughts and feelings to help us make sense of them. This process works in a similar way to communicating with words, as we are externalising our distress which allows us to view it in a new way.
   Graphic Image: 
@@ -370,7 +370,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: 'The Mind '
-  Image: 
+  Image: "/uploads/neuroplasticity.jpg"
   Description: 
   Graphic Image: 
   Audio url: 
