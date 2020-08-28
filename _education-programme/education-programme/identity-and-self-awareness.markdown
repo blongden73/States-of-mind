@@ -131,17 +131,17 @@ Slides:
 - Template: sixteen
   Title: 
   Image: 
-  Description: "# The Johari Window is a visual representation of aspects of the self
-    that are known or unknown to ourselves and others. \n\n## Joseph Luft and Harrington
-    Ingham \n\nThe open area represents everything we know about ourselves. This is
-    what people who know us know about us and what we are consciously aware of too.
-    \n\nThe hidden area relates to all of the parts of ourselves that we do not share
-    with others. This information that we keep private may relate to our fears and
-    insecurities swell as your hopes and dreams.  \n\nThe blind spot relates to our
-    potential for personal growth through our close and trusted relationships. Our
-    friends and family can provide us with feedback and honesty that can help us to
-    see ourselves more clearly. This can relate to both our positive attributes and
-    areas for growth. \n\nThe unknown relates to information about ourselves that
+  Description: "The Johari Window is a visual representation of aspects of the self
+    that are known or unknown to ourselves and others. \n\n**Joseph Luft and Harrington
+    Ingham \n**\nThe open area represents everything we know about ourselves. This
+    is what people who know us know about us and what we are consciously aware of
+    too. \n\nThe hidden area relates to all of the parts of ourselves that we do not
+    share with others. This information that we keep private may relate to our fears
+    and insecurities swell as your hopes and dreams.  \n\nThe blind spot relates to
+    our potential for personal growth through our close and trusted relationships.
+    Our friends and family can provide us with feedback and honesty that can help
+    us to see ourselves more clearly. This can relate to both our positive attributes
+    and areas for growth. \n\nThe unknown relates to information about ourselves that
     is unconscious to both ourselves and others. This relates to parts of ourselves
     we still have yet to discover through new experiences. \n\n"
   Graphic Image: 
