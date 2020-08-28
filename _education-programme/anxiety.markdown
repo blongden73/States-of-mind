@@ -169,21 +169,16 @@ Slides:
 - Template: sixteen
   Title: 
   Image: 
-  Description: "The feelings of anticipation and loss of control that are connected
-    with the fear response are reflected in the thought patterns that we feel when
-    we experience anxiety. We use our minds and thoughts as a way to take control
-    of the situation. This process is completely natural but can feel uncomfortable
-    and can cause us to experience more distress when we get caught in our thinking
-    as this keeps the uncomfortable experience alive in our minds. \n\n**Anxious thought
-    patterns** \nOne of those ways to notice if we are experiencing anxiety is to
-    bring awareness to our thought patterns. When we are fearful and anxious, we begin
-    to think differently about ourselves, other people and situations. \n \n# Tunnel
-    Vision: \nFocusing only only the negative aspects of our experience and ignoring
-    the positive. \n \n# Catastrophising: \nExpecting the worst case scenario to happen. \n \n#
-    Mind reading and fortune telling \nAssuming you know what other people are thinking
-    and often assuming other people’s perceptions of us are or will be negative. \n \n#
-    Emotional reasoning \nAssuming that because we feel strongly towards a situation
-    it must be the only reflection of how things are.  "
+  Description: "# Anxious thought patterns\nOne of those ways to notice if we are
+    experiencing anxiety is to bring awareness to our thought patterns. When we are
+    fearful and anxious, we begin to think differently about ourselves, other people
+    and situations. \n \n# Tunnel Vision: \nFocusing only only the negative aspects
+    of our experience and ignoring the positive. \n \n# Catastrophising: \nExpecting
+    the worst case scenario to happen. \n \n# Mind reading and fortune telling \nAssuming
+    you know what other people are thinking and often assuming other people’s perceptions
+    of us are or will be negative. \n \n# Emotional reasoning \nAssuming that because
+    we feel strongly towards a situation it must be the only reflection of how things
+    are.  "
   Graphic Image: 
   Audio url: 
   Video Url: 
