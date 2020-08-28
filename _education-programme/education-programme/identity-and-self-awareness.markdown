@@ -183,7 +183,7 @@ Slides:
 - Template: sixteen
   Title: 
   Image: 
-  Description: "Self Awareness has been proven as a tool that can help us to flourish.\n\nThe
+  Description: "**Self Awareness has been proven as a tool that can help us to flourish.**\n\nThe
     insight that self awareness provides allows us to feel more satisfied with our
     lives. \n\nWhen cultivated fully, we no longer repress or hide our emotions or
     experiences and instead see them as ways to learn and grow.  \n\nSelf awareness
