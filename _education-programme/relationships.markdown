@@ -1,5 +1,974 @@
 ---
 title: Relationships
 date: 2020-08-28 16:43:00 Z
+Slides:
+- Template: one
+  Title: 'Types of relationships '
+  Image: 
+  Description: 'Activity '
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: five
+  Title: Needs in relationships
+  Image: 
+  Description: "Our behaviour in relationships is driven by our evolutionary needs
+    for safety, love and connection with others. \nEveryone has needs for love, connection
+    and a sense of belonging. These core needs drive our behaviour in relationships
+    and how we interact with others. Our ability to have these needs met in our relationships
+    has a significant impact on our health and mental wellbeing.\nWhile as individuals
+    we can work to meet these needs for ourselves, we can also supporting each other
+    to meet these needs so that our relationships feel healthy and fulfilling. "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: 
+  Image: 
+  Description: "Need for authenticity - one of our core needs is the ability to feel
+    like we can bring our full self to our relationships. \nNeed for connection -
+    we all have a need to feel like we are seen, understood and valued in our relationships.\nThis
+    module explores how by developing our authenticity we can enjoy more fulfilling
+    and connected relationships with others. \nYou will learn how these two needs
+    are interrelated and how by understanding how to recognise and express your needs
+    in relationships you can experience more fulfilling and close connections with
+    others. "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: Sixteen
+  Title: 'What influences our personal relationships? '
+  Image: 
+  Description: "Our relationships with others are in many ways a reflection of our
+    relationship with ourselves. \nOur emotional relationship with ourselves is also
+    shaped by early childhood experiences and how we were related to by others when
+    we were young. \nOur early relationship with our parents can shape our view of
+    relationships and behaviour with others in our later life. We may internalise
+    beliefs that we developed in our early childhood relationships, such as not being
+    loveable, not being enough as we are or that we need to abandon our needs to remain
+    in a positive relationship with others. \nOur parents are also individuals with
+    their own potentially unmet needs and relational patterns that have been played
+    out from their childhoods. The beliefs and mindsets about relationships that we
+    develop in our childhood can shape our worldview about how relationships are.
+    \nAs human beings, we all have the capacity to relearn how to relate in ways that
+    allow us to feel connected, understood and seen for who we most essentially are.
+    \n By understanding the different relationship styles and dynamics we can develop
+    an awareness of how and why we struggle in relationships and how we can change
+    our unhelpful patterns. "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: five
+  Title: The ‘good enough parent’
+  Image: 
+  Description: 'Donald Winnicott coined the term the ‘good enough parent’ to refer
+    to the fact that no parent can meet our needs all of the time and that no parenting
+    style can be completely perfect. '
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: five
+  Title: 'Graphic of parents / needs and patterns being passed on. '
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: 'Relationships with self '
+  Image: 
+  Description: "‘Fear of compassion for self and compassion from others were also
+    significantly linked to fear of compassion for others.’ \n(Gilbert et al, 2010.)\n\nPaul
+    Gilbert is an evolutionary psychologist who explored the link between self compassion
+    and the quality of our relationships. Gilbert found that people who struggled
+    to feel care and compassion for themselves found it more difficult to relate with
+    compassion for others. \n\nGilberts work highlights how our relationship with
+    ourselves has a real and lasting influence on our ability to form close and caring
+    relationships with the people in our lives.  "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: 'Family Relationships '
+  Image: 
+  Description: "Our relationship with our family provides us with our first experiences
+    of what relationships are like. The way that our parent/s responded to our needs
+    for authenticity and connection in childhood shapes our understanding of whether
+    we can trust others to meet these needs .  \nIf our family was present and attuned
+    to what we needed and reflected back to us a positive sense of self, we will carry
+    a sense of self worth and self-esteem into our adult relationships and will feel
+    able to communicate openly and honesty about our emotional life. \nThis process
+    of reflecting back our authentic self is called ‘attunement’. \nIf our parents
+    punished us or were unavailable when we needed them emotionally, we may come to
+    develop a belief that it is unsafe or uncomfortable expressing our needs with
+    others as adults. This ‘non-attunement’ can have a significant impact on our sense
+    of self worth, our ability to regulate our emotions and our mental health. \nAlthough
+    no parent can meet all of our needs all of the time, the amount of attunement
+    that they were able to provide has a direct impact on our mental health as an
+    adult.  "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: 'Vicious and Virtuous Cycles in relationships '
+  Image: 
+  Description: "Our beliefs about what to expect from our relationships are shaped
+    through our early experiences.  \nLimiting beliefs about our value and ability
+    to be seen and understood by others are shaped through and reflected by these
+    relationships.  \nThese beliefs play out in our patterns of behaviour in relationships,
+    yet these can be changed through new relational experiences.  \nGraphic - Representing
+    the cycle of how we affect relationships and how relationships affect us. "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: five
+  Title: 
+  Image: 
+  Description: "This graphic reflects the nature of our emotional development. Our
+    emotional memory from key stages of our life shapes our personal blueprint for
+    how we relate with others as adults. \nOur childhood needs for authenticity and
+    connection remain with us as we develop and our early experiences are often reflected
+    in how we relate in our adult lives. "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: one
+  Title: 'Exploring our relationship History '
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: 
+  Image: 
+  Description: "A) I find it relatively easy to get close to others and I feel relatively
+    comfortable depending on them and allowing them to depend on me.  I don’t worry
+    about being abandoned or about someone getting too close to me. \nB) I find that
+    others are reluctant to get as close as I would like. I often worry that my partner
+    doesn’t love me or won’t want to stay with me. I want to get close to my partner
+    and this sometimes scares people away. \nC) I am somewhat uncomfortable being
+    close to others. I find it difficult to trust them completely and difficult to
+    allow myself to defend on them. I am nervous when anybody gets too close and people
+    want me to be more intimate than I feel comfortable being. "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: 'A) Secure relationship style '
+  Image: 
+  Description: "A) I find it relatively easy to get close to others and I feel relatively
+    comfortable depending on them and allowing them to depend on me.  I don’t worry
+    about being abandoned or about someone getting too close to me. \nHealthy relationships
+    require that both people are able to present and attuned to the needs of the other
+    and are able to notice how their own emotions impact on the experience of the
+    other person.  \n\nWhen there is conflict in healthy relationships, both people
+    are able to repair the rupture by not blaming, withdrawing or attacking the other
+    person but instead seek to identify what has caused the rupture and work collaboratively
+    to find a solution to the underlying issue. \n\nWhen conflict arises in healthy
+    relationships, both people can resolve misunderstandings, develop a deeper understanding
+    of the needs of their partner and provide support for the other person, without
+    neglecting their own needs and emotional honesty.  \n\nIn healthy relationships,
+    each person will feel that they can rely on the other for emotional support, while
+    respecting each others boundaries and needs. "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: B) Anxious relationship style
+  Image: 
+  Description: "B) I find that others are reluctant to get as close as I would like.
+    I often worry that my partner doesn’t love me or won’t want to stay with me. I
+    want to get close to my partner and this sometimes scares people away. \n\n\nIf,
+    in our childhood world, we lived in an environment where we took on caretaking
+    roles for the adults around us, or our siblings, we may come to develop a relationship
+    pattern where we believe that putting the needs of others before our own is more
+    important than communicating our own needs in relationships. If we have experienced
+    this type of relational environment growing up, we are likely to become easily
+    upset and anxious if the other person in the relationship withdraws emotionally
+    or physically from us. The reason for this is because we have come to believe
+    that our emotional wellbeing is reliant on the emotional wellbeing of another
+    person. \n\nWe may become enmeshed in the emotional life of our partner, friends
+    or family, instead of prioritizing our own emotional needs and feeling confident
+    in our ability to express these in our relationships. This can lead to a feeling
+    in our relationships, that we are undeserving of love and attention and that our
+    partner’s needs are more important than ours. \n\nPeople who have experienced
+    this type of relationship pattern may find themselves in relationships where they
+    feel misunderstood and resentful. They may idealise and put their partner on a
+    pedestal or find themselves engaging in manipulative behaviour in an attempt to
+    not lose their partners attention and care. "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: Avoidant relationship pattern
+  Image: 
+  Description: "C) I am somewhat uncomfortable being close to others. I find it difficult
+    to trust them completely and difficult to allow myself to defend on them. I am
+    nervous when anybody gets too close and people want me to be more intimate than
+    I feel comfortable being.\n\nIf we do not experience relationships that were attuned
+    to our needs as children, we can lose trust in other people’s ability to understand
+    our inner world and come to feel that we must manage our problems alone, without
+    the presence of another.\n\nPeople with avoidant attachment styles protect themselves
+    against childhood wounding and painful experiences by developing the belief that
+    it is safer to manage feelings alone rather than trust another person to be able
+    to provide them with the soothing and care taking behaviour that they require.
+    \n\nPeople with avoidant relationships styles may struggle with intimacy in relationships,
+    as they may struggle to feel able to be vulnerable and honest about their emotional
+    world in the presence of another person. \n\nPeople with avoidant relationship
+    patterns often act as if they do not need others when they are feeling vulnerable
+    and become closed off when they experience difficulties in relationships. "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: five
+  Title: Types of relationship styles
+  Image: 
+  Description: grpahic
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: 'Neuroplasticity and emotional development. '
+  Image: 
+  Description: "Neuroscientists have discovered that the brain is able to continue
+    reshaping itself through our adolescence and adult life. This means that early
+    emotional and behavioural patterns can change with new experiences that we have
+    throughout our lives. \nOften, we will repeat similar patterns in our relationships
+    due to the way our early childhood experiences shape our perception of the present
+    day, yet our relationships in adult life can also reshape our perception of what
+    relationships can be like. \nThe brains ability to reshape itself has significant
+    positive implications for our understanding of how people can heal difficult relationship
+    patterns, learning new skills and develop new beliefs about their ability to experience
+    intimacy and connection with others. "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: five
+  Title: 'How relationship styles  affects our experiences in relationships '
+  Image: 
+  Description: "Research shows that people are likely to be drawn to people who share
+    the same relationships style as their caregivers.  \nFor example, if our parents
+    were distant or unavailable when we were younger, we may be attracted to people
+    who are avoidant of intimacy and closeness into our adult life as this is the
+    relationship style that we have become familiar with. \nIf somebody with an anxious
+    pattern has a relationship with somebody with an avoidant partner, it may cause
+    a ‘push and pull’ dynamic in relationships."
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: 'Developing compassion for ourselves '
+  Image: 
+  Description: "If our relationship pattern is causing us to experience unfulfilling
+    relationships or we are struggling to experience closeness in our relationships,
+    self-compassion is an important tool for caring for ourselves and supporting our
+    mental health. Without self-compassion we can reinforce limiting beliefs that
+    we are unlovable and incapable of experiencing intimacy and closeness in relationships.
+    \n\nWhen we experience conflict or challenges in our relationships it causes our
+    nervous systems to react, due to an evolutionary fear of rejection, abandonment
+    and isolation. \n\nBy practicing self compassion we can provide ourselves with
+    the need for reassurance and a sense of safety in the absence of another person.
+    \ \n\n1. Notice the critical inner narrative \n2. Notice the tension in your body
+    created by these critical thoughts and beliefs \n3. Bring awareness to the areas
+    of tension without resisting them \n4. Breathe softly to these areas of tension
+    to help release the built up stress and tension \n5. Replace critical thoughts
+    with supportive and reassuring statements"
+  Graphic Image: 
+  Audio url: 
+  Video Url: https://www.youtube.com/watch?v=e9EgUvfgojY
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: one
+  Title: Self-Compassion meditation
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: Compassion
+  Image: 
+  Description: "Compassion is the foundation for empathy, love and compromise in relationships.
+    Compassion is an attitude and belief in equality and each persons right for their
+    needs to be valued and understood for both their good qualities and their flaws.
+    \nWhen we do not judge or criticise the behaviour of another person but take time
+    to understand and work through problems together, we show ourselves and the other
+    that we do not see problems in thee relationship as Indications of their worth
+    but as an opportunity for growth and deeper levels of understanding and connection
+    in our relationships. \nBy respecting another person as having the same needs
+    for love, connection and understanding as ourselves, we can overcome the judgement
+    and limiting beliefs about others that can cause distance and misunderstanding
+    in relationships. "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: 'External Unifying Centres '
+  Image: 
+  Description: "The attunement that our supportive relationships provide, supports
+    our personal development by reflecting back to us and reinforcing our values,
+    goals, beliefs and worldview.  \nOur supportive relationships act as a mirror
+    for us to see ourselves authentically. \nThese supportive relationships provide
+    a structure of support that ‘hold’ us and support our sense of confidence and
+    self esteem. \nThese relationships can be with members of our community, teachers,
+    family friends, coaches or anybody with whom we have a close healthy relationship. "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: five
+  Title: 'Reflecting on supportive relationships in our lives. '
+  Image: 
+  Description: This activity has been designed to help you reflect on the positive
+    and supportive relationships in your life, so that you can identify which relationships
+    have healthy qualities and remember the emotional resources that you have available
+    to you. 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: five
+  Title: 'What creates fulfilling relationships? '
+  Image: 
+  Description: 'What are the common features of your most fulfilling relationships? '
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: 'I -it and I-Thou relationships '
+  Image: 
+  Description: "Martin Buber Martin Buber was a prominent twentieth century philosopher,
+    religious thinker, political activist and educator. \nHe explored different ways
+    that people perceived and acted towards other people in their relationships. He
+    called these different ways of viewing others in relationship as ‘I-Thou’ and
+    ‘I-it’ relationships. \nIn an I-Thou relationship, the other person is seen for
+    who they really are, not for what they represent or signify. In this relationships,
+    there is a willingness to understand the other person on a deeper level than our
+    immediate judgements, assumptions and stereotypes that we bring to the relationship.
+    \nIn an I-It relationship, we view the other person more as a ‘thing’ than a human
+    being with a story and individual needs. In and I-it relationship we assume we
+    know the other person, without needing to take time to develop a close and mutual
+    relationship with them. "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: Splitting
+  Image: 
+  Description: "Melanie Klein was a psychologist who focuses on the relationships
+    between parents and children. She coined the term ‘splitting’ to describe a psychological
+    defence that young children develop to manage ambivalent feelings towards their
+    parents. \nAs young children we manage difficult feelings in relationships by
+    engaging in a process called ‘splitting’. \nThis process ‘splits’ our perception
+    of our parents into either a ‘good parent’ or a ‘bad parent’. \nThis process causes
+    feelings of either idealisation in relationships or feelings of resentment and
+    an inability to see the other persons good qualities. \nHealthy relationships
+    require that we are able to tolerate ambivalence in relationships and are able
+    to love another person while experiencing both their positive and difficult behaviours. "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: Mindreading
+  Image: 
+  Description: 'Assuming we know what another person is thinking or feeling is called
+    ‘mindreading’. Mind Reading occurs when we project our own assumptions and feelings
+    onto another person and it is often accompanied by a feeling of separateness and
+    passivity. '
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: five
+  Title: 'Mentalising '
+  Image: 
+  Description: |-
+    Mentalising is a skill that we all use in our everyday lives.
+    The term is used to describe our capacity to understand our own mental state and that of other people and how this affects our behaviour.
+    Mentalising allows us to think consciously about what we are thinking and feeling, aswell as being curious about what may be going on in other people’s minds.  
+
+    Mentalising allows us to switch from concrete thought ‘ She is behaving like that because’ to a wondering stance ‘ I wonder why she may be behaving like that’. 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: five
+  Title: 'Why do we misunderstand other people? '
+  Image: 
+  Description: "When we are distressed, distracted or experiencing conflict in our
+    relationships, it affects our capacity to consider that another person’s experience
+    is different to our own. \nWithout open communication, we make guesses and assumptions
+    about what is going on in other people’s minds. \nWe assume that other people
+    think in the way that we do \nWe project our own feelings and past experiences
+    onto other people \nWe make quick decisions about the meaning of other people’s
+    behaviour without taking time to check it out with them \nWe do not take time
+    to consider how other people have different experiences than our own \nWhen people
+    are threatened they may hold back their feelings and thoughts about a situation "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: How does mentalising improve our relationships?
+  Image: 
+  Description: "\nIt helps us to reduce misunderstandings in our personal relationships
+    as it allows us to clarify what people are really experiencing, instead of making
+    assumptions. \n\nIt helps us to develop our ability to reflect on our motivations,
+    beliefs, values and feelings in any given situation so that we can understand
+    our reactions and responses to situations with more coherence. \n\nIt helps us
+    to regulate our emotions and limiting beliefs, by allowing us to develop the ability
+    to step back from our experience and notice what is causing it.  \n\nWhen we mentalise
+    other people, it makes them feel like we are really paying attention and attempting
+    to understand exactly what is happening for them. This process of clarification
+    is really useful for helping us to develop trust and understanding in relationships. \n\nWhen
+    we notice the connection between our feelings and actions it allows us to feel
+    a sense of choice and control over how we react and respond to different situations. \n\nWhat
+    does research tell us about mentalising? \n\n\t1.\tPeople who are skilled at mentalising
+    are considerably more resilient when faced with stressful situations and are able
+    to self reflect and process experiences of adversity in their lives with more
+    coherence and understanding. \L\n\t2.\tThey are more able to make sense of both
+    the external world and their internal world of thoughts, feelings and emotions. \L\n\n\t3.\tThey
+    have an increased ability for creative thought, the ability to hold multiple perspectives
+    and are generally more capable of connecting with the inner lives of other people. \L\n\L"
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: one
+  Title: 'Practicing mentalising '
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: one
+  Title: 'Listening '
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: Listening skills
+  Image: 
+  Description: "Listening is one of the most powerful tools for improving communication
+    in our relationships. \nWhen we listen well to others, we indicate that we care
+    about them and their experiences.  Listening is a skill that can be developed
+    and improved over time. \nHow can we listen well? \nPay attention: \nShow curiosity
+    and interest\nShow you are listening by using non verbal feedback\nMirror the
+    other person’s body language, such as how they are sitting, to help the person
+    feel you are connected with their experience. \nReflect back to the speaker what
+    you have heard them say. This allows the person to know that they have been heard.
+    \nAsk clarifying questions. By clarifying with the other person what you have
+    heard you show that you are motivated to really understand the message they are
+    trying to communicate. This also helps the other person to clarify what they are
+    trying to communicate. \nInvite the person to say more. By inviting the person
+    to speak more, you help them feel that you are interested in understanding what
+    they have to say. \nDo not interrupt the speaker by sharing your experiences opinions
+    or beliefs in response to what you have heard. When we interrupt the process of
+    listening we send the other person the message that we are not focused on their
+    experience but are more concerned with sharing our own. "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: 'Barriers to good listening '
+  Image: 
+  Description: "Being distracted by setting: If our attention is divided, our ability
+    to listen well will be affected. To remove this barrier, make sure you are in
+    a setting where you will not be interrupted and remove your phone or other distractions
+    within he room. \nBeing distracted by our thoughts: When we listen, it is very
+    natural to become distracted and preoccupied by our own personal narrative and
+    reactions to what we are hearing. By becoming aware of becoming lost in our own
+    thoughts we can return to good listening. \nBecoming distracted by emotions. If
+    the conversation creates an emotional response in us,, it can prevent us from
+    being fully present to the speaker. Good listening involves maintaining curiosity
+    and feeding back our emotional response to the speaker. By feeding back how we
+    are feeling, it shows that we are empathising with what we are hearing. \nBecoming
+    nervous about silence.  Silence in conversation can make us feel uncomfortable
+    and awkward . By interrupting to prevent silences we spend a message to the other
+    person that we are not able to contain the feelings of discomfort in the listening
+    process. By taking time to allow silence, or by using silence to summarise back
+    to the listener what you have heard, you can help the listener to feel supported
+    and better understood. \nProblem solving and giving advice: By trying to solve
+    the other person’s problem we can make the other person feel that we are trying
+    to change or fix them, which will often reduce a person’s desire to share their
+    experience. "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: five
+  Title: 'Practicing good listening
+
+'
+  Image: 
+  Description: 'Mirroring  '
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: five
+  Title: 'Empathy '
+  Image: 
+  Description: "Empathy is the ability to connect with another person’s feelings and
+    to imagine what it is like to have their point of view. Empathy can relate to
+    our ability to connect with both the positive and uncomfortable emotions of others.
+    \ \n\nPracticing empathy in relationships changes the way we speak and listen
+    to others and promotes deeper levels of connection and understanding. \n\n"
+  Graphic Image: 
+  Audio url: 
+  Video Url: https://www.youtube.com/watch?v=1Evwgu369Jw
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: five
+  Title: Empathy
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: "“being empathic is a complex, demanding, strong yet subtle and gentle way
+    of being.”\n"
+  Quote Credit: Carl Rogers
+  Slide Colour: 
+- Template: sixteen
+  Title: 'Empathic Listening and Bifocal vision '
+  Image: 
+  Description: "Empathic listening is a type of listening that involves tuning into
+    the emotional message that a person is communicating. \nEmpathic listening helps
+    people to understand their emotions better, builds trust and helps both the speaker
+    and listener to develop emotional intelligence.  \nBifocal vision is a way to
+    provide feedback about another person’s non-verbal communication and listen to
+    the deeper message they are communicating. \nFor example, if somebody is telling
+    us that they have had a good week but their tone of voice is low, bifocal vision
+    allows us to pick up on this mis-match between what the person is saying and the
+    emotional message they are giving to us. \nBy feeding back both the verbal message
+    and the emotional message that we are hearing from the speaker, we allow them
+    to feel seen and understood on a deeper level. "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: five
+  Title: 'How to practice bifocal vision '
+  Image: 
+  Description: "Pay attention to the tone of voice of the speaker \nNotice the body
+    language of the speaker \nNotice the emotional response that you feel within yourself
+    as you listen to the speaker \nFeedback to the speaker with statement such as
+    ‘ When you spoke about your week, I felt some sadness in your body language and
+    within my own body.’ "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: 'Conflict , rupture and repair  '
+  Image: 
+  Description: "What happens in the brain when we experience ruptures in our relationships? \n\nResearch
+    has shown that when we experience conflict and rupture in our relationships, the
+    same areas of our brain light up as those that are activated when we break a leg
+    or experience physical pain.  \n\nWounding in relationships \n\nWounding occurs
+    in relationships when there has been conflict or emotional neglect that has been
+    left unresolved in the relationship. The emotional impact of the wounding causes
+    the person to behave in ways that protect them from further harm. \n\nSome examples
+    of patterns of behaviour that emerge from wounding in relationships are:\n\nAvoiding
+    contact with the person who has caused the wounding and withdrawing attention
+    and communication. \n\nActing out and harming the other person out of fear and
+    desperation. This could take the form of abusive text messages, manipulation and
+    blackmail or physical and verbal abuse. \n\nBecoming hypervigilant to the actions
+    of the other person and other relationships. Hypervigilance is caused by an overactive
+    nervous response to emotional harm and wounding. Hypervigilance may look like
+    stalking, constantly checking your phone to see if the other person has messaged
+    you or become preoccupied with thoughts about the other person and ruminating
+    about the issue , without seeking to resolve it or repair the issue in their presence.  "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: 'Creating a safe space for resolving conflict '
+  Image: 
+  Description: |-
+    In healthy relationships, each person feels seen and understood for their true nature and is able to act and communicate from this place. This way of being with each other is what the Psychologist Bowlby called a secure base. How can you provide and recognise a secure base in relationships? 
+
+    Problems are addressed as they arise in relationships, without the person harbouring resentment or communicating in unclear ways about the nature of the problem. 
+
+    When the person is upset and emotionally struggling, the partner makes space to understand and listen to them, without minimising or punishing you for experiencing the emotions.  
+
+    Problems are seen as opportunities for growth, not personal attacks or opportunities to play a blame game. People who are secure in their relationships, do not take criticism as a reason to blame the other, but are open to listening to the issue and adapting their behaviour to better meet the needs of their partner. 
+
+    Problems are seen as opportunities to create growth and understanding in the relationship. By learning about what is causing the problems, the partner is better able to understand the needs of the other person and what they need to feel safe and secure, instead of misunderstood and anxious.  
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: five
+  Title: 'Reparenting - meeting our emotional needs. '
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: 'Boundaries '
+  Image: 
+  Description: "Setting boundaries is a tool that is important in all of our relationships.
+    \nIf we did not learn to set boundaries in childhood, it is important to do so
+    in adulthood, so that we can clearly express our feelings and needs. Setting healthy
+    boundaries helps us to communicate what types of behaviour we will/ will not tolerate
+    from others by stating what is and is not acceptable to you. \nBy setting boundaries
+    we can improve our self esteem and prevent difficult feelings of resentment, anger
+    and stress from emerging in our relationships.\nHealthy boundaries are flexible
+    and an essential part of healthy relationships where each person respects the
+    boundaries of the other. \nWhen healthy boundaries are present, each person understands
+    that they are responsible for advocating for their own needs in relationships
+    and communicating clearly so that they can get their needs met."
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: 'How to set boundaries '
+  Image: 
+  Description: "Recognise that you have a right to set boundaries about things you
+    do and do not want. Healthy people will respect your need to set boundaries. \nPractice
+    communicating the boundary to other friends or family before setting the boundary
+    with the person you need to set the boundary with. \nCommunicate the boundary
+    calmly, firmly, clearly and respectfully. \nDo not justify or apologise for the
+    boundary you are setting. \nRemember that you are not responsible for the feelings
+    for the person you are setting the boundary with, your only responsibly is to
+    assert the boundary in a respectful way. "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: five
+  Title: 'Recognising unhealthy relationships '
+  Image: 
+  Description: "Controlling behaviour \nUncomfortable feelings \nLack of reciprocity
+    \nLack of boundaries and mutual respect \nExclusion from decision making "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: five
+  Title: Why is it difficult to leave unhealthy relationships?  
+  Image: 
+  Description: "\n\nEven if we know our relationships are unfitlfilling and not meeting
+    our needs, it can feel  difficult to move forward and take the initiative to end
+    the relationship. The feelings of pain and detachment are extremely strong feelings
+    that motivate us to maintain the relationship at all costs. It is actually painful
+    emotions that can keep us in unhealthy relationships, not just the positive ones.
+    \n\nOnce our painful feelings of abandonment and low self esteem are activated,
+    we become focused on reconnecting with the person and often trick ourselves into
+    believing that each time we reconnect, we will get our needs met the next time,
+    causing repeating cycles of rupture, repair and further rupture when we realise
+    that the problems still exist but we feel powerless to change them.\n\nThis causes
+    us to feel even more hopeless and even less able to solve problems in our relationships
+    and get our needs met. This belief can cause us to develop the belief that no
+    relationship will meet our needs because we internalise the experience and blame
+    ourselves for the feelings of isolation and neglect. \n\nThe fear of being alone
+    and unloved causes us to maintain relationships that are only partially able to
+    meet our needs and we end up feeling unfulfilled and distressed. "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: one
+  Title: 'Ending Relationships '
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: 'Ending relationships. '
+  Image: 
+  Description: "Relationships come to an end for many reasons. They may end out of
+    personal choice or for reasons outside of our control. Ending relationships can
+    be difficult if we feel a sense of loyalty for the other person or if we have
+    been avoiding ending the relationship out of fear of the consequences.  \nConsciously
+    ending a relationship in a healthy way is a skill that we can develop which can
+    have benefits for our emotional wellbeing.   \n1. Recognise that if a relationship
+    is not feeling right for you, it will not be an appropriate relationship for the
+    other person either. \n2. Recognise that ending a relationship will bring up emotions
+    for both people involved in the ending and creating space for both people’s experiences
+    to be heard and respected is crucial for both people to feel acknowledged in the
+    ending. \n3.Be emotionally honest about the reasons for wanting to end the relationship.
+    Being emotionally honest does not involve blaming or criticising the other person
+    but describing your personal feelings using ‘I’ statements not ‘You’ statements.
+    \n4. Do not send mixed messages but be clear about your reasons for wanting to
+    end the relationship. "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 ---
 
+Authenticity and Belonging 
