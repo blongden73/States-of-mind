@@ -589,7 +589,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: 
+- Template: five
   Title: 'Some other sub-personalities to explore '
   Image: 
   Description: "The clown \nThe critic \nThe people pleaser  \nThe caretaker \nThe
