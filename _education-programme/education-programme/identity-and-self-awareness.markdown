@@ -540,25 +540,16 @@ Slides:
 - Template: sixteen
   Title: 'The psychology of Sub-personalities '
   Image: 
-  Description: |-
-    Subpersonalities are habits or patterns of behaviour that we have followed since childhood
-
-    When people fail to respond empathetically to our true personality, we learn to hide our authentic nature and adapt to how our parents or our environment need us to be. A psychotherapist called Winnicott, called this process of adapting, the development of the ‘False Self’. It is also referred to as the Survival Personality. 
-
-    These are distinct patterns of thoughts, feelings and behaviours that we develop to adapt to various environments where we feel unable to be our authentic self. In neuroscience these are viewed as distinct neural networks that function as ‘specialised selves’ or ‘self states’. ( Siegel 1993)
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: five
-  Title: ''
-  Image: 
-  Description: "Daniel Stern summarises the psychological view on these multiple selves:
+  Description: "Subpersonalities are habits or patterns of behaviour that we have
+    followed since childhood\n\nWhen people fail to respond empathetically to our
+    true personality, we learn to hide our authentic nature and adapt to how our parents
+    or our environment need us to be. A psychotherapist called Winnicott, called this
+    process of adapting, the development of the ‘False Self’. It is also referred
+    to as the Survival Personality. \n\nThese are distinct patterns of thoughts, feelings
+    and behaviours that we develop to adapt to various environments where we feel
+    unable to be our authentic self. In neuroscience these are viewed as distinct
+    neural networks that function as ‘specialised selves’ or ‘self states’. ( Siegel
+    1993) \n\nDaniel Stern summarises the psychological view on these multiple selves:
     ‘ It is now largely accepted that there are multiple ( context -specific) selves
     that can interact with each other, observe each other, and converse together out
     of consciousness. This is normal, not limited to pathological dissociative states.’
@@ -601,8 +592,8 @@ Slides:
 - Template: five
   Title: 'Some other sub-personalities to explore '
   Image: 
-  Description: "The clown \nThe critic \nThe people pleaser  \nThe caretaker \nThe
-    rebel  \nThe acheiver \nThe child "
+  Description: "* The clown\n* The critic\n* The people pleaser\n* The caretaker\n*
+    The rebel\n* The acheiver\n* The child "
   Graphic Image: 
   Audio url: 
   Video Url: 
