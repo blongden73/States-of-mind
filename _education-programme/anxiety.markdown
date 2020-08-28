@@ -254,11 +254,11 @@ Slides:
     Inability to concentrate 
     - When the anxiety response is active, being in survival mode shuts down the activity of the prefrontal cortex which is required for focused attention.
      
-    Insomnia 
+    # Insomnia 
      
     - The hypervigilance caused by anxiety prevents the body from being in a state of relaxation which interrupts the functioning of our circadian rhythms. 
 
-    Loss of memory 
+    # Loss of memory 
      
     - As with concentration, our memory systems are temporarily impaired by anxiety due to the activity of cortisol that is released in the brain during the anxiety response.
      
@@ -342,7 +342,7 @@ Slides:
   Image: 
   Description: "Feelings of stress, combined with our inner fears can cause us to
     retreat into avoidant behaviours that make us feel more comfortable and secure
-    than risking potential scenarios that could cause more stress. \nThe tendency
+    than risking potential scenarios that could cause more stress. \n\nThe tendency
     to avoid situations that could cause us discomfort can help in the short term
     but in the long term can perpetuate feelings of anxiety as it reinforces our internal
     beliefs that we cannot cope with situations that challenge us. "
@@ -373,13 +373,14 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: five
+- Template: four
   Title: 
   Image: 
   Description: |-
     How do we want others to view us? 
     What parts of ourselves do we hide from others? 
-     How do we feel if we make mistakes or ‘let our guard down’ with people we don’t know?
+
+    How do we feel if we make mistakes or ‘let our guard down’ with people we don’t know?
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -393,10 +394,10 @@ Slides:
   Title: Anxiety and relationships
   Image: 
   Description: "Anxiety is also triggered as a response to a threat to our attachment
-    needs for safety and connection.  \nAttachment needs are needs for love, connection
+    needs for safety and connection. \n \nAttachment needs are needs for love, connection
     and acceptance. When we do not feel secure in our relationships our in our environments,
     anxiety is a natural alarm system that exists as a coping mechanism to tell us
-    something is wrong.  \nAnxiety can cause us to avoid relationships and social
+    something is wrong.  \n\nAnxiety can cause us to avoid relationships and social
     situations or to change our behaviour while around others out of fear of being
     rejected."
   Graphic Image: 
@@ -422,7 +423,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
-  Title: 'How can you calm the anxiety response? '
+  Title: 'How can you calm the anxiety response? '
   Image: 
   Description: "The key to managing anxiety is to address the underlying cause of
     the fear response.  This part of the module will explore how you can calm the
