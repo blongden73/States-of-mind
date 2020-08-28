@@ -276,11 +276,11 @@ Slides:
   Image: 
   Description: |-
     # Social Isolation
-     
+
     Anxiety causes us to avoid situations that may threaten our sense of safety. We often feel anxiety around social situations if we do not feel  comfortable enough to interact with others, leading to a loop of avoidance and social isolation.
      
     # Weakened immune system 
-     
+
     The prolonged activation of the parasympathetic nervous system and continued release of cortisol into our bloodstream suppresses our body's natural immune response.
      
     Muscle tension and fatigue 
