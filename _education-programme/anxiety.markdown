@@ -47,7 +47,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: Anxiety and the body
-  Image: 
+  Image: "/uploads/yoga.jpg"
   Description: 'The amygdala and the nervous response '
   Graphic Image: 
   Audio url: 
