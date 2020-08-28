@@ -132,7 +132,7 @@ Slides:
   Title: 
   Image: 
   Description: "**The Johari Window is a visual representation of aspects of the self
-    that are known or unknown to ourselves and others. **\n\n# Joseph Luft and Harrington
+    that are known or unknown to ourselves and others.**\n\n# Joseph Luft and Harrington
     Ingham\nThe open area represents everything we know about ourselves. This is what
     people who know us know about us and what we are consciously aware of too. \n\nThe
     hidden area relates to all of the parts of ourselves that we do not share with
