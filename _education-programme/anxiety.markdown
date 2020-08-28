@@ -255,11 +255,11 @@ Slides:
     When the anxiety response is active, being in survival mode shuts down the activity of the prefrontal cortex which is required for focused attention.
 
     # Insomnia 
-     
+
     The hypervigilance caused by anxiety prevents the body from being in a state of relaxation which interrupts the functioning of our circadian rhythms. 
 
     # Loss of memory 
-     
+
     As with concentration, our memory systems are temporarily impaired by anxiety due to the activity of cortisol that is released in the brain during the anxiety response.
      
   Graphic Image: 
