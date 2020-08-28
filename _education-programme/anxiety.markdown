@@ -177,12 +177,12 @@ Slides:
     as this keeps the uncomfortable experience alive in our minds. \n\n**Anxious thought
     patterns** \nOne of those ways to notice if we are experiencing anxiety is to
     bring awareness to our thought patterns. When we are fearful and anxious, we begin
-    to think differently about ourselves, other people and situations. \n \n# TUNNEL
-    VISION: \nFocusing only only the negative aspects of our experience and ignoring
-    the positive. \n \n# CATASTROPHISING: \nExpecting the worst case scenario to happen. \n \n#
-    MIND READING AND FORTUNE TELLING \nAssuming you know what other people are thinking
+    to think differently about ourselves, other people and situations. \n \n# Tunnel
+    Vision: \nFocusing only only the negative aspects of our experience and ignoring
+    the positive. \n \n# Catastrophising: \nExpecting the worst case scenario to happen. \n \n#
+    Mind reading and fortune telling \nAssuming you know what other people are thinking
     and often assuming other people’s perceptions of us are or will be negative. \n \n#
-    EMOTIONAL REASONING \nAssuming that because we feel strongly towards a situation
+    Emotional reasoning \nAssuming that because we feel strongly towards a situation
     it must be the only reflection of how things are.  "
   Graphic Image: 
   Audio url: 
