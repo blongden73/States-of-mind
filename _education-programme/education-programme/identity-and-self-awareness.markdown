@@ -570,16 +570,16 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: Subpersonality
-  Image: 
-  Description: "Example \n‘ The Expert’ \nBehaviour : Patronising, condescending,
+  Image: "/uploads/subpersonalities.jpg"
+  Description: "Example\n‘The Expert’\n\n**Behaviour**\nPatronising, condescending,
     arrogant, ‘ know it all’, rigid, defensive, guarded and slightly hostile.  Serious
-    tone of voice. Body language: Rigid, tense, stiff. \nWants  \nTo be taken seriously,
-    to be respected, not to be challenged, to be right, to feel superior, to be admired
-    and given attention. to not be criticised.\nNeeds \nTo feel unconditionally accepted
-    and loved, to be seen and valued, to be heard, to feel worthy and enough as they
-    are.  \nQualities of self that are hidden by this part \nPlayfulness and spontaneity,
-    willingness to learn from others, curiosity, the part of us that wants to grow,
-    acceptance of self. "
+    tone of voice. Body language: Rigid, tense, stiff. \n\n**Wants** \nTo be taken
+    seriously, to be respected, not to be challenged, to be right, to feel superior,
+    to be admired and given attention. to not be criticised.\n\n**Needs** \nTo feel
+    unconditionally accepted and loved, to be seen and valued, to be heard, to feel
+    worthy and enough as they are.\n  \nQualities of self that are hidden by this
+    part \nPlayfulness and spontaneity, willingness to learn from others, curiosity,
+    the part of us that wants to grow, acceptance of self. "
   Graphic Image: 
   Audio url: 
   Video Url: 
