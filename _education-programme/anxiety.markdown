@@ -45,7 +45,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: five
+- Template: one
   Title: Anxiety and the body
   Image: 
   Description: 'The amygdala and the nervous response '
@@ -77,7 +77,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
+- Template: four
   Title: 
   Image: 
   Description: "The size of the amygdala has been shown to correlate with people’s
@@ -138,11 +138,12 @@ Slides:
   Image: 
   Description: "When fighting or running seems impossible or because the threat seems
     too powerful, our brain triggers a ‘Freeze Response’ that can feel very difficult
-    to break out of.   \nFor example, if you have an upcoming test and you feel overwhelmed,
-    you may feel paralysed and ‘frozen’ and unable to cope.  \nYou may feel feelings
-    of numbness, detachment and dissociation which is caused by your brain separating
-    you from the unpleasantness and strength of your emotions.  \nYou may also feel
-    overwhelmed, a sense of stiffness or a feeling of holding your breath. "
+    to break out of.   \n\nFor example, if you have an upcoming test and you feel
+    overwhelmed, you may feel paralysed and ‘frozen’ and unable to cope.  \n\nYou
+    may feel feelings of numbness, detachment and dissociation which is caused by
+    your brain separating you from the unpleasantness and strength of your emotions.
+    \ \n\nYou may also feel overwhelmed, a sense of stiffness or a feeling of holding
+    your breath. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -153,9 +154,9 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: one
-  Title: "Anxiety and the mind \n\nAnxious thought patterns "
+  Title: 'Anxiety and the mind '
   Image: 
-  Description: 
+  Description: 'Anxious thought patterns '
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -173,16 +174,16 @@ Slides:
     we experience anxiety. We use our minds and thoughts as a way to take control
     of the situation. This process is completely natural but can feel uncomfortable
     and can cause us to experience more distress when we get caught in our thinking
-    as this keeps the uncomfortable experience alive in our minds. \n\nAnxious thought
-    patterns \n \nOne of those ways to notice if we are experiencing anxiety is to
+    as this keeps the uncomfortable experience alive in our minds. \n\n**Anxious thought
+    patterns** \nOne of those ways to notice if we are experiencing anxiety is to
     bring awareness to our thought patterns. When we are fearful and anxious, we begin
-    to think differently about ourselves, other people and situations. \n \nTUNNEL
-    VISION: \n \nFocusing only only the negative aspects of our experience and ignoring
-    the positive. \n \nCATASTROPHISING: \n \nExpecting the worst case scenario to
-    happen. \n \nMIND READING AND FORTUNE TELLING \n \nAssuming you know what other
-    people are thinking and often assuming other people’s perceptions of us are or
-    will be negative. \n \nEMOTIONAL REASONING \n \nAssuming that because we feel
-    strongly towards a situation it must be the only reflection of how things are.  "
+    to think differently about ourselves, other people and situations. \n \n# TUNNEL
+    VISION: \nFocusing only only the negative aspects of our experience and ignoring
+    the positive. \n \n# CATASTROPHISING: \nExpecting the worst case scenario to happen. \n \n#
+    MIND READING AND FORTUNE TELLING \nAssuming you know what other people are thinking
+    and often assuming other people’s perceptions of us are or will be negative. \n \n#
+    EMOTIONAL REASONING \nAssuming that because we feel strongly towards a situation
+    it must be the only reflection of how things are.  "
   Graphic Image: 
   Audio url: 
   Video Url: 
