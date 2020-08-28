@@ -111,7 +111,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: five
+- Template: four
   Title: 
   Image: 
   Description: "Psychology provides us with different models to understand self awareness
