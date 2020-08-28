@@ -3,11 +3,11 @@ title: Body, feelings, mind
 date: 2020-08-28 16:25:00 Z
 permalink: "/education-programme/body-feelings-mind.html"
 Slides:
-- Template: five
+- Template: four
   Title: 
   Image: 
   Description: "There is now a large body of research confirming that our mental and
-    physical wellbeing are closely intertwined and dependent on each other. \nMind-body
+    physical wellbeing are closely intertwined and dependent on each other. \n\nMind-body
     approaches to wellbeing focus on developing a balance between our emotional, psychological
     and physical wellbeing in a sustained and gradual way over time. \nThis model
     views healing and wellbeing as a consequence of our ability to take notice and
