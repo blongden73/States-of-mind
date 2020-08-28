@@ -707,7 +707,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-Cover Image: "/uploads/fear.jpeg"
+Cover Image: "/uploads/anxiety%208.jpg"
 Cover Colour: "#000000"
 layout: presentation
 ---
