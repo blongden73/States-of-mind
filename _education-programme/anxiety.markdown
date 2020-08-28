@@ -1,6 +1,7 @@
 ---
 title: Anxiety
 date: 2020-08-20 21:33:00 Z
+permalink: "/education-programme/anxiety.html"
 position: 2
 Slides:
 - Template: one
@@ -16,24 +17,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
-  Title: 
-  Image: 
-  Description: "Anxiety is a normal response to feelings of fear.  \nThis fear response
-    is a natural defence mechanism that manifests in the way we think, feel and behave.
-    \nAnxiety can help us by making us alert us to potential threats and dangerous
-    situations. For example if we are walking down an unfamiliar road late at night,
-    it is very natural to feel on edge, nervous and to consider the potential risk
-    to our safety. "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
+- 
 - Template: sixteen
   Title: 
   Image: 
