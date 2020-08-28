@@ -1,6 +1,5 @@
 ---
-title: My experience of our mental health care system showed me what young people
-  really need
+title: My experience of our mental health care system
 date: 2020-08-28 09:35:00 Z
 categories:
 - journal
