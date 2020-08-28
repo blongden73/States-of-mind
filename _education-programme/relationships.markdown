@@ -1,6 +1,7 @@
 ---
 title: Relationships
 date: 2020-08-28 16:43:00 Z
+permalink: "/education-programme/relationships.html"
 Slides:
 - Template: one
   Title: 'Types of relationships '
@@ -15,25 +16,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: five
-  Title: Needs in relationships
-  Image: 
-  Description: "Our behaviour in relationships is driven by our evolutionary needs
-    for safety, love and connection with others. \nEveryone has needs for love, connection
-    and a sense of belonging. These core needs drive our behaviour in relationships
-    and how we interact with others. Our ability to have these needs met in our relationships
-    has a significant impact on our health and mental wellbeing.\nWhile as individuals
-    we can work to meet these needs for ourselves, we can also supporting each other
-    to meet these needs so that our relationships feel healthy and fulfilling. "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
+- 
 - Template: sixteen
   Title: 
   Image: 
