@@ -131,7 +131,7 @@ Slides:
 - Template: sixteen
   Title: 
   Image: 
-  Description: "# Joseph Luft and Harrington Ingham\n\n**The Johari Window is a visual
+  Description: "##Joseph Luft and Harrington Ingham\n\n**The Johari Window is a visual
     representation of aspects of the self that are known or unknown to ourselves and
     others.**\n\nThe open area represents everything we know about ourselves. This
     is what people who know us know about us and what we are consciously aware of
