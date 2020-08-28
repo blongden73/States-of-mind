@@ -77,16 +77,16 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: four
+- Template: five
   Title: 
   Image: 
   Description: "The size of the amygdala has been shown to correlate with people’s
-    sensitivity to aspects of the environment they consider as threatening or unsafe.
+    sensitivity to aspects of the environment they consider as threatening or unsafe.\n
     \ \nThis is believed to be caused by past experiences of stress and fear that
     causes the brain to adapt to become more alert to future instances of threat so
-    that we can recognise them more easily.\nResearch has shown that mindfulness and
-    stress reduction programmes reduce the size of the amygalda and people’s levels
-    of anxiety in situations previously experienced as threatening.  The size of the
+    that we can recognise them more easily.\n\nResearch has shown that mindfulness
+    and stress reduction programmes reduce the size of the amygalda and people’s levels
+    of anxiety in situations previously experienced as threatening. The size of the
     amygdala is correlated with the degree to which people subjectively experience
     the world as safe or threatening. "
   Graphic Image: 
