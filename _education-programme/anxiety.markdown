@@ -6,7 +6,7 @@ position: 2
 Slides:
 - Template: one
   Title: What is anxiety?
-  Image: 
+  Image: "/uploads/adrian-swancar-72El6N0cmj4-unsplash-b2dc26.jpg"
   Description: 
   Graphic Image: 
   Audio url: 
@@ -17,23 +17,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
-  Title: 
-  Image: 
-  Description: "“Many forms of anxiety should not be categorized as disorders, because
-    they’re the result of the way people evolved thousands of years ago, rather than
-    something going wrong.” \n\nAllan Horowitz, Rutgers University \n\n“There is great
-    evolutionary and survival value in anxiety, which makes it difficult to identify
-    as an illness or pathology,” \n\nFrank Farley, Temple University."
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
+- 
 - Template: five
   Title: 
   Image: 
