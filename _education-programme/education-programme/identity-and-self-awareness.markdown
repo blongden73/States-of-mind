@@ -540,34 +540,25 @@ Slides:
 - Template: sixteen
   Title: 'The psychology of Sub-personalities '
   Image: 
-  Description: |-
-    Subpersonalities are habits or patterns of behaviour that we have followed since childhood
-
-    When people fail to respond empathetically to our true personality, we learn to hide our authentic nature and adapt to how our parents or our environment need us to be. A psychotherapist called Winnicott, called this process of adapting, the development of the ‘False Self’. It is also referred to as the Survival Personality. 
-
-    These are distinct patterns of thoughts, feelings and behaviours that we develop to adapt to various environments where we feel unable to be our authentic self. In neuroscience these are viewed as distinct neural networks that function as ‘specialised selves’ or ‘self states’. ( Siegel 1993)
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: five
-  Title: ''
-  Image: 
-  Description: "\n\nDaniel Stern summarises the psychological view on these multiple
-    selves: ‘ It is now largely accepted that there are multiple ( context -specific)
-    selves that can interact with each other, observe each other, and converse together
-    out of consciousness. This is normal, not limited to pathological dissociative
-    states.’ (Stern 2004) \n\nSub-personality theory explains personality development
-    and helps to explain why parts of our personality can feel conflicted and as if
-    there are ‘multiple selves’ within us who have different ways of being. \n\nFor
-    example the feeling of ‘ I want to do this but another part of me wants to do
-    that’, or ‘ I shouldn’t be getting angry right now but I think its important I
-    tell the truth’ "
+  Description: "Subpersonalities are habits or patterns of behaviour that we have
+    followed since childhood\n\nWhen people fail to respond empathetically to our
+    true personality, we learn to hide our authentic nature and adapt to how our parents
+    or our environment need us to be. A psychotherapist called Winnicott, called this
+    process of adapting, the development of the ‘False Self’. It is also referred
+    to as the Survival Personality. \n\nThese are distinct patterns of thoughts, feelings
+    and behaviours that we develop to adapt to various environments where we feel
+    unable to be our authentic self. In neuroscience these are viewed as distinct
+    neural networks that function as ‘specialised selves’ or ‘self states’. ( Siegel
+    1993) \n\nDaniel Stern summarises the psychological view on these multiple selves:
+    ‘ It is now largely accepted that there are multiple ( context -specific) selves
+    that can interact with each other, observe each other, and converse together out
+    of consciousness. This is normal, not limited to pathological dissociative states.’
+    (Stern 2004) \n\nSub-personality theory explains personality development and helps
+    to explain why parts of our personality can feel conflicted and as if there are
+    ‘multiple selves’ within us who have different ways of being. \n\nFor example
+    the feeling of ‘ I want to do this but another part of me wants to do that’, or
+    ‘ I shouldn’t be getting angry right now but I think its important I tell the
+    truth’ "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -632,7 +623,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: five
+- Template: four
   Title: 
   Image: 
   Description: "If you would like to learn more the psychology of personality you
