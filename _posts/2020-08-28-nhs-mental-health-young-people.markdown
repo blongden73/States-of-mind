@@ -66,4 +66,4 @@ Vulnerability is a tool that I see as key to enjoying life and being able to be 
 
 Young people are angry, but under that hostility is a soul longing to be loved and understood. Together we can work to restore our voices and feel authentic, as long as we have a mental health system that values honesty and responsibility.
 
-**Left hand side photo: Ella Gregory, 2020**
+**Side photo: Ella Gregory, 2020**
