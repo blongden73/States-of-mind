@@ -153,7 +153,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: five
+- Template: two
   Title: 'Time to pause '
   Image: 
   Description: 'And take time to reflect on your personal experience in the insight
