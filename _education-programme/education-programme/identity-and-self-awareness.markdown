@@ -501,7 +501,16 @@ Slides:
 - Template: one
   Title: 'Part 3: Society and Identity'
   Image: "/uploads/identity%205.jpg"
-  Description: 
+  Description: "We live in a social world and many aspects of our personalities are
+    shaped by the social relationships and situations we encounter throughout our
+    lives. \nAs it is impossible for our close relationships to be fully present all
+    the time and for us to be completely present to others, we have adapted a way
+    to fit our environments by adapting our personality to defend ourselves or meet
+    your need for connection.  \nAn example of this is noticing when somebody seems
+    to have a different personality depending on what group they are in, or when we
+    notice we behave differently depending on who we are. This is a completely normal
+    process but understanding the process behind it can help us develop an awareness
+    of how parts of our identity are shaped by our desire to fit in and be accepted. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -512,34 +521,11 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: five
-  Title: ''
-  Image: ''
-  Description: "We live in a social world and many aspects of our personalities are
-    shaped by the social relationships and situations we encounter throughout our
-    lives. \n\nAs it is impossible for our close relationships to be fully present
-    all the time and for us to be completely present to others, we have adapted a
-    way to fit our environments by adapting our personality to defend ourselves or
-    meet your need for connection.  \n\nAn example of this is noticing when somebody
-    seems to have a different personality depending on what group they are in, or
-    when we notice we behave differently depending on who we are. This is a completely
-    normal process but understanding the process behind it can help us develop an
-    awareness of how parts of our identity are shaped by our desire to fit in and
-    be accepted. "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: sixteen
   Title: 
   Image: 
   Description: |-
-    Personality comes from the greek word, ‘persona’ which means mask. Our personality refers to the different faces that we show to the world and the many different ways we behave, speak, think and relate with other people. Behind our personality is our true Self, which does not change over time or adapt to different circumstances, but contains our essential nature. 
-     
+    Personality comes from the greek word, ‘persona’ which means mask. Our personality refers to the different faces that we show to the world and the many different ways we behave, speak, think and relate with other people. Behind our personality is our true Self, which does not change over time or adapt to different circumstances, but contains our essential nature.
+
     Sub personalities are distinct personality structures that we identify with and act out. Sub personalities develop when we feel we cannot express our true nature and need to adapt or change some aspect of ourselves to be loved, accepted and acknowledged. Sub personalities are not bad or something to be removed, they are a very normal part of psychological development as they allow us to survive and adapt to an unpredictable social world. 
      
   Graphic Image: 
