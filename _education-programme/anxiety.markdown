@@ -630,13 +630,13 @@ Slides:
   Title: 'Acceptance and Self Compassion  '
   Image: 
   Description: "The anxiety response is kept going when we avoid our feelings through
-    escaping to our mind ( rumination ).  \nSelf compassion involves bringing awareness
+    escaping to our mind ( rumination ). \n \nSelf compassion involves bringing awareness
     to our discomfort and distress and understanding that our pain and suffering is
-    a normal part of being human. \nBy bringing an attitude of care and acceptance
+    a normal part of being human. \n\nBy bringing an attitude of care and acceptance
     towards ourselves, we can focus our energy away from our worries and concerns,
-    towards a dedicated attempt to reassure and support ourselves. \nBy turning towards
-    our feelings, instead of resisting them, we can begin to self soothe and calm
-    our anxiety.    "
+    towards a dedicated attempt to reassure and support ourselves. \n\nBy turning
+    towards our feelings, instead of resisting them, we can begin to self soothe and
+    calm our anxiety.    "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -646,7 +646,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: five
+- Template: one
   Title: 'Compassionate letter writing '
   Image: 
   Description: 
