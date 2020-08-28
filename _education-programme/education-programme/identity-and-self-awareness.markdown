@@ -1,7 +1,7 @@
 ---
 title: Identity and Self Awareness
 date: 2020-08-26 15:29:00 Z
-permalink: "/identity-and-self-awareness.html"
+permalink: "/education-programme/identity-and-self-awareness.html"
 position: 0
 Slides:
 - Template: sixteen
