@@ -17,7 +17,6 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- 
 - Template: sixteen
   Title: 
   Image: 
@@ -35,7 +34,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: 
+- Template: five
   Title: 
   Image: 
   Description: 
@@ -170,7 +169,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: 
+- Template: one
   Title: "Anxiety and the mind \n\nAnxious thought patterns "
   Image: 
   Description: 
@@ -210,7 +209,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: 
+- Template: one
   Title: Anxiety and overthinking
   Image: 
   Description: 
@@ -406,7 +405,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: 
+- Template: sixteen
   Title: Anxiety and relationships
   Image: 
   Description: "Anxiety is also triggered as a response to a threat to our attachment
@@ -629,7 +628,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: 
+- Template: five
   Title: 'Anxiety and control '
   Image: 
   Description: graphic
@@ -642,7 +641,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: 
+- Template: sixteeen
   Title: 'Acceptance and Self Compassion  '
   Image: 
   Description: "The anxiety response is kept going when we avoid our feelings through
