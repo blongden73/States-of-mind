@@ -288,7 +288,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: 'Connecting our mental, physical and emotional world. '
-  Image: 
+  Image: "/uploads/rational%20mind.jpg"
   Description: 
   Graphic Image: 
   Audio url: 
@@ -299,8 +299,8 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
-  Title: 'CREATIVITY AND EMOTIONAL EXPRESSION '
+- Template: five
+  Title: Creativity and emotional expression
   Image: 
   Description: 
   Graphic Image: 
@@ -314,7 +314,7 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: 
-  Image: 
+  Image: "/uploads/drawing.jpg"
   Description: "Drawing is a powerful tool for getting in touch with our emotional
     world. Often if our lives are busy and we are very caught in our thoughts, it
     can be difficult to step back and observe how our feelings and emotions are. If
@@ -322,7 +322,7 @@ Slides:
     discomfort. This activity allows you to gently connect with your feelings in a
     therapeutic way, using a simple drawing exercise. This activity can be used alone
     or in groups to calm your mind and allow you to express the emotions you are carrying
-    in any given moment. \n\nAs you do this exercise, memories and associations may
+    in any given moment.\n\nAs you do this exercise, memories and associations may
     emerge related to your feelings. This is completely normal and a part of what
     happens when you become attuned to your emotional world. Just allow this process
     to unfold and stay with whatever feelings and sensations emerge for you as you
