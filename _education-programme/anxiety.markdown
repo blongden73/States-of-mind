@@ -46,9 +46,9 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: five
-  Title: "Anxiety and the body\n\nThe amygdala and the nervous response "
+  Title: Anxiety and the body
   Image: 
-  Description: 
+  Description: 'The amygdala and the nervous response '
   Graphic Image: 
   Audio url: 
   Video Url: 
