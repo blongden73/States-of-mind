@@ -191,6 +191,15 @@
   }
 
   .sixteen &, .list & {
+    h1 {
+      margin-bottom: 0;
+      font-size: 24px;
+      text-transform: capitalize;
+
+      & + p {
+        margin-top: 0;
+      }
+    }
     h2 {
       font-size: 55px;
       line-height: 1;
