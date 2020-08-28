@@ -4,7 +4,7 @@
     <img src="{{page.['Cover Image']}}">
     <div class="som-wrapper">
       <h1 style="color:{{page.['Cover Colour']}};">{{page.title}}</h1>
-      <div class="som-button" style="color:{{page.['Cover Colour']}}; border-color:{{page.['Cover Colour']}};">Start presentation</div>
+      <div class="som-button" style="color:{{page.['Cover Colour']}}; border-color:{{page.['Cover Colour']}};">Start module</div>
     </div>
   </div>
   {% for slide in page.Slides %}

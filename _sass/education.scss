@@ -436,3 +436,19 @@
 .fourteen + .sixteen {
   background-color: $nu-blue;
 }
+
+.page-centred {
+  padding-top: 100px;
+  width: 660px;
+  margin-left: auto;
+  margin-right: auto;
+
+  h1 {
+    font-size: 32px;
+    margin: 0;
+  }
+
+  h2 {
+    font-size: 24px;
+  }
+}
