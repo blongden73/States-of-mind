@@ -446,9 +446,9 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: one
-  Title: The Younger Me - An Autobiography 
+  Title: The Younger Me
   Image: "/uploads/identity%204.jpg"
-  Description: 
+  Description: An Autobiography 
   Graphic Image: 
   Audio url: 
   Video Url: 
