@@ -1,6 +1,7 @@
 ---
 title: Identity and Self Awareness
 date: 2020-08-26 15:29:00 Z
+permalink: "/identity-and-self-awareness.html"
 position: 0
 Slides:
 - Template: sixteen
@@ -16,20 +17,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: five
-  Title: 
-  Image: 
-  Description: "Testimonials from past participants  \nVideo with Ella \nAnimation
-    of the concept "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
+- 
 - Template: five
   Title: 'In this introductory module, you will explore: '
   Image: 
