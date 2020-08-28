@@ -167,7 +167,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: one
+- Template: five
   Title: What are the benefits of developing Self Awareness?
   Image: 
   Description: 
