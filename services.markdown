@@ -71,7 +71,7 @@ Team:
   description: |-
     **Social Development Lead**
 
-    Ella is a passionate and empathetic individual who is interested in promoting young people’s growth and self knowledge. She has personal experience with CAMHS and as a result is dedicated to reforming approaches towards mental health. Ella is the co-creator of our new online course. She believes that transforming how we talk about and view our minds and feelings can influence the rest of our lives, because as we understand more about ourselves and our fellow humans, we can connect, solve problems and thrive.
+    Ella has personal experience with CAMHS and as a result is dedicated to reforming approaches towards mental health. Ella is the co-creator of our new online course. She believes that transforming how we talk about and view our minds and feelings can influence the rest of our lives, because as we understand more about ourselves and our fellow humans, we can connect, solve problems and thrive.
 - image: "/uploads/IMG_4544%20copy%20copy.jpg"
   name: 'Camille Pellicer '
   description: |-
