@@ -37,11 +37,11 @@ Slides:
 - Template: five
   Title: 
   Image: 
-  Description: VIDEO OF ELLA TALKING ABOUT SELF AWARENESS
+  Description: 
   Graphic Image: 
   Audio url: 
   Video Url: 
-  Credit: 
+  Credit: VIDEO OF ELLA TALKING ABOUT SELF AWARENESS
   Links:
   - Link Url: 
   Quote: 
