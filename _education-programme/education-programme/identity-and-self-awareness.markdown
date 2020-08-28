@@ -50,7 +50,7 @@ Slides:
 - Template: ten
   Title: 
   Image: 
-  Description: 'What does self awareness mean to you? '
+  Description: 'What does self awareness mean to you? '
   Graphic Image: 
   Audio url: 
   Video Url: 
