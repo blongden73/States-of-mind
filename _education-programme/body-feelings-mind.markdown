@@ -608,6 +608,6 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-layout: education
+layout: presentation
 ---
 
