@@ -422,7 +422,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
-  Title: 'RUMINATION '
+  Title: 'Rumination '
   Image: 
   Description: "\nIn Mind-Body Therapy the body itself becomes a record of everything
     that has happened and will elucidate the story that is manifesting in symptoms.
@@ -445,7 +445,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: Mindfulness
-  Image: 
+  Image: "/uploads/body%20scan.jpeg"
   Description: 
   Graphic Image: 
   Audio url: 
@@ -473,10 +473,10 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: one
-  Title: 'What prevents you being present throughout your day? '
+- Template: ten
+  Title: 
   Image: 
-  Description: 
+  Description: 'What prevents you being present throughout your day? '
   Graphic Image: 
   Audio url: 
   Video Url: 
