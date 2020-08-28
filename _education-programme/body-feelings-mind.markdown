@@ -445,7 +445,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: Mindfulness
-  Image: "/uploads/body%20scan.jpeg"
+  Image: "/uploads/mindfulness%202-805bc0.jpeg"
   Description: 
   Graphic Image: 
   Audio url: 
@@ -594,9 +594,9 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: five
+- Template: one
   Title: Body, Feelings, Mind
-  Image: 
+  Image: "/uploads/body%20scan-cc3639.jpeg"
   Description: Meditation
   Graphic Image: 
   Audio url: 
