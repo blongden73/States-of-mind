@@ -7,60 +7,60 @@ Slides:
 - Template: one
   Title: What is anxiety?
   Image: "/uploads/adrian-swancar-72El6N0cmj4-unsplash-b2dc26.jpg"
-  Description:
-  Graphic Image:
-  Audio url:
-  Video Url:
-  Credit:
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
   Links:
-  - Link Url:
-  Quote:
-  Quote Credit:
-  Slide Colour:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: five
-  Title:
-  Image:
-  Description:
-  Graphic Image:
-  Audio url:
-  Video Url:
+  Title: 
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
   Credit: Graphic
   Links:
-  - Link Url:
-  Quote:
-  Quote Credit:
-  Slide Colour:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: five
   Title: When anxiety becomes a problem
-  Image:
+  Image: 
   Description: |-
     Anxiety becomes a problem in our lives when we begin to notice a reduced ability to cope with situations in our everyday life.
     If we have experienced a situation in the past that we have not processed, it can cause us to feel like we can’t manage or cope in the present, as our threat detector, or ‘smoke alarm’ becomes overactive and responds more sensitively to things we may not normally perceive as threatening.
-  Graphic Image:
-  Audio url:
-  Video Url:
-  Credit:
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
   Links:
-  - Link Url:
-  Quote:
-  Quote Credit:
-  Slide Colour:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: one
   Title: Anxiety and the body
   Image: "/uploads/yoga.jpg"
   Description: 'The amygdala and the nervous response '
-  Graphic Image:
-  Audio url:
-  Video Url:
-  Credit:
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
   Links:
-  - Link Url:
-  Quote:
-  Quote Credit:
-  Slide Colour:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: five
   Title: 'The neuroscience of anxiety '
-  Image:
+  Image: 
   Description: "The anxiety response begins in a part of the brain called the Amygdala.
     We share this part of the brain with all animals, as it is one of the most fundamental
     survival systems that allows us to detect threats in our environment. \n\nAnimal
@@ -68,18 +68,18 @@ Slides:
     of fear or anxiety. \n \nThe amygdala is activated in response to situations of
     fear and uncertainty. Once activated, this part of the brain sends a message through
     the vagus nerve to activate our parasympathetic nervous system. "
-  Graphic Image:
-  Audio url:
-  Video Url:
-  Credit:
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
   Links:
-  - Link Url:
-  Quote:
-  Quote Credit:
-  Slide Colour:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: five
-  Title:
-  Image:
+  Title: 
+  Image: 
   Description: "The size of the amygdala has been shown to correlate with people’s
     sensitivity to aspects of the environment they consider as threatening or unsafe.\n
     \ \nThis is believed to be caused by past experiences of stress and fear that
@@ -89,30 +89,30 @@ Slides:
     of anxiety in situations previously experienced as threatening. The size of the
     amygdala is correlated with the degree to which people subjectively experience
     the world as safe or threatening. "
-  Graphic Image:
-  Audio url:
-  Video Url:
-  Credit:
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
   Links:
-  - Link Url:
-  Quote:
-  Quote Credit:
-  Slide Colour:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: five
   Title: The sympathetic response - Fight, Fight and Freeze
-  Image:
+  Image: 
   Description: "The sympathetic response is the part of the stress response that activates
     our mind and body to defend against stressful situations. \n\nThis response is
     triggered after the amygdala responds to a potential threat."
-  Graphic Image:
-  Audio url:
-  Video Url:
-  Credit:
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
   Links:
-  - Link Url:
-  Quote:
-  Quote Credit:
-  Slide Colour:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: sixteen
   Title: 'The vagus nerve '
   Image: "/uploads/vagus%20nerve.jpg"
@@ -124,18 +124,18 @@ Slides:
     as they are preparing us to escape the threat (Flight) or become defensive to
     \ it ( Fight). The anxiety response is closely linked with the Freeze response,
     where we feel paralysed to act in the face of a threat. "
-  Graphic Image:
-  Audio url:
-  Video Url:
-  Credit:
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
   Links:
-  - Link Url:
-  Quote:
-  Quote Credit:
-  Slide Colour:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: five
   Title: 'The freeze response '
-  Image:
+  Image: 
   Description: "When fighting or running seems impossible or because the threat seems
     too powerful, our brain triggers a ‘Freeze Response’ that can feel very difficult
     to break out of.   \n\nFor example, if you have an upcoming test and you feel
@@ -144,44 +144,49 @@ Slides:
     your brain separating you from the unpleasantness and strength of your emotions.
     \ \n\nYou may also feel overwhelmed, a sense of stiffness or a feeling of holding
     your breath. "
-  Graphic Image:
-  Audio url:
-  Video Url:
-  Credit:
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
   Links:
-  - Link Url:
-  Quote:
-  Quote Credit:
-  Slide Colour:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: one
   Title: 'Anxiety and the mind '
   Image: "/uploads/anxiety.jpg"
   Description: 'Anxious thought patterns '
-  Graphic Image:
-  Audio url:
-  Video Url:
-  Credit:
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
   Links:
-  - Link Url:
-  Quote:
-  Quote Credit:
-  Slide Colour:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: five
-  Title:
-  Image:
-  Description: "The feelings of anticipation and loss of control that are connected with the fear response are reflected in the thought patterns that we feel when we experience anxiety. We use our minds and thoughts as a way to take control of the situation. This process is completely natural but can feel uncomfortable and can cause us to experience more distress when we get caught in our thinking as this keeps the uncomfortable experience alive in our minds."
-  Graphic Image:
-  Audio url:
-  Video Url:
-  Credit:
+  Title: 
+  Image: 
+  Description: The feelings of anticipation and loss of control that are connected
+    with the fear response are reflected in the thought patterns that we feel when
+    we experience anxiety. We use our minds and thoughts as a way to take control
+    of the situation. This process is completely natural but can feel uncomfortable
+    and can cause us to experience more distress when we get caught in our thinking
+    as this keeps the uncomfortable experience alive in our minds.
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
   Links:
-  - Link Url:
-  Quote:
-  Quote Credit:
-  Slide Colour:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: sixteen
-  Title:
-  Image:
+  Title: 
+  Image: 
   Description: "# Anxious thought patterns\nOne of those ways to notice if we are
     experiencing anxiety is to bring awareness to our thought patterns. When we are
     fearful and anxious, we begin to think differently about ourselves, other people
@@ -192,49 +197,49 @@ Slides:
     of us are or will be negative. \n \n# Emotional reasoning \nAssuming that because
     we feel strongly towards a situation it must be the only reflection of how things
     are.  "
-  Graphic Image:
-  Audio url:
-  Video Url:
-  Credit:
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
   Links:
-  - Link Url:
-  Quote:
-  Quote Credit:
-  Slide Colour:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: one
   Title: Anxiety and overthinking
   Image: "/uploads/rumination%202.jpeg"
-  Description:
-  Graphic Image:
-  Audio url:
-  Video Url:
-  Credit:
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
   Links:
-  - Link Url:
-  Quote:
-  Quote Credit:
-  Slide Colour:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: sixteen
   Title: 'The Default mode network '
-  Image:
+  Image: 
   Description: "Neuroscientists have identified a distinct neural network in the brain
     that is activated when we ruminate called the ‘Default Mode Network’ . \n\nWhen
     the ‘Default Mode’ Network is active, it may look like nothing is happening from
     the outside but actually inside our minds, we will be daydreaming, reflecting
     or thinking about our lives. \n\nThe default mode is active when we are worrying
     or preoccupied with thoughts about the past and future. "
-  Graphic Image:
-  Audio url:
-  Video Url:
-  Credit:
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
   Links:
-  - Link Url:
-  Quote:
-  Quote Credit:
-  Slide Colour:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: sixteen
   Title: 'Rumination '
-  Image:
+  Image: 
   Description: "\nWhen we imagine an aspect of a future situation that we feel we
     can’t cope with, our mind tries to solve the problem by thinking about it. This
     can cause a ‘Thought Loop’ that is caused by our thoughts triggering more feelings
@@ -246,18 +251,18 @@ Slides:
     thoughts’. \n\nResearch has shown that people who ruminate more are more likely
     to struggle with anxiety and depression. This makes sense, as the more our minds
     focus on problems, the more we will feel stuck and unable to change them. \n\n\n "
-  Graphic Image:
-  Audio url:
-  Video Url:
-  Credit:
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
   Links:
-  - Link Url:
-  Quote:
-  Quote Credit:
-  Slide Colour:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: sixteen
   Title: 'What are the long term effects of anxiety? '
-  Image:
+  Image: 
   Description: |-
     Inability to concentrate 
     When the anxiety response is active, being in survival mode shuts down the activity of the prefrontal cortex which is required for focused attention.
@@ -270,18 +275,18 @@ Slides:
 
     As with concentration, our memory systems are temporarily impaired by anxiety due to the activity of cortisol that is released in the brain during the anxiety response.
      
-  Graphic Image:
-  Audio url:
-  Video Url:
-  Credit:
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
   Links:
-  - Link Url:
-  Quote:
-  Quote Credit:
-  Slide Colour:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: sixteen
-  Title:
-  Image:
+  Title: 
+  Image: 
   Description: |-
     # Social Isolation
 
@@ -294,110 +299,110 @@ Slides:
     Muscle tension and fatigue 
      
     The adrenaline and cortisol released in the fight/flight/ freeze response causes the body to tense up as a way of protecting against injury and pain.
-  Graphic Image:
-  Audio url:
-  Video Url:
-  Credit:
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
   Links:
-  - Link Url:
-  Quote:
-  Quote Credit:
-  Slide Colour:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: one
   Title: What causes anxiety?
   Image: "/uploads/anxiety%207.jpg"
-  Description:
-  Graphic Image:
-  Audio url:
-  Video Url:
-  Credit:
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
   Links:
-  - Link Url:
-  Quote:
-  Quote Credit:
-  Slide Colour:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: five
   Title: 'Exploring our fears '
-  Image:
+  Image: 
   Description: "What ‘External Fears’ do we have? \nThese are situations or things
     outside of us that make us feel like we are unable to cope. \n \nWhat ‘Internal
     Fears do we have? \nThese are beliefs or internal narratives that cause us to
     feel like we are unable to cope. "
-  Graphic Image:
-  Audio url:
-  Video Url:
-  Credit:
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
   Links:
-  - Link Url:
-  Quote:
-  Quote Credit:
-  Slide Colour:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: five
-  Title:
-  Image:
+  Title: 
+  Image: 
   Description: graphic
-  Graphic Image:
-  Audio url:
-  Video Url:
-  Credit:
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
   Links:
-  - Link Url:
-  Quote:
-  Quote Credit:
-  Slide Colour:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: sixteen
   Title: "“Better safe than sorry”  \nAnxiety and avoidance  "
-  Image:
+  Image: 
   Description: "Feelings of stress, combined with our inner fears can cause us to
     retreat into avoidant behaviours that make us feel more comfortable and secure
     than risking potential scenarios that could cause more stress. \n\nThe tendency
     to avoid situations that could cause us discomfort can help in the short term
     but in the long term can perpetuate feelings of anxiety as it reinforces our internal
     beliefs that we cannot cope with situations that challenge us. "
-  Graphic Image:
-  Audio url:
-  Video Url:
-  Credit:
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
   Links:
-  - Link Url:
-  Quote:
-  Quote Credit:
-  Slide Colour:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: sixteen
   Title: Anxiety and Social Rank Theory 
-  Image:
+  Image: 
   Description: |-
     Paul Gilbert, an Evolutionary Psychologist has proposed that people feel anxiety as a response to social comparison, as people are hardwired to pay attention to their social status within groups. This draws out our Fear of not being good enough in the eyes of others/ the fear of rejection and not being accepted.
 
     As one of our primary needs is a sense of belonging, connection and acceptance, our threat system becomes active when we perceive a threat to these needs. 
 
      
-  Graphic Image:
-  Audio url:
-  Video Url:
-  Credit:
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
   Links:
-  - Link Url:
-  Quote:
-  Quote Credit:
-  Slide Colour:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: four
-  Title:
-  Image:
+  Title: 
+  Image: 
   Description: |-
     How do we want others to view us? 
     What parts of ourselves do we hide from others? 
 
     How do we feel if we make mistakes or ‘let our guard down’ with people we don’t know?
-  Graphic Image:
-  Audio url:
-  Video Url:
-  Credit:
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
   Links:
-  - Link Url:
-  Quote:
-  Quote Credit:
-  Slide Colour:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: sixteen
   Title: Anxiety and relationships
   Image: "/uploads/ian-dooley-v9sAFGJ3Ojk-unsplash.jpg"
@@ -408,78 +413,78 @@ Slides:
     something is wrong.  \n\nAnxiety can cause us to avoid relationships and social
     situations or to change our behaviour while around others out of fear of being
     rejected."
-  Graphic Image:
-  Audio url:
-  Video Url:
-  Credit:
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
   Links:
-  - Link Url:
-  Quote:
-  Quote Credit:
-  Slide Colour:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: ten
   Title: Discussion point
-  Image:
-  Description:
-  Graphic Image:
-  Audio url:
-  Video Url:
-  Credit:
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
   Links:
-  - Link Url:
-  Quote:
-  Quote Credit:
-  Slide Colour:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: sixteen
   Title: 'How can you calm the anxiety response? '
-  Image:
+  Image: 
   Description: "The key to managing anxiety is to address the underlying cause of
     the fear response.  This part of the module will explore how you can calm the
     fear response by understanding how you can regulate it. \n\nExploring your fears
     and limiting beliefs \nReducing the stress response and activating the ‘soothing
     system’\n\nOver-riding rumination by activating the Task Positive Network \n\nChanging
     your state of mind from a need to control, to a state of acceptance and self compassion. "
-  Graphic Image:
-  Audio url:
-  Video Url:
-  Credit:
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
   Links:
-  - Link Url:
-  Quote:
-  Quote Credit:
-  Slide Colour:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: five
   Title: 'Fears and Limiting Beliefs '
-  Image:
+  Image: 
   Description: Calming our fears is possible for everyone. It requires us to listen
     carefully to the messages our fears hold and listen with kindness to what they
     are telling us about the ideas that we have about ourselves, so that we can uncover
     the underlying belief, explore it and let it go. 
-  Graphic Image:
-  Audio url:
-  Video Url:
-  Credit:
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
   Links:
-  - Link Url:
-  Quote:
-  Quote Credit:
-  Slide Colour:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: one
   Title: 'Working with limiting beliefs '
   Image: "/uploads/exercise%20.jpeg"
-  Description:
-  Graphic Image:
-  Audio url:
-  Video Url:
-  Credit:
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
   Links:
-  - Link Url:
-  Quote:
-  Quote Credit:
-  Slide Colour:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: sixteen
   Title: 'Emotional Regulation '
-  Image:
+  Image: 
   Description: "Emotional regulation is a really important tool for getting unstuck
     a loop of fearful thoughts and feelings. By understanding how emotional regulation
     works we can develop our self awareness and gain more control over the different
@@ -489,154 +494,154 @@ Slides:
     all 3. \n\nEach state corresponds to an area in our brain responsible for either
     survival ( Threat), bonding and relaxation ( Soothing)  or motivation and reward
     (Drive). "
-  Graphic Image:
-  Audio url:
-  Video Url:
-  Credit:
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
   Links:
-  - Link Url:
-  Quote:
-  Quote Credit:
-  Slide Colour:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: sixteen
-  Title:
-  Image:
-  Description:
-  Graphic Image:
-  Audio url:
-  Video Url:
+  Title: 
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
   Credit: 'Emotional regulation graphic '
   Links:
-  - Link Url:
-  Quote:
-  Quote Credit:
-  Slide Colour:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: four
-  Title:
-  Image:
+  Title: 
+  Image: 
   Description: "To break out of the stress response, we need to re-engage the body
     to remind the body that it is safe. When the body feels it is safe, it is able
     to process new information that can help us to see new possibilities.\n \nThis
     part of the module explores how we can activate the soothing system through exercise,
     breathing, mindfulness and social support. "
-  Graphic Image:
-  Audio url:
-  Video Url:
-  Credit:
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
   Links:
-  - Link Url:
-  Quote:
-  Quote Credit:
-  Slide Colour:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: five
   Title: Exercise
-  Image:
+  Image: 
   Description: "When we worry, our minds sends signals to our body that there is a
     still a potential threat that exists and the triggers our body to release the
     stress hormone cortisol, which makes us feel jittery and tense if not reduced.
     \nExercise is beneficial for anxiety as it reduces levels of cortisol and increases
     our endorphins which improve our mood. \nResearch has shown that 5 minutes of
     exercise can begin to reduce our levels of anxiety. "
-  Graphic Image:
-  Audio url:
-  Video Url:
-  Credit:
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
   Links:
-  - Link Url:
-  Quote:
-  Quote Credit:
-  Slide Colour:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: five
   Title: 'Breathing Exercises '
-  Image:
+  Image: 
   Description: "Breathing exercises are one of the best ways to reduce stress in the
     body. \nWhen we practice slow and deep breathing, it activates the vagus nerve
     which sends a signal to the brain that allows the body to relax.  \nBreathing
     exercises help to quiet the mind and return our awareness to the present moment."
-  Graphic Image:
-  Audio url:
-  Video Url:
-  Credit:
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
   Links:
-  - Link Url:
-  Quote:
-  Quote Credit:
-  Slide Colour:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: one
   Title: 'Developing a breathing practice '
   Image: "/uploads/breathing%202-b71dbc.jpeg"
-  Description:
-  Graphic Image:
-  Audio url:
-  Video Url:
-  Credit:
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
   Links:
-  - Link Url:
-  Quote:
-  Quote Credit:
-  Slide Colour:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: five
   Title: Mindfulness -Based Stress reduction
-  Image:
+  Image: 
   Description: "MBSR is a therapeutic tool that helps people to relax and return their
     attention to the present moment. \nAs the anxiety is often accompanied by persistent
     worrying about the past and future, by bringing our awareness to the present moment,
     we can redirect our attention and focus to the here and now and relieve ourselves
     of distressing thought patterns. "
-  Graphic Image:
-  Audio url:
-  Video Url:
-  Credit:
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
   Links:
-  - Link Url:
-  Quote:
-  Quote Credit:
-  Slide Colour:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: one
   Title: 'Mindfulness Meditation practice '
   Image: "/uploads/cristofer-jeschke-EqyzRKP6mwM-unsplash.jpg"
-  Description:
-  Graphic Image:
-  Audio url:
-  Video Url:
-  Credit:
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
   Links:
-  - Link Url:
-  Quote:
-  Quote Credit:
-  Slide Colour:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: sixteen
   Title: 'Activating the Task Positive Network '
-  Image:
+  Image: 
   Description: |-
     The Default mode is switched OFF when we focus our attention on tasks or ‘doing things’. When we are in this mode, our ‘ Task Positive Network’ is activated. We can see this network as the ‘solution focused network.’ These networks are similar to a switch, when one is ON the other is OFF. 
      
     This explains why we find it much more difficult to worry about a problem when we choose to go for a walk, when we go to meet our friends or when we are doing something that takes our attention away from the problem. If you experience a lot of worry, you can strengthen your Task Positive Network by adding particular tasks to your daily routine that ensure you spend less time in your mind ruminating about your fears and anxieties. 
-  Graphic Image:
-  Audio url:
-  Video Url:
-  Credit:
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
   Links:
-  - Link Url:
-  Quote:
-  Quote Credit:
-  Slide Colour:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: sixteen
   Title: 'Anxiety and control '
-  Image:
-  Description:
-  Graphic Image:
-  Audio url:
-  Video Url:
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
   Credit: graphic
   Links:
-  - Link Url:
-  Quote:
-  Quote Credit:
-  Slide Colour:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: sixteen
   Title: 'Acceptance and Self Compassion  '
-  Image:
+  Image: 
   Description: "The anxiety response is kept going when we avoid our feelings through
     escaping to our mind ( rumination ). \n \nSelf compassion involves bringing awareness
     to our discomfort and distress and understanding that our pain and suffering is
@@ -645,46 +650,46 @@ Slides:
     towards a dedicated attempt to reassure and support ourselves. \n\nBy turning
     towards our feelings, instead of resisting them, we can begin to self soothe and
     calm our anxiety.    "
-  Graphic Image:
-  Audio url:
-  Video Url:
-  Credit:
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
   Links:
-  - Link Url:
-  Quote:
-  Quote Credit:
-  Slide Colour:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: two
   Title: 'Compassionate letter writing '
-  Image:
-  Description:
-  Graphic Image:
-  Audio url:
-  Video Url:
-  Credit:
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
   Links:
-  - Link Url:
-  Quote:
-  Quote Credit:
-  Slide Colour:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: five
   Title: 'Acceptance meditation '
-  Image:
+  Image: 
   Description: 'This meditation has been designed to help you reconnect with your
     body and your feelings and allow the feelings of fear into your experience so
     that it can be processed. '
-  Graphic Image:
-  Audio url:
-  Video Url:
-  Credit:
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
   Links:
-  - Link Url:
-  Quote:
-  Quote Credit:
-  Slide Colour:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: five
   Title: Other ways to reduce anxiety
-  Image:
+  Image: 
   Description: "\nDiet a diet that stabilises your blood sugar. If your blood sugar
     is low, it triggers the stress response which makes you more likely to feel anxiety.
     \  \n\n\nSpeaking about it: \nResearch shows that when we form connections with
@@ -693,16 +698,17 @@ Slides:
     \nSleep is designed to reduce stress levels as it allows you to release the resistance
     that causes anxiety. Your fight or fight response is triggered when you do not
     get enough sleep. "
-  Graphic Image:
-  Audio url:
-  Video Url:
-  Credit:
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
   Links:
-  - Link Url:
-  Quote:
-  Quote Credit:
-  Slide Colour:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 Cover Image: "/uploads/fear.jpeg"
 Cover Colour: "#000000"
 layout: presentation
 ---
+
