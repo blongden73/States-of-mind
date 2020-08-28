@@ -60,11 +60,11 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: five
+- Template: sixteen
   Title: 'Common misconceptions about self awareness '
   Image: 
-  Description: "“ Self awareness is self absorbed” \n“ Spending time thinking about
-    yourself is narcissistic’  \n“ Self awareness is impossible to maintain” \n“ You
+  Description: "“Self awareness is self absorbed” \n\n“Spending time thinking about
+    yourself is narcissistic’  \n\n“Self awareness is impossible to maintain” \n\n“You
     either have self awareness or you don’t” "
   Graphic Image: 
   Audio url: 
