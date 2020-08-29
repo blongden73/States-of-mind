@@ -96,11 +96,11 @@ Slides:
 - Template: five
   Title: 
   Image: 
-  Description: "Psychology provides us with different models to understand and develop
-    self awareness. This module uses 3 models:  \n\nJohari Window  \nInner child \nSubpersonalities\n\nIf
-    you are interested, you can explore these models too: Maslow’s hierarchy of needs,
-    Freud and the psychodynamic model of the personality, Jung and the Five Factor
-    model of the Personality. "
+  Description: "## Psychology provides us with different models to understand and
+    develop self awareness. This module uses 3 models:  \n\nJohari Window  \n\nInner
+    child \n\nSubpersonalities\n\nIf you are interested, you can explore these models
+    too: Maslow’s hierarchy of needs, Freud and the psychodynamic model of the personality,
+    Jung and the Five Factor model of the Personality. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -116,7 +116,7 @@ Slides:
   Description: |-
     ## The Johari Window
 
-    The Johari Window is a visual representation of aspects of the self that are known or unknown to ourselves and others.
+    The Johari Window is a visual representation of the parts of ourselves that are  either known or unknown to ourselves and others.
 
     **The open area** represents everything we know about ourselves. This is what people who know us know about us and what we are consciously aware of too.
 
@@ -256,21 +256,14 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
+- Template: sixt
   Title: Identity
   Image: 
-  Description: "Our definition of identity isn’t fixed as we view it as a subjective
-    and personal experience of how we chose to view ourselves. \n\nOur identity relates
-    to our self - image:  our perception of our value and our role in the world. Our
-    identity changes and evolves as we develop, reflecting the dynamic inter-relationship
-    between our life experience and our sense of self. \n\n\nAs our life history and
-    identity are so closely related, exploring and bringing awareness to different
+  Description: "Our definition of identity isn’t fixed. It is as a subjective and
+    personal experience of how we chose to view ourselves. \n\nAs our life history
+    and identity are so closely related, exploring and bringing awareness to different
     aspects of our identity can provide an important foundation for self-discovery,
-    self awareness and personal growth. \n\nExploring our identity can make us aware
-    of past experiences that can bring up uncomfortable feelings and memories. While
-    practicing these exercises, it’s important to remember that your identity is never
-    fixed and that giving ourselves space and time to process and feel our reactions
-    to parts of our identity is part of the healing process. "
+    self awareness and personal growth. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -281,16 +274,12 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
-  Title: How does identity relate to how we live?
+  Title: How does identity relate to mental health?
   Image: 
-  Description: "Everyday we have an experience of who we are. Sometimes this is a
+  Description: 'Everyday we have an experience of who we are. Sometimes this is a
     positive experience that affirms a clear and motivated sense of ourselves in the
     world, while at other times we can experience ourselves as struggling, unable
-    to cope and helpless to our challenges. \n\nOur mental health is reflected in
-    our self image and so by developing the ability to reflect on ourselves we can
-    develop more emotional and mental flexibility over how we experience our self
-    image. This skill can be developed throughout life and is crucial for our mental
-    health, relationships and general enjoyment of life. "
+    to cope and helpless to our challenges. '
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -340,13 +329,14 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
+- Template: six
   Title: Your name
   Image: 
-  Description: |-
-    Our name is a personal and special aspect of our identity. It is a part of our identity that we are very familiar with, yet we do not always pause to consider the meaning our name has for us. The act of bringing conscious awareness to an aspect of ourselves allows us to connect more deeply with our sense of who we are and the meaning this part of us has in our lives.  We will begin this module by using a reflection on your name to help you understand how self-awareness can be developed and bring us a more conscious understanding of ourselves. 
-
-    By bringing awareness to our name, we can begin to access the unconscious feelings, associations and memories that are connected with this part of our identity.
+  Description: "Our name is a personal and special aspect of our identity. It is a
+    part of our identity that we are very familiar with, yet we do not always pause
+    to consider the meaning our name has for us. \n\nThe act of bringing conscious
+    awareness to an aspect of ourselves allows us to connect more deeply with our
+    sense of who we are and the meaning this part of us has in our lives. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -375,7 +365,7 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: Identity, authenticity and mental health
-  Image: 
+  Image: "/uploads/Jung.jpg"
   Description: "Carl Jung was a Swiss Psychologist who explored the personality and
     human nature. He was responsible for introducing concepts such as introversion
     and extroversion and the collective unconcious. \nJung believed that ‘individuation’
