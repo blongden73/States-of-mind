@@ -218,10 +218,10 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: one
+- Template: ten
   Title: Who are you?
-  Image: "/uploads/identity%205.jpeg"
-  Description: 
+  Image: 
+  Description: What is it about a person that defines who they are? 
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -231,10 +231,10 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: ten
+- Template: one
   Title: Who are you?
-  Image: 
-  Description: What is it about a person that defines who they are? 
+  Image: "/uploads/identity%205.jpeg"
+  Description: 
   Graphic Image: 
   Audio url: 
   Video Url: 
