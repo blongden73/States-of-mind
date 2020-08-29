@@ -18,7 +18,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: nineteen
-  Title: Ella (18) . Young person from the States of Mind team
+  Title: Ella  (18)  - Young person from the States of Mind team
   Image: 
   Description: 
   Graphic Image: 
