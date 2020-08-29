@@ -219,12 +219,13 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: six
-  Title: How does identity relate to mental health?
+  Title: Identity
   Image: 
-  Description: 'Everyday we have an experience of who we are. Sometimes this is a
-    positive experience that affirms a clear and motivated sense of ourselves in the
-    world, while at other times we can experience ourselves as struggling, unable
-    to cope and helpless to our challenges. '
+  Description: "Our identity isn’t fixed but develops over time based on our life
+    experiences. Our identity is a subjective and personal experience of how we chose
+    to view ourselves. \n\nAs our life history and identity are so closely related,
+    exploring and bringing awareness to different aspects of our identity can provide
+    an important foundation for self-discovery, self awareness and personal growth. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -235,13 +236,12 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: six
-  Title: Identity
+  Title: How does identity relate to mental health?
   Image: 
-  Description: "Our identity isn’t fixed but develops over time based on our life
-    experiences. Our identity is a subjective and personal experience of how we chose
-    to view ourselves. \n\nAs our life history and identity are so closely related,
-    exploring and bringing awareness to different aspects of our identity can provide
-    an important foundation for self-discovery, self awareness and personal growth. "
+  Description: 'Everyday we have an experience of different parts of our identity.
+    These parts of ourselves either reinforce a positive self image or cause us to
+    view ourselves more critically. What part of ourselves we chose to identify with
+    will influence our mood and behaviour. '
   Graphic Image: 
   Audio url: 
   Video Url: 
