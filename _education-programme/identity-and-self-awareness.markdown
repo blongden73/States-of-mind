@@ -61,10 +61,10 @@ Slides:
   Title: 'So what is self awareness? '
   Image: 
   Description: "Self awareness is our ability to notice our thoughts, feelings and
-    behaviour, as if we are an observer.\n\nIt also allows us to understand ourselves
-    and the impact we have on others. \n\nThrough practicing self awareness, we can
-    make new choices about how we respond and react to life's challenges and can redefine
-    our sense of self. "
+    behaviour, as if we are an observer.\n\nIt also allows us to step back and understand
+    ourselves and the impact we have on others. \n\nBy developing our levels of self
+    awareness, we can access a sense of choice around how we respond to life's challenges.
+    Over time, we can experience a deep connection with our most authentic self. "
   Graphic Image: 
   Audio url: 
   Video Url: 
