@@ -306,6 +306,19 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: one
+  Title: 'Life events and Personal History '
+  Image: "/uploads/personal%20history.jpg"
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: sixteen
   Title: Identity, authenticity and mental health
   Image: "/uploads/Jung.jpg"
@@ -342,19 +355,6 @@ Slides:
   Quote Credit: 'Carl Jung 
 
 '
-  Slide Colour: 
-- Template: one
-  Title: 'Life events and Personal History '
-  Image: "/uploads/personal%20history.jpg"
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
   Slide Colour: 
 - Template: sixteen
   Title: 'The younger you and the authentic self '
