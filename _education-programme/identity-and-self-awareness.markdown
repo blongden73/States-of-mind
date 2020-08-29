@@ -460,8 +460,8 @@ Slides:
   Title: 'Personality '
   Image: "/uploads/mask.jpg"
   Description: "Personality comes from the greek word ‘persona’ which means mask.
-    \n\nOur personality refers to the different ways we behave in the world and the
-    many different ways we relate with other people. Together with our personality
+    \n\nOur personality refers to the different ways we express ourselves in the world
+    and the many different ways we relate with other people. Together with our personality
     we all have an unchanging part of who we are that psychologists call the 'Self'.
     This is the part of us that does not change over time or adapt to different circumstances,
     but is our essential nature. \n\nOur Self is the part of us that is spontaneous
