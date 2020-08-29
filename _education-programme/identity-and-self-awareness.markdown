@@ -79,7 +79,7 @@ Slides:
 - Template: four
   Title: 
   Image: 
-  Description: |-
+  Description: |
     Psychology provides us with different models to understand and develop self awareness. This module uses 3 models:
 
     Johari Window
@@ -87,10 +87,6 @@ Slides:
     Inner child
 
     Subpersonalities
-
-    If you are interested, you can explore these models too:
-
-    Maslow’s hierarchy of needs, Freud and the psychodynamic model of the personality, Jung and the Five Factor model of the Personality.
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -103,11 +99,14 @@ Slides:
 - Template: five
   Title: 
   Image: 
-  Description: "Psychology provides us with different models to understand and develop
-    self awareness. This module uses 3 models:  \n\nJohari Window  \n\nInner child
-    \n\nSubpersonalities\n\nIf you are interested, you can explore these models too:
-    \n\nMaslow’s hierarchy of needs, Freud and the psychodynamic model of the personality,
-    Jung and the Five Factor model of the Personality. "
+  Description: |-
+    ### If you are interested, you can explore these models too:
+
+    ## Maslow’s hierarchy of needs
+
+    ## Freud and the psychodynamic model of the personality
+
+    ## Jung and the Five Factor model of the Personality.
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -167,7 +166,7 @@ Slides:
   - Link Url: 
   Quote: 
   Quote Credit: 
-  Slide Colour: 
+  Slide Colour: "#92e1da"
 - Template: sixteen
   Title: Self Awareness has been proven as a tool that can help us to flourish.
   Image: 
@@ -277,7 +276,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
+- Template: six
   Title: How does identity relate to mental health?
   Image: 
   Description: 'Everyday we have an experience of who we are. Sometimes this is a
