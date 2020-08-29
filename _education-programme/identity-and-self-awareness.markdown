@@ -629,16 +629,20 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: five
-  Title: 'Integrating sub personalities '
+- Template: sixteen
+  Title: 'Stages of Integration '
   Image: 
-  Description: |-
-    Stages of Integration
-    * Recognition
-    * Acceptance
-    * Coordination
-    * Integration
-    * Synthesis
+  Description: |2-
+
+    ### Recognition
+
+    Acceptance
+
+    Coordination
+
+    Integration
+
+    Synthesis
   Graphic Image: 
   Audio url: 
   Video Url: 
