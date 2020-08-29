@@ -6,7 +6,7 @@ position: 0
 Slides:
 - Template: one
   Title: 'Part 1: Self Awareness'
-  Image: "/uploads/self%20awareness.jpeg"
+  Image: "/uploads/self%20awareness%202%20(1).jpeg"
   Description: 
   Graphic Image: 
   Audio url: 
