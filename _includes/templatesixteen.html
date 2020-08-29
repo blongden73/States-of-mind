@@ -11,7 +11,7 @@
 {% assign quoteCred = slide.['Quote Credit'] %}
 {% assign links = slide.Links %}
 -->
-<div class="slide-content">
+<div class="slide-content {%unless image %} centred {% endunless %}">
   <h2 class="slide-title">{{title}}</h2>
   <div class="slide-description">{{description | markdownify}}</div>
 </div>
