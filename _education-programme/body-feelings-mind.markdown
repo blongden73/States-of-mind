@@ -153,14 +153,13 @@ Slides:
 - Template: sixteen
   Title: Vagus Nerve
   Image: "/uploads/vagus%20nerve-49f2ca.jpg"
-  Description: "\nThe vagus nerve sends messages between our internal body parts and
-    our brain, sending messages back and forth that affect the functioning of our
-    physical body and mental states.\n\nThe vagus nerve is the part of our body that
-    is responsible for a large part of the mind-body connection. \n\nWhen the vagus
-    nerve is not activated enough, our brain can become overstimulated, causing mental
-    tension, anxiety and rumination. \n\nWe notice the effect of the vagus nerve when
-    we do things that relieve physical tension and our minds become more relaxed and
-    focused. "
+  Description: "The vagus nerve is the part of our body that is responsible for a
+    large part of the mind-body connection. \n\nThe vagus nerve sends messages between
+    our internal body parts and our brain, sending messages back and forth that affect
+    the functioning of our physical body and mental states.\n\nWhen the vagus nerve
+    is not activated enough, our brain can become overstimulated, causing mental tension,
+    anxiety and rumination. \n\nWe notice the effect of the vagus nerve when we do
+    things that relieve physical tension and our minds become more relaxed and focused. "
   Graphic Image: 
   Audio url: 
   Video Url: 
