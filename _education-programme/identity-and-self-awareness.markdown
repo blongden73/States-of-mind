@@ -91,17 +91,15 @@ Slides:
 - Template: six
   Title: 
   Image: 
-  Description: "# Self awareness enables us to \ntake responsibility for our problems.
-    \n\nBy developing this self-knowledge we can understand ourselves and personal
-    experience more fully. This allows us to determine where our problems are coming
-    from so that we can begin to resolve them. \n\n# Self awareness improves \nour
-    relationship with ourselves and others. \n\nBy being more aware of how we are
-    acting towards ourselves and in our relationships, we can improve the quality
-    of these relationships, which are key to experiencing a fulfilling life.  \n\n#
-    Self awareness improves our \nconfidence and self esteem. \n\nPeople with self
-    awareness have more clarity about who they are, what they believe in and what
-    their personal goals are. Without this clarity, it can be easy to lack self assurance
-    and struggle with low self esteem."
+  Description: "# Self awareness enables us to:\n\n# Take responsibility for our problems.\n\nBy
+    developing self-knowledge we can understand ourselves more fully. This helps us
+    to determine where our problems are coming from so that we can begin to resolve
+    them. \n\n# Improve our relationships \n\nBy being more aware of how we are acting
+    towards ourselves and in our relationships, we can improve the quality of these
+    relationships, which are key to experiencing a fulfilling life.  \n\n# Improve
+    our confidence \n\nPeople with self awareness have more clarity about who they
+    are, what they believe in and what their personal goals are. Without this clarity,
+    it can be easy to lack self assurance and struggle with our self esteem."
   Graphic Image: 
   Audio url: 
   Video Url: 
