@@ -117,13 +117,9 @@ Slides:
   Image: 
   Description: "\nThe **insight** that self awareness provides allows us to feel more
     satisfied with our lives by helping us to become aware of our emotions and behaviour.
-    \n\nWhen cultivated fully, we no longer repress or hide our emotions or experiences
-    and instead see them as ways to **learn and grow**.  \n\nThis process of bringing
-    conscious awareness to how we are living is the first step to having confidence
-    that we can change our lives to be more positive and fulfilling. \n\nWithout this
-    insight and this **belief in change**, it is very difficult to know we that we
-    can change our experience and we can become stuck feeling as if we have no control
-    over how things are. \n\n"
+    \n\nWhen cultivated fully, we no longer repress or hide our emotions or react
+    unconsciously to our experiences but instead see our true feelings as a window
+    to our true self. \n"
   Graphic Image: 
   Audio url: 
   Video Url: 
