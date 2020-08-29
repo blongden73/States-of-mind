@@ -131,7 +131,7 @@ Slides:
   Title: 
   Image: 
   Description: |
-    Psychology provides us with different models to understand and develop self awareness. This module uses 3 models:
+    Psychology provides us with different models to understand and develop self awareness. This module will introduce you to 3 of those models:
 
     Johari Window
 
