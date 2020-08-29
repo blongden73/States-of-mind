@@ -536,6 +536,19 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: one
+  Title: Exploring sub personalities
+  Image: "/uploads/sub%20personalities.jpg"
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: sixteen
   Title: "Example: The Expert \n\n"
   Image: "/uploads/expert.jpg"
@@ -547,19 +560,6 @@ Slides:
     to be seen and valued, to be heard, to feel worthy and enough as they are.\n  \n**Qualities
     of self that are hidden** \nPlayfulness and spontaneity, willingness to learn
     from others, curiosity, the part of us that wants to grow, acceptance of self. "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: one
-  Title: Exploring sub personalities
-  Image: "/uploads/sub%20personalities.jpg"
-  Description: 
   Graphic Image: 
   Audio url: 
   Video Url: 
