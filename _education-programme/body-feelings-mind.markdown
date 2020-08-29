@@ -386,7 +386,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
-  Title: Emotional Awareeness
+  Title: Emotional Awareness
   Image: "/uploads/emotions%202.jpg"
   Description: "Emotional awareness is the ability to observe, name and express what
     we are feeling. \n\nEmotional communication depends on this awareness and enables
@@ -631,12 +631,14 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
-  Title: 'Imagination and problem solving '
-  Image: "/uploads/imagine.jpg"
-  Description: |-
-    Whenever somebody comes up with an idea, they have an image of the idea that comes along with the thought of it. This is the visual part of the mind that helps us to imagine future possibilities and helps us to access parts of our experience we have not yet seen. When we close our eyes and allow ourselves to imagine something, it helps us to visualise all of the outcomes of that reality happening. 
-
-    When we get stuck with a decision, it’s because we feel like we don’t know what the outcome will be, so by visualising the different situations, problems or people we are having the problem with, we can visualise other aspects that we can’t access when we are stuck in the thinking, judging mind that likes to get stuck on one belief or potential situation. 
+  Title: 'The creative mind and problem solving '
+  Image: 
+  Description: "We can use our mind to come up with ideas and to create insights that
+    can help us to make decisions more easily. How do we enable this part of the mind
+    to work? \n\nOften, this is the part of the mind that we are not encouraged to
+    use as much, so it can take a bit of practice to remind ourselves of what it feels
+    like to use this part of the mind.\n\nThis part of the mind is much softer and
+    it enjoys working in ways that are more imaginative, like storytelling. \n "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -647,14 +649,12 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
-  Title: 'The creative mind and problem solving '
-  Image: 
-  Description: "We can use our mind to come up with ideas and to create insights that
-    can help us to make decisions more easily. How do we enable this part of the mind
-    to work? \n\nOften, this is the part of the mind that we are not encouraged to
-    use as much, so it can take a bit of practice to remind ourselves of what it feels
-    like to use this part of the mind.\n\nThis part of the mind is much softer and
-    it enjoys working in ways that are more imaginative, like storytelling. \n "
+  Title: 'Imagination and problem solving '
+  Image: "/uploads/imagine.jpg"
+  Description: |-
+    Whenever somebody comes up with an idea, they have an image of the idea that comes along with the thought of it. This is the visual part of the mind that helps us to imagine future possibilities and helps us to access parts of our experience we have not yet seen. When we close our eyes and allow ourselves to imagine something, it helps us to visualise all of the outcomes of that reality happening. 
+
+    When we get stuck with a decision, it’s because we feel like we don’t know what the outcome will be, so by visualising the different situations, problems or people we are having the problem with, we can visualise other aspects that we can’t access when we are stuck in the thinking, judging mind that likes to get stuck on one belief or potential situation. 
   Graphic Image: 
   Audio url: 
   Video Url: 
