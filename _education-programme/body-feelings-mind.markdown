@@ -134,7 +134,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: five
-  Title: 'Body Scan '
+  Title: 'Practicing Interoception : The Body Scan '
   Image: 
   Description: "The purpose of the body scan is to notice how we may be holding tension
     and stress unconsciously in our body. By doing a body scan, we use our awareness
