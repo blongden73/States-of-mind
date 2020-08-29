@@ -256,7 +256,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixt
+- Template: six
   Title: Identity
   Image: 
   Description: "Our definition of identity isn’t fixed. It is as a subjective and
