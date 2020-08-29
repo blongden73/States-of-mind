@@ -320,7 +320,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
-  Title: Identity, authenticity and mental health
+  Title: Authenticity and mental health
   Image: "/uploads/Jung.jpg"
   Description: "Carl Jung was a Swiss Psychologist who explored the personality and
     human nature. \n\nJung believed that ‘individuation’ was the main purpose of human
@@ -356,8 +356,23 @@ Slides:
 
 '
   Slide Colour: 
+- Template: nineteen
+  Title: 
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: <iframe width="560" height="315" src="https://www.youtube.com/embed/TucyzpHDNlE"
+    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen></iframe>
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: sixteen
-  Title: 'The younger you and the authentic self '
+  Title: 'What is our authentic self ? '
   Image: 
   Description: "Under the many layers of our identity and our personality is our true
     self, this part of us never changes but exists throughout our life as our innermost
@@ -441,41 +456,6 @@ Slides:
   Quote Credit: 
   Slide Colour: 
   Image: "/uploads/personality%20.jpg"
-- Template: nineteen
-  Title: 
-  Image: 
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: <iframe width="560" height="315" src="https://www.youtube.com/embed/TucyzpHDNlE"
-    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen></iframe>
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: five
-  Title: 'The Personal Self : I '
-  Image: 
-  Description: "The Self is our ‘core self ’ , which never changes throughout our
-    lives, it is a state of consciousness and witnessing of experiencing. \n\nThe
-    ‘I’ is the part of us that identifies with the aspects of our experience such
-    as our thoughts, emotions, behaviour and many parts of ourselves. The I is what
-    we experience as your personal self and what we experience consciously as as who
-    we are.  \n\nThe ‘I’ identifies with our sub personalities, which is why we experience
-    them as so personal, as when we are connected with a sub personality we experience
-    it as our full self in the moment and believe that is all we are. "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
 - Template: sixteen
   Title: 'Personality '
   Image: "/uploads/mask.jpg"
@@ -556,35 +536,6 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: one
-  Title: Exploring sub personalities
-  Image: "/uploads/sub%20personalities.jpg"
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: sixteen
-  Title: How are sub-personalities related to mental health? 
-  Image: 
-  Description: |-
-    Subpersonalities cause us difficulties when we identify with this one part of ourselves and believe it to be all of us. For example, if we are identified with the ‘ High achiever’ part of ourselves, it may help us to get good grades and maintain a motivation for developing our knowledge and experience. However, if we become over identified with this part of ourselves we may become very distressed by setbacks, we may spend less time with our friends or we may never be satisfied with what we have achieved. 
-
-    Our sub personalities all emerge from an unmet need. By exploring these parts of ourselves, we can develop our self awareness and integrate the many different parts of ourselves. You can imagine your sub-personalities as an orchestra and your awareness as the conductor. By bringing awareness to your different sub personalities you can integrate them and enable them to work together as a harmonious whole.
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
 - Template: sixteen
   Title: "Example: The Expert \n\n"
   Image: "/uploads/expert.jpg"
@@ -606,11 +557,40 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: one
+  Title: Exploring sub personalities
+  Image: "/uploads/sub%20personalities.jpg"
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: five
   Title: 'Some other sub-personalities to explore '
   Image: 
   Description: "* The clown\n* The critic\n* The people pleaser\n* The caretaker\n*
     The rebel\n* The acheiver\n* The child "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: How are sub-personalities related to mental health? 
+  Image: 
+  Description: |-
+    Subpersonalities cause us difficulties when we identify with this one part of ourselves and believe it to be all of us. For example, if we are identified with the ‘ High achiever’ part of ourselves, it may help us to get good grades and maintain a motivation for developing our knowledge and experience. However, if we become over identified with this part of ourselves we may become very distressed by setbacks, we may spend less time with our friends or we may never be satisfied with what we have achieved. 
+
+    Our sub personalities all emerge from an unmet need. By exploring these parts of ourselves, we can develop our self awareness and integrate the many different parts of ourselves. You can imagine your sub-personalities as an orchestra and your awareness as the conductor. By bringing awareness to your different sub personalities you can integrate them and enable them to work together as a harmonious whole.
   Graphic Image: 
   Audio url: 
   Video Url: 
