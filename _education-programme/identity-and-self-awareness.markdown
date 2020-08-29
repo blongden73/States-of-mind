@@ -63,7 +63,7 @@ Slides:
   Image: 
   Description: "Self awareness is our ability to notice our thoughts, feelings and
     behaviour, as if we are an observer.\n\nIt allows us to understand ourselves and
-    the impact we have on others and is a tool that provides us with the power of
+    the impact we have on others. It is a tool that provides us with the power of
     choice, to redefine our narrative of how we experience ourselves. \n\nThrough
     practicing self awareness, we can make new choices about how we live our lives
     and enhance our sense of wellbeing. "
