@@ -20,9 +20,9 @@ Slides:
 - Template: sixteen
   Title: 'Common misconceptions about self awareness '
   Image: 
-  Description: "“Self awareness is self absorbed” \n\n“Spending time thinking about
-    yourself is narcissistic’  \n\n“Self awareness is impossible to maintain” \n\n“You
-    either have self awareness or you don’t” "
+  Description: "“ Self awareness is narcissistic ” \n\n“ It's when you are really
+    self absorbed \"  \n\n“ Self awareness is impossible to maintain ” \n\n“ You either
+    have self awareness or you don’t ” "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -36,10 +36,9 @@ Slides:
   Title: What does self awareness mean to you?
   Image: 
   Description: 
+  Video Url: 
   Graphic Image: 
   Audio url: 
-  Video Url: <iframesrc="https://player.vimeo.com/video/452858109" width="640" height="360"
-    frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
   Credit: 
   Links:
   - Link Url: 
