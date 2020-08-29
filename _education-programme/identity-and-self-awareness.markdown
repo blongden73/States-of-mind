@@ -251,23 +251,6 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: fourteen
-  Title: 
-  Image: 
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: |-
-    “There is in the psyche a process that seeks its own goal no matter what the external factors may be….the almost irresistible compulsion and urge to become what one is.” 
-     
-  Quote Credit: 'Carl Jung 
-
-'
-  Slide Colour: 
 - Template: sixteen
   Title: Identity, authenticity and mental health
   Image: "/uploads/Jung.jpg"
@@ -290,6 +273,23 @@ Slides:
   - Link Url: 
   Quote: 
   Quote Credit: 
+  Slide Colour: 
+- Template: fourteen
+  Title: 
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: |-
+    “There is in the psyche a process that seeks its own goal no matter what the external factors may be….the almost irresistible compulsion and urge to become what one is.” 
+     
+  Quote Credit: 'Carl Jung 
+
+'
   Slide Colour: 
 - Template: nineteen
   Title: 
