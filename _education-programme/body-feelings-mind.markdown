@@ -352,41 +352,10 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: one
-  Title: Connecting our body, feelings and mind
-  Image: "/uploads/mpe.jpg"
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
 - Template: five
   Title: Creativity and emotional expression
   Image: 
   Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: sixteen
-  Title: 
-  Image: "/uploads/drawing.jpg"
-  Description: "Drawing is a powerful tool for getting in touch with our emotional
-    world. \n\nOften if our lives are busy and we are very caught in our thoughts,
-    it can be difficult to step back and observe how our feelings and emotions are.
-    \n\nIf our feelings get trapped or ignored it can contribute to a lot of tension
-    and discomfort. \n\nThis activity allows you to gently connect with your feelings
-    in a therapeutic way, using a simple drawing exercise. \n\n"
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -420,27 +389,6 @@ Slides:
     emotions and to tolerate uncomfortable emotions that we often avoid. If we are
     able to regulate our emotions we can build our resilience and cope with challenging
     situations more effectively. 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: sixteen
-  Title: Letter writing and emotional expression
-  Image: 
-  Description: "We often rely on relationships with other people to help us regulate
-    our emotions but in the absence of these supportive environments it is important
-    that we find healthy ways to cope with difficult emotions on our own.\n\nLetter
-    writing, or journaling has been found to be a really effective way to identify
-    and process our emotional world. \n\nThis letter writing exercise is focused on
-    expressing our emotions towards other people but we can also journal about our
-    own thoughts and feelings to help us make sense of them. \n\nThe process works
-    in a similar way to communicating with words, as we are externalising our distress
-    which allows us to view it in a new way."
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -698,6 +646,58 @@ Slides:
   Title: 'Mindsets '
   Image: 
   Description: graphic
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: one
+  Title: Connecting our body, feelings and mind
+  Image: "/uploads/mpe.jpg"
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: 
+  Image: "/uploads/drawing.jpg"
+  Description: "Drawing is a powerful tool for getting in touch with our emotional
+    world. \n\nOften if our lives are busy and we are very caught in our thoughts,
+    it can be difficult to step back and observe how our feelings and emotions are.
+    \n\nIf our feelings get trapped or ignored it can contribute to a lot of tension
+    and discomfort. \n\nThis activity allows you to gently connect with your feelings
+    in a therapeutic way, using a simple drawing exercise. \n\n"
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: Letter writing and emotional expression
+  Image: 
+  Description: "We often rely on relationships with other people to help us regulate
+    our emotions but in the absence of these supportive environments it is important
+    that we find healthy ways to cope with difficult emotions on our own.\n\nLetter
+    writing, or journaling has been found to be a really effective way to identify
+    and process our emotional world. \n\nThis letter writing exercise is focused on
+    expressing our emotions towards other people but we can also journal about our
+    own thoughts and feelings to help us make sense of them. \n\nThe process works
+    in a similar way to communicating with words, as we are externalising our distress
+    which allows us to view it in a new way."
   Graphic Image: 
   Audio url: 
   Video Url: 
