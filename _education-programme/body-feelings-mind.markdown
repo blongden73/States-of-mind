@@ -73,7 +73,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: one
-  Title: Body, Feelings, Mind
+  Title: Body, Feelings, Mind Meditation
   Image: "/uploads/body%20scan-cc3639.jpeg"
   Description: Meditation
   Graphic Image: 
