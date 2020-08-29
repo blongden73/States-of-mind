@@ -17,21 +17,6 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
-  Title: 'Common misconceptions about self awareness '
-  Image: 
-  Description: "“ Self awareness is narcissistic ” \n\n“ It's when you are really
-    self absorbed \"  \n\n“ Self awareness is impossible to maintain ” \n\n“ You either
-    have self awareness or you don’t ” "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
 - Template: nineteen
   Title: 'Ella (18) . Youth volunteer at States of Mind '
   Image: 
@@ -48,6 +33,21 @@ Slides:
   Title: 
   Image: 
   Description: 'What does self awareness mean to you? '
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: 'Common misconceptions about self awareness '
+  Image: 
+  Description: "“ Self awareness is narcissistic ” \n\n“ It's when you are really
+    self absorbed \"  \n\n“ Self awareness is impossible to maintain ” \n\n“ You either
+    have self awareness or you don’t ” "
   Graphic Image: 
   Audio url: 
   Video Url: 
