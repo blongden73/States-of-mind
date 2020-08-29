@@ -362,7 +362,7 @@ Slides:
   Description: 
   Graphic Image: 
   Audio url: 
-  Video Url: <iframe width="560" height="315" src="https://www.youtube.com/embed/TucyzpHDNlE"
+  Video Url: <iframe width="560" height="315" src="https://www.youtube.com/embed/TucyzpHDNlE?start=14"
     frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen></iframe>
   Credit: 
@@ -459,11 +459,11 @@ Slides:
 - Template: sixteen
   Title: 'Personality '
   Image: "/uploads/mask.jpg"
-  Description: "Personality comes from the greek word, ‘persona’ which means mask.
-    Our personality refers to the different ways we behave in the world and the many
-    different ways we relate with other people. Together with our personality we all
-    have an unchanging part of who we are that psychologists call the 'Self'. This
-    is the part of us that does not change over time or adapt to different circumstances,
+  Description: "Personality comes from the greek word ‘persona’ which means mask.
+    \n\nOur personality refers to the different ways we behave in the world and the
+    many different ways we relate with other people. Together with our personality
+    we all have an unchanging part of who we are that psychologists call the 'Self'.
+    This is the part of us that does not change over time or adapt to different circumstances,
     but is our essential nature. \n\nOur Self is the part of us that is spontaneous
     and loving, that seeks to be known and is the experience of who we most fundamentally
     are.\n"
@@ -482,9 +482,9 @@ Slides:
   Description: "Subpersonalities are habits or patterns of behaviour that we have
     followed since childhood\n\nWhen people fail to respond empathetically to our
     true personality, we learn to hide our authentic nature and adapt to how our parents
-    or our environment need us to be. A psychotherapist called Winnicott also called
-    this process of adapting, the development of the False Self. It has also been
-    referred to as the Survival Personality or 'Character Armour'. \n "
+    or our environment need us to be. \n\nA psychotherapist called Winnicott also
+    called this process of adapting, the development of the False Self. It has also
+    been referred to as the Survival Personality or 'Character Armour'. \n "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -499,9 +499,13 @@ Slides:
   Image: 
   Description: |
     1. We learn to connect with our different and contradictory ways of acting in the world. This raises our awareness of our behaviour and helps us to make sense of how we can seem to be different versions of ourselves in different circumstances.
+
      2. We learn to free ourselves of the unconscious forces that cause us to get trapped in certain aspects of our personality. For example, a very critical part of ourselves.
+
     3. We integrate the different aspects of our personality which causes us to feel less conflict within ourselves.
+
     4.We emphasise all of the beneficial qualities of our sub-personalities and recognise how they serve us.
+
     5. By identifying with our different sub-peronalities, it allows us to develop a greater awareness of what is our true self and what is a mask or persona.    Graphic Image: 
   Audio url: 
   Video Url: 
@@ -589,7 +593,7 @@ Slides:
   Description: |-
     Subpersonalities cause us difficulties when we identify with this one part of ourselves and believe it to be all of us. For example, if we are identified with the ‘ High achiever’ part of ourselves, it may help us to get good grades and maintain a motivation for developing our knowledge and experience. However, if we become over identified with this part of ourselves we may become very distressed by setbacks, we may spend less time with our friends or we may never be satisfied with what we have achieved. 
 
-    Our sub personalities all emerge from an unmet need. By exploring these parts of ourselves, we can develop our self awareness and integrate the many different parts of ourselves. You can imagine your sub-personalities as an orchestra and your awareness as the conductor. By bringing awareness to your different sub personalities you can integrate them and enable them to work together as a harmonious whole.
+    Our sub personalities all emerge from an unmet need. By exploring these parts of ourselves, we can develop our self awareness and integrate the many different parts of ourselves. You can imagine your sub-personalities as an orchestra and your awareness as the conductor. By bringing awareness to your different sub personalities you can integrate them and enable the different parts of your personality to work together as a harmonious whole.
   Graphic Image: 
   Audio url: 
   Video Url: 
