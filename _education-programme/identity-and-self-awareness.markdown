@@ -76,6 +76,64 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: "#b1ebec"
+- Template: five
+  Title: What are the benefits of developing Self Awareness?
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: "#92e1da"
+- Template: six
+  Title: 
+  Image: 
+  Description: "# Self awareness enables us to \ntake responsibility for our problems.
+    \n\nBy developing this self-knowledge we can understand ourselves and personal
+    experience more fully. This allows us to determine where our problems are coming
+    from so that we can begin to resolve them. \n\n# Self awareness improves \nour
+    relationship with ourselves and others. \n\nBy being more aware of how we are
+    acting towards ourselves and in our relationships, we can improve the quality
+    of these relationships, which are key to experiencing a fulfilling life.  \n\n#
+    Self awareness improves our \nconfidence and self esteem. \n\nPeople with self
+    awareness have more clarity about who they are, what they believe in and what
+    their personal goals are. Without this clarity, it can be easy to lack self assurance
+    and struggle with low self esteem."
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: Self Awareness has been proven as a tool that can help us to flourish.
+  Image: 
+  Description: "\nThe **insight** that self awareness provides allows us to feel more
+    satisfied with our lives by helping us to become aware of our emotions and behaviour.
+    \n\nWhen cultivated fully, we no longer repress or hide our emotions or experiences
+    and instead see them as ways to **learn and grow**.  \n\nThis process of bringing
+    conscious awareness to how we are living is the first step to having confidence
+    that we can change our lives to be more positive and fulfilling. \n\nWithout this
+    insight and this **belief in change**, it is very difficult to know we that we
+    can change our experience and we can become stuck feeling as if we have no control
+    over how things are. \n\n"
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: Harrington, Rick,Loffredo, Donald 2010/11/30, Insight, Rumination, and Self-Reflection
+    as Predictors of Well-Being, The Journal of psychology
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: four
   Title: 
   Image: 
@@ -100,13 +158,13 @@ Slides:
   Title: 
   Image: 
   Description: |-
-    ## If you are interested, you can explore these models too:
+    ### If you are interested, you can explore these models too:
 
-    ## Maslow’s hierarchy of needs
+    ### Maslow’s hierarchy of needs
 
-    ## Freud and the psychodynamic model of the personality
+    ### Freud and the psychodynamic model of the personality
 
-    ## Jung and the Five Factor model of the Personality.
+    ### Jung and the Five Factor model of the Personality.
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -145,64 +203,6 @@ Slides:
   Image: 
   Description: 'And take time to reflect on your personal experience in the insight
     handbook. '
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: five
-  Title: What are the benefits of developing Self Awareness?
-  Image: 
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: "#92e1da"
-- Template: sixteen
-  Title: Self Awareness has been proven as a tool that can help us to flourish.
-  Image: 
-  Description: "\nThe **insight** that self awareness provides allows us to feel more
-    satisfied with our lives by helping us to become aware of our emotions and behaviour.
-    \n\nWhen cultivated fully, we no longer repress or hide our emotions or experiences
-    and instead see them as ways to **learn and grow**.  \n\nThis process of bringing
-    conscious awareness to how we are living is the first step to having confidence
-    that we can change our lives to be more positive and fulfilling. \n\nWithout this
-    insight and this **belief in change**, it is very difficult to know we that we
-    can change our experience and we can become stuck feeling as if we have no control
-    over how things are. \n\n"
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: Harrington, Rick,Loffredo, Donald 2010/11/30, Insight, Rumination, and Self-Reflection
-    as Predictors of Well-Being, The Journal of psychology
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: six
-  Title: 
-  Image: 
-  Description: "# Self awareness enables us to \ntake responsibility for our problems.
-    \n\nBy developing this self-knowledge we can understand ourselves and personal
-    experience more fully. This allows us to determine where our problems are coming
-    from so that we can begin to resolve them. \n\n# Self awareness improves \nour
-    relationship with ourselves and others. \n\nBy being more aware of how we are
-    acting towards ourselves and in our relationships, we can improve the quality
-    of these relationships, which are key to experiencing a fulfilling life.  \n\n#
-    Self awareness improves our \nconfidence and self esteem. \n\nPeople with self
-    awareness have more clarity about who they are, what they believe in and what
-    their personal goals are. Without this clarity, it can be easy to lack self assurance
-    and struggle with low self esteem."
   Graphic Image: 
   Audio url: 
   Video Url: 
