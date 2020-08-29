@@ -664,9 +664,9 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
-  Title: 
-  Image: 
+- Template: one
+  Title: 'Part 4: Society and Identity '
+  Image: "/uploads/identity%205.jpg"
   Description: 
   Graphic Image: 
   Audio url: 
@@ -674,18 +674,18 @@ Slides:
   Credit: 
   Links:
   - Link Url: 
-  Quote: "“Belonging: Belonging is the innate human desire to be part of something
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: 
+  Image: 
+  Description: "“Belonging: Belonging is the innate human desire to be part of something
     larger than us. Because this yearning is so primal, we often try to acquire it
     by fitting in and by seeking approval, which are not only hollow substitutes for
     belonging, but often barriers to it. Because true belonging only happens when
     we present our authentic, imperfect selves to the world, our sense of belonging
-    can never be greater than our level of self-acceptance.”\n"
-  Quote Credit: Brene Brown
-  Slide Colour: 
-- Template: one
-  Title: 'Part 4: Society and Identity '
-  Image: "/uploads/identity%205.jpg"
-  Description: 
+    can never be greater than our level of self-acceptance.” \n\n**Brene Brown**\n"
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -717,10 +717,10 @@ Slides:
   - Link Url: 
   Quote: 
   Quote Credit: 
-  Slide Colour: 
+  Slide Colour: "#b9e0fc"
 - Template: four
   Title: 'Exploring our relationship with groups '
-  Image: 
+  Image: "/uploads/groupss.jpg"
   Description: 
   Graphic Image: 
   Audio url: 
