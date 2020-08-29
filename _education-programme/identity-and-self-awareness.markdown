@@ -32,19 +32,17 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: five
-  Title: 
+- Template: nineteen
+  Title: What does self awareness mean to you?
   Image: 
   Description: 
   Graphic Image: 
   Audio url: 
   Video Url: <iframesrc="https://player.vimeo.com/video/452858109" width="640" height="360"
     frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-  Credit: VIDEO OF ELLA TALKING ABOUT SELF AWARENESS
+  Credit: 
   Links:
   - Link Url: 
-  Quote: 
-  Quote Credit: 
   Slide Colour: 
 - Template: ten
   Title: 
