@@ -59,7 +59,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: five
-  Title: 'What is self awareness? '
+  Title: 'So what is self awareness? '
   Image: 
   Description: "Self awareness is our ability to notice our thoughts, feelings and
     behaviour, as if we are an observer.\n\nIt allows us to understand ourselves and
