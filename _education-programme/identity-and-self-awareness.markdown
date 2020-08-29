@@ -306,22 +306,6 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: six
-  Title: How does identity relate to mental health?
-  Image: 
-  Description: "Everyday we have an experience of different parts of our identity.
-    \n\nThese parts of ourselves either reinforce a positive self image or cause us
-    to view ourselves more critically. \n\nThe part of ourselves we are most identified
-    with will influence our mood and behaviour. "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
 - Template: sixteen
   Title: Identity, authenticity and mental health
   Image: "/uploads/Jung.jpg"
