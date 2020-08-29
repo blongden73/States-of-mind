@@ -664,51 +664,6 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: one
-  Title: 'Part 4: Society and Identity '
-  Image: "/uploads/identity%205.jpg"
-  Description: "We live in a social world and many aspects of our personalities are
-    shaped by the social relationships and situations we encounter throughout our
-    lives. \nAs it is impossible for our close relationships to be fully present all
-    the time and for us to be completely present to others, we have adapted a way
-    to fit our environments by adapting our personality to defend ourselves or meet
-    your need for connection.  \nAn example of this is noticing when somebody seems
-    to have a different personality depending on what group they are in, or when we
-    notice we behave differently depending on who we are. This is a completely normal
-    process but understanding the process behind it can help us develop an awareness
-    of how parts of our identity are shaped by our desire to fit in and be accepted. "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: sixteen
-  Title: Group Identity  
-  Image: "/uploads/groups.jpg"
-  Description: "**Values, Beliefs and Behaviour**\n\nOne of the strongest factors
-    that influence and reflect our sense of identity are the groups that we are a
-    part of in our lives. From the moment we are born, we are a part of our family
-    group. As we grow and develop, we encounter new groups at school or in our local
-    community. Throughout our whole lives, out of choice or out of circumstance, we
-    will spend our times in groups that have an influence on us and which reflect
-    our values, beliefs and mindsets about who we are. Groups provide us with a sense
-    of belonging, which is one of our most important needs in terms of our mental
-    health and wellbeing. \n\nResearch has shown consistently that the quality of
-    our social world is one of the most significant indicators of our wellbeing and
-    ability to recover from difficult times in our lives.  "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
 - Template: sixteen
   Title: 
   Image: 
@@ -727,8 +682,80 @@ Slides:
     can never be greater than our level of self-acceptance.”\n"
   Quote Credit: Brene Brown
   Slide Colour: 
+- Template: one
+  Title: 'Part 4: Society and Identity '
+  Image: "/uploads/identity%205.jpg"
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: 'sixteen '
+  Title: 'Society and Identity '
+  Image: 
+  Description: "We live in a social world and many aspects of our personalities are
+    shaped by the social relationships and situations we encounter throughout our
+    lives. \n\nAs it is impossible for our close relationships to be fully present
+    all the time and for us to be completely present to others, we fit our environments
+    by adapting our personality to defend ourselves or meet our needs for connection.\n
+    \ \nAn example of this is noticing when somebody seems to have a different personality
+    depending on what group they are in, or when we notice we behave differently depending
+    on who we are with. \n\nThis is a completely normal process but understanding
+    the process behind it can help us develop an awareness of how parts of our identity
+    are shaped by our desire to fit in and be accepted in contrast to expressing our
+    authentic self. "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: four
   Title: 'Exploring our relationship with groups '
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: Group Identity  
+  Image: "/uploads/groups.jpg"
+  Description: "**Values, Beliefs and Behaviour**\n\nOne of the strongest factors
+    that influence and reflect our sense of identity are the groups that we are a
+    part of in our lives. \n\nFrom the moment we are born, we are a part of our family
+    group. As we grow and develop, we encounter new groups at school or in our local
+    community. \n\nThroughout our whole lives, out of choice or out of circumstance,
+    we will spend our times in groups that have an influence on us and which reflect
+    our values, beliefs and mindsets about who we are. \n\nGroups provide us with
+    a sense of belonging, which is one of our most important needs in terms of our
+    mental health and wellbeing. \n\nResearch has shown consistently that the quality
+    of our social world is one of the most significant indicators of our wellbeing
+    and ability to recover from difficult times in our lives.  "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: two
+  Title: Time to take a pause
   Image: 
   Description: 
   Graphic Image: 
