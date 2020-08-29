@@ -17,6 +17,21 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: sixteen
+  Title: 'Common misconceptions about self awareness '
+  Image: 
+  Description: "“Self awareness is self absorbed” \n\n“Spending time thinking about
+    yourself is narcissistic’  \n\n“Self awareness is impossible to maintain” \n\n“You
+    either have self awareness or you don’t” "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: five
   Title: 
   Image: 
@@ -34,21 +49,6 @@ Slides:
   Title: 
   Image: 
   Description: 'What does self awareness mean to you? '
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: sixteen
-  Title: 'Common misconceptions about self awareness '
-  Image: 
-  Description: "“Self awareness is self absorbed” \n\n“Spending time thinking about
-    yourself is narcissistic’  \n\n“Self awareness is impossible to maintain” \n\n“You
-    either have self awareness or you don’t” "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -225,23 +225,6 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: six
-  Title: Identity
-  Image: 
-  Description: "Our identity isn’t fixed. It is a subjective and personal experience
-    of how we chose to view ourselves. \n\nAs our life history and identity are so
-    closely related, exploring and bringing awareness to different aspects of our
-    identity can provide an important foundation for self-discovery, self awareness
-    and personal growth. "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
 - Template: nineteen
   Title: 
   Image: 
@@ -264,9 +247,35 @@ Slides:
     but in reality, we are composed of **many different aspects and parts**, that
     all serve an important role in our lives. \n\nSelf awareness allows us to recognise
     that our identity is not fixed but is an ever-changing reflection of our experiences,
-    values and relationships.  \n \nWe can then develop insights into the causes of
-    our problems and our potential for growth, and recover our gifts and qualities
-    that we sometimes forget.  "
+    values and relationships.  \n \nWe can then develop insights into how we view
+    ourselves, identify the causes of our problems and rediscover our potential for
+    growth."
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: one
+  Title: Who are you?
+  Image: "/uploads/identity%205.jpeg"
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: ten
+  Title: Who are you?
+  Image: 
+  Description: What is it about a person that defines who they are? 
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -283,6 +292,23 @@ Slides:
     positive experience that affirms a clear and motivated sense of ourselves in the
     world, while at other times we can experience ourselves as struggling, unable
     to cope and helpless to our challenges. '
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: six
+  Title: Identity
+  Image: 
+  Description: "Our identity isn’t fixed. It is a subjective and personal experience
+    of how we chose to view ourselves. \n\nAs our life history and identity are so
+    closely related, exploring and bringing awareness to different aspects of our
+    identity can provide an important foundation for self-discovery, self awareness
+    and personal growth. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -365,32 +391,6 @@ Slides:
   Quote Credit: 'Carl Jung 
 
 '
-  Slide Colour: 
-- Template: one
-  Title: Who are you?
-  Image: "/uploads/identity%205.jpeg"
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: ten
-  Title: Who are you?
-  Image: 
-  Description: What is it about a person that defines who they are? 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
   Slide Colour: 
 - Template: sixteen
   Title: Identity, authenticity and mental health
