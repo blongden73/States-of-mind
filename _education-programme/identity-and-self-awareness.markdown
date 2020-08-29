@@ -17,7 +17,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
+- Template: five
   Title: 'In this introductory module, you will explore: '
   Image: 
   Description: "What self awareness is and why it is so important for maintaining
