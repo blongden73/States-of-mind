@@ -156,23 +156,6 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
-  Title: 
-  Image: "/uploads/breeeaathe.jpg"
-  Description: "Breathing is a tool that we can use to connect us with our bodies
-    and restore balance to the underlying biological cause of stress, tension and
-    emotional distress. \n\nWhen we breathe deeply, our diaphragm presses against
-    the vagus nerve. This nerve is responsible for sending impulses to the brain and
-    signals to our mind it can relax. \n"
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: sixteen
   Title: 'How else is the vagus nerve related to our mental health? '
   Image: 
   Description: "# Experiencing a Threat \n\nWhen we experience a threat, the vagus
@@ -191,6 +174,23 @@ Slides:
     system which produces this inflammation and therefore it is important to use the
     body's natural mechanism - breathing, to maintain balance and bring the balance
     of the body back to its healthy state. "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: 
+  Image: "/uploads/breeeaathe.jpg"
+  Description: "Breathing is a tool that we can use to connect us with our bodies
+    and restore balance to the underlying biological cause of stress, tension and
+    emotional distress. \n\nWhen we breathe deeply, our diaphragm presses against
+    the vagus nerve. This nerve is responsible for sending impulses to the brain and
+    signals to our mind it can relax. \n"
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -237,7 +237,7 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: 'Yoga as a method for integrating the mind and body '
-  Image: 
+  Image: "/uploads/yooooga.jpg"
   Description: "Yoga has been proven to have a range of benefits for mental health.
     \n\nYoga works by reducing stress, relieving muscle tension and inflammation and
     calming the nervous system. \n\nThese physical benefits are correlated with improved
@@ -245,12 +245,12 @@ Slides:
     \ \n\nYoga is beneficial for a range of distressing states, such as anxiety, depression
     and PTSD. \n\nA study followed 64 women with post-traumatic stress disorder (PTSD),
     which is characterized by severe anxiety and fear following exposure to a traumatic
-    event.\nAfter 10 weeks, 52% of participants no longer met the criteria for PTSD
-    at all.  \n(Van der Kolk, 2014) "
+    event.\n\nAfter 10 weeks, 52% of participants no longer met the criteria for PTSD
+    at all.  \n"
   Graphic Image: 
   Audio url: 
   Video Url: 
-  Credit: 
+  Credit: "(Van der Kolk, 2014) "
   Links:
   - Link Url: 
   Quote: 
@@ -272,12 +272,13 @@ Slides:
 - Template: sixteen
   Title: Feelings
   Image: 
-  Description: |-
-    Our relationship to our feelings and emotions has a significant impact on our wellbeing in our everyday life. Like our relationship to our body and mind, everybody has a unique relationship with their feelings and this relationship can change and evolve over time.
-
-    By bringing awareness to our relationship to our feelings, it can help us to manage our difficult feelings more easily, develop stronger relationships with others and overcome challenging times with more clarity and confidence. 
-
-    Emotional awareness is the ability to observe, name and express what we are feeling. Emotional communication depends on this awareness and enables us to share our experiences more richly and accurately with others. By developing this ability we can help ourselves to resolve misunderstandings with others, understand our reactions and find meaning in our experiences. 
+  Description: "Our relationship with our feelings and emotions has a significant
+    impact on our wellbeing in our everyday life. \n\nLike our relationship to our
+    body and mind, everybody has a unique relationship with their feelings and this
+    relationship can change and evolve over time.\n\nBy bringing awareness to our
+    relationship to our feelings, it can help us to manage our difficult feelings
+    more easily, develop stronger relationships with others and overcome challenging
+    times with more clarity and confidence. \n"
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -301,8 +302,8 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: one
-  Title: 'Connecting our mental, physical and emotional world. '
-  Image: "/uploads/rational%20mind.jpg"
+  Title: Connecting our body, feelings and mind
+  Image: "/uploads/mpe.jpg"
   Description: 
   Graphic Image: 
   Audio url: 
@@ -330,17 +331,28 @@ Slides:
   Title: 
   Image: "/uploads/drawing.jpg"
   Description: "Drawing is a powerful tool for getting in touch with our emotional
-    world. Often if our lives are busy and we are very caught in our thoughts, it
-    can be difficult to step back and observe how our feelings and emotions are. If
-    our feelings get trapped or ignored it can contribute to a lot of tension and
-    discomfort. This activity allows you to gently connect with your feelings in a
-    therapeutic way, using a simple drawing exercise. This activity can be used alone
-    or in groups to calm your mind and allow you to express the emotions you are carrying
-    in any given moment.\n\nAs you do this exercise, memories and associations may
-    emerge related to your feelings. This is completely normal and a part of what
-    happens when you become attuned to your emotional world. Just allow this process
-    to unfold and stay with whatever feelings and sensations emerge for you as you
-    do the exercise. \n"
+    world. \n\nOften if our lives are busy and we are very caught in our thoughts,
+    it can be difficult to step back and observe how our feelings and emotions are.
+    \n\nIf our feelings get trapped or ignored it can contribute to a lot of tension
+    and discomfort. \n\nThis activity allows you to gently connect with your feelings
+    in a therapeutic way, using a simple drawing exercise. \n\n"
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: Emotional Awareeness
+  Image: "/uploads/emotions%202.jpg"
+  Description: "Emotional awareness is the ability to observe, name and express what
+    we are feeling. \n\nEmotional communication depends on this awareness and enables
+    us to share our experiences more richly and accurately with others. \n\nBy developing
+    this ability we can help ourselves to resolve misunderstandings with others, understand
+    our reactions and find meaning in our experiences. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -369,10 +381,15 @@ Slides:
 - Template: sixteen
   Title: Letter writing and emotional expression
   Image: 
-  Description: |-
-    We often rely on relationships with other people to help us regulate our emotions but in the absence of these supportive environments it is important that we find healthy ways to cope with difficult emotions on our own.
-
-    Letter writing, or journaling has been found to be a really effective way to identify and process our emotional world. This letter writing exercise is focused on expressing our emotions towards other people but we can also journal about our own thoughts and feelings to help us make sense of them. This process works in a similar way to communicating with words, as we are externalising our distress which allows us to view it in a new way.
+  Description: "We often rely on relationships with other people to help us regulate
+    our emotions but in the absence of these supportive environments it is important
+    that we find healthy ways to cope with difficult emotions on our own.\n\nLetter
+    writing, or journaling has been found to be a really effective way to identify
+    and process our emotional world. \n\nThis letter writing exercise is focused on
+    expressing our emotions towards other people but we can also journal about our
+    own thoughts and feelings to help us make sense of them. \n\nThe process works
+    in a similar way to communicating with words, as we are externalising our distress
+    which allows us to view it in a new way."
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -384,7 +401,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: 'The Mind '
-  Image: "/uploads/neuroplasticity.jpg"
+  Image: "/uploads/mind.jpg"
   Description: 
   Graphic Image: 
   Audio url: 
@@ -399,14 +416,16 @@ Slides:
   Title: Observing the Tendency of the Mind to Distraction and Learning to still the
     mind
   Image: 
-  Description: |2-
-
-
-    The first lesson in using the mind is to observe its tendency to become distracted by intruding thoughts. 
-
-    By eliminating distractions, you will be able to observe the mind with greater clarity. We will start with simple exercises to help you understand this. 
-
-    Our mind likes to comment on our experiences. It comments on everything, from how we are feeling, to what we think about other people and the experiences we have. When we say we feel like ‘changing our mind’ it is because the feelings that we are having are causing us to have different thoughts about the same situation. The mind is always changing because our moods are always changing. We run into problems with the mind when we begin to believe that everything we are thinking is the only experience that is possible. 
+  Description: "\n\nThe first lesson in using the mind is to observe its tendency
+    to become distracted by intruding thoughts. \n\nBy eliminating distractions, you
+    will be able to observe the mind with greater clarity. We will start with simple
+    exercises to help you understand this. \n\nOur mind likes to comment on our experiences.
+    It comments on everything, from how we are feeling, to what we think about other
+    people and the experiences we have. When we say we feel like ‘changing our mind’
+    it is because the feelings that we are having are causing us to have different
+    thoughts about the same situation. \n\nThe mind is always changing because our
+    moods are always changing. We run into problems with the mind when we begin to
+    believe that everything we are thinking is the only experience that is possible. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -419,13 +438,15 @@ Slides:
 - Template: sixteen
   Title: Understanding the nature of the mind 
   Image: 
-  Description: |2-
-
-    Often, we do not realise how much our mind and thoughts have an impact on how we are feeling. By bringing awareness to the nature of our mind and by understanding how to control its different aspects, we can dramatically improve the quality of our lives. 
-
-    This part of the course is designed to teach you how to examine and gain more awareness of your mind and thought processes.
-
-    There is a tendency for the mind to become distracted, which makes us feel lost and unclear about what we want to focus on. To train the mind, we must learn how to control our attention and bring balance to it’s different tendencies so that we can use the mind, instead of allowing ourselves to become stuck in autopilot. 
+  Description: "\nOften, we do not realise how much our mind and thoughts have an
+    impact on how we are feeling. By bringing awareness to the nature of our mind
+    and by understanding how to control its different aspects, we can dramatically
+    improve the quality of our lives. \n\nThis part of the course is designed to teach
+    you how to examine and gain more awareness of your mind and thought processes.\n\nThere
+    is a tendency for the mind to become distracted, which makes us feel lost and
+    unclear about what we want to focus on. \n\nTo train the mind, we must learn how
+    to control our attention and bring balance to it’s different tendencies so that
+    we can use the mind, instead of allowing ourselves to become stuck in autopilot. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -437,7 +458,7 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: 'Rumination '
-  Image: 
+  Image: "/uploads/rumination%204-7271b0.jpg"
   Description: "\nIn Mind-Body Therapy the body itself becomes a record of everything
     that has happened and will elucidate the story that is manifesting in symptoms.
     One of these symptoms is overthinking as a result of built up tension and stress,
@@ -446,8 +467,8 @@ Slides:
     patterns. \n\nHigh levels of rumination are linked with feelings of panic, anxiety
     and low mood. \n\nWhen we ruminate, we often feel trapped in our thinking and
     can’t see a way out. This makes us feel low and makes us believe that our life
-    is our thoughts. But this is not the case. Our mind is just one part of our experience
-    and we can use it in many different ways. "
+    is our thoughts. But this is not the case. \n\nOur mind is just one part of our
+    experience and we can use it in many different ways. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -474,10 +495,11 @@ Slides:
   Title: What is mindfulness?
   Image: 
   Description: "Mindfulness is a practice that involves bringing our awareness to
-    the present moment consciously and non-judgementally. \nOften, our thoughts become
-    preoccupied with thinking about the future, dwelling on our past or overanalysing
-    our personal experiences. \nThrough mindfulness, we can ‘step back’ and become
-    attuned to our present moment experience. "
+    the present moment consciously and non-judgementally. \n\nOften, our thoughts
+    become preoccupied with thinking about the future, dwelling on our past or overanalysing
+    our personal experiences. \n\nThrough mindfulness, we can ‘step back’ and become
+    attuned to our present moment experience and step back from our attachment to
+    thinking. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -502,13 +524,15 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: The rational mind
-  Image: 
-  Description: |2-
-
-
-    When you create from the rational mind, things seem very factual and concrete. This is really helpful for answering questions and providing information for other people to understand. You can use your rational mind to convey your thoughts in a way that is simple and clear.
-
-    The rational mind is also really helpful for communicating things you have already learned and want to tell to others. This is why people often get into arguments when they use their rational mind because they are communicating different things that they understand but not considering other possibilities with their imagination. 
+  Image: "/uploads/ratioonal%20mind-00dcc7.jpg"
+  Description: "\n\nWhen you create from the rational mind, things seem very factual
+    and concrete. This is really helpful for answering questions and providing information
+    for other people to understand. You can use your rational mind to convey your
+    thoughts in a way that is simple and clear.\n\nThe rational mind is also really
+    helpful for communicating things you have already learned and want to tell to
+    others. \n\nThis is why people often get into arguments when they use their rational
+    mind because they are communicating different things that they understand but
+    not considering other possibilities with their imagination. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -521,11 +545,16 @@ Slides:
 - Template: sixteen
   Title: Getting stuck in the rational
   Image: 
-  Description: |2-
-
-    Sometimes the rational mind can get so caught up in facts and information that we already know or want to understand that we forget to use our imagination to consider how it can be used in other ways and also how other people have made sense of the information from their own perspective.
-
-    Everybody has a different perspective and so information can seem very different to different people. The way that you interpret the information depends on who is teaching you, your experiences of the information before and what you want to use the information to do. If you want to use the information to add to your beliefs about something then this means that you will often learn the information in a way that serves your beliefs, rather than in a way that can be discussed and changes over time. 
+  Description: "\nSometimes the rational mind can get so caught up in facts and information
+    that we already know or want to understand that we forget to use our imagination
+    to consider how it can be used in other ways and also how other people have made
+    sense of the information from their own perspective.\n\nEverybody has a different
+    perspective and so information can seem very different to different people. The
+    way that you interpret the information depends on who is teaching you, your experiences
+    of the information before and what you want to use the information to do. \n\nIf
+    you want to use the information to add to your beliefs about something then this
+    means that you will often learn the information in a way that serves your beliefs,
+    rather than in a way that can be discussed and changes over time. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -535,9 +564,9 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: five
+- Template: one
   Title: 'The creative mind and problem solving '
-  Image: "/uploads/emotiona%20regulation.jpg"
+  Image: "/uploads/imagination.jpg"
   Description: 
   Graphic Image: 
   Audio url: 
