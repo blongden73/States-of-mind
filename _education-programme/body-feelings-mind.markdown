@@ -121,9 +121,9 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: one
-  Title: 'Body '
-  Image: "/uploads/body%20-%20feeelings.jpeg"
-  Description: 
+  Title: Body, Feelings, Mind
+  Image: "/uploads/body%20scan-cc3639.jpeg"
+  Description: Meditation
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -133,12 +133,10 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: five
-  Title: 'Practicing Interoception : The Body Scan '
-  Image: 
-  Description: "The purpose of the body scan is to notice how we may be holding tension
-    and stress unconsciously in our body. By doing a body scan, we use our awareness
-    to reduce stress and tension and bring our body back to balance. \n"
+- Template: one
+  Title: 'Body '
+  Image: "/uploads/body%20-%20feeelings.jpeg"
+  Description: 
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -276,6 +274,21 @@ Slides:
   Audio url: 
   Video Url: 
   Credit: "(Van der Kolk, 2014) "
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: five
+  Title: 'The Body Scan '
+  Image: 
+  Description: "The purpose of the body scan is to notice how we may be holding tension
+    and stress unconsciously in our body. By doing a body scan, we use our awareness
+    to reduce stress and tension and bring our body back to balance. \n"
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
   Links:
   - Link Url: 
   Quote: 
@@ -685,19 +698,6 @@ Slides:
   Title: 'Mindsets '
   Image: 
   Description: graphic
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: one
-  Title: Body, Feelings, Mind
-  Image: "/uploads/body%20scan-cc3639.jpeg"
-  Description: Meditation
   Graphic Image: 
   Audio url: 
   Video Url: 
