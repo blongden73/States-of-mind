@@ -391,17 +391,17 @@ Slides:
   Title: 'The younger you and the authentic self '
   Image: 
   Description: "Under the many layers of our identity and our personality is our true
-    self, this part of us never changes and exists throughout our life as our innermost
+    self, this part of us never changes but exists throughout our life as our innermost
     being. It exists independently of our thoughts, feelings and roles that we play
     in the world. When we are connected with our authentic self, we are able to live
     freely, without feeling the need to be anybody else. In this place, we accept
     our qualities, attributes and innate gifts and can live according to who we most
     essentially are. \n\nThroughout our lives, we change and adapt parts of ourself
-    to maintain our relationships with others and to fit in to what we think other
-    people want us to be. This part of the module explores the conflict we can all
-    experience between wanting to be true to ourselves and wanting to fit in with
-    the world around us. \n\nThis next part of the module will explore the authentic
-    self and the different ‘masks’ or sub-personalities that we show to the world. "
+    to maintain our relationships with others and to fit in to who we think other
+    people want us to be. We can all experience this conflict between wanting to be
+    true to ourselves and wanting to fit in with the world around us. \n\nThis next
+    part of the module will explore the authentic self and how we develop the different
+    ‘masks’ or sub-personalities that we show to the world."
   Graphic Image: 
   Audio url: 
   Video Url: 
