@@ -7,11 +7,8 @@ Slides:
 - Template: four
   Title: 
   Image: 
-  Description: "Mind-body approaches to wellbeing focus on developing a balance between
-    our emotional, psychological and physical wellbeing in a sustained and gradual
-    way over time. \n\nThis model views healing and wellbeing as a consequence of
-    our ability to take notice and develop awareness of the state of our  body, feelings
-    and mind in our daily life. "
+  Description: "**There is now a large body of research confirming that our mental
+    and physical wellbeing are closely intertwined and dependent on each other.**"
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -24,8 +21,11 @@ Slides:
 - Template: four
   Title: 
   Image: 
-  Description: "**There is now a large body of research confirming that our mental
-    and physical wellbeing are closely intertwined and dependent on each other.**\n\n"
+  Description: "Mind-body approaches to wellbeing focus on developing a balance between
+    our emotional, psychological and physical wellbeing in a sustained and gradual
+    way over time. \n\nThis model views healing and wellbeing as a consequence of
+    our ability to take notice and develop awareness of the state of our  body, feelings
+    and mind in our daily life. "
   Graphic Image: 
   Audio url: 
   Video Url: 
