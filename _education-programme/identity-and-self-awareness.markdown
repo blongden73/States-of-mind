@@ -61,7 +61,7 @@ Slides:
 - Template: five
   Title: 'What is self awareness? '
   Image: 
-  Description: "Self awareness is the ability to notice our thoughts, feelings and
+  Description: "Self awareness is our ability to notice our thoughts, feelings and
     behaviour, as if we are an observer.\n\nIt allows us to understand ourselves and
     the impact we have on others and is a tool that provides us with the power of
     choice, to redefine our narrative of how we experience ourselves. \n\nThrough
@@ -79,11 +79,18 @@ Slides:
 - Template: four
   Title: 
   Image: 
-  Description: "Developing Self awareness is one tool we can use to improve our wellbeing
-    and shape our reality. \n\nHowever, if we are struggling emotionally due to the
-    actions of others, experiencing abuse or other challenging experiences, it is
-    not our responsibility to manage our problems alone and seeking help for these
-    experiences is really important for our mental health.  \n\n "
+  Description: |-
+    Psychology provides us with different models to understand and develop self awareness. This module uses 3 models:
+
+    Johari Window
+
+    Inner child
+
+    Subpersonalities
+
+    If you are interested, you can explore these models too:
+
+    Maslow’s hierarchy of needs, Freud and the psychodynamic model of the personality, Jung and the Five Factor model of the Personality.
   Graphic Image: 
   Audio url: 
   Video Url: 
