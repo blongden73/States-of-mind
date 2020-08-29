@@ -99,7 +99,7 @@ Slides:
   Description: "Psychology provides us with different models to understand and develop
     self awareness. This module uses 3 models:  \n\nJohari Window  \n\nInner child
     \n\nSubpersonalities\n\nIf you are interested, you can explore these models too:
-    Maslow’s hierarchy of needs, Freud and the psychodynamic model of the personality,
+    \n\nMaslow’s hierarchy of needs, Freud and the psychodynamic model of the personality,
     Jung and the Five Factor model of the Personality. "
   Graphic Image: 
   Audio url: 
@@ -219,6 +219,23 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: six
+  Title: Identity
+  Image: 
+  Description: "Our identity isn’t fixed. It is a subjective and personal experience
+    of how we chose to view ourselves. \n\nAs our life history and identity are so
+    closely related, exploring and bringing awareness to different aspects of our
+    identity can provide an important foundation for self-discovery, self awareness
+    and personal growth. "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: nineteen
   Title: 
   Image: 
@@ -253,23 +270,6 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: six
-  Title: Identity
-  Image: 
-  Description: "Our definition of identity isn’t fixed. It is as a subjective and
-    personal experience of how we chose to view ourselves. \n\nAs our life history
-    and identity are so closely related, exploring and bringing awareness to different
-    aspects of our identity can provide an important foundation for self-discovery,
-    self awareness and personal growth. "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
 - Template: sixteen
   Title: How does identity relate to mental health?
   Image: 
@@ -277,33 +277,6 @@ Slides:
     positive experience that affirms a clear and motivated sense of ourselves in the
     world, while at other times we can experience ourselves as struggling, unable
     to cope and helpless to our challenges. '
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: one
-  Title: 'Life events and Personal History '
-  Image: "/uploads/personal%20history.jpg"
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: two
-  Title: 'Time to pause '
-  Image: 
-  Description: 'And take time to reflect on your personal experience in the insight
-    handbook. '
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -343,6 +316,33 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: two
+  Title: 'Time to pause '
+  Image: 
+  Description: 'And take time to reflect on your personal experience in the insight
+    handbook. '
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: one
+  Title: 'Life events and Personal History '
+  Image: "/uploads/personal%20history.jpg"
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: fourteen
   Title: 
   Image: 
@@ -359,6 +359,32 @@ Slides:
   Quote Credit: 'Carl Jung 
 
 '
+  Slide Colour: 
+- Template: one
+  Title: Who are you?
+  Image: "/uploads/identity%205.jpeg"
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: ten
+  Title: Who are you?
+  Image: 
+  Description: What is it about a person that defines who they are? 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
   Slide Colour: 
 - Template: sixteen
   Title: Identity, authenticity and mental health
@@ -439,59 +465,11 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: ten
-  Title: Who are you?
-  Image: 
-  Description: What is it about a person that defines who they are? 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: one
-  Title: Who are you?
-  Image: "/uploads/identity%205.jpeg"
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
 - Template: two
   Title: 'Time to pause '
   Image: 
   Description: 'And take time to reflect on your personal experience in the insight
     handbook. '
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: one
-  Title: 'Part 3: Society and Identity'
-  Image: "/uploads/identity%205.jpg"
-  Description: "We live in a social world and many aspects of our personalities are
-    shaped by the social relationships and situations we encounter throughout our
-    lives. \nAs it is impossible for our close relationships to be fully present all
-    the time and for us to be completely present to others, we have adapted a way
-    to fit our environments by adapting our personality to defend ourselves or meet
-    your need for connection.  \nAn example of this is noticing when somebody seems
-    to have a different personality depending on what group they are in, or when we
-    notice we behave differently depending on who we are. This is a completely normal
-    process but understanding the process behind it can help us develop an awareness
-    of how parts of our identity are shaped by our desire to fit in and be accepted. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -686,6 +664,28 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: one
+  Title: 'Part 3: Society and Identity'
+  Image: "/uploads/identity%205.jpg"
+  Description: "We live in a social world and many aspects of our personalities are
+    shaped by the social relationships and situations we encounter throughout our
+    lives. \nAs it is impossible for our close relationships to be fully present all
+    the time and for us to be completely present to others, we have adapted a way
+    to fit our environments by adapting our personality to defend ourselves or meet
+    your need for connection.  \nAn example of this is noticing when somebody seems
+    to have a different personality depending on what group they are in, or when we
+    notice we behave differently depending on who we are. This is a completely normal
+    process but understanding the process behind it can help us develop an awareness
+    of how parts of our identity are shaped by our desire to fit in and be accepted. "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: sixteen
   Title: Group Identity  
   Image: 
@@ -715,7 +715,7 @@ Slides:
   Description: "‘ Belonging is the innate human desire to be part of something larger
     than us. Because this yearning is so primal, we often try to acquire it by fitting
     in and by seeking approval, which are not only hollow substitutes for belonging,
-    but often barriers to it. \n\nBecause true belonging only happens when we present
+    but often barriers to it.\"\n\nBecause true belonging only happens when we present
     our authentic, imperfect selves to the world, our sense of belonging can never
     be greater than our level of self-acceptance.’ \nDaring Greatly by Brene Browne "
   Graphic Image: 
