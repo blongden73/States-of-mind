@@ -457,14 +457,16 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: five
+- Template: one
   Title: 
   Image: "/uploads/mask.jpg"
-  Description: |-
-    Personality comes from the greek word, ‘persona’ which means mask. Our personality refers to the different faces that we show to the world and the many different ways we behave, speak, think and relate with other people. Behind our personality is our true Self, which does not change over time or adapt to different circumstances, but contains our essential nature.
-
-    Sub personalities are distinct personality structures that we identify with and act out. Sub personalities develop when we feel we cannot express our true nature and need to adapt or change some aspect of ourselves to be loved, accepted and acknowledged. Sub personalities are not bad or something to be removed, they are a very normal part of psychological development as they allow us to survive and adapt to an unpredictable social world. 
-     
+  Description: "Personality comes from the greek word, ‘persona’ which means mask.
+    Our personality refers to the different ways we behave in the world and the many
+    different ways we relate with other people. Together with our personality we all
+    have an aspect called the 'Self', which does not change over time or adapt to
+    different circumstances, but is our essential nature. \n\nOur Self is the part
+    of us that is spontaneous and loving, that seeks to be known and is the experience
+    of who we most fundamentally are.\n"
   Graphic Image: 
   Audio url: 
   Video Url: 
