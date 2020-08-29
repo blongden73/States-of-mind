@@ -227,6 +227,19 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: 'two '
+  Title: Take time to pause
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: sixteen
   Title: Movement and emotions
   Image: "/uploads/dance%203.jpg"
@@ -306,6 +319,19 @@ Slides:
   Title: Exploring emotion
   Image: 
   Description: graphic
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: two
+  Title: Take time to pause
+  Image: 
+  Description: 
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -440,6 +466,19 @@ Slides:
     thoughts about the same situation. \n\nThe mind is always changing because our
     moods are always changing. We run into problems with the mind when we begin to
     believe that everything we are thinking is the only experience that is possible. "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: two
+  Title: Take time to pause
+  Image: 
+  Description: 
   Graphic Image: 
   Audio url: 
   Video Url: 
