@@ -626,9 +626,8 @@ Slides:
   Image: 
   Description: "If you would like to learn more the psychology of personality you
     can explore the Enneagram, Myers Briggs and the Big Five Personality test.\n\nIt
-    is important to recognise that personality tests highlight aspects of our personality
-    by showing us dominant traits, however this is not a reflection of our complete
-    self, yet it can indicate areas where we can grow and develop. "
+    is important to recognise that personality tests highlight **aspects** of our
+    personality by showing us dominant traits not our complete self. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -639,7 +638,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: one
-  Title: 'Part 3: Society and Identity'
+  Title: 'Part 4: Society and Identity '
   Image: "/uploads/identity%205.jpg"
   Description: "We live in a social world and many aspects of our personalities are
     shaped by the social relationships and situations we encounter throughout our
