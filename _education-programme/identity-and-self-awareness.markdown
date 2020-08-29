@@ -38,7 +38,8 @@ Slides:
   Description: 
   Graphic Image: 
   Audio url: 
-  Video Url: 
+  Video Url: <iframesrc="https://player.vimeo.com/video/452858109" width="640" height="360"
+    frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
   Credit: VIDEO OF ELLA TALKING ABOUT SELF AWARENESS
   Links:
   - Link Url: 
