@@ -573,10 +573,10 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: five
-  Title: 'Some other sub-personalities to explore '
+  Title: 'Some other sub-personalities for you to explore '
   Image: 
   Description: "* The clown\n* The critic\n* The people pleaser\n* The caretaker\n*
-    The rebel\n* The acheiver\n* The child "
+    The rebel\n* The high achiever\n* The child "
   Graphic Image: 
   Audio url: 
   Video Url: 
