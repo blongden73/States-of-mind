@@ -4,7 +4,7 @@ date: 2020-08-28 16:25:00 Z
 permalink: "/education-programme/body-feelings-mind.html"
 position: 1
 Slides:
-- Template: five
+- Template: four
   Title: 
   Image: 
   Description: "**There is now a large body of research confirming that our mental
