@@ -539,7 +539,7 @@ Slides:
   Credit: 
   Links:
   - Link Url: 
-  Quote: "‘ It is now largely accepted that there are multiple ( context -specific)
+  Quote: "‘ It is now largely accepted that there are multiple (context -specific)
     selves that can interact with each other, observe each other, and converse together
     out of consciousness. This is normal, not limited to pathological dissociative
     states.’ "
