@@ -62,10 +62,10 @@ Slides:
   Image: 
   Description: "Self awareness is the experience of noticing our thoughts, feelings
     and behaviour, as if we are an observer.\n\nIt also allows us to step back and
-    understand ourselves and the impact we have on others. \n\nBy developing our levels
-    of self awareness, we can access a sense of choice around how we respond to life's
-    challenges. Over time, we can experience a deep connection with our most authentic
-    self. "
+    understand both ourselves and the impact we have on others. \n\nBy developing
+    our levels of self awareness, we can access a sense of choice around how we respond
+    to life's challenges. Over time, we can experience a deep connection with our
+    most authentic self. "
   Graphic Image: 
   Audio url: 
   Video Url: 
