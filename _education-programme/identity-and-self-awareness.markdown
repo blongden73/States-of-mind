@@ -313,8 +313,9 @@ Slides:
   Description: "Our name is a personal and special aspect of our identity. It is a
     part of our identity that we are very familiar with, yet we do not always pause
     to consider the meaning our name has for us. \n\nThe act of bringing conscious
-    awareness to an aspect of ourselves allows us to connect more deeply with our
-    sense of who we are and the meaning this part of us has in our lives. "
+    awareness to an aspect of ourselves such as our name allows us to connect more
+    deeply with our sense of who we are and the meaning this part of us has in our
+    lives. "
   Graphic Image: 
   Audio url: 
   Video Url: 
