@@ -444,8 +444,8 @@ Slides:
   Slide Colour: 
 - Template: 'one '
   Title: 'Part 3: Personality '
-  Image: "/uploads/personality%20.jpg"
   Description: 
+  Image: "/uploads/personality%20.jpg"
   Graphic Image: 
   Audio url: 
   Video Url: 
