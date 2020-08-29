@@ -322,21 +322,6 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: nineteen
-  Title: 
-  Image: 
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: <iframe width="560" height="315" src="https://www.youtube.com/embed/TucyzpHDNlE"
-    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen></iframe>
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
 - Template: sixteen
   Title: Identity, authenticity and mental health
   Image: "/uploads/Jung.jpg"
@@ -457,8 +442,36 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: one
+- Template: 'one '
+  Title: 'Part 3: Personality '
+  Image: "/uploads/personality%20.jpg"
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: nineteen
   Title: 
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: <iframe width="560" height="315" src="https://www.youtube.com/embed/TucyzpHDNlE"
+    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen></iframe>
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: 'Personality '
   Image: "/uploads/mask.jpg"
   Description: "Personality comes from the greek word, ‘persona’ which means mask.
     Our personality refers to the different ways we behave in the world and the many
