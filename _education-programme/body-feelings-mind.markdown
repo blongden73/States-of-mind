@@ -578,24 +578,49 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
+  Title: 'Imagination and problem solving '
+  Image: "/uploads/imagine.jpg"
+  Description: |-
+    Whenever somebody comes up with an idea, they have an image of the idea that comes along with the thought of it. This is the visual part of the mind that helps us to imagine future possibilities and helps us to access parts of our experience we have not yet seen. When we close our eyes and allow ourselves to imagine something, it helps us to visualise all of the outcomes of that reality happening. 
+
+    When we get stuck with a decision, it’s because we feel like we don’t know what the outcome will be, so by visualising the different situations, problems or people we are having the problem with, we can visualise other aspects that we can’t access when we are stuck in the thinking, judging mind that likes to get stuck on one belief or potential situation. 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
   Title: 'The creative mind and problem solving '
   Image: 
   Description: "We can use our mind to come up with ideas and to create insights that
     can help us to make decisions more easily. How do we enable this part of the mind
     to work? \n\nOften, this is the part of the mind that we are not encouraged to
     use as much, so it can take a bit of practice to remind ourselves of what it feels
-    like to use this part of the mind. This part of the mind is much softer and it
-    enjoys working in ways that are more imaginative, like storytelling. \n\nWhenever
-    somebody comes up with an idea, they have an image of the idea that comes along
-    with the thought of it. This is the visual part of the mind that helps us to imagine
-    future possibilities and helps us to access parts of our experience we have not
-    yet seen. When we close our eyes and allow ourselves to imagine something, it
-    helps us to visualise all of the outcomes of that reality happening. \n\nWhen
-    we get stuck with a decision, it’s because we feel like we don’t know what the
-    outcome will be, so by visualising the different situations, problems or people
-    we are having the problem with, we can visualise other aspects that we can’t access
-    when we are stuck in the thinking, judging mind that likes to get stuck on one
-    belief or potential situation.  "
+    like to use this part of the mind.\n\nThis part of the mind is much softer and
+    it enjoys working in ways that are more imaginative, like storytelling. \n "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: five
+  Title: 
+  Image: 
+  Description: "Mindsets are the belief patterns that influence how we think and behave
+    in our everyday lives. \n\nSome Mindsets/ beliefs are very unconscious to us,
+    while others are more apparent in our lives. \n\nMany of our Mindsets are formed
+    in childhood and adolescence and we hold onto these throughout our lives. \n\nBy
+    exploring our mindsets we can become aware of how they serve or limit us. \n\nBy
+    becoming aware of how they limit us, we can chose to let go of the resistance
+    they create in our lives."
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -609,25 +634,6 @@ Slides:
   Title: 'Mindsets '
   Image: 
   Description: graphic
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: five
-  Title: 
-  Image: 
-  Description: "Mindsets are the belief patterns that Influence how we think and behave
-    in our everyday lives. \n\nSome Mindsets/ beliefs are very unconcious to us, while
-    others are more apparent in our lives. \n\nMany of our Mindsets are formed in
-    childhood and adolescence and we hold onto these throughout our lives. \n\nBy
-    exploring our mindsets we can become aware of how they serve or limit us. \n\nBy
-    becoming aware of how they limit us, we can chose to let go of mindsets that no
-    longer serve us and create change in our lives. "
   Graphic Image: 
   Audio url: 
   Video Url: 
