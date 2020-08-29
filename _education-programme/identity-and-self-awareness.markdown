@@ -380,9 +380,9 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: six
+- Template: sixteen
   Title: 'Inner child '
-  Image: 
+  Image: "/uploads/child%202.jpg"
   Description: "The inner child is a psychological practice that allows us to reconnect
     with our essential nature. \n\nAs young children, we do not change or adapt our
     behaviour for others but express our needs, interests and sense of self authentically.
