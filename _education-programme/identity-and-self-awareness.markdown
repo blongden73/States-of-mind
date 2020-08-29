@@ -75,7 +75,7 @@ Slides:
   - Link Url: 
   Quote: 
   Quote Credit: 
-  Slide Colour: 
+  Slide Colour: "#b1ebec"
 - Template: four
   Title: 
   Image: 
