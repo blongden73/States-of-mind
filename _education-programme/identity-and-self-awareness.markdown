@@ -221,6 +221,22 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: six
+  Title: How does identity relate to mental health?
+  Image: 
+  Description: 'Everyday we have an experience of who we are. Sometimes this is a
+    positive experience that affirms a clear and motivated sense of ourselves in the
+    world, while at other times we can experience ourselves as struggling, unable
+    to cope and helpless to our challenges. '
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: six
   Title: Identity
   Image: 
   Description: "Our identity isn’t fixed. It is a subjective and personal experience
@@ -237,13 +253,37 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: six
-  Title: How does identity relate to mental health?
+- Template: fourteen
+  Title: 
   Image: 
-  Description: 'Everyday we have an experience of who we are. Sometimes this is a
-    positive experience that affirms a clear and motivated sense of ourselves in the
-    world, while at other times we can experience ourselves as struggling, unable
-    to cope and helpless to our challenges. '
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: |-
+    “There is in the psyche a process that seeks its own goal no matter what the external factors may be….the almost irresistible compulsion and urge to become what one is.” 
+     
+  Quote Credit: 'Carl Jung 
+
+'
+  Slide Colour: 
+- Template: sixteen
+  Title: Identity, authenticity and mental health
+  Image: "/uploads/Jung.jpg"
+  Description: "Carl Jung was a Swiss Psychologist who explored the personality and
+    human nature. He was responsible for introducing concepts such as introversion
+    and extroversion and the collective unconcious. \nJung believed that ‘individuation’
+    was a process that was the main purpose of human development. This idea was that
+    psychological health is achieved by seeking to live authentically ( to feel and
+    act in accordance with who we most essentially are).  He believed that everybody
+    had the ability and the impulse to move towards our fullest potential  and that
+    we achieved this by becoming aware of aspects of ourselves we ignore or are unconscious
+    to, aswell as the unmanifested potential that exists within us. \nFor Jung, healing
+    was a process of reconnecting with our true nature and rediscovering our unique
+    and personal interests, desires and ways of being in the world. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -352,46 +392,6 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: fourteen
-  Title: 
-  Image: 
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: |-
-    “There is in the psyche a process that seeks its own goal no matter what the external factors may be….the almost irresistible compulsion and urge to become what one is.” 
-     
-  Quote Credit: 'Carl Jung 
-
-'
-  Slide Colour: 
-- Template: sixteen
-  Title: Identity, authenticity and mental health
-  Image: "/uploads/Jung.jpg"
-  Description: "Carl Jung was a Swiss Psychologist who explored the personality and
-    human nature. He was responsible for introducing concepts such as introversion
-    and extroversion and the collective unconcious. \nJung believed that ‘individuation’
-    was a process that was the main purpose of human development. This idea was that
-    psychological health is achieved by seeking to live authentically ( to feel and
-    act in accordance with who we most essentially are).  He believed that everybody
-    had the ability and the impulse to move towards our fullest potential  and that
-    we achieved this by becoming aware of aspects of ourselves we ignore or are unconscious
-    to, aswell as the unmanifested potential that exists within us. \nFor Jung, healing
-    was a process of reconnecting with our true nature and rediscovering our unique
-    and personal interests, desires and ways of being in the world. "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
 - Template: sixteen
   Title: 'The younger you and the authentic self '
   Image: 
@@ -416,14 +416,14 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
+- Template: six
   Title: 'Inner child '
   Image: 
   Description: "The inner child is a psychological practice that allows us to reconnect
-    with our essential nature. \nAs young children, we do not change or adapt our
+    with our essential nature. \n\nAs young children, we do not change or adapt our
     behaviour for others but express our needs, interests and sense of self authentically.
-    \nBy reconnecting with our younger self, we can discover and reintegrate lost
-    qualities of ourselves and bring them into our present lives more fully. This
+    \n\nBy reconnecting with our younger self, we can discover and reintegrate lost
+    qualities of ourselves and bring them into our present lives more fully. \n\nThis
     is a therapeutic process that can help us to develop our self awareness and self
     esteem."
   Graphic Image: 
@@ -464,7 +464,7 @@ Slides:
   Slide Colour: 
 - Template: five
   Title: 
-  Image: 
+  Image: "/uploads/mask.jpg"
   Description: |-
     Personality comes from the greek word, ‘persona’ which means mask. Our personality refers to the different faces that we show to the world and the many different ways we behave, speak, think and relate with other people. Behind our personality is our true Self, which does not change over time or adapt to different circumstances, but contains our essential nature.
 
