@@ -666,7 +666,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: 'Part 4: Society and Identity '
-  Image: "/uploads/identity%205.jpg"
+  Image: "/uploads/society.jpg"
   Description: 
   Graphic Image: 
   Audio url: 
@@ -720,7 +720,7 @@ Slides:
   Slide Colour: "#b9e0fc"
 - Template: four
   Title: 'Exploring our relationship with groups '
-  Image: "/uploads/groupss.jpg"
+  Image: "/uploads/groups%203.jpg"
   Description: 
   Graphic Image: 
   Audio url: 
