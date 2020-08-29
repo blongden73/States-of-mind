@@ -412,8 +412,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
-  Title: Observing the Tendency of the Mind to Distraction and Learning to still the
-    mind
+  Title: 'Observing the Tendency of the Mind to Distraction '
   Image: 
   Description: "\n\nThe first lesson in using the mind is to observe its tendency
     to become distracted by intruding thoughts. \n\nBy eliminating distractions, you
@@ -491,7 +490,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: one
-  Title: Mindfulness
+  Title: 'Learning to still the mind: Mindfulness'
   Image: "/uploads/mindfulness%202-805bc0.jpeg"
   Description: 
   Graphic Image: 
