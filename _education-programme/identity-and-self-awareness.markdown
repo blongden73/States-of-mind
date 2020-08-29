@@ -62,11 +62,11 @@ Slides:
   Title: 'What is self awareness? '
   Image: 
   Description: "Self awareness is the ability to notice our thoughts, feelings and
-    behaviour, as if we are an observer.\nSelf awareness allows us to understand ourselves
-    and the impact we have on others. \nSelf awareness is a tool that provides us
-    with the power of choice, to redefine our narrative of how we experience ourselves.
-    \nThrough practicing self awareness, we can make new choices about how we live
-    our lives and enhance our sense of wellbeing. "
+    behaviour, as if we are an observer.\n\nIt allows us to understand ourselves and
+    the impact we have on others and is a tool that provides us with the power of
+    choice, to redefine our narrative of how we experience ourselves. \n\nThrough
+    practicing self awareness, we can make new choices about how we live our lives
+    and enhance our sense of wellbeing. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -96,10 +96,10 @@ Slides:
 - Template: five
   Title: 
   Image: 
-  Description: "## Psychology provides us with different models to understand and
-    develop self awareness. This module uses 3 models:  \n\nJohari Window  \n\nInner
-    child \n\nSubpersonalities\n\nIf you are interested, you can explore these models
-    too: Maslow’s hierarchy of needs, Freud and the psychodynamic model of the personality,
+  Description: "Psychology provides us with different models to understand and develop
+    self awareness. This module uses 3 models:  \n\nJohari Window  \n\nInner child
+    \n\nSubpersonalities\n\nIf you are interested, you can explore these models too:
+    Maslow’s hierarchy of needs, Freud and the psychodynamic model of the personality,
     Jung and the Five Factor model of the Personality. "
   Graphic Image: 
   Audio url: 
@@ -183,7 +183,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
+- Template: six
   Title: 
   Image: 
   Description: "# Self awareness enables us to \ntake responsibility for our problems.
@@ -219,28 +219,6 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
-  Title: 'How can self awareness impact how we experience our identity? '
-  Image: 
-  Description: "\nWe like to think of ourselves as one consistent personality or person
-    but in reality, we are composed of **many different aspects and parts**, that
-    all serve an important role in our lives. \n\nSelf awareness allows us to recognise
-    that our identity is not fixed but is an ever-changing reflection of our experiences,
-    values and relationships. Self awareness allows us to explore the emotional connection
-    or resistance we have to these parts of our life.  \n\nBy exploring the different
-    aspects of our personal identity we can gain a deeper understanding of what makes
-    us unique and what connects us most fundamentally with others.  \n\nWe can then
-    develop insights into the causes of our problems and our potential for growth,
-    and recover our gifts and qualities that we are blind to.  "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
 - Template: nineteen
   Title: 
   Image: 
@@ -250,6 +228,25 @@ Slides:
   Video Url: <iframe width="560" height="315" src="https://www.youtube.com/embed/TucyzpHDNlE"
     frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen></iframe>
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: 'How can self awareness impact how we experience our identity? '
+  Image: 
+  Description: "\nWe like to think of ourselves as one consistent personality or person
+    but in reality, we are composed of **many different aspects and parts**, that
+    all serve an important role in our lives. \n\nSelf awareness allows us to recognise
+    that our identity is not fixed but is an ever-changing reflection of our experiences,
+    values and relationships.  \n \nWe can then develop insights into the causes of
+    our problems and our potential for growth, and recover our gifts and qualities
+    that we sometimes forget.  "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
   Credit: 
   Links:
   - Link Url: 
@@ -291,7 +288,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: 'Life events and Personal History '
-  Image: "/uploads/diana-spatariu-HdZX3whmcGg-unsplash.jpg"
+  Image: "/uploads/personal%20history.jpg"
   Description: 
   Graphic Image: 
   Audio url: 
@@ -318,7 +315,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: Your Name
-  Image: "/uploads/identity%206.jpg"
+  Image: "/uploads/names.jpg"
   Description: 
   Graphic Image: 
   Audio url: 
