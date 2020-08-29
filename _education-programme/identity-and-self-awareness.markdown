@@ -381,32 +381,19 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
-  Title: 'Inner child '
+  Title: 'Inner child Practice '
   Image: "/uploads/child%202.jpg"
-  Description: "The inner child is a psychological practice that allows us to reconnect
-    with our essential nature. \n\nAs young children, we do not change or adapt our
-    behaviour for others but express our needs, interests and sense of self authentically.
-    \n\nBy reconnecting with our younger self, we can discover and reintegrate lost
-    qualities of ourselves and bring them into our present lives more fully. \n\nThis
-    is a therapeutic process that can help us to develop our self awareness and self
-    esteem."
+  Description: "The inner child practice is a therapeutic process that allows us to
+    reconnect with our essential nature. \n\nAs young children, we do not change or
+    adapt our behaviour for others but express our needs, interests and sense of self
+    authentically. \n\nBy reconnecting with our younger self, we can discover and
+    reintegrate lost qualities of ourselves and bring them into our present lives
+    more fully. \n\nThis is a therapeutic process that can help us to develop our
+    self awareness and self esteem."
   Graphic Image: 
   Audio url: '<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=2688643689/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/"
     seamless><a href="http://statesofmind.bandcamp.com/track/inner-child-meditation">Inner
     Child Meditation by States of Mind</a></iframe>'
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: one
-  Title: The Younger You
-  Image: "/uploads/identity%204.jpg"
-  Description: An Autobiography 
-  Graphic Image: 
-  Audio url: 
   Video Url: 
   Credit: 
   Links:
@@ -419,6 +406,19 @@ Slides:
   Image: 
   Description: 'And take time to reflect on your personal experience in the insight
     handbook. '
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: one
+  Title: The Younger You
+  Image: "/uploads/identity%204.jpg"
+  Description: An Autobiography 
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -462,10 +462,11 @@ Slides:
   Description: "Personality comes from the greek word, ‘persona’ which means mask.
     Our personality refers to the different ways we behave in the world and the many
     different ways we relate with other people. Together with our personality we all
-    have an aspect called the 'Self', which does not change over time or adapt to
-    different circumstances, but is our essential nature. \n\nOur Self is the part
-    of us that is spontaneous and loving, that seeks to be known and is the experience
-    of who we most fundamentally are.\n"
+    have an unchanging part of who we are that psychologists call the 'Self'. This
+    is the part of us that does not change over time or adapt to different circumstances,
+    but is our essential nature. \n\nOur Self is the part of us that is spontaneous
+    and loving, that seeks to be known and is the experience of who we most fundamentally
+    are.\n"
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -481,22 +482,34 @@ Slides:
   Description: "Subpersonalities are habits or patterns of behaviour that we have
     followed since childhood\n\nWhen people fail to respond empathetically to our
     true personality, we learn to hide our authentic nature and adapt to how our parents
-    or our environment need us to be. A psychotherapist called Winnicott, called this
-    process of adapting, the development of the ‘False Self’. It is also referred
-    to as the Survival Personality. \n\nThese are distinct patterns of thoughts, feelings
-    and behaviours that we develop to adapt to various environments where we feel
-    unable to be our authentic self. In neuroscience these are viewed as distinct
-    neural networks that function as ‘specialised selves’ or ‘self states’. ( Siegel
-    1993) \n\nDaniel Stern summarises the psychological view on these multiple selves:
-    ‘ It is now largely accepted that there are multiple ( context -specific) selves
-    that can interact with each other, observe each other, and converse together out
-    of consciousness. This is normal, not limited to pathological dissociative states.’
-    (Stern 2004) \n\nSub-personality theory explains personality development and helps
-    to explain why parts of our personality can feel conflicted and as if there are
-    ‘multiple selves’ within us who have different ways of being. \n\nFor example
-    the feeling of ‘ I want to do this but another part of me wants to do that’, or
-    ‘ I shouldn’t be getting angry right now but I think its important I tell the
-    truth’ "
+    or our environment need us to be. A psychotherapist called Winnicott also called
+    this process of adapting, the development of the False Self. It has also been
+    referred to as the Survival Personality or 'Character Armour'. \n "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: 
+  Image: 
+  Description: "These are distinct patterns of thoughts, feelings and behaviours that
+    we develop to adapt to various environments where we feel unable to be our authentic
+    self. \n\nIn neuroscience these are viewed as distinct neural networks that function
+    as ‘specialised selves’ or ‘self states’. ( Siegel 1993) \n\nDaniel Stern summarises
+    the psychological view on these multiple selves: ‘ It is now largely accepted
+    that there are multiple ( context -specific) selves that can interact with each
+    other, observe each other, and converse together out of consciousness. This is
+    normal, not limited to pathological dissociative states.’ (Stern 2004) \n\nSub-personality
+    theory explains personality development and helps to explain why parts of our
+    personality can feel conflicted and as if there are ‘multiple selves’ within us
+    who have different ways of being.\n\nFor example the feeling of ‘ I want to do
+    this but another part of me wants to do that’, or ‘ I shouldn’t be getting angry
+    right now but I think its important I tell the truth’"
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -508,7 +521,7 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: Subpersonality
-  Image: "/uploads/subpersonalities.jpg"
+  Image: "/uploads/expert.jpg"
   Description: "Example\n‘The Expert’\n\n**Behaviour**\nPatronising, condescending,
     arrogant, ‘ know it all’, rigid, defensive, guarded and slightly hostile.  Serious
     tone of voice. Body language: Rigid, tense, stiff. \n\n**Wants** \nTo be taken
