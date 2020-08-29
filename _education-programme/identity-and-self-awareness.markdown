@@ -112,11 +112,11 @@ Slides:
 - Template: sixteen
   Title: Research has proven that self awareness is a tool that can help us to flourish.
   Image: 
-  Description: "\nThe **insight** that self awareness provides allows us to feel more
-    satisfied with our lives by making us more aware of why we feel and act the way
-    we do. \n\nWhen cultivated fully, we no longer feel the need to repress or hide
-    our emotions or react unconsciously to our experiences but view ourselves with
-    a deeper level of understanding. \n"
+  Description: "\nThe **insights** that self awareness provides us with allows us
+    to feel more satisfied with our lives because we become more aware of why we feel
+    and act the way we do. \n\nWhen cultivated fully, we no longer feel the need to
+    repress or hide our emotions or react unconsciously to our experiences but view
+    ourselves with a deeper level of understanding. \n"
   Graphic Image: 
   Audio url: 
   Video Url: 
