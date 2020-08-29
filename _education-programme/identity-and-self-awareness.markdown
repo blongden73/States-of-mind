@@ -225,6 +225,22 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: six
+  Title: How does identity relate to mental health?
+  Image: 
+  Description: 'Everyday we have an experience of who we are. Sometimes this is a
+    positive experience that affirms a clear and motivated sense of ourselves in the
+    world, while at other times we can experience ourselves as struggling, unable
+    to cope and helpless to our challenges. '
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: nineteen
   Title: 
   Image: 
@@ -276,22 +292,6 @@ Slides:
   Title: Who are you?
   Image: 
   Description: What is it about a person that defines who they are? 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: six
-  Title: How does identity relate to mental health?
-  Image: 
-  Description: 'Everyday we have an experience of who we are. Sometimes this is a
-    positive experience that affirms a clear and motivated sense of ourselves in the
-    world, while at other times we can experience ourselves as struggling, unable
-    to cope and helpless to our challenges. '
   Graphic Image: 
   Audio url: 
   Video Url: 
