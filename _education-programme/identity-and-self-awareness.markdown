@@ -174,7 +174,7 @@ Slides:
 
     The Johari Window is a visual representation of the parts of ourselves that are  either known or unknown to ourselves and others.
 
-    **The open area** represents everything we know about ourselves. This is what people who know us know about us and what we are consciously aware of too.
+    **The open area** represents everything we know about ourselves. This is what people know about us and what we are consciously aware of too.
 
     **The hidden area** relates to all of the parts of ourselves that we do not share with others. This information that we keep private may relate to our fears and insecurities swell as your hopes and dreams.
 
@@ -217,94 +217,6 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: six
-  Title: Identity
-  Image: 
-  Description: "Our identity isn’t fixed but develops over time based on our life
-    experiences. Our identity is a subjective and personal experience of how we chose
-    to view ourselves. \n\nAs our life history and identity are so closely related,
-    exploring and bringing awareness to different aspects of our identity can provide
-    an important foundation for self-discovery, self awareness and personal growth. "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: six
-  Title: How does identity relate to mental health?
-  Image: 
-  Description: "Everyday we have an experience of different parts of our identity.
-    \n\nThese parts of ourselves either reinforce a positive self image or cause us
-    to view ourselves more critically. \n\nThe part of ourselves we are most identified
-    with will influence our mood and behaviour. "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: sixteen
-  Title: Identity, authenticity and mental health
-  Image: "/uploads/Jung.jpg"
-  Description: "Carl Jung was a Swiss Psychologist who explored the personality and
-    human nature. He was responsible for introducing concepts such as introversion
-    and extroversion and the collective unconcious. \nJung believed that ‘individuation’
-    was a process that was the main purpose of human development. This idea was that
-    psychological health is achieved by seeking to live authentically ( to feel and
-    act in accordance with who we most essentially are).  He believed that everybody
-    had the ability and the impulse to move towards our fullest potential  and that
-    we achieved this by becoming aware of aspects of ourselves we ignore or are unconscious
-    to, aswell as the unmanifested potential that exists within us. \nFor Jung, healing
-    was a process of reconnecting with our true nature and rediscovering our unique
-    and personal interests, desires and ways of being in the world. "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: fourteen
-  Title: 
-  Image: 
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: |-
-    “There is in the psyche a process that seeks its own goal no matter what the external factors may be….the almost irresistible compulsion and urge to become what one is.” 
-     
-  Quote Credit: 'Carl Jung 
-
-'
-  Slide Colour: 
-- Template: nineteen
-  Title: 
-  Image: 
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: <iframe width="560" height="315" src="https://www.youtube.com/embed/TucyzpHDNlE"
-    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen></iframe>
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
 - Template: one
   Title: Who are you?
   Image: "/uploads/identity%205.jpeg"
@@ -322,6 +234,24 @@ Slides:
   Title: Who are you?
   Image: 
   Description: What is it about a person that defines who they are? 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: six
+  Title: Identity
+  Image: 
+  Description: "Our identity isn’t fixed but develops over time based on our life
+    experiences. Our identity is a subjective and personal experience that is influenced
+    by our unique life experiences. \n\nAs our life history and identity are so closely
+    related, exploring and bringing awareness to different aspects of our identity
+    can provide an important foundation for self-discovery, self awareness and personal
+    growth. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -375,6 +305,74 @@ Slides:
   - Link Url: 
   Quote: 
   Quote Credit: 
+  Slide Colour: 
+- Template: six
+  Title: How does identity relate to mental health?
+  Image: 
+  Description: "Everyday we have an experience of different parts of our identity.
+    \n\nThese parts of ourselves either reinforce a positive self image or cause us
+    to view ourselves more critically. \n\nThe part of ourselves we are most identified
+    with will influence our mood and behaviour. "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: nineteen
+  Title: 
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: <iframe width="560" height="315" src="https://www.youtube.com/embed/TucyzpHDNlE"
+    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen></iframe>
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: Identity, authenticity and mental health
+  Image: "/uploads/Jung.jpg"
+  Description: "Carl Jung was a Swiss Psychologist who explored the personality and
+    human nature. \n\nJung believed that ‘individuation’ was the main purpose of human
+    development. His idea was that psychological health is achieved by seeking to
+    live as authentically as we can ( to feel and act in accordance with who we most
+    essentially are).  \n\nHe believed that everybody had the ability and the impulse
+    to move towards our fullest potential  and that we achieved this by becoming aware
+    of aspects of ourselves we ignore or are unconscious to, aswell as the unmanifested
+    potential that exists within us. \n\n"
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: fourteen
+  Title: 
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: |-
+    “There is in the psyche a process that seeks its own goal no matter what the external factors may be….the almost irresistible compulsion and urge to become what one is.” 
+     
+  Quote Credit: 'Carl Jung 
+
+'
   Slide Colour: 
 - Template: one
   Title: 'Life events and Personal History '
