@@ -402,7 +402,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: one
-  Title: The Younger Me
+  Title: The Younger You
   Image: "/uploads/identity%204.jpg"
   Description: An Autobiography 
   Graphic Image: 
@@ -431,7 +431,6 @@ Slides:
 - Template: 'one '
   Title: 'Part 3: Personality '
   Description: 
-  Image: "/uploads/personality%20.jpg"
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -441,6 +440,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+  Image: "/uploads/personality%20.jpg"
 - Template: nineteen
   Title: 
   Image: 
