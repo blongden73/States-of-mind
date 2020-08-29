@@ -495,6 +495,30 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
+  Title: 
+  Image: 
+  Description: "They are distinct patterns of thoughts, feelings and behaviours that
+    we develop to adapt to various environments where we feel unable to be our authentic
+    self. \n\nIn neuroscience these are viewed as distinct neural networks that function
+    as ‘specialised selves’ or ‘self states’. ( Siegel 1993) \n\n\nSub-personality
+    theory explains personality development and helps to explain why parts of our
+    personality can feel conflicted and as if there are ‘multiple selves’ within us
+    who have different ways of being.\n\nFor example the feeling of ‘ I want to do
+    this but another part of me wants to do that’, or ‘ I shouldn’t be getting angry
+    right now but I think its important I tell the truth’"
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: "‘ It is now largely accepted that there are multiple ( context -specific)
+    selves that can interact with each other, observe each other, and converse together
+    out of consciousness. This is normal, not limited to pathological dissociative
+    states.’ "
+  Quote Credit: 'Daniel Stern '
+  Slide Colour: 
+- Template: sixteen
   Title: What are the benefits of sub-personality work? 
   Image: 
   Description: |
@@ -507,31 +531,6 @@ Slides:
     4.We emphasise all of the beneficial qualities of our sub-personalities and recognise how they serve us.
 
     5. By identifying with our different sub-peronalities, it allows us to develop a greater awareness of what is our true self and what is a mask or persona.    Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: sixteen
-  Title: 
-  Image: 
-  Description: "These are distinct patterns of thoughts, feelings and behaviours that
-    we develop to adapt to various environments where we feel unable to be our authentic
-    self. \n\nIn neuroscience these are viewed as distinct neural networks that function
-    as ‘specialised selves’ or ‘self states’. ( Siegel 1993) \n\nDaniel Stern summarises
-    the psychological view on these multiple selves: ‘ It is now largely accepted
-    that there are multiple ( context -specific) selves that can interact with each
-    other, observe each other, and converse together out of consciousness. This is
-    normal, not limited to pathological dissociative states.’ (Stern 2004) \n\nSub-personality
-    theory explains personality development and helps to explain why parts of our
-    personality can feel conflicted and as if there are ‘multiple selves’ within us
-    who have different ways of being.\n\nFor example the feeling of ‘ I want to do
-    this but another part of me wants to do that’, or ‘ I shouldn’t be getting angry
-    right now but I think its important I tell the truth’"
-  Graphic Image: 
   Audio url: 
   Video Url: 
   Credit: 
@@ -684,7 +683,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: fourteen
+- Template: sixteen
   Title: 
   Image: 
   Description: 
