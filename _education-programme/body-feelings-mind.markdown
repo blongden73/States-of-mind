@@ -12,7 +12,7 @@ Slides:
     approaches to wellbeing focus on developing a balance between our emotional, psychological
     and physical wellbeing in a sustained and gradual way over time. \nThis model
     views healing and wellbeing as a consequence of our ability to take notice and
-    develop awareness of how our body, feelings and mind respond in our daily life. "
+    develop awareness of the state of our  body, feelings and mind in our daily life. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -26,15 +26,15 @@ Slides:
   Title: 'How effective are mind-body techniques? '
   Image: 
   Description: "Mind body techniques have been shown to improve depression in both
-    children and adults. \n\n129 Palestinian children and teenagers took part in a
-    10-week mind-body skills programme that included meditation, breathing techniques
-    and self expression through drawings and movement.  After the programme the participants
-    reported feeling significantly less feelings of hopelessness ( a common experience
-    in depression) \n\nThe young people experienced improvements in their depression
-    after 7 months, despite continuing to live through conflict and adversity.  \n\nFurthere
-    research has shown that mind-body techniques have led to reduced mind-body rigidity
-    and enable higher levels of awareness, motivation and improvements in mood and
-    behaviour.  \n"
+    children and adults. \n\nIn one study, 129 Palestinian children and teenagers
+    took part in a 10-week mind-body skills programme that included meditation, breathing
+    techniques and self expression through drawings and movement. After the programme
+    the participants reported feeling significantly less feelings of hopelessness
+    (a common experience in depression) \n\nThe young people experienced improvements
+    in their depression after 7 months, despite continuing to live through conflict
+    and adversity.  \n\nFurther research has shown that mind-body techniques enable
+    higher levels of self awareness, motivation and improvements in mood and behaviour.
+    \ \n"
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -48,8 +48,8 @@ Slides:
   Title: 
   Image: 
   Description: "Everybody has 3 distinct states that we can become conscious to that
-    are both separate from each other and inter-related. \n\nMental states\nEmotional
-    States\nPhysical States "
+    are both separate from each other and inter-related:  \n\nMental states\n\nEmotional
+    states\n\nPhysical states "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -62,9 +62,9 @@ Slides:
 - Template: five
   Title: 
   Image: 
-  Description: "Some people may be more connected with either their body, feelings
-    or mind and we each have our own unique relationship to all three, like a fingerprint
-    or personal map. \n\n+ graphic"
+  Description: "Some people may naturally be more connected with either their body,
+    feelings or mind and we each have our own unique relationship to all three, like
+    a fingerprint or personal map. \n\n+ graphic"
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -76,7 +76,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: 'Interoception '
-  Image: "/uploads/hand.jpeg"
+  Image: "/uploads/interoception%202.jpg"
   Description: 
   Graphic Image: 
   Audio url: 
@@ -91,7 +91,7 @@ Slides:
   Title: Why is interoception important for mental health?
   Image: 
   Description: "Interoception is a skill that allows us to perceive our internal states
-    and sensations of our body, feelings and mind.   It is a skill that provides us
+    and sensations of our body, feelings and mind. It is a skill that provides us
     with a starting point for regulating our moods, thoughts and physical health.
     \n\nBy bringing awareness to the state of our body, feelings and mind, through
     the process of interoception, we can reduce the intensity of the distress and
@@ -123,7 +123,7 @@ Slides:
 - Template: five
   Title: 'Body Scan '
   Image: 
-  Description: "The purpose of the body scan is to notice how we can be holding tension
+  Description: "The purpose of the body scan is to notice how we may be holding tension
     and stress unconsciously in our body. By doing a body scan, we use our awareness
     to reduce stress and tension and bring our body back to balance. \n"
   Graphic Image: 
@@ -137,19 +137,15 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: Vagus Nerve
-  Image: 
-  Description: "Breathing is a tool that we can use to connect us with our bodies
-    and restore balance to the underlying biological cause of stress, tension and
-    emotional distress. \n\nWhen we breathe deeply, our diaphragm presses against
-    the main nerve in our nervous system called the vagus nerve. This nerve is responsible
-    for sending impulses to the brain that tells our mind it can relax. \n\nWhen the
-    vagus nerve is not activated enough, our brain can become overstimulated, causing
-    mental tension, anxiety and rumination. \n\nThe vagus nerve is the part of our
-    body that is responsible for a large part of the mind-body connection. \n\nWe
-    notice the effect of the vagus nerve when we do things that relieve physical tension
-    and our minds become more relaxed and focused. \n\nThe vagus nerve sends messages
-    between our internal body parts and our brain, sending messages back and forth
-    that affect the functioning of our physical body and mental states."
+  Image: "/uploads/vagus%20nerve-49f2ca.jpg"
+  Description: "\nThe vagus nerve sends messages between our internal body parts and
+    our brain, sending messages back and forth that affect the functioning of our
+    physical body and mental states.\n\nThe vagus nerve is the part of our body that
+    is responsible for a large part of the mind-body connection. \n\nWhen the vagus
+    nerve is not activated enough, our brain can become overstimulated, causing mental
+    tension, anxiety and rumination. \n\nWe notice the effect of the vagus nerve when
+    we do things that relieve physical tension and our minds become more relaxed and
+    focused. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -161,6 +157,23 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: 
+  Image: "/uploads/breeeaathe.jpg"
+  Description: "Breathing is a tool that we can use to connect us with our bodies
+    and restore balance to the underlying biological cause of stress, tension and
+    emotional distress. \n\nWhen we breathe deeply, our diaphragm presses against
+    the vagus nerve. This nerve is responsible for sending impulses to the brain and
+    signals to our mind it can relax. \n"
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: 'How else is the vagus nerve related to our mental health? '
   Image: 
   Description: "# Experiencing a Threat \n\nWhen we experience a threat, the vagus
     nerve sends a message to our digestive system to stop producing digestive enzymes
@@ -202,7 +215,7 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: Movement and emotions
-  Image: 
+  Image: "/uploads/dance%203.jpg"
   Description: "When we experience difficult thoughts and emotions, this becomes reflected
     in our body as tension and discomfort. We can release this tension and discomfort
     by bringing awareness to our body and physical experience.\n\nOne of the ways
