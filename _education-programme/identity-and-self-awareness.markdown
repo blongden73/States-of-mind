@@ -79,12 +79,11 @@ Slides:
 - Template: four
   Title: 
   Image: 
-  Description: "Self awareness is one tool we can use to improve our wellbeing and
-    shape our reality. However, if we are struggling emotionally due to the actions
-    of others, experiencing abuse or other challenging experiences, it is not our
-    responsibility to manage our problems alone and seeking help for these experiences
-    is really important for our mental health.  \n\nLinks to helpful places that can
-    help. "
+  Description: "Developing Self awareness is one tool we can use to improve our wellbeing
+    and shape our reality. \n\nHowever, if we are struggling emotionally due to the
+    actions of others, experiencing abuse or other challenging experiences, it is
+    not our responsibility to manage our problems alone and seeking help for these
+    experiences is really important for our mental health.  \n\n "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -97,11 +96,11 @@ Slides:
 - Template: five
   Title: 
   Image: 
-  Description: "Psychology provides us with different models to understand self awareness
-    to learn more about our selves. This module uses 3 models, \n\n1. Johari Window
-    \ \n2. Inner child \n3. Subpersonalities\n\nOther models that you can explore
-    if you are interested… Maslow’s hierarchy of needs, Freud and the psychodynamic
-    model of the personality, Jung and the Five Factor model of the Personality. "
+  Description: "Psychology provides us with different models to understand and develop
+    self awareness. This module uses 3 models:  \n\nJohari Window  \nInner child \nSubpersonalities\n\nIf
+    you are interested, you can explore these models too: Maslow’s hierarchy of needs,
+    Freud and the psychodynamic model of the personality, Jung and the Five Factor
+    model of the Personality. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -114,19 +113,18 @@ Slides:
 - Template: sixteen
   Title: 
   Image: 
-  Description: "## Joseph Luft and Harrington Ingham\n\n**The Johari Window is a visual
-    representation of aspects of the self that are known or unknown to ourselves and
-    others.**\n\nThe open area represents everything we know about ourselves. This
-    is what people who know us know about us and what we are consciously aware of
-    too. \n\nThe hidden area relates to all of the parts of ourselves that we do not
-    share with others. This information that we keep private may relate to our fears
-    and insecurities swell as your hopes and dreams.  \n\nThe blind spot relates to
-    our potential for personal growth through our close and trusted relationships.
-    Our friends and family can provide us with feedback and honesty that can help
-    us to see ourselves more clearly. This can relate to both our positive attributes
-    and areas for growth. \n\nThe unknown relates to information about ourselves that
-    is unconscious to both ourselves and others. This relates to parts of ourselves
-    we still have yet to discover through new experiences. \n\n"
+  Description: |-
+    ## The Johari Window
+
+    The Johari Window is a visual representation of aspects of the self that are known or unknown to ourselves and others.
+
+    **The open area** represents everything we know about ourselves. This is what people who know us know about us and what we are consciously aware of too.
+
+    **The hidden area** relates to all of the parts of ourselves that we do not share with others. This information that we keep private may relate to our fears and insecurities swell as your hopes and dreams.
+
+    **The blind spot** relates to the parts of ourselves we are not aware of but that others know about us. This can relate to both our positive attributes and areas for growth.
+
+    **The unknown** relates to information about ourselves that is unconscious to both ourselves and others. This relates to parts of ourselves we still have yet to discover through new experiences.
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -164,24 +162,22 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
-  Title: 
+  Title: Self Awareness has been proven as a tool that can help us to flourish.
   Image: 
-  Description: "**Self Awareness has been proven as a tool that can help us to flourish.**\n\nThe
-    insight that self awareness provides allows us to feel more satisfied with our
-    lives. \n\nWhen cultivated fully, we no longer repress or hide our emotions or
-    experiences and instead see them as ways to learn and grow.  \n\nSelf awareness
-    allows us to develop insight into our problems, behaviours and personal experiences.
-    \n\nThis process of bringing conscious awareness to how we are living is the first
-    step to having confidence that we can change our lives to be more positive and
-    fulfilling. Without this insight and this belief in change, it is very difficult
-    to know we can develop ourselves and we can become stuck feeling as if we have
-    no control over how things are. \n\nHarrington, Rick,Loffredo, Donald 2010/11/30,
-    Insight, Rumination, and Self-Reflection as Predictors of Well-Being, The Journal
-    of psychology"
+  Description: "\nThe **insight** that self awareness provides allows us to feel more
+    satisfied with our lives by helping us to become aware of our emotions and behaviour.
+    \n\nWhen cultivated fully, we no longer repress or hide our emotions or experiences
+    and instead see them as ways to **learn and grow**.  \n\nThis process of bringing
+    conscious awareness to how we are living is the first step to having confidence
+    that we can change our lives to be more positive and fulfilling. \n\nWithout this
+    insight and this **belief in change**, it is very difficult to know we that we
+    can change our experience and we can become stuck feeling as if we have no control
+    over how things are. \n\n"
   Graphic Image: 
   Audio url: 
   Video Url: 
-  Credit: 
+  Credit: Harrington, Rick,Loffredo, Donald 2010/11/30, Insight, Rumination, and Self-Reflection
+    as Predictors of Well-Being, The Journal of psychology
   Links:
   - Link Url: 
   Quote: 
@@ -227,18 +223,31 @@ Slides:
   Title: 'How can self awareness impact how we experience our identity? '
   Image: 
   Description: "\nWe like to think of ourselves as one consistent personality or person
-    but in reality, we are composed of many different aspects and parts, that all
-    serve an important role in our lives. \nSelf awareness allows us to recognise
+    but in reality, we are composed of **many different aspects and parts**, that
+    all serve an important role in our lives. \n\nSelf awareness allows us to recognise
     that our identity is not fixed but is an ever-changing reflection of our experiences,
     values and relationships. Self awareness allows us to explore the emotional connection
-    or resistance we have to them.  \n\nBy exploring the different aspects of our
-    personal identity we can gain a deeper understanding of what makes us unique and
-    what connects us most fundamentally with others.  \n\nWe can then develop insights
-    into the causes of our problems and our potential for growth, and recover our
-    gifts and qualities that we are blind to.  "
+    or resistance we have to these parts of our life.  \n\nBy exploring the different
+    aspects of our personal identity we can gain a deeper understanding of what makes
+    us unique and what connects us most fundamentally with others.  \n\nWe can then
+    develop insights into the causes of our problems and our potential for growth,
+    and recover our gifts and qualities that we are blind to.  "
   Graphic Image: 
   Audio url: 
   Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: nineteen
+  Title: 
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: https://m.youtube.com/watch?v=TucyzpHDNlE
   Credit: 
   Links:
   - Link Url: 
