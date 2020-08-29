@@ -40,16 +40,14 @@ Slides:
 - Template: sixteen
   Title: 'How effective are mind-body techniques? '
   Image: 
-  Description: "Mind body techniques have been shown to improve depression in both
-    children and adults. \n\nIn one study, 129 Palestinian children and teenagers
-    took part in a 10-week mind-body skills programme that included meditation, breathing
-    techniques and self expression through drawings and movement. After the programme
-    the participants reported feeling significantly less feelings of hopelessness
-    (a common experience in depression) \n\nThe young people experienced improvements
-    in their depression after 7 months, despite continuing to live through conflict
-    and adversity.  \n\nFurther research has shown that mind-body techniques enable
-    higher levels of self awareness, motivation and improvements in mood and behaviour.
-    \ \n"
+  Description: |-
+    Mind body techniques have been shown to improve depression in both children and adults.
+
+    In one study, 129 Palestinian children and teenagers took part in a 10-week mind-body skills programme that included meditation, breathing techniques and self expression through drawings and movement. After the programme the participants reported feeling significantly less feelings of hopelessness (a common experience in depression).
+
+    The young people experienced improvements in their depression after 7 months, despite continuing to live through conflict and adversity.
+
+    Further research has shown that mind-body techniques enable higher levels of self awareness, motivation and improvements in mood and behaviour.
   Graphic Image: 
   Audio url: 
   Video Url: 
