@@ -110,7 +110,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
-  Title: Self Awareness has been proven as a tool that can help us to flourish.
+  Title: Research has proven that self awareness is a tool that can help us to flourish.
   Image: 
   Description: "\nThe **insight** that self awareness provides allows us to feel more
     satisfied with our lives by making us more aware of why we feel and act the way
