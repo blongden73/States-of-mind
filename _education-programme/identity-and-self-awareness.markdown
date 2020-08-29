@@ -117,8 +117,8 @@ Slides:
   Description: "\nThe **insight** that self awareness provides allows us to feel more
     satisfied with our lives by helping us to become aware of our emotions and behaviour.
     \n\nWhen cultivated fully, we no longer repress or hide our emotions or react
-    unconsciously to our experiences but instead see our true feelings as a window
-    to our true self. \n"
+    unconsciously to our experiences but instead see them as a way to develop deeper
+    levels of understanding. \n"
   Graphic Image: 
   Audio url: 
   Video Url: 
