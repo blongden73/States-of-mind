@@ -18,23 +18,6 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: five
-  Title: 'In this introductory module, you will explore: '
-  Image: 
-  Description: "What self awareness is and why it is so important for maintaining
-    mental health and wellbeing. \n\n**How your life history has shaped your self
-    - image and aspects of your personality.**\n\nThe different dimensions of your
-    identity and the factors that shape it. \n\n**The notion of an authentic self
-    and subpersonalities.**\n\nHow our identity is influenced by group relationships. "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: five
   Title: 
   Image: 
   Description: 
