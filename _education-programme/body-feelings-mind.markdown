@@ -72,6 +72,19 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: one
+  Title: Body, Feelings, Mind
+  Image: "/uploads/body%20scan-cc3639.jpeg"
+  Description: Meditation
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: five
   Title: 
   Image: 
@@ -111,19 +124,6 @@ Slides:
     discomfort that we experience. \n\nWhen we turn towards our discomfort, with an
     attitude of curiosity and acceptance, we begin to develop the ability to regulate
     and reduce it.\n\n"
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: one
-  Title: Body, Feelings, Mind
-  Image: "/uploads/body%20scan-cc3639.jpeg"
-  Description: Meditation
   Graphic Image: 
   Audio url: 
   Video Url: 
