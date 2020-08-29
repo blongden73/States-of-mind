@@ -319,6 +319,20 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: two
+  Title: 'Time to pause '
+  Image: 
+  Description: 'And take time to reflect on your personal experience in the insight
+    handbook. '
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: "#7ad5eb"
 - Template: sixteen
   Title: Authenticity and mental health
   Image: "/uploads/Jung.jpg"
