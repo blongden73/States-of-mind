@@ -247,7 +247,9 @@ Slides:
   Description: 
   Graphic Image: 
   Audio url: 
-  Video Url: https://m.youtube.com/watch?v=TucyzpHDNlE
+  Video Url: <iframe width="560" height="315" src="https://www.youtube.com/embed/TucyzpHDNlE"
+    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen></iframe>
   Credit: 
   Links:
   - Link Url: 
