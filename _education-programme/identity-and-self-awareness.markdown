@@ -456,6 +456,26 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: five
+  Title: 'The Personal Self : I '
+  Image: 
+  Description: "The Self is our ‘core self ’ , which never changes throughout our
+    lives, it is a state of consciousness and witnessing of experiencing. \n\nThe
+    ‘I’ is the part of us that identifies with the aspects of our experience such
+    as our thoughts, emotions, behaviour and many parts of ourselves. The I is what
+    we experience as your personal self and what we experience consciously as as who
+    we are.  \n\nThe ‘I’ identifies with our sub personalities, which is why we experience
+    them as so personal, as when we are connected with a sub personality we experience
+    it as our full self in the moment and believe that is all we are. "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: sixteen
   Title: 'Personality '
   Image: "/uploads/mask.jpg"
@@ -495,6 +515,23 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
+  Title: What are the benefits of sub-personality work? 
+  Image: 
+  Description: |
+    1. We learn to connect with our different and contradictory ways of acting in the world. This raises our awareness of our behaviour and helps us to make sense of how we can seem to be different versions of ourselves in different circumstances.
+     2. We learn to free ourselves of the unconscious forces that cause us to get trapped in certain aspects of our personality. For example, a very critical part of ourselves.
+    3. We integrate the different aspects of our personality which causes us to feel less conflict within ourselves.
+    4.We emphasise all of the beneficial qualities of our sub-personalities and recognise how they serve us.
+    5. By identifying with our different sub-peronalities, it allows us to develop a greater awareness of what is our true self and what is a mask or persona.    Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
   Title: 
   Image: 
   Description: "These are distinct patterns of thoughts, feelings and behaviours that
@@ -519,69 +556,10 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
-  Title: Subpersonality
-  Image: "/uploads/expert.jpg"
-  Description: "Example\n‘The Expert’\n\n**Behaviour**\nPatronising, condescending,
-    arrogant, ‘ know it all’, rigid, defensive, guarded and slightly hostile.  Serious
-    tone of voice. Body language: Rigid, tense, stiff. \n\n**Wants** \nTo be taken
-    seriously, to be respected, not to be challenged, to be right, to feel superior,
-    to be admired and given attention. to not be criticised.\n\n**Needs** \nTo feel
-    unconditionally accepted and loved, to be seen and valued, to be heard, to feel
-    worthy and enough as they are.\n  \nQualities of self that are hidden by this
-    part \nPlayfulness and spontaneity, willingness to learn from others, curiosity,
-    the part of us that wants to grow, acceptance of self. "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: five
-  Title: 'Some other sub-personalities to explore '
-  Image: 
-  Description: "* The clown\n* The critic\n* The people pleaser\n* The caretaker\n*
-    The rebel\n* The acheiver\n* The child "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: five
-  Title: 
-  Image: 
-  Description: "The Self is our ‘core self ’ , which never changes throughout our
-    lives, it is a state of consciousness and witnessing of experiencing. \n\nThe
-    ‘I’ identifies with the aspects of our experience, like our thoughts, emotions,
-    behaviour and many parts of ourselves. The I is what we experience as your personal
-    self and what we see as who we are.  \n\nThe ‘I’ identifies with our sub personalities,
-    which is why we experience them as so personal, as when we are connected with
-    a sub personality we experience it as our full self in the moment and believe
-    that is all we are. "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: four
-  Title: 
-  Image: 
-  Description: "If you would like to learn more the psychology of personality you
-    can explore the Enneagram, Myers Briggs and the Big Five Personality test.\n\nIt
-    is important to recognise that personality tests highlight aspects of our personality
-    by showing us dominant traits, however this is not a reflection of our complete
-    self, yet it can indicate areas where we can grow and develop. "
+- Template: one
+  Title: Exploring sub personalities
+  Image: "/uploads/sub%20personalities.jpg"
+  Description: 
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -598,6 +576,41 @@ Slides:
     Subpersonalities cause us difficulties when we identify with this one part of ourselves and believe it to be all of us. For example, if we are identified with the ‘ High achiever’ part of ourselves, it may help us to get good grades and maintain a motivation for developing our knowledge and experience. However, if we become over identified with this part of ourselves we may become very distressed by setbacks, we may spend less time with our friends or we may never be satisfied with what we have achieved. 
 
     Our sub personalities all emerge from an unmet need. By exploring these parts of ourselves, we can develop our self awareness and integrate the many different parts of ourselves. You can imagine your sub-personalities as an orchestra and your awareness as the conductor. By bringing awareness to your different sub personalities you can integrate them and enable them to work together as a harmonious whole.
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: "Example: The Expert \n\n"
+  Image: "/uploads/expert.jpg"
+  Description: "**Behaviour**\nPatronising, condescending, arrogant, ‘ know it all’,
+    rigid, defensive, guarded and slightly hostile.  Serious tone of voice. Body language:
+    Rigid, tense, stiff. \n\n**Wants** \nTo be taken seriously, to be respected, not
+    to be challenged, to be right, to feel superior, to be admired and given attention.
+    to not be criticised.\n\n**Needs** \nTo feel unconditionally accepted and loved,
+    to be seen and valued, to be heard, to feel worthy and enough as they are.\n  \nQualities
+    of self that are hidden by this part \nPlayfulness and spontaneity, willingness
+    to learn from others, curiosity, the part of us that wants to grow, acceptance
+    of self. "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: five
+  Title: 'Some other sub-personalities to explore '
+  Image: 
+  Description: "* The clown\n* The critic\n* The people pleaser\n* The caretaker\n*
+    The rebel\n* The acheiver\n* The child "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -626,27 +639,14 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
-  Title: What are the benefits of sub-personality work? 
+- Template: four
+  Title: 
   Image: 
-  Description: |
-    1. We learn to connect with our different and contradictory ways of acting in the world. This raises our awareness of our behaviour and helps us to make sense of how we can seem to be different versions of ourselves in different circumstances.
-     2. We learn to free ourselves of the unconscious forces that cause us to get trapped in certain aspects of our personality. For example, a very critical part of ourselves.
-    3. We integrate the different aspects of our personality which causes us to feel less conflict within ourselves.
-    4.We emphasise all of the beneficial qualities of our sub-personalities and recognise how they serve us.
-    5. By identifying with our different sub-peronalities, it allows us to develop a greater awareness of what is our true self and what is a mask or persona.    Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: one
-  Title: Exploring sub personalities
-  Image: "/uploads/sub%20personalities.jpg"
-  Description: 
+  Description: "If you would like to learn more the psychology of personality you
+    can explore the Enneagram, Myers Briggs and the Big Five Personality test.\n\nIt
+    is important to recognise that personality tests highlight aspects of our personality
+    by showing us dominant traits, however this is not a reflection of our complete
+    self, yet it can indicate areas where we can grow and develop. "
   Graphic Image: 
   Audio url: 
   Video Url: 
