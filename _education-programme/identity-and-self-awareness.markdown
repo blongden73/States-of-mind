@@ -251,25 +251,6 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
-  Title: 'How can self awareness impact how we experience our identity? '
-  Image: 
-  Description: "\nWe like to think of ourselves as one consistent personality or person
-    but in reality, we are composed of **many different aspects and parts**, that
-    all serve an important role in our lives. \n\nSelf awareness allows us to recognise
-    that our identity is not fixed but is an ever-changing reflection of our experiences,
-    values and relationships.  \n \nWe can then develop insights into how we view
-    ourselves, identify the causes of our problems and rediscover our potential for
-    growth."
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
 - Template: one
   Title: Who are you?
   Image: "/uploads/identity%205.jpeg"
