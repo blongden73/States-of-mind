@@ -221,6 +221,23 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: six
+  Title: Identity
+  Image: 
+  Description: "Our identity isn’t fixed. It is a subjective and personal experience
+    of how we chose to view ourselves. \n\nAs our life history and identity are so
+    closely related, exploring and bringing awareness to different aspects of our
+    identity can provide an important foundation for self-discovery, self awareness
+    and personal growth. "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: six
   Title: How does identity relate to mental health?
   Image: 
   Description: 'Everyday we have an experience of who we are. Sometimes this is a
@@ -268,23 +285,6 @@ Slides:
   Title: Who are you?
   Image: 
   Description: What is it about a person that defines who they are? 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: six
-  Title: Identity
-  Image: 
-  Description: "Our identity isn’t fixed. It is a subjective and personal experience
-    of how we chose to view ourselves. \n\nAs our life history and identity are so
-    closely related, exploring and bringing awareness to different aspects of our
-    identity can provide an important foundation for self-discovery, self awareness
-    and personal growth. "
   Graphic Image: 
   Audio url: 
   Video Url: 
