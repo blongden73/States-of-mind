@@ -247,8 +247,8 @@ Slides:
 - Template: six
   Title: Identity
   Image: 
-  Description: "Our identity isn’t fixed but develops and changes over time. Our identity
-    is subjective and personal and is influenced by our unique life experiences. \n\nAs
+  Description: "Our identity isn’t fixed but develops and changes over time. It is
+    subjective and personal and is influenced by our unique life experiences. \n\nAs
     our life history and identity are so closely related, exploring and bringing awareness
     to different aspects of our identity can provide an important foundation for self-discovery,
     self awareness and personal growth. "
