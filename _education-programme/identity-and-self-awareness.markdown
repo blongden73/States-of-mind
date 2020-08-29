@@ -327,9 +327,9 @@ Slides:
     development. His idea was that psychological health is achieved by seeking to
     live as authentically as we can ( to feel and act in accordance with who we most
     essentially are).  \n\nHe believed that everybody had the ability and the impulse
-    to move towards our fullest potential  and that we achieved this by becoming aware
-    of aspects of ourselves we ignore or are unconscious to, aswell as the unmanifested
-    potential that exists within us. \n\n"
+    to move towards their fullest potential  and that this was achieved by becoming
+    aware of the aspects of ourselves that we often ignore or are unconscious to.
+    \n\n"
   Graphic Image: 
   Audio url: 
   Video Url: 
