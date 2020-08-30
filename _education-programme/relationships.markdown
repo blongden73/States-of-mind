@@ -199,7 +199,7 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: 'A) Secure relationship style '
-  Image: "/uploads/secure%20(1).jpeg"
+  Image: "/uploads/DTS_Unbrand_Julien_Tell_4614.jpg"
   Description: |-
     " I find it relatively easy to get close to others and I feel relatively comfortable depending on them and allowing them to depend on me.  I don’t worry about being abandoned or about someone getting too close to me. "
 
@@ -326,7 +326,7 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: 'Neuroplasticity and emotional development. '
-  Image: "/uploads/neurons.jpg"
+  Image: "/uploads/DTS_Micro_Mouthwash_Studios_4055.jpg"
   Description: |-
     Neuroscientists have discovered that the brain is able to continue reshaping itself through our adolescence and adult life. This means that early emotional and behavioural patterns can change with new experiences that we have throughout our lives.
 
