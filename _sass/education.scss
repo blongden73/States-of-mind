@@ -136,7 +136,7 @@
 
     h2 {
       font-size: 100px;
-      line-height: 0.9;
+      line-height: 1;
       letter-spacing: -5px;
     }
 
@@ -247,6 +247,7 @@
     }
     h2 {
       font-size: 4vw;
+      text-transform: capitalize;
       line-height: 1;
       max-width: 78%;
       margin-bottom: 30px;
@@ -411,6 +412,19 @@
 
     @include mq($from: desktop) {
       max-width: 45%;
+    }
+  }
+
+  &.slide-end {
+    h1 {
+      font-size: 5vw;
+      line-height: 1;
+      margin: 0;
+      span {
+        color: $dark-blue;
+        margin: 0;
+        display: block;
+      }
     }
   }
 

@@ -62,6 +62,14 @@
       </div>
     </div>
   {% endfor %}
+  <div id="slide-end" class="slide four slide-cover slide-end">
+    <div class="som-wrapper">
+      <h1>
+        <span>End of module</span>
+        {{page.title}}
+      </h1>
+    </div>
+  </div>
 </div>
 <div class="slides-footer">
   <div class="slides-counter">
