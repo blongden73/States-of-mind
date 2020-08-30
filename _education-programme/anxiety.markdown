@@ -249,16 +249,26 @@ Slides:
 - Template: sixteen
   Title: 
   Image: 
-  Description: "# Anxious thought patterns\n\nOne of those ways to notice if we are
-    experiencing anxiety is to bring awareness to our thought patterns. When we are
-    fearful and anxious, we begin to think differently, bringing awareness to these
-    can help us recognise when we are caught in anxiety. \n\n# Tunnel Vision:\n\nFocusing
-    only only the negative aspects of our experience and ignoring the positive.\n\n#
-    Catastrophising:\n\nExpecting the worst case scenario to happen.\n\n# Mind reading
-    and fortune telling\n\nAssuming you know what other people are thinking and often
-    assuming other people’s perceptions of us are or will be negative.\n\n# Emotional
-    reasoning\n\nAssuming that because we feel strongly towards a situation it must
-    be the only reflection of how things are."
+  Description: |-
+    # Anxious thought patterns
+
+    One of those ways to notice if we are experiencing anxiety is to bring awareness to our thought patterns. When we are fearful and anxious, we begin to think differently, bringing awareness to these can help us recognise when we are caught in anxiety.
+
+    # Tunnel Vision
+
+    Focusing only only the negative aspects of our experience and ignoring the positive.
+
+    # Catastrophising
+
+    Expecting the worst case scenario to happen.
+
+    # Mind reading and fortune telling
+
+    Assuming you know what other people are thinking and often assuming other people’s perceptions of us are or will be negative.
+
+    # Emotional reasoning
+
+    Assuming that because we feel strongly towards a situation it must be the only reflection of how things are.
   Graphic Image: 
   Audio url: 
   Video Url: 
