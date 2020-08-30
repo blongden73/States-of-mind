@@ -102,7 +102,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: 'Interoception '
-  Image: "/uploads/interoception%202.jpg"
+  Image: "/uploads/engin-akyurt-5e8SJhu-YEA-unsplash.jpg"
   Description: 
   Graphic Image: 
   Audio url: 
@@ -195,7 +195,7 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: 
-  Image: "/uploads/breeeaathe.jpg"
+  Image: "/uploads/photo-1513097847644-f00cfe868607.jpeg"
   Description: "Breathing is a tool that we can use to connect us with our bodies
     and restore balance to the underlying biological cause of stress, tension and
     emotional distress. \n\nWhen we breathe deeply, our diaphragm presses against
