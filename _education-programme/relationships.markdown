@@ -692,7 +692,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: 'Listening '
-  Image: 
+  Image: "/uploads/alexis-brown--Xv7k95vOFA-unsplash.jpg"
   Description: 
   Graphic Image: 
   Audio url: 
