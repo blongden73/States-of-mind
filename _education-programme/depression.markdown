@@ -653,23 +653,22 @@ Slides:
 - Template: sixteen
   Title: 'Mindfulness for depression '
   Description: "Mindfulness has been described as’ paying attention in a particular
-    way; on purpose, in the present moment and non-judgementally.’ \n\nMindfulness
+    way; on purpose, in the present moment and non-judgementally.’\n\nMindfulness
     allows us to take a new perspective on our experience, that is characterised by
     openness, curiosity and acceptance of our experience. This allows us to strengthen
     brain networks that enable us to view our thoughts as mental events rather than
-    permanent and factual aspects of our experience. \n\nRecent small trials Recent
+    permanent and factual aspects of our experience.\n\nRecent small trials Recent
     research has found that young people who took part in mindfulness programmes experience
     a range of beneficial outcomes including reduced depression, improved coping skills,
-    improved mood, and improved post-traumatic stress symptoms.  Perry-Parrish et
-    al (2016)\n\nA review of nine clinical trials analyzing people with severe depression
-    found MBCT reduced a patient’s chances of relapsing for up to 60 weeks, regardless
-    of their sex, age, education or relationship status. The analysis compared MBCT
-    with routine treatments for depression, including antidepressants. Kuyken  et
-    al ,2016"
+    improved mood, and improved post-traumatic stress symptoms.  \n\nA review of nine
+    clinical trials analyzing people with severe depression found MBCT reduced a patient’s
+    chances of relapsing for up to 60 weeks, regardless of their sex, age, education
+    or relationship status. The analysis compared MBCT with routine treatments for
+    depression, including antidepressants. "
   Graphic Image: 
   Audio url: 
   Video Url: 
-  Credit: 
+  Credit: Perry-Parrish et al (2016), Kuyken  et al ,2016
   Links:
   - Link Url: 
   Quote: 
