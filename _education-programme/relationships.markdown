@@ -861,7 +861,7 @@ Slides:
   Credit: 
   Links:
   - Link Url: 
-  Quote: "“being empathic is a complex, demanding, strong yet subtle and gentle way
+  Quote: "“Being empathic is a complex, demanding, strong yet subtle and gentle way
     of being.”\n"
   Quote Credit: Carl Rogers
   Slide Colour: 
