@@ -380,17 +380,14 @@ Slides:
 - Template: sixteen
   Title: Compassion
   Image: 
-  Description: "Compassion is the foundation for empathy, love and compromise in relationships.
-    \n\nCompassion is an attitude and belief in equality and each persons right for
-    their needs to be valued and understood for both their good qualities and their
-    flaws.\n\n\nWhen we do not judge or criticise the behaviour of another person
-    but take time to understand and work through problems together, we show ourselves
-    and the other that we do not see problems in the relationship as Indications of
-    their worth but as an opportunity for growth and deeper levels of understanding
-    and connection in our relationships.\n\nBy respecting another person as having
-    the same needs for love, connection and understanding as ourselves, we can overcome
-    the judgement and limiting beliefs about others that can cause distance and misunderstanding
-    in relationships."
+  Description: |-
+    Compassion is the foundation for empathy, love and compromise in relationships.
+
+    Compassion is an attitude and belief in equality and each persons right to be valued and understood.
+
+    When we do not judge or criticise the behaviour of another person but take time to understand and work through problems together, we show the other person that we do not see problems in the relationship as Indications of their worth. Instead, we see working through problems  as an opportunity for growth that can provide deeper levels of understanding and connection.
+
+    By respecting another person as having the same needs for love, connection and understanding as ourselves, we can overcome the judgement and limiting beliefs about others that can cause distance and misunderstanding in relationships.
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -418,8 +415,8 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: 'sixteen '
-  Title: 
+- Template: six
+  Title: 'Self Compassion '
   Image: 
   Description: |-
     By practicing self compassion we can provide ourselves with the need for reassurance and a sense of safety in the absence of another person.
@@ -468,21 +465,49 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: six
+  Title: 
+  Image: 
+  Description: |-
+    # I-Thou relationship
+
+     The other person is seen for who they really are, not for what they represent or signify. In this relationships, there is a willingness to understand the other person on a deeper level than our immediate judgements, assumptions and stereotypes that we bring to the relationship.
+
+    # I-It relationship
+
+    We view the other person more as a ‘thing’ than a human being with a story and individual needs. In and I-it relationship we assume we know the other person, without needing to take time to develop a close and mutual relationship with them.
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: ten
+  Title: Discussion
+  Image: 
+  Description: 'Have you ever felt like you have experienced an ''I -It'' relationship
+    with somebody? How did this make you feel towards them? '
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: sixteen
   Title: 'I -it and I-Thou relationships '
-  Image: 
-  Description: "Martin Buber Martin Buber was a prominent twentieth century philosopher,
-    religious thinker, political activist and educator. \nHe explored different ways
-    that people perceived and acted towards other people in their relationships. He
-    called these different ways of viewing others in relationship as ‘I-Thou’ and
-    ‘I-it’ relationships. \nIn an I-Thou relationship, the other person is seen for
-    who they really are, not for what they represent or signify. In this relationships,
-    there is a willingness to understand the other person on a deeper level than our
-    immediate judgements, assumptions and stereotypes that we bring to the relationship.
-    \nIn an I-It relationship, we view the other person more as a ‘thing’ than a human
-    being with a story and individual needs. In and I-it relationship we assume we
-    know the other person, without needing to take time to develop a close and mutual
-    relationship with them. "
+  Image: "/uploads/FL37036004-715-537.jpg"
+  Description: |-
+    Martin Buber Martin Buber was a prominent twentieth century philosopher, religious thinker, political activist and educator.
+
+    He explored different ways that people perceived and acted towards other people in their relationships.
+
+     He called these different ways of viewing others in relationship as ‘I-Thou’ and ‘I-it’ relationships.
   Graphic Image: 
   Audio url: 
   Video Url: 
