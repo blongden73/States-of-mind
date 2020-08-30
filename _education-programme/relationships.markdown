@@ -636,7 +636,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: six
+- Template: list
   Title: How does mentalising improve our relationships?
   Image: 
   Description: "# It reduces misunderstandings \n\nMentalising allows us to clarify
