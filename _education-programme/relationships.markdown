@@ -782,7 +782,7 @@ Slides:
   Quote Credit:
   Slide Colour:
 - Template: list
-  Title: 'Barriers to good listening '
+  Title:
   Image:
   Description: |-
     # Becoming distracted by emotions.
