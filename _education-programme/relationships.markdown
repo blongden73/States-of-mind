@@ -785,11 +785,11 @@ Slides:
   Title: 
   Image: 
   Description: |-
-    # Becoming distracted by emotions.
+    # Becoming distracted by emotions:
 
     If the conversation creates an emotional response in us, it can prevent us from being fully present to the speaker.
 
-    # Becoming nervous about silence.
+    # Becoming nervous about silence:
 
     Silence in conversation can make us feel uncomfortable and awkward . By interrupting to prevent silences we spend a message to the other person that we are not able to contain the feelings of discomfort in the listening process. By taking time to allow silence, or by using silence to summarise back to the listener what you have heard, you can help the listener to feel supported and better understood.
 
