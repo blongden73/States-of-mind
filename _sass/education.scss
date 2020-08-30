@@ -418,6 +418,7 @@ body.education {
 
     .slide-description {
       text-align: center;
+      font-size: 1.2vw;
     }
   }
 
@@ -618,6 +619,29 @@ body.education {
 
 .pagination {
   padding-top: 4px;
+}
+
+.one + .one {
+  .slide-image {
+    right: auto;
+    left: 0;
+  }
+
+  .slide-content {
+    right: 10%;
+  }
+}
+
+.list + .list {
+  background: #f7e3e7; /* Old browsers */
+  background: -moz-linear-gradient(-45deg,  #f7e3e7 0%, #ffffff 49%, #d0eef4 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(-45deg,  #f7e3e7 0%,#ffffff 49%,#d0eef4 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(135deg,  #f7e3e7 0%,#ffffff 49%,#d0eef4 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f7e3e7', endColorstr='#d0eef4',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+
+.list + .sixteen {
+  background-color: $nu-beige;
 }
 
 .sixteen + .sixteen {
