@@ -628,7 +628,7 @@ Slides:
     Mentalising allows us to think consciously about what we are thinking and feeling, aswell as being curious about what may be going on in other people’s minds.
 
     Mentalising allows us to switch from concrete thought ‘ She is behaving like that because’ to a wondering stance ‘ I wonder why she may be behaving like that’.
-  Graphic Image: 
+  Graphic Image: "/uploads/gemma-chua-tran-mZQpsI1CoVQ-unsplash%20(1).jpg"
   Audio url: 
   Video Url: 
   Credit: 
