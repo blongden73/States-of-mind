@@ -17,16 +17,33 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: four
+  Title: 'Needs in relationships '
+  Image: 
+  Description: "Our behaviour in relationships is driven by our evolutionary needs
+    for safety, love andconnection with others.\n\nEveryone has needs for love, connection
+    and a sense of belonging. \n\nThese core needs drive our behaviour in relationships
+    and how we interact with others. \n\nOur ability to have these needs met in our
+    relationships has a significant impact on our health and mental wellbeing."
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - 
 - Template: four
   Title: 
   Image: 
-  Description: |
-    Need for authenticity : one of our core needs is the ability to feel like we can bring our full self to our relationships.
-
-    Need for connection :  we all have a need to feel like we are seen, understood and valued in our relationships.
-
-    This module explores how we can enjoy more fulfilling and connected relationships with others.
+  Description: "While as individuals we can work to meet these needs for ourselves,
+    we can also supporting each other to meet these needs so that our relationships
+    feel healthy and fulfilling.\n\nNeed for authenticity \n\nOne of our core needs
+    is the ability to feel like we can bring our full self to our relationships.\n\nNeed
+    for connection \n\nWe all have a need to feel like we are seen, understood and
+    valued in our relationships.\n\n\n"
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -39,17 +56,43 @@ Slides:
 - Template: Sixteen
   Title: 'What influences our personal relationships? '
   Image: "/uploads/family.jpg"
-  Description: |-
-    Our relationships with others are in many ways a reflection of our relationship with ourselves.
-
-
-    Our emotional relationship with ourselves is also shaped by early childhood experiences and how we were related to by others when we were young.
-
-
-    Our early relationship with our parents can shape our view of relationships and behaviour with others in our later life. We may internalise beliefs that we developed in our early childhood relationships, such as not being loveable, not being enough as we are or that we need to abandon our needs to remain in a positive relationship with others.
-    Our parents are also individuals with their own potentially unmet needs and relational patterns that have been played out from their childhoods. The beliefs and mindsets about relationships that we develop in our childhood can shape our worldview about how relationships are.
-    As human beings, we all have the capacity to relearn how to relate in ways that allow us to feel connected, understood and seen for who we most essentially are.
-    By understanding the different relationship styles and dynamics we can develop an awareness of how and why we struggle in relationships and how we can change our unhelpful patterns.
+  Description: "Our early relationship with our parents often shape our view of relationships
+    and influence our relationships with others in our later life. \n\nWe may internalise
+    beliefs that we developed in our early childhood relationships, such as not being
+    loveable, not being enough as we are or that we need to abandon our needs to remain
+    in a positive relationship with others.\n\nIf we have struggled to develop close
+    and lasting relationships with others, research shows that we all have the capacity
+    to relearn how to relate in ways that allow us to feel connected, understood and
+    seen for who we most essentially are.\n\nBy understanding the different relationship
+    styles and dynamics we can develop an awareness of how and why we struggle in
+    relationships and how we can change our unhelpful patterns."
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: 'Attunement in Relationships '
+  Image: "/uploads/attunement.jpg"
+  Description: "Our relationship with our family provides us with our first experiences
+    of what relationships are like. The way that our parent/s responded to our needs
+    for authenticity and connection in childhood shapes our understanding of whether
+    we can trust others to meet these needs .\n\nIf our family was present and attuned
+    to what we needed and reflected back to us a positive sense of self, we will carry
+    a sense of self worth and self-esteem into our adult relationships and will feel
+    able to communicate openly and honesty about our emotional life.\nThis process
+    of reflecting back our authentic self is called ‘attunement’.\n\nIf our parents
+    punished us or were unavailable when we needed them emotionally, we may come to
+    develop a belief that it is unsafe or uncomfortable expressing our needs with
+    others as adults. This ‘non-attunement’ can have a significant impact on our sense
+    of self worth, our ability to regulate our emotions and our mental health.\n\nAlthough
+    no parent can meet all of our needs all of the time, the amount of attunement
+    that they were able to provide has been shown to influence the quality of our
+    relationships as an adult. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -62,9 +105,10 @@ Slides:
 - Template: five
   Title: The ‘good enough parent’
   Image: 
-  Description: 'Donald Winnicott coined the term the ‘good enough parent’ to refer
-    to the fact that no parent can meet our needs all of the time and that no parenting
-    style can be completely perfect. '
+  Description: |-
+    Donald Winnicott coined this term to refer to the fact that no parent can meet our needs all of the time and that no parenting style can be completely perfect.
+
+    Our parents are individuals with their own potentially unmet needs and relational patterns that have been played out from their childhoods. These beliefs and mindsets about relationships that we carry from our childhood can shape our worldview about how relationships are.
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -108,41 +152,17 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
-  Title: 'Family Relationships '
-  Image: 
-  Description: "Our relationship with our family provides us with our first experiences
-    of what relationships are like. The way that our parent/s responded to our needs
-    for authenticity and connection in childhood shapes our understanding of whether
-    we can trust others to meet these needs .  \nIf our family was present and attuned
-    to what we needed and reflected back to us a positive sense of self, we will carry
-    a sense of self worth and self-esteem into our adult relationships and will feel
-    able to communicate openly and honesty about our emotional life. \nThis process
-    of reflecting back our authentic self is called ‘attunement’. \nIf our parents
-    punished us or were unavailable when we needed them emotionally, we may come to
-    develop a belief that it is unsafe or uncomfortable expressing our needs with
-    others as adults. This ‘non-attunement’ can have a significant impact on our sense
-    of self worth, our ability to regulate our emotions and our mental health. \nAlthough
-    no parent can meet all of our needs all of the time, the amount of attunement
-    that they were able to provide has a direct impact on our mental health as an
-    adult.  "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: sixteen
   Title: 'Vicious and Virtuous Cycles in relationships '
   Image: 
-  Description: "Our beliefs about what to expect from our relationships are shaped
-    through our early experiences.  \nLimiting beliefs about our value and ability
-    to be seen and understood by others are shaped through and reflected by these
-    relationships.  \nThese beliefs play out in our patterns of behaviour in relationships,
-    yet these can be changed through new relational experiences.  \nGraphic - Representing
-    the cycle of how we affect relationships and how relationships affect us. "
+  Description: |-
+    Our beliefs about what to expect from our relationships are shaped through our early experiences.
+
+    \
+    Limiting beliefs about our value and ability to be seen and understood by others are shaped through and reflected by these early relationships.
+
+    \
+    These beliefs play out in our patterns of behaviour in relationships, yet these can be changed through new relational experiences.\
+    Graphic - Representing the cycle of how we affect relationships and how relationships affect us.
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -155,11 +175,11 @@ Slides:
 - Template: five
   Title: 
   Image: 
-  Description: "This graphic reflects the nature of our emotional development. Our
-    emotional memory from key stages of our life shapes our personal blueprint for
-    how we relate with others as adults. \nOur childhood needs for authenticity and
-    connection remain with us as we develop and our early experiences are often reflected
-    in how we relate in our adult lives. "
+  Description: |-
+    This graphic reflects the nature of our emotional development. Our emotional memory from key stages of our life shapes our personal blueprint for how we relate with others as adults.
+
+
+    Our childhood needs for authenticity and connection remain with us as we develop and our early experiences are often reflected in how we relate in our adult lives.
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -171,7 +191,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: 'Exploring our relationship History '
-  Image: 
+  Image: "/uploads/relationship%20history.jpg"
   Description: 
   Graphic Image: 
   Audio url: 
@@ -183,17 +203,16 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
-  Title: 
+  Title: 'Noticing attachment styles '
   Image: 
-  Description: "A) I find it relatively easy to get close to others and I feel relatively
-    comfortable depending on them and allowing them to depend on me.  I don’t worry
-    about being abandoned or about someone getting too close to me. \nB) I find that
-    others are reluctant to get as close as I would like. I often worry that my partner
-    doesn’t love me or won’t want to stay with me. I want to get close to my partner
-    and this sometimes scares people away. \nC) I am somewhat uncomfortable being
-    close to others. I find it difficult to trust them completely and difficult to
-    allow myself to defend on them. I am nervous when anybody gets too close and people
-    want me to be more intimate than I feel comfortable being. "
+  Description: |-
+    A) I find it relatively easy to get close to others and I feel relatively comfortable depending on them and allowing them to depend on me.  I don’t worry about being abandoned or about someone getting too close to me.
+
+
+    B) I find that others are reluctant to get as close as I would like. I often worry that my partner doesn’t love me or won’t want to stay with me. I want to get close to my partner and this sometimes scares people away.
+
+
+    C) I am somewhat uncomfortable being close to others. I find it difficult to trust them completely and difficult to allow myself to defend on them. I am nervous when anybody gets too close and people want me to be more intimate than I feel comfortable being.
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -205,21 +224,18 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: 'A) Secure relationship style '
-  Image: 
-  Description: "A) I find it relatively easy to get close to others and I feel relatively
-    comfortable depending on them and allowing them to depend on me.  I don’t worry
-    about being abandoned or about someone getting too close to me. \nHealthy relationships
-    require that both people are able to present and attuned to the needs of the other
-    and are able to notice how their own emotions impact on the experience of the
-    other person.  \n\nWhen there is conflict in healthy relationships, both people
-    are able to repair the rupture by not blaming, withdrawing or attacking the other
-    person but instead seek to identify what has caused the rupture and work collaboratively
-    to find a solution to the underlying issue. \n\nWhen conflict arises in healthy
-    relationships, both people can resolve misunderstandings, develop a deeper understanding
-    of the needs of their partner and provide support for the other person, without
-    neglecting their own needs and emotional honesty.  \n\nIn healthy relationships,
-    each person will feel that they can rely on the other for emotional support, while
-    respecting each others boundaries and needs. "
+  Image: "/uploads/secure%20(1).jpeg"
+  Description: |-
+    A) I find it relatively easy to get close to others and I feel relatively comfortable depending on them and allowing them to depend on me.  I don’t worry about being abandoned or about someone getting too close to me.
+
+
+    Healthy relationships require that both people are able to present and attuned to the needs of the other and are able to notice how their own emotions impact on the experience of the other person.
+
+    When there is conflict in healthy relationships, both people are able to repair the rupture by not blaming, withdrawing or attacking the other person but instead seek to identify what has caused the rupture and work collaboratively to find a solution to the underlying issue.
+
+    When conflict arises in healthy relationships, both people can resolve misunderstandings, develop a deeper understanding of the needs of their partner and provide support for the other person, without neglecting their own needs and emotional honesty.
+
+    In healthy relationships, each person will feel that they can rely on the other for emotional support, while respecting each others boundaries and needs.
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -231,7 +247,7 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: B) Anxious relationship style
-  Image: 
+  Image: "/uploads/anxious%20(1).jpg"
   Description: "B) I find that others are reluctant to get as close as I would like.
     I often worry that my partner doesn’t love me or won’t want to stay with me. I
     want to get close to my partner and this sometimes scares people away. \n\n\nIf,
@@ -263,7 +279,7 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: Avoidant relationship pattern
-  Image: 
+  Image: "/uploads/avoidant.jpg"
   Description: "C) I am somewhat uncomfortable being close to others. I find it difficult
     to trust them completely and difficult to allow myself to defend on them. I am
     nervous when anybody gets too close and people want me to be more intimate than
@@ -303,17 +319,15 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: 'Neuroplasticity and emotional development. '
-  Image: 
-  Description: "Neuroscientists have discovered that the brain is able to continue
-    reshaping itself through our adolescence and adult life. This means that early
-    emotional and behavioural patterns can change with new experiences that we have
-    throughout our lives. \nOften, we will repeat similar patterns in our relationships
-    due to the way our early childhood experiences shape our perception of the present
-    day, yet our relationships in adult life can also reshape our perception of what
-    relationships can be like. \nThe brains ability to reshape itself has significant
-    positive implications for our understanding of how people can heal difficult relationship
-    patterns, learning new skills and develop new beliefs about their ability to experience
-    intimacy and connection with others. "
+  Image: "/uploads/neurons.jpg"
+  Description: |-
+    Neuroscientists have discovered that the brain is able to continue reshaping itself through our adolescence and adult life. This means that early emotional and behavioural patterns can change with new experiences that we have throughout our lives.
+
+
+    Often, we will repeat similar patterns in our relationships due to the way our early childhood experiences shape our perception of the present day, yet our relationships in adult life can also reshape our perception of what relationships can be like.
+
+
+    The brains ability to reshape itself has significant positive implications for our understanding of how people can heal difficult relationship patterns, learning new skills and develop new beliefs about their ability to experience intimacy and connection with others.
   Graphic Image: 
   Audio url: 
   Video Url: 
