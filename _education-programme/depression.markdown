@@ -857,11 +857,11 @@ Slides:
   Quote Credit: 
   Image: 
 - Template: sixteen
-  Title: 
-  Description: |-
-    Start small and make it measurable. Chose something small. This could be anything from
+  Title: Start small and make it measurable
+  Description: |2-
+     Chose something small. This could be anything from
 
-    ‘ I want to make my bed every morning’ to
+    ‘ I want to make my bed every morning’ to\
     ‘ I want to go to a life drawing class this week.’
 
     Ask others to help you. By asking for the support of your friends it will help reinforce your goals and will also mean that you can share the experience with somebody else. Ask if they can help you build it into your routine.
