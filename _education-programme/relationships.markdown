@@ -782,16 +782,20 @@ Slides:
   Quote Credit:
   Slide Colour:
 - Template: list
-  Title:
+  Title: 'Barriers to good listening '
   Image:
   Description: |-
-    # Being distracted by setting:
+    # Becoming distracted by emotions.
 
-    If our attention is divided, our ability to listen well will be affected. To remove this barrier, make sure you are in a setting where you will not be interrupted and remove your phone or other distractions within he room.
+    If the conversation creates an emotional response in us, it can prevent us from being fully present to the speaker.
 
-    # Being distracted by our thoughts:
+    # Becoming nervous about silence.
 
-    When we listen, it is very natural to become distracted and preoccupied by our own personal narrative and reactions to what we are hearing. By becoming aware of becoming lost in our own thoughts we can return to good listening.
+    Silence in conversation can make us feel uncomfortable and awkward . By interrupting to prevent silences we spend a message to the other person that we are not able to contain the feelings of discomfort in the listening process. By taking time to allow silence, or by using silence to summarise back to the listener what you have heard, you can help the listener to feel supported and better understood.
+
+    # Problem solving and giving advice:
+
+    By trying to solve the other person’s problem we can make the other person feel that we are trying to change or fix them, which will often reduce a person’s desire to share their experience.
   Graphic Image:
   Audio url:
   Video Url:
@@ -802,7 +806,7 @@ Slides:
   Quote Credit:
   Slide Colour:
 - Template: five
-  Title: Practicing good listening
+  Title: 'Practicing good listening'
   Image:
   Description:
   Graphic Image:
