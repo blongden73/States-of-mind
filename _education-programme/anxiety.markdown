@@ -796,8 +796,8 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-Cover Image: "/uploads/slide-3-c2c3faaab04e488286ee4885459b2b9d.jpg"
-Cover Colour: "#000000"
+Cover Image: "/uploads/DESIGN%20COVER-9ab45f.jpg"
+Cover Colour: "#ffffff"
 layout: presentation
 ---
 
