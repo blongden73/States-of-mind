@@ -140,27 +140,6 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
-  Title: 'Vicious and Virtuous Cycles in relationships '
-  Image: 
-  Description: |-
-    Our beliefs about what to expect from our relationships are shaped through our early experiences.
-
-    \
-    Limiting beliefs about our value and ability to be seen and understood by others are shaped through and reflected by these early relationships.
-
-    \
-    These beliefs play out in our patterns of behaviour in relationships, yet these can be changed through new relational experiences.\
-    Graphic - Representing the cycle of how we affect relationships and how relationships affect us.
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
 - Template: five
   Title: 
   Image: 
@@ -192,8 +171,8 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: one
-  Title: 'Exploring our relationship History '
-  Image: "/uploads/relationship%20history.jpg"
+  Title: 'Noticing attachment styles '
+  Image: "/uploads/priscilla-du-preez-vDzeKnPBPLM-unsplash.jpg"
   Description: 
   Graphic Image: 
   Audio url: 
@@ -205,7 +184,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
-  Title: 'Noticing attachment styles '
+  Title: 
   Image: 
   Description: |-
     A) I find it relatively easy to get close to others and I feel relatively comfortable depending on them and allowing them to depend on me.  I don’t worry about being abandoned or about someone getting too close to me.
