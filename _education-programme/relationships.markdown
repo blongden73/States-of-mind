@@ -316,26 +316,6 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: five
-  Title: How relationship styles  affects our Relationships
-  Image: 
-  Description: |-
-    Research shows that people are likely to be drawn to people who share the same relationships style as their caregivers.
-
-    \
-    For example, if our parents were distant or unavailable when we were younger, we may be attracted to people who are avoidant of intimacy and closeness into our adult life as this is the relationship style that we have become familiar with.
-
-
-    If somebody with an anxious pattern has a relationship with somebody with an avoidant partner, it may cause a ‘push and pull’ dynamic in relationships.
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
 - Template: nineteen
   Title: Anxious - Avoidant Relationship dynamics
   Image: 
@@ -345,28 +325,6 @@ Slides:
   Video Url: <iframe width="560" height="315" src="https://www.youtube.com/embed/e9EgUvfgojY"
     frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen></iframe>
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: sixteen
-  Title: Splitting
-  Image: "/uploads/splitting%20(1).jpeg"
-  Description: |-
-    Melanie Klein was a psychologist who focuses on the relationships between parents and children.
-
-     She coined the term ‘splitting’ to describe a psychological defence that young children develop to manage ambivalent feelings towards their parents.
-
-    As young children we manage difficult feelings in relationships by engaging in a process called ‘splitting’. This process splits our perception of our parents into either a ‘good parent’ or a ‘bad parent’.
-
-    This process causes feelings of either idealisation in relationships or feelings of resentment and an inability to see the other persons good qualities.
-
-    Healthy relationships require that we are aware of this tendency and are able to love another person while experiencing both their positive and more difficult behaviours.
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
   Credit: 
   Links:
   - Link Url: 
@@ -557,18 +515,45 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: five
+- Template: sixteen
+  Title: Splitting
+  Image: "/uploads/splitting%20(1).jpeg"
+  Description: |-
+    Melanie Klein was a psychologist who focuses on the relationships between parents and children.
+
+     She coined the term ‘splitting’ to describe a psychological defence that young children develop to manage ambivalent feelings towards their parents.
+
+    As young children we manage difficult feelings in relationships by engaging in a process called ‘splitting’. This process splits our perception of our parents into either a ‘good parent’ or a ‘bad parent’.
+
+    This process causes feelings of either idealisation in relationships or feelings of resentment and an inability to see the other persons good qualities.
+
+    Healthy relationships require that we are aware of this tendency and are able to love another person while experiencing both their positive and more difficult behaviours.
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
   Title: 'Why do we misunderstand other people? '
   Image: 
-  Description: "When we are distressed, distracted or experiencing conflict in our
-    relationships, it affects our capacity to consider that another person’s experience
-    is different to our own. \nWithout open communication, we make guesses and assumptions
-    about what is going on in other people’s minds. \nWe assume that other people
-    think in the way that we do \nWe project our own feelings and past experiences
-    onto other people \nWe make quick decisions about the meaning of other people’s
-    behaviour without taking time to check it out with them \nWe do not take time
-    to consider how other people have different experiences than our own \nWhen people
-    are threatened they may hold back their feelings and thoughts about a situation "
+  Description: |-
+    # When we are distressed, distracted or experiencing conflict in our relationships, it affects our capacity to consider that another person’s experience is different to our own. 
+
+    # Without open communication, we make guesses and assumptions about what is going on in other people’s minds.
+
+    # We assume that other people think in the way that we do.
+
+    # We project our own feelings and past experiences onto other people.
+
+    # We make quick decisions about the meaning of other people’s behaviour without taking time to check it out with them.
+
+    # We do not take time to consider how other people have different experiences than our own.
+
+    # When people are threatened they may hold back their feelings and thoughts about a situation.
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -641,11 +626,11 @@ Slides:
   Title: What does research tell us about mentalising?
   Image: 
   Description: |-
-    1\. People who are skilled at mentalising are considerably more resilient when faced with stressful situations and are able to self reflect and process experiences of adversity in their lives with more coherence and understanding.
+    People who are skilled at mentalising are considerably **more resilient** when faced with stressful situations and are able to self reflect and process experiences of adversity in their lives with more coherence and understanding.
 
-    2\. They are more able to make sense of both the external world and their internal world of thoughts, feelings and emotions.
+    They are more able to **make sense of both the external world and their internal world** of thoughts, feelings and emotions.
 
-    3\. They have an increased ability for creative thought, the ability to hold multiple perspectives and are generally more capable of connecting with the inner lives of other people.
+    They have an **increased ability for creative thought**, the ability to hold multiple perspectives and are generally more capable of connecting with the inner lives of other people.
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -684,10 +669,12 @@ Slides:
 - Template: six
   Title: Listening skills
   Image: 
-  Description: "Listening is one of the most powerful tools for improving communication
-    in our relationships.\nWhen we listen well to others, we indicate that we care
-    about them and their experiences.  \n\nListening is a skill that anybody can develop
-    and improve over time with practice.\n"
+  Description: |-
+    Listening is one of the most powerful tools for improving communication in our relationships.
+
+    When we listen well to others, we indicate that we care about them and their experiences.
+
+    Listening is a skill that anybody can develop and improve over time with practice.
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -700,10 +687,20 @@ Slides:
 - Template: six
   Title: How can we listen well?
   Image: 
-  Description: "Pay attention\n\nShow curiosity and interest\n\nShow you are listening
-    by using non verbal feedback\n\nMirror the other person’s body language\n\nReflect
-    back to the speaker what you have heard them say\n\nAsk clarifying questions \n\nDon't
-    interrupt "
+  Description: |-
+    # Pay attention
+
+    # Show curiosity and interest
+
+    # Show you are listening by using non verbal feedback
+
+    # Mirror the other person’s body language
+
+    # Reflect back to the speaker what you have heard them say
+
+    # Ask clarifying questions
+
+    # Don't interrupt
   Graphic Image: 
   Audio url: 
   Video Url: 
