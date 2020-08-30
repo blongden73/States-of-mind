@@ -668,7 +668,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
-  Title: 
+  Title: 'Drawing '
   Image: "/uploads/drawing.jpg"
   Description: "Drawing is a powerful tool for getting in touch with our emotional
     world. \n\nOften if our lives are busy and we are very caught in our thoughts,
