@@ -701,16 +701,12 @@ Slides:
 - Template: sixteen
   Title: 'Activating the Task Positive Network '
   Image: 
-  Description: "The Default mode is switched OFF when we focus our attention on tasks
-    or ‘doing things’. When we are in this mode, our ‘ Task Positive Network’ is activated.
-    We can see this network as the ‘solution focused network.’ These networks are
-    similar to a switch, when one is ON the other is OFF. \n \nThis explains why we
-    find it much more difficult to worry about a problem when we choose to go for
-    a walk, when we go to meet our friends or when we are doing something that takes
-    our attention away from the problem. \n\nIf you experience a lot of worry, you
-    can strengthen your Task Positive Network by adding particular tasks to your daily
-    routine that ensure you spend less time in your mind ruminating about your fears
-    and anxieties. "
+  Description: |-
+    The Default mode is switched OFF when we focus our attention on tasks or ‘doing things’. When we are in this mode, our ‘ Task Positive Network’ is activated. We can see this network as the ‘solution focused network.’ These networks are similar to a switch, when one is ON the other is OFF. 
+
+    This explains why we find it much more difficult to worry about a problem when we choose to go for a walk, when we go to meet our friends or when we are doing something that takes our attention away from the problem.
+
+    If you experience a lot of worry, you can strengthen your Task Positive Network by adding particular tasks to your daily routine that ensure you spend less time in your mind ruminating about your fears and anxieties.
   Graphic Image: 
   Audio url: 
   Video Url: 
