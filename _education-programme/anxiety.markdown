@@ -370,7 +370,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: What causes anxiety?
-  Image: "/uploads/DTSxSSRIdentity9776.jpg"
+  Image: "/uploads/DTSxSSRIdentity9776-1e2552.jpg"
   Description: 
   Graphic Image: 
   Audio url: 
@@ -543,7 +543,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: 'Working with limiting beliefs '
-  Image: "/uploads/DTSxSSRIdentity9106.jpg"
+  Image: "/uploads/DTSxSSRIdentity9106-29e14b.jpg"
   Description: 
   Graphic Image: 
   Audio url: 
@@ -657,7 +657,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: 'Developing a breathing practice '
-  Image: "/uploads/jacl279-055.jpg"
+  Image: "/uploads/jacl279-055-4c10da.jpg"
   Description: 
   Graphic Image: 
   Audio url: 
