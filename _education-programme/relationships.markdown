@@ -555,7 +555,7 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: Splitting
-  Image: "/uploads/splitting%20(1).jpeg"
+  Image: "/uploads/DTS_Identity_Alex_Tan_3666.jpg"
   Description: |-
     Melanie Klein was a psychologist who focuses on the relationships between parents and children.
 
