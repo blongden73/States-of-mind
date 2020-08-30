@@ -108,7 +108,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: five
-  Title: 'The neuroscience of anxiety '
+  Title: 'The neuroscience of anxiety '
   Image: 
   Description: "The anxiety response begins in a part of the brain called the Amygdala.
     We share this part of the brain with all animals, as it is one of the most fundamental
