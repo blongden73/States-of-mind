@@ -22,6 +22,26 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: sixteen
+  Title: 'Attunement in Relationships '
+  Image: "/uploads/attunement.jpg"
+  Description: "Our relationship with our family provides us with our first experiences
+    of what relationships are like. \n\nThe way that our parent/s responded to our
+    needs for authenticity and connection in childhood shapes our understanding of
+    whether we can trust others to meet these needs .\n\nIf our family was present
+    and attuned to what we needed and reflected back to us a positive sense of self,
+    we will carry a sense of self worth and self-esteem into our adult relationships
+    and will feel able to communicate openly and honesty about our emotional life.\n\nThis
+    process of reflecting back our authentic self is called ‘attunement’."
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: six
   Title: 'Authenticity and Connection '
   Image: 
@@ -55,23 +75,6 @@ Slides:
     relationship with others.\n\nBy understanding the different relationship styles
     and dynamics that we can develop we can become aware of how and why we struggle
     in relationships and learn how to change any behaviours that hold us back. "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: sixteen
-  Title: 'Attunement in Relationships '
-  Image: "/uploads/attunement.jpg"
-  Description: |-
-    Our relationship with our family provides us with our first experiences of what relationships are like. The way that our parent/s responded to our needs for authenticity and connection in childhood shapes our understanding of whether we can trust others to meet these needs .
-
-    If our family was present and attuned to what we needed and reflected back to us a positive sense of self, we will carry a sense of self worth and self-esteem into our adult relationships and will feel able to communicate openly and honesty about our emotional life.
-    This process of reflecting back our authentic self is called ‘attunement’.
   Graphic Image: 
   Audio url: 
   Video Url: 
