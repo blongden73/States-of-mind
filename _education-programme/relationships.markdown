@@ -537,7 +537,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: six
-  Title: 'Reflecting on supportive relationships in our lives. '
+  Title: 'Reflecting on supportive relationships in our lives. '
   Image: 
   Description: This activity has been designed to help you reflect on the positive
     and supportive relationships in your life, so that you can identify which relationships
