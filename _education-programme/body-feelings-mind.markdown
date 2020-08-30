@@ -656,7 +656,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: Connecting our body, feelings and mind
-  Image: "/uploads/mpe.jpg"
+  Image: "/uploads/photo-1551421802-c0e372bf7de5.jpeg"
   Description: 
   Graphic Image: 
   Audio url: 
@@ -669,7 +669,7 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: 'Drawing '
-  Image: "/uploads/drawing.jpg"
+  Image: "/uploads/sergio-rodriguez-portugues-del-olmo-Prqjj23e2QA-unsplash.jpg"
   Description: "Drawing is a powerful tool for getting in touch with our emotional
     world. \n\nOften if our lives are busy and we are very caught in our thoughts,
     it can be difficult to step back and observe how our feelings and emotions are.
