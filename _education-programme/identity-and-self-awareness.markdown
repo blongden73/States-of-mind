@@ -6,7 +6,7 @@ position: 0
 Slides:
 - Template: one
   Title: 'Part 1: Self Awareness'
-  Image: "/uploads/self%20awareness%202%20(1).jpeg"
+  Image: "/uploads/gemma-chua-tran-8gwa8WuA4TU-unsplash.jpg"
   Description: 
   Graphic Image: 
   Audio url: 
@@ -796,8 +796,8 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-Cover Image: "/uploads/pexels-photo-3283576.jpg"
-Cover Colour: "#ffffff"
+Cover Image: "/uploads/Cover.jpg"
+Cover Colour: 
 layout: presentation
 ---
 
