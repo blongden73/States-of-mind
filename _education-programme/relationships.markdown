@@ -91,13 +91,14 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: five
+- Template: six
   Title: The ‘good enough parent’
   Image: 
-  Description: |-
-    Donald Winnicott coined this term to refer to the fact that no parent can meet our needs all of the time and that no parenting style can be completely perfect.
-
-    Our parents are individuals with their own potentially unmet needs and relational patterns that have been played out from their childhoods. These beliefs and mindsets about relationships that we carry from our childhood can shape our worldview about how relationships are.
+  Description: "A Psychologist called Donald Winnicott coined this term to refer to
+    the fact that no parent can meet our needs all of the time and that no parenting
+    style can be completely perfect.\n\nOur parents are individuals with their own
+    potentially unmet needs and relational patterns that have been played out from
+    their childhoods. "
   Graphic Image: 
   Audio url: 
   Video Url: 
