@@ -866,7 +866,7 @@ Slides:
   Quote Credit: Carl Rogers
   Slide Colour: 
 - Template: sixteen
-  Title: 'Empathic Listening and Bifocal vision '
+  Title: 'Empathic Listening and Bifocal vision '
   Image: 
   Description: "Empathic listening is a type of listening that involves tuning into
     the emotional message that a person is communicating. \nEmpathic listening helps
