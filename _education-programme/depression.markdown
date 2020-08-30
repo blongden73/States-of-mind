@@ -843,11 +843,10 @@ Slides:
   Image: 
 - Template: sixteen
   Title: 'Tips for behavioural activation '
-  Description: Don’t chose what you think you should do, chose something that you
-    personally enjoy and want to do. Imagine a positive life that you want to have,
-    what sorts of activities and things are you doing? The aim is to allow yourself
-    to feel joy, contentment and other positive and reassuring feelings through the
-    activities in your everyday life.
+  Description: |-
+    Don’t chose what you think you should do, chose something that you personally enjoy and want to do. Imagine a positive life that you want to have, what sorts of activities and things are you doing?
+
+    The aim is to allow yourself to feel joy, contentment and other positive and reassuring feelings through the activities in your everyday life.
   Graphic Image: 
   Audio url: 
   Video Url: 
