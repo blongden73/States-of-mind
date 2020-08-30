@@ -96,6 +96,11 @@ body.education {
   height: 93vh;
   background-color: $nu-pink;
   position: relative;
+
+  &.white {
+    color: #333 !important;
+  }
+
   &.one {
     background-color: #fff;
   }
