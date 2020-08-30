@@ -856,7 +856,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: 
-- Template: sixteen
+- Template: list
   Title: Start small and make it measurable
   Description: |2-
      Chose something small. This could be anything from
