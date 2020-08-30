@@ -400,7 +400,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: 'The Mind '
-  Image: "/uploads/mind.jpg"
+  Image: "/uploads/mari-lezhava-Xm9-vA_bhm0-unsplash.jpg"
   Description: 
   Graphic Image: 
   Audio url: 
