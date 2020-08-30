@@ -367,7 +367,7 @@ Slides:
 - Template: ten
   Title: Discussion
   Image: 
-  Description: 'What are common features do your most fulfilling relationships have? '
+  Description: 'What common features do your most fulfilling relationships have? '
   Graphic Image: 
   Audio url: 
   Video Url: 
