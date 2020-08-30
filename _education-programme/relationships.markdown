@@ -680,7 +680,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: 'Practicing mentalising '
-  Image: "/uploads/mentalsiing.jpg"
+  Image: "/uploads/gemma-chua-tran-6tHTXiSRUi8-unsplash.jpg"
   Description: 
   Graphic Image: 
   Audio url: 
