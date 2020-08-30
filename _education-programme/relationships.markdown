@@ -441,7 +441,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: Self-Compassion meditation
-  Image: 
+  Image: "/uploads/photo-1554244933-d876deb6b2ff.jpeg"
   Description: 
   Graphic Image: 
   Audio url: 
