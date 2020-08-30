@@ -401,11 +401,11 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: five
+- Template: twenty
   Title: 
   Image: 
-  Description: graphic
-  Graphic Image: 
+  Description: 
+  Graphic Image: "/uploads/anxiety_response_circles.svg"
   Audio url: 
   Video Url: 
   Credit: 
