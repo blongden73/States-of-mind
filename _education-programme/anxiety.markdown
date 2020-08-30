@@ -126,7 +126,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: five
+- Template: sixteen
   Title: The amygdala and the nervous response
   Image: "/uploads/amygdala.jpg"
   Description: "The size of the amygdala has been shown to correlate with people’s
@@ -233,19 +233,10 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
-  Title: 
-  Image: 
-  Description: "# Anxious thought patterns\nOne of those ways to notice if we are
-    experiencing anxiety is to bring awareness to our thought patterns. When we are
-    fearful and anxious, we begin to think differently about ourselves, other people
-    and situations. \n \n# Tunnel Vision: \nFocusing only only the negative aspects
-    of our experience and ignoring the positive. \n \n# Catastrophising: \nExpecting
-    the worst case scenario to happen. \n \n# Mind reading and fortune telling \nAssuming
-    you know what other people are thinking and often assuming other people’s perceptions
-    of us are or will be negative. \n \n# Emotional reasoning \nAssuming that because
-    we feel strongly towards a situation it must be the only reflection of how things
-    are.  "
+- Template: one
+  Title: Anxious thought patterns
+  Image: "/uploads/overthinking.jpg"
+  Description: 
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -255,10 +246,19 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: one
-  Title: Anxiety and overthinking
-  Image: "/uploads/overthinking.jpg"
-  Description: 
+- Template: sixteen
+  Title: 
+  Image: 
+  Description: "# Anxious thought patterns\n\nOne of those ways to notice if we are
+    experiencing anxiety is to bring awareness to our thought patterns. When we are
+    fearful and anxious, we begin to think differently, bringing awareness to these
+    can help us recognise when we are caught in anxiety. \n\n# Tunnel Vision:\n\nFocusing
+    only only the negative aspects of our experience and ignoring the positive.\n\n#
+    Catastrophising:\n\nExpecting the worst case scenario to happen.\n\n# Mind reading
+    and fortune telling\n\nAssuming you know what other people are thinking and often
+    assuming other people’s perceptions of us are or will be negative.\n\n# Emotional
+    reasoning\n\nAssuming that because we feel strongly towards a situation it must
+    be the only reflection of how things are."
   Graphic Image: 
   Audio url: 
   Video Url: 
