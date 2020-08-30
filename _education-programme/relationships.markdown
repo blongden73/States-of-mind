@@ -828,9 +828,9 @@ Slides:
   Description: |-
     Empathy is the ability to connect with another person’s feelings and to imagine what it is like to have their point of view.
 
-     Empathy can relate to our ability to connect with both the positive and uncomfortable emotions of others.
+    Empathy can relate to our ability to connect with both the positive and uncomfortable emotions of others.
 
-    Practicing empathy in relationships changes the way we speak and listen to others and promotes deeper levels of connection and understanding.
+    Practising empathy in relationships changes the way we speak and listen to others and promotes deeper levels of connection and understanding.
   Graphic Image: 
   Audio url: 
   Video Url: 
