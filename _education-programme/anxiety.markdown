@@ -34,7 +34,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: one
+- Template: fourteen
   Title: 
   Image: 
   Description: 
