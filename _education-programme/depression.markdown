@@ -761,12 +761,12 @@ Slides:
   Image: 
 - Template: five
   Title: 
-  Description: "* People who experience depression often feel confused, guilty and
-    shameful around the experience of not meeting the expectations of themselves and
-    others. \n* The resistance to feeling the painful emotional states is one of the
-    factors that causes depression to perpetuate. \n* Our close relationships can
-    provide us with a safe space to express painful emotions and bring awareness and
-    acceptance to our experience of depression. "
+  Description: |-
+    * People who experience depression often feel confused, guilty and shameful around the experience of not meeting the expectations of themselves and others.
+
+    * The resistance to feeling the painful emotional states is one of the factors that causes depression to perpetuate.
+
+    * Our close relationships can provide us with a safe space to express painful emotions and bring awareness and acceptance to our experience of depression.
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -777,14 +777,11 @@ Slides:
   Quote Credit: 
   Image: 
 - Template: sixteen
-  Title: Unconditional positive regard
+  Title: What is Unconditional Positive Regard?
   Description: |-
-    What is Unconditional Positive Regard? 
+    Unconditional Positive Regard is a term coined by Carl Rogers, who developed person centred-therapy a method where the person seeking therapy was seen as central to the direction of the therapeutic work and held as the expert of their own experience. Rogers used the term to describe the complete and loving acceptance of another person.
 
-
-    Unconditional Positive Regard is a term coined by Carl Rogers, who developed person centred-therapy a method where the person seeking therapy was seen as central to the direction of the therapeutic work and held as the expert of their own experience. Rogers used the term to describe the complete and loving acceptance of another person.  
-
-    ‘ True empathy is always free of any evaluative or diagnostic quality’ 
+    ‘ True empathy is always free of any evaluative or diagnostic quality’
   Graphic Image: 
   Audio url: 
   Video Url: 
