@@ -151,10 +151,10 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: five
+- Template: one
   Title: 'Relationship Patterns '
   Image: "/uploads/relationships%20type-b823bd.jpg"
-  Description: grpahic
+  Description: 
   Graphic Image: 
   Audio url: 
   Video Url: 
