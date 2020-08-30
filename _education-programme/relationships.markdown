@@ -574,23 +574,23 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
+- Template: list
   Title: 'Why do we misunderstand other people? '
   Image: 
   Description: |-
-    # When we are distressed, distracted or experiencing conflict in our relationships, it affects our capacity to consider that another person’s experience is different to our own. 
+    When we are distressed, distracted or experiencing conflict in our relationships, it affects our capacity to consider that another person’s experience is different to our own.
 
-    # Without open communication, we make guesses and assumptions about what is going on in other people’s minds.
+    Without open communication, we make guesses and assumptions about what is going on in other people’s minds.
 
-    # We assume that other people think in the way that we do.
+    We assume that other people think in the way that we do.
 
-    # We project our own feelings and past experiences onto other people.
+    We project our own feelings and past experiences onto other people.
 
-    # We make quick decisions about the meaning of other people’s behaviour without taking time to check it out with them.
+    We make quick decisions about the meaning of other people’s behaviour without taking time to check it out with them.
 
-    # We do not take time to consider how other people have different experiences than our own.
+    We do not take time to consider how other people have different experiences than our own.
 
-    # When people are threatened they may hold back their feelings and thoughts about a situation.
+    When people are threatened they may hold back their feelings and thoughts about a situation.
   Graphic Image: 
   Audio url: 
   Video Url: 
