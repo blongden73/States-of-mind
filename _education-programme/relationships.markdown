@@ -871,9 +871,9 @@ Slides:
   Description: "Empathic listening is a type of listening that involves tuning into
     the emotional message that a person is communicating. \nEmpathic listening helps
     people to understand their emotions better, builds trust and helps both the speaker
-    and listener to develop emotional intelligence.  \nBifocal vision is a way to
+    and listener to develop emotional intelligence.\n  \nBifocal vision is a way to
     provide feedback about another person’s non-verbal communication and listen to
-    the deeper message they are communicating. \nFor example, if somebody is telling
+    the deeper message they are communicating. \n\nFor example, if somebody is telling
     us that they have had a good week but their tone of voice is low, bifocal vision
     allows us to pick up on this mis-match between what the person is saying and the
     emotional message they are giving to us. \nBy feeding back both the verbal message
