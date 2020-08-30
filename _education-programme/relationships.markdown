@@ -21,10 +21,11 @@ Slides:
   Title: 'Needs in relationships '
   Image: 
   Description: "Our behaviour in relationships is driven by our evolutionary needs
-    for safety, love andconnection with others.\n\nEveryone has needs for love, connection
-    and a sense of belonging. \n\nThese core needs drive our behaviour in relationships
-    and how we interact with others. \n\nOur ability to have these needs met in our
-    relationships has a significant impact on our health and mental wellbeing."
+    for safety, love and connection with others.\n\nEveryone has these needs for love,
+    connection and a sense of belonging and these core needs are what drive our behaviour
+    in relationships and how we interact with others. \n\nOur ability to have these
+    needs met in our relationships has a significant impact on our health and mental
+    wellbeing."
   Graphic Image: 
   Audio url: 
   Video Url: 
