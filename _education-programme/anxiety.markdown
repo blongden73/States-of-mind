@@ -96,7 +96,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: Anxiety and the body
-  Image: "/uploads/ian-dooley-v9sAFGJ3Ojk-unsplash-8add4a.jpg"
+  Image: "/uploads/DTSxSSRIdentity9462.jpg"
   Description: 'The amygdala and the nervous response '
   Graphic Image: 
   Audio url: 
@@ -360,7 +360,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: What causes anxiety?
-  Image: "/uploads/anxiety%207.jpg"
+  Image: "/uploads/DTSxSSRIdentity9776.jpg"
   Description: 
   Graphic Image: 
   Audio url: 
@@ -382,7 +382,7 @@ Slides:
     ### What ‘Internal Fears do we have?
 
     These are beliefs or internal narratives that cause us to feel like we are unable to cope.
-  Graphic Image: 
+  Graphic Image: "/uploads/astrologyforartists_105941222_169499407896081_2923306870018876192_n.jpg"
   Audio url: 
   Video Url: 
   Credit: 
@@ -413,7 +413,7 @@ Slides:
     to avoid situations that could cause us discomfort can help in the short term
     but in the long term can perpetuate feelings of anxiety as it reinforces our internal
     beliefs that we cannot cope with situations that challenge us. "
-  Graphic Image: 
+  Graphic Image: "/uploads/DTS_Warp_Nick_Fancher_4232.jpg"
   Audio url: 
   Video Url: 
   Credit: 

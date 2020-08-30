@@ -134,26 +134,6 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
-  Title: 'Relationships with self '
-  Image: 
-  Description: "‘Fear of compassion for self and compassion from others were also
-    significantly linked to fear of compassion for others.’ \n(Gilbert et al, 2010.)\n\nPaul
-    Gilbert is an evolutionary psychologist who explored the link between self compassion
-    and the quality of our relationships. Gilbert found that people who struggled
-    to feel care and compassion for themselves found it more difficult to relate with
-    compassion for others. \n\nGilberts work highlights how our relationship with
-    ourselves has a real and lasting influence on our ability to form close and caring
-    relationships with the people in our lives.  "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
 - Template: five
   Title: 
   Image: 
@@ -367,7 +347,7 @@ Slides:
 - Template: ten
   Title: Discussion
   Image: 
-  Description: 'What are common features do your most fulfilling relationships have? '
+  Description: 'What common features do your most fulfilling relationships have? '
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -388,6 +368,26 @@ Slides:
     When we do not judge or criticise the behaviour of another person but take time to understand and work through problems together, we show the other person that we do not see problems in the relationship as Indications of their worth. Instead, we see working through problems  as an opportunity for growth that can provide deeper levels of understanding and connection.
 
     By respecting another person as having the same needs for love, connection and understanding as ourselves, we can overcome the judgement and limiting beliefs about others that can cause distance and misunderstanding in relationships.
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: 'Relationships with self '
+  Image: 
+  Description: "‘Fear of compassion for self and compassion from others were also
+    significantly linked to fear of compassion for others.’ \n(Gilbert et al, 2010.)\n\nPaul
+    Gilbert is an evolutionary psychologist who explored the link between self compassion
+    and the quality of our relationships. Gilbert found that people who struggled
+    to feel care and compassion for themselves found it more difficult to relate with
+    compassion for others. \n\nGilberts work highlights how our relationship with
+    ourselves has a real and lasting influence on our ability to form close and caring
+    relationships with the people in our lives.  "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -465,6 +465,24 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: sixteen
+  Title: 'I -it and I-Thou relationships '
+  Image: "/uploads/FL37036004-715-537.jpg"
+  Description: |-
+    Martin Buber Martin Buber was a prominent twentieth century philosopher, religious thinker, political activist and educator.
+
+    He explored different ways that people perceived and acted towards other people in their relationships.
+
+     He called these different ways of viewing others in relationship as ‘I-Thou’ and ‘I-it’ relationships.
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: six
   Title: 
   Image: 
@@ -490,24 +508,6 @@ Slides:
   Image: 
   Description: 'Have you ever felt like you have experienced an ''I -It'' relationship
     with somebody? How did this make you feel towards them? '
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: sixteen
-  Title: 'I -it and I-Thou relationships '
-  Image: "/uploads/FL37036004-715-537.jpg"
-  Description: |-
-    Martin Buber Martin Buber was a prominent twentieth century philosopher, religious thinker, political activist and educator.
-
-    He explored different ways that people perceived and acted towards other people in their relationships.
-
-     He called these different ways of viewing others in relationship as ‘I-Thou’ and ‘I-it’ relationships.
   Graphic Image: 
   Audio url: 
   Video Url: 
