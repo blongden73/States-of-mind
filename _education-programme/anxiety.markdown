@@ -47,7 +47,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: Anxiety and the body
-  Image: "/uploads/yoga.jpg"
+  Image: "/uploads/anxiety%20body.jpg"
   Description: 'The amygdala and the nervous response '
   Graphic Image: 
   Audio url: 
@@ -78,8 +78,8 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: five
-  Title: 
-  Image: 
+  Title: The amygdala and the nervous response
+  Image: "/uploads/amygdala.jpg"
   Description: "The size of the amygdala has been shown to correlate with people’s
     sensitivity to aspects of the environment they consider as threatening or unsafe.\n
     \ \nThis is believed to be caused by past experiences of stress and fear that
@@ -115,7 +115,7 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: 'The vagus nerve '
-  Image: "/uploads/vagus%20nerve.jpg"
+  Image: "/uploads/vagus%20nerve-49f2ca.jpg"
   Description: "The vagus nerve causes a response in the heart, lungs and gut, which
     is triggered by a release of adrenaline and cortisol, two hormones that are connected
     with the threat response. \n\nThis causes our heart to beat faster, our breathing
@@ -169,12 +169,12 @@ Slides:
 - Template: five
   Title: 
   Image: 
-  Description: The feelings of anticipation and loss of control that are connected
+  Description: "The feelings of anticipation and loss of control that are connected
     with the fear response are reflected in the thought patterns that we feel when
-    we experience anxiety. We use our minds and thoughts as a way to take control
-    of the situation. This process is completely natural but can feel uncomfortable
-    and can cause us to experience more distress when we get caught in our thinking
-    as this keeps the uncomfortable experience alive in our minds.
+    we experience anxiety. \n\nWe use our minds and thoughts as a way to take control
+    of the situation we perceive as threatening. This process can cause us to experience
+    more distress when we get caught in our thinking as this keeps the uncomfortable
+    experience alive in our minds."
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -208,7 +208,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: Anxiety and overthinking
-  Image: "/uploads/rumination%202.jpeg"
+  Image: "/uploads/overthinking.jpg"
   Description: 
   Graphic Image: 
   Audio url: 
