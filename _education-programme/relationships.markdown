@@ -1053,7 +1053,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-Cover Image: "/uploads/priscilla-du-preez-vDzeKnPBPLM-unsplash.jpg"
+Cover Image: "/uploads/groups%203.jpg"
 layout: presentation
 ---
 
