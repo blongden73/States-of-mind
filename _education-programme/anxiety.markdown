@@ -587,7 +587,7 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: 
-  Image: "/uploads/anxietyzonegraphic-225217.svg"
+  Image: 
   Description: 
   Graphic Image: 
   Audio url: 
