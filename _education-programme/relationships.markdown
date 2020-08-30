@@ -4,21 +4,8 @@ date: 2020-08-28 16:43:00 Z
 permalink: "/education-programme/relationships.html"
 position: 2
 Slides:
-- Template: one
-  Title: 'Types of relationships '
-  Image: 
-  Description: 'Activity '
-  Graphic Image: "/uploads/relationships%20type.jpg"
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
 - Template: six
-  Title: 'Needs in relationships '
+  Title: 'Relationships and mental health '
   Image: 
   Description: "Our behaviour in relationships is driven by our evolutionary needs
     for safety, love and connection with others.\n\nEveryone has these needs for love,
