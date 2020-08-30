@@ -8,7 +8,7 @@ Slides:
   Title: 'Types of relationships '
   Image: 
   Description: 'Activity '
-  Graphic Image: 
+  Graphic Image: "/uploads/relationships%20type.jpg"
   Audio url: 
   Video Url: 
   Credit: 
