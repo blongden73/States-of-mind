@@ -587,9 +587,9 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: 
-  Image: 
+  Image: "/uploads/anxietyzonegraphic-225217.svg"
   Description: 
-  Graphic Image: "/uploads/anxietyzonegraphic-225217.svg"
+  Graphic Image: 
   Audio url: 
   Video Url: 
   Credit: 'Emotional regulation graphic '
