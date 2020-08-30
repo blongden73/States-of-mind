@@ -1,5 +1,5 @@
 ---
-title: Depression & low mood
+title: Depression & Low Mood
 date: 2020-08-20 16:05:00 Z
 permalink: "/education-programme/depression.html"
 position: 4
