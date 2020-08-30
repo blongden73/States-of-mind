@@ -259,7 +259,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
-  Title: 'Yoga as a method for integrating the mind and body '
+  Title: 'Yoga : Calming the body '
   Image: "/uploads/yooooga.jpg"
   Description: "Yoga has been proven to have a range of benefits for mental health.
     \n\nYoga works by reducing stress, relieving muscle tension and inflammation and
