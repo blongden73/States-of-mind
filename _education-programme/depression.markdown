@@ -470,18 +470,17 @@ Slides:
   Image: 
 - Template: sixteen
   Title: 'Social causes of depression: Social exclusion '
-  Description: |-
-    Social exclusion and rejection can cause experiences of physical numbness and a lack of emotion.  Baumeister et al, 2003
-
-    Researchers who studied people who had been excluded from a society or group found that it was common for them to shut down their emotional response rather than experiencing heightened states of distress.
-
-    “It was as though they had been hit with a stun gun”
-
-    They suggest could be an adaptive response to prevent retaliation against the group and to keep painful emotions out of awareness.
+  Description: "Social exclusion and rejection can cause experiences of physical numbness
+    and a lack of emotion. \n\nResearchers who studied people who had been excluded
+    from a society or group found that it was common for them to shut down their emotional
+    response rather than experiencing heightened states of distress.\n\n“It was as
+    though they had been hit with a stun gun”\n\nThey suggest could be an adaptive
+    response to prevent retaliation against the group and to keep painful emotions
+    out of awareness."
   Graphic Image: 
   Audio url: 
   Video Url: 
-  Credit: K. D. Williams, 2001
+  Credit: Baumeister et al, 2003, K. D. Williams, 2001
   Links:
   - Link Url: 
   Quote: 
