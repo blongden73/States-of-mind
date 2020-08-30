@@ -240,7 +240,7 @@ Slides:
   Title: 'A) Secure relationship style '
   Image: "/uploads/secure%20(1).jpeg"
   Description: |-
-    A) I find it relatively easy to get close to others and I feel relatively comfortable depending on them and allowing them to depend on me.  I don’t worry about being abandoned or about someone getting too close to me.
+    " I find it relatively easy to get close to others and I feel relatively comfortable depending on them and allowing them to depend on me.  I don’t worry about being abandoned or about someone getting too close to me. "
 
     Healthy relationships require that both people are able to present and attuned to the needs of the other and are able to notice how their own emotions impact on the experience of the other person.
   Graphic Image: 
@@ -273,10 +273,10 @@ Slides:
 - Template: sixteen
   Title: B) Anxious relationship style
   Image: "/uploads/anxious%20(1).jpg"
-  Description: "B) I find that others are reluctant to get as close as I would like.
+  Description: "\" I find that others are reluctant to get as close as I would like.
     I often worry that my partner doesn’t love me or won’t want to stay with me. I
-    want to get close to my partner and this sometimes scares people away.\n\nIf,
-    in our childhood world, we lived in an environment where we took on caretaking
+    want to get close to my partner and this sometimes scares people away. \"\n\nIf,
+    in our childhood world, we lived in an environment where we took on care-taking
     roles for the adults around us, or our siblings, we may come to develop a relationship
     pattern where we believe that putting the needs of others before our own is more
     important than communicating our own needs in relationships. "
@@ -315,10 +315,10 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
-  Title: Avoidant relationship pattern
+  Title: C) Avoidant relationship pattern
   Image: "/uploads/avoidant.jpg"
   Description: |-
-    C) I am somewhat uncomfortable being close to others. I find it difficult to trust them completely and difficult to allow myself to defend on them. I am nervous when anybody gets too close and people want me to be more intimate than I feel comfortable being.
+    " I am somewhat uncomfortable being close to others. I find it difficult to trust them completely and difficult to allow myself to defend on them. I am nervous when anybody gets too close and people want me to be more intimate than I feel comfortable being. "
 
     If we do not experience relationships that were attuned to our needs as children, we can lose trust in other people’s ability to understand our inner world and come to feel that we must manage our problems alone, without the presence of another.
   Graphic Image: 
@@ -349,7 +349,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: five
-  Title: 'How relationship styles  affects our experiences in relationships '
+  Title: How relationship styles  affects our Relationships
   Image: 
   Description: |-
     Research shows that people are likely to be drawn to people who share the same relationships style as their caregivers.
