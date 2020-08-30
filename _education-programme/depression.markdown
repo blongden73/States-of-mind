@@ -451,12 +451,14 @@ Slides:
   Image: 
 - Template: six
   Title: 'Depression as a consequence of unmet human needs '
-  Description: "Self Determination Theory is a framework developed by two psychologists,
-    Ryan and Deci. It provides a framework for understanding how our wellbeing is
-    dependent on how well our social world is able to meet our core needs. \n\nAutonomy:
-    \ Feeling a sense of choice and control \n\nRelatedness : Feeling a sense of belonging
-    and social acceptance \n\nCompetence : Feeling like you are confident and able
-    in your ability to do things well\n"
+  Description: |-
+    Self Determination Theory is a framework developed by two psychologists, Ryan and Deci. It provides a framework for understanding how our wellbeing is dependent on how well our social world is able to meet our core needs.
+
+    Autonomy:  Feeling a sense of choice and control
+
+    Relatedness: Feeling a sense of belonging and social acceptance
+
+    Competence: Feeling like you are confident and able in your ability to do things well
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -469,16 +471,16 @@ Slides:
 - Template: sixteen
   Title: 'Social causes of depression: Social exclusion '
   Description: "Social exclusion and rejection can cause experiences of physical numbness
-    and a lack of emotion.  Baumeister et al, 2003\n\nResearchers who studied people
-    who had been excluded from a society or group found that it was common for them
-    to shut down their emotional response rather than experiencing heightened states
-    of distress.  \n\n“It was as though they had been hit with a stun gun” \n\nThey
-    suggest could be an adaptive response to prevent retaliation against the group
-    and to keep painful emotions out of awareness. \n\n(K. D. Williams, 2001)."
+    and a lack of emotion. \n\nResearchers who studied people who had been excluded
+    from a society or group found that it was common for them to shut down their emotional
+    response rather than experiencing heightened states of distress.\n\n“It was as
+    though they had been hit with a stun gun”\n\nThey suggest could be an adaptive
+    response to prevent retaliation against the group and to keep painful emotions
+    out of awareness."
   Graphic Image: 
   Audio url: 
   Video Url: 
-  Credit: 
+  Credit: Baumeister et al, 2003, K. D. Williams, 2001
   Links:
   - Link Url: 
   Quote: 
