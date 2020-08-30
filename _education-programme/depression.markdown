@@ -22,6 +22,7 @@ Slides:
   - Link Url: 
   Quote: 
   Quote Credit: 
+  Slide Colour: 
   Cover Image: 
   Cover Colour: 
 - Template: four
@@ -901,30 +902,6 @@ Slides:
   Audio url: 
   Video Url: 
   Credit: 'Graphic showing work, relationships, play, rest, meaning and purpose. '
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Image: 
-- Template: 
-  Title: 
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Image: 
-- Template: 
-  Title: 
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
   Links:
   - Link Url: 
   Quote: 
