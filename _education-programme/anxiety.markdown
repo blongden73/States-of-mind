@@ -493,8 +493,8 @@ Slides:
 - Template: ten
   Title: Discussion point
   Image: 
-  Description: 'Have you ever felt anxiety in your relationships? What helped to calm
-    this anxiety? '
+  Description: "Have you ever felt anxiety in your relationships? \n\nWhat helped
+    to calm this anxiety?"
   Graphic Image: 
   Audio url: 
   Video Url: 
