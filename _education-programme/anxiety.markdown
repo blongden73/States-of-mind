@@ -96,7 +96,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: Anxiety and the body
-  Image: "/uploads/DTSxSSRIdentity9462.jpg"
+  Image: "/uploads/DTSxSSRIdentity9462-917458.jpg"
   Description: 'The amygdala and the nervous response '
   Graphic Image: 
   Audio url: 
@@ -360,7 +360,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: What causes anxiety?
-  Image: "/uploads/DTSxSSRIdentity9776.jpg"
+  Image: "/uploads/DTSxSSRIdentity9776-b69e4e.jpg"
   Description: 
   Graphic Image: 
   Audio url: 
@@ -531,7 +531,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: 'Working with limiting beliefs '
-  Image: "/uploads/DTSxSSRIdentity9106.jpg"
+  Image: "/uploads/DTSxSSRIdentity9106-32b967.jpg"
   Description: 
   Graphic Image: 
   Audio url: 
@@ -648,7 +648,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: 'Developing a breathing practice '
-  Image: "/uploads/jacl279-055.jpg"
+  Image: "/uploads/jacl279-055-b80733.jpg"
   Description: 
   Graphic Image: 
   Audio url: 
