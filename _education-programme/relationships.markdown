@@ -340,13 +340,52 @@ Slides:
 - Template: five
   Title: 'How relationship styles  affects our experiences in relationships '
   Image: 
-  Description: "Research shows that people are likely to be drawn to people who share
-    the same relationships style as their caregivers.  \nFor example, if our parents
-    were distant or unavailable when we were younger, we may be attracted to people
-    who are avoidant of intimacy and closeness into our adult life as this is the
-    relationship style that we have become familiar with. \nIf somebody with an anxious
-    pattern has a relationship with somebody with an avoidant partner, it may cause
-    a ‘push and pull’ dynamic in relationships."
+  Description: |-
+    Research shows that people are likely to be drawn to people who share the same relationships style as their caregivers.
+
+    \
+    For example, if our parents were distant or unavailable when we were younger, we may be attracted to people who are avoidant of intimacy and closeness into our adult life as this is the relationship style that we have become familiar with.
+
+
+    If somebody with an anxious pattern has a relationship with somebody with an avoidant partner, it may cause a ‘push and pull’ dynamic in relationships.
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: nineteen
+  Title: Anxious - Avoidant Relationship dynamics
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: <iframe width="560" height="315" src="https://www.youtube.com/embed/e9EgUvfgojY"
+    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen></iframe>
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: Compassion
+  Image: 
+  Description: "Compassion is the foundation for empathy, love and compromise in relationships.
+    \n\nCompassion is an attitude and belief in equality and each persons right for
+    their needs to be valued and understood for both their good qualities and their
+    flaws.\n\n\nWhen we do not judge or criticise the behaviour of another person
+    but take time to understand and work through problems together, we show ourselves
+    and the other that we do not see problems in the relationship as Indications of
+    their worth but as an opportunity for growth and deeper levels of understanding
+    and connection in our relationships.\n\nBy respecting another person as having
+    the same needs for love, connection and understanding as ourselves, we can overcome
+    the judgement and limiting beliefs about others that can cause distance and misunderstanding
+    in relationships."
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -359,23 +398,39 @@ Slides:
 - Template: sixteen
   Title: 'Developing compassion for ourselves '
   Image: 
-  Description: "If our relationship pattern is causing us to experience unfulfilling
-    relationships or we are struggling to experience closeness in our relationships,
-    self-compassion is an important tool for caring for ourselves and supporting our
-    mental health. Without self-compassion we can reinforce limiting beliefs that
-    we are unlovable and incapable of experiencing intimacy and closeness in relationships.
-    \n\nWhen we experience conflict or challenges in our relationships it causes our
-    nervous systems to react, due to an evolutionary fear of rejection, abandonment
-    and isolation. \n\nBy practicing self compassion we can provide ourselves with
-    the need for reassurance and a sense of safety in the absence of another person.
-    \ \n\n1. Notice the critical inner narrative \n2. Notice the tension in your body
-    created by these critical thoughts and beliefs \n3. Bring awareness to the areas
-    of tension without resisting them \n4. Breathe softly to these areas of tension
-    to help release the built up stress and tension \n5. Replace critical thoughts
-    with supportive and reassuring statements"
+  Description: |-
+    If our relationship pattern is causing us to experience unfulfilling relationships or we are struggling to experience closeness in our relationships, self-compassion is an important tool for caring for ourselves and supporting our mental health.
+
+     Without self-compassion we can reinforce limiting beliefs that we are unlovable and incapable of experiencing intimacy and closeness in relationships.
+
+    When we experience conflict or challenges in our relationships it causes our nervous systems to react, due to an evolutionary fear of rejection, abandonment and isolation.
   Graphic Image: 
   Audio url: 
   Video Url: https://www.youtube.com/watch?v=e9EgUvfgojY
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: 'sixteen '
+  Title: 
+  Image: 
+  Description: |-
+    By practicing self compassion we can provide ourselves with the need for reassurance and a sense of safety in the absence of another person.
+
+    1. Notice the critical inner narrative
+
+    2. Notice the tension in your body created by these critical thoughts and beliefs
+
+    3. Bring awareness to the areas of tension without resisting them
+
+    4. Breathe softly to these areas of tension to help release the built up stress and tension
+
+    5. Replace critical thoughts with supportive and reassuring statements
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
   Credit: 
   Links:
   - Link Url: 
@@ -396,38 +451,17 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
-  Title: Compassion
-  Image: 
-  Description: "Compassion is the foundation for empathy, love and compromise in relationships.
-    Compassion is an attitude and belief in equality and each persons right for their
-    needs to be valued and understood for both their good qualities and their flaws.
-    \nWhen we do not judge or criticise the behaviour of another person but take time
-    to understand and work through problems together, we show ourselves and the other
-    that we do not see problems in thee relationship as Indications of their worth
-    but as an opportunity for growth and deeper levels of understanding and connection
-    in our relationships. \nBy respecting another person as having the same needs
-    for love, connection and understanding as ourselves, we can overcome the judgement
-    and limiting beliefs about others that can cause distance and misunderstanding
-    in relationships. "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: sixteen
   Title: 'External Unifying Centres '
-  Image: 
-  Description: "The attunement that our supportive relationships provide, supports
-    our personal development by reflecting back to us and reinforcing our values,
-    goals, beliefs and worldview.  \nOur supportive relationships act as a mirror
-    for us to see ourselves authentically. \nThese supportive relationships provide
-    a structure of support that ‘hold’ us and support our sense of confidence and
-    self esteem. \nThese relationships can be with members of our community, teachers,
-    family friends, coaches or anybody with whom we have a close healthy relationship. "
+  Image: "/uploads/teacher.jpg"
+  Description: |-
+    The attunement that our supportive relationships provide, supports our personal development by reflecting back to us and reinforcing our values, goals, beliefs and worldview.
+
+    \
+    Our supportive relationships act as a mirror for us to see ourselves authentically.
+
+    These supportive relationships provide a structure of support that ‘hold’ us and support our sense of confidence and self esteem.
+
+    These relationships can be with members of our community, teachers, family friends, coaches or anybody with whom we have a close healthy relationship.
   Graphic Image: 
   Audio url: 
   Video Url: 
