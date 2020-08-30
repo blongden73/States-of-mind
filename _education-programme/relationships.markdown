@@ -311,9 +311,9 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: nineteen
-  Title: Anxious - Avoidant Relationship dynamics
+  Title: 
   Image: 
-  Description: 
+  Description: Anxious - Avoidant Relationship dynamics
   Graphic Image: 
   Audio url: 
   Video Url: <iframe width="560" height="315" src="https://www.youtube.com/embed/e9EgUvfgojY"
