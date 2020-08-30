@@ -802,7 +802,7 @@ Slides:
   Quote Credit:
   Slide Colour:
 - Template: five
-  Title: 'Practicing good listening'
+  Title: Practicing good listening
   Image:
   Description:
   Graphic Image:
