@@ -980,8 +980,8 @@ Slides:
     we can improve our self esteem and prevent difficult feelings of resentment, anger
     and stress from emerging in our relationships.\nHealthy boundaries are flexible
     and an essential part of healthy relationships where each person respects the
-    boundaries of the other. \nWhen healthy boundaries are present, each person understands
-    that they are responsible for advocating for their own needs in relationships
+    boundaries of the other. \n\nWhen healthy boundaries are present, each person
+    understands that they are responsible for advocating for their own needs in relationships
     and communicating clearly so that they can get their needs met."
   Graphic Image: 
   Audio url: 
