@@ -6,7 +6,7 @@ position: 0
 Slides:
 - Template: one
   Title: 'Part 1: Self Awareness'
-  Image: "/uploads/gemma-chua-tran-8gwa8WuA4TU-unsplash.jpg"
+  Image: "/uploads/identity%20and%20self%20awareness-0906a5.jpeg"
   Description: 
   Graphic Image: 
   Audio url: 

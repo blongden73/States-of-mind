@@ -739,13 +739,19 @@ Slides:
   Title: How can we listen well?
   Image: 
   Description: |-
-    # Pay attention
-    # Show curiosity and interest
-    # Show you are listening by using non verbal feedback
-    # Mirror the other person’s body language
-    # Reflect back to the speaker what you have heard them say
-    # Ask clarifying questions
-    # Don't interrupt
+    * Pay attention
+
+    * Show curiosity and interest
+
+    * Show you are listening by using non verbal feedback
+
+    * Mirror the other person’s body language
+
+    * Reflect back to the speaker what you have heard them say
+
+    * Ask clarifying questions
+
+    * Don't interrupt
   Graphic Image: 
   Audio url: 
   Video Url: 
