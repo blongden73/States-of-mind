@@ -77,7 +77,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: five
-  Title: When anxiety becomes a problem
+  Title: When anxiety becomes a problem
   Image: 
   Description: "Anxiety becomes a problem in our lives when we begin to notice a reduced
     ability to cope with situations in our everyday life.\n\nIf we have experienced
