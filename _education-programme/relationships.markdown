@@ -22,16 +22,19 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- 
 - Template: six
   Title: 
   Image: 
-  Description: "While as individuals we can work to meet these needs for ourselves,
-    we can also supporting each other to meet these needs so that our relationships
-    feel healthy and fulfilling.\n\nNeed for authenticity \n\nOne of our core needs
-    is the ability to feel like we can bring our full self to our relationships.\n\nNeed
-    for connection \n\nWe all have a need to feel like we are seen, understood and
-    valued in our relationships.\n\n\n"
+  Description: |-
+    While as individuals we can work to meet these needs for ourselves, we can also supporting each other to meet these needs so that our relationships feel healthy and fulfilling.
+
+    **Authenticity**
+
+    One of our core needs is the ability to feel like we can bring our full self to our relationships.
+
+    **Connection**
+
+    We all have a need to feel like we are seen, understood and valued in our relationships.
   Graphic Image: 
   Audio url: 
   Video Url: 
