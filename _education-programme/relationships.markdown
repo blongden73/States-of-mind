@@ -994,6 +994,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+Cover Image: "/uploads/priscilla-du-preez-vDzeKnPBPLM-unsplash.jpg"
 layout: presentation
 ---
 
