@@ -412,7 +412,7 @@ body.education {
     min-width: 672px;
 
     iframe {
-      width: 100%;
+      width: 48vw;
       height: 28vw;
       margin-bottom: 30px;
     }
@@ -602,6 +602,10 @@ body.education {
 
 .pagination {
   padding-top: 4px;
+}
+
+.sixteen + .sixteen {
+  background-color: $nu-blue;
 }
 
 .sixteen + .sixteen + .sixteen {
