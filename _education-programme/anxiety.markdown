@@ -360,7 +360,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: What causes anxiety?
-  Image: "/uploads/anxiety%207.jpg"
+  Image: "/uploads/DTSxSSRIdentity9776.jpg"
   Description: 
   Graphic Image: 
   Audio url: 
@@ -382,7 +382,7 @@ Slides:
     ### What ‘Internal Fears do we have?
 
     These are beliefs or internal narratives that cause us to feel like we are unable to cope.
-  Graphic Image: 
+  Graphic Image: "/uploads/astrologyforartists_105941222_169499407896081_2923306870018876192_n.jpg"
   Audio url: 
   Video Url: 
   Credit: 
