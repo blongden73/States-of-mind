@@ -976,7 +976,7 @@ Slides:
     \nIf we did not learn to set boundaries in childhood, it is important to do so
     in adulthood, so that we can clearly express our feelings and needs. Setting healthy
     boundaries helps us to communicate what types of behaviour we will/ will not tolerate
-    from others by stating what is and is not acceptable to you. \nBy setting boundaries
+    from others by stating what is and is not acceptable to you. \n\nBy setting boundaries
     we can improve our self esteem and prevent difficult feelings of resentment, anger
     and stress from emerging in our relationships.\nHealthy boundaries are flexible
     and an essential part of healthy relationships where each person respects the
