@@ -796,7 +796,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-Cover Image: "/uploads/gemma-chua-tran-mZQpsI1CoVQ-unsplash%20(1)-bc2c6e.jpg"
+Cover Image: "/uploads/Cover-19028d.jpg"
 Cover Colour: 
 layout: presentation
 ---
