@@ -706,7 +706,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-Cover Image: "/uploads/body%20feelings%20mind.jpeg"
+Cover Image: "/uploads/BFM%20hands-17d2f8.jpg"
 Cover Colour: "#000000"
 layout: presentation
 ---
