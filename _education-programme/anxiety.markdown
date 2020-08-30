@@ -413,7 +413,7 @@ Slides:
     to avoid situations that could cause us discomfort can help in the short term
     but in the long term can perpetuate feelings of anxiety as it reinforces our internal
     beliefs that we cannot cope with situations that challenge us. "
-  Graphic Image: 
+  Graphic Image: "/uploads/DTS_Warp_Nick_Fancher_4232.jpg"
   Audio url: 
   Video Url: 
   Credit: 
