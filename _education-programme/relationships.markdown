@@ -812,7 +812,8 @@ Slides:
   - Link Url:
   Quote:
   Quote Credit:
-  Slide Colour: - Template: five
+  Slide Colour:
+- Template: five
   Title: 'Practicing good listening'
   Image:
   Description:
