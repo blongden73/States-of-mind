@@ -905,7 +905,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
+- Template: list
   Title: 'Conflict , rupture and repair  '
   Image: 
   Description: "What happens in the brain when we experience ruptures in our relationships? \n\nResearch
@@ -934,7 +934,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
+- Template: list
   Title: 'Creating a safe space for resolving conflict '
   Image: 
   Description: |-
