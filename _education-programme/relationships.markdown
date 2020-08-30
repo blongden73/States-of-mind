@@ -121,22 +121,9 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: five
-  Title: 'Graphic of parents / needs and patterns being passed on. '
-  Image: 
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: five
+- Template: sixteen
   Title: 
-  Image: 
+  Image: "/uploads/family_portrait.svg"
   Description: |-
     This graphic reflects the nature of our emotional development. Our emotional memory from key stages of our life shapes our personal blueprint for how we relate with others as adults.
 
