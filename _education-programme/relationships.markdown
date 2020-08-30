@@ -381,18 +381,16 @@ Slides:
 - Template: sixteen
   Title: 'Relationships with self '
   Image: 
-  Description: "‘Fear of compassion for self and compassion from others were also
-    significantly linked to fear of compassion for others.’ \n(Gilbert et al, 2010.)\n\nPaul
-    Gilbert is an evolutionary psychologist who explored the link between self compassion
-    and the quality of our relationships. Gilbert found that people who struggled
-    to feel care and compassion for themselves found it more difficult to relate with
-    compassion for others. \n\nGilberts work highlights how our relationship with
-    ourselves has a real and lasting influence on our ability to form close and caring
-    relationships with the people in our lives.  "
+  Description: |-
+    ‘Fear of compassion for self and compassion from others were also significantly linked to fear of compassion for others.’ 
+
+    Paul Gilbert is an evolutionary psychologist who explored the link between self compassion and the quality of our relationships. Gilbert found that people who struggled to feel care and compassion for themselves found it more difficult to relate with compassion for others.
+
+    Gilberts work highlights how our relationship with ourselves has a real and lasting influence on our ability to form close and caring relationships with the people in our lives.
   Graphic Image: 
   Audio url: 
   Video Url: 
-  Credit: 
+  Credit: Gilbert et al, 2010.
   Links:
   - Link Url: 
   Quote: 
@@ -507,8 +505,8 @@ Slides:
 - Template: ten
   Title: Discussion
   Image: 
-  Description: 'Have you ever felt like you have experienced an ''I -It'' relationship
-    with somebody? How did this make you feel towards them? '
+  Description: "Have you ever felt like you have experienced an 'I -It' relationship
+    with somebody? \n\nHow did this make you feel towards them?"
   Graphic Image: 
   Audio url: 
   Video Url: 
