@@ -796,7 +796,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-Cover Image: "/uploads/Anxiety%20cover%202%20(1).jpg"
+Cover Image: "/uploads/slide-3-c2c3faaab04e488286ee4885459b2b9d.jpg"
 Cover Colour: "#000000"
 layout: presentation
 ---
