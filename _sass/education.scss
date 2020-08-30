@@ -418,7 +418,12 @@ body.education {
 
     .slide-description {
       text-align: center;
-      font-size: 1.2vw;
+      font-size: 4.2vw;
+      line-height: 0;
+      margin: 0;
+      -webkit-text-stroke-width: 1px;
+      -webkit-text-stroke-color: black;
+      color: transparent;
     }
   }
 
@@ -629,6 +634,8 @@ body.education {
 
   .slide-content {
     right: 10%;
+    max-width: 36%;
+    width: 36%;
   }
 }
 
