@@ -906,7 +906,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: list
-  Title: 'Conflict , rupture and repair  '
+  Title: 'Conflict, rupture and repair  '
   Image: 
   Description: "**What happens in the brain when we experience ruptures in our relationships?** \nResearch
     has shown that when we experience conflict and rupture in our relationships, the
