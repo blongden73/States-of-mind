@@ -1,5 +1,5 @@
 ---
-title: Body, feelings, mind
+title: Body, Feelings, Mind
 date: 2020-08-28 16:25:00 Z
 permalink: "/education-programme/body-feelings-mind.html"
 position: 1
