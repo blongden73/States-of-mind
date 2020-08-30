@@ -726,15 +726,11 @@ Slides:
   Image: 
 - Template: sixteen
   Title: 'Mental health apps '
-  Description: "Mental health apps generally work by providing ways for people to
-    self- monitor their mood and behaviour , providing coping strategies and a range
-    of therapeutic practices and techniques.\nThere is little evidence that mental
-    health apps are effective at improving mental health symptoms. Although many of
-    the apps have not been tested with scientific research, most evidence for the
-    apps that have, have not been shown to be effective. \nSome research has shown
-    that mental health apps may have some effect on improving depressive symptoms
-    when compared with doing nothing. However, in comparison to doing something else
-    this effect was reduced to being minimally effective."
+  Description: |-
+    Mental health apps generally work by providing ways for people to self- monitor their mood and behaviour , providing coping strategies and a range of therapeutic practices and techniques.
+    There is little evidence that mental health apps are effective at improving mental health symptoms. Although many of the apps have not been tested with scientific research, most evidence for the apps that have, have not been shown to be effective.
+
+    Some research has shown that mental health apps may have some effect on improving depressive symptoms when compared with doing nothing. However, in comparison to doing something else this effect was reduced to being minimally effective.
   Graphic Image: 
   Audio url: 
   Video Url: 
