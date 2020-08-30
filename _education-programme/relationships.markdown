@@ -1015,8 +1015,8 @@ Slides:
 - Template: five
   Title: 'Recognising unhealthy relationships '
   Image: 
-  Description: "Controlling behaviour \nUncomfortable feelings \nLack of reciprocity
-    \nLack of boundaries and mutual respect \nExclusion from decision making "
+  Description: "* Controlling behaviour \n* Uncomfortable feelings \n* Lack of reciprocity
+    \n* Lack of boundaries and mutual respect \n* Exclusion from decision making "
   Graphic Image: 
   Audio url: 
   Video Url: 
