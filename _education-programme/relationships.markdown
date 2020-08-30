@@ -235,9 +235,9 @@ Slides:
 - Template: sixteen
   Title: 2) Anxious relationship style
   Image: "/uploads/anxious%20(1).jpg"
-  Description: "\" I find that others are reluctant to get as close as I would like.
+  Description: "\"I find that others are reluctant to get as close as I would like.
     I often worry that my partner doesn’t love me or won’t want to stay with me. I
-    want to get close to my partner and this sometimes scares people away. \"\n\nIf,
+    want to get close to my partner and this sometimes scares people away.\"\n\nIf,
     in our childhood world, we lived in an environment where we took on care-taking
     roles for the adults around us, or our siblings, we may come to develop a relationship
     pattern where we believe that putting the needs of others before our own is more
@@ -251,7 +251,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
+- Template: six
   Title: 
   Image: 
   Description: "If we have experienced this type of relational environment growing
