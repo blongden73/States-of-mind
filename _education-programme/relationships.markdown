@@ -736,7 +736,7 @@ Slides:
   Quote Credit:
   Slide Colour:
 - Template: list
-  Title: How can we listen well?
+  Title: How can we listen well?
   Image:
   Description: |-
     # Pay attention
