@@ -317,7 +317,7 @@ Slides:
     relationship to our feelings, it can help us to manage our difficult feelings
     more easily, develop stronger relationships with others and overcome challenging
     times with more clarity and confidence. \n"
-  Graphic Image: 
+  Graphic Image: "/uploads/aiony-haust-ftLZUqNRjTc-unsplash.jpg"
   Audio url: 
   Video Url: 
   Credit: 
