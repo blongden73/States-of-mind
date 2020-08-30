@@ -69,21 +69,21 @@ Slides:
 - Template: five
   Title: 'Psychological signs '
   Description: |-
-    Continuous low mood or sadness
+    * Continuous low mood or sadness
 
-    Feeling hopeless and helpless
+    * Feeling hopeless and helpless
 
-    Feeling guilt-ridden
+    * Feeling guilt-ridden
 
-    Feeling irritable and intolerant of others
+    * Feeling irritable and intolerant of others
 
-    Having no motivation or interest in things
+    * Having no motivation or interest in things
 
-    Finding it difficult to make decisions
+    * Finding it difficult to make decisions
 
-    Not getting any enjoyment out of life
+    * Not getting any enjoyment out of life
 
-    Having suicidal thoughts or thoughts of harming yourself
+    * Having suicidal thoughts or thoughts of harming yourself
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -97,13 +97,13 @@ Slides:
 - Template: five
   Title: Social Signs
   Description: |-
-    The social signs of depression include:
+    * The social signs of depression include:
 
-    Avoiding contact with friends and taking part in fewer social activities
+    * Avoiding contact with friends and taking part in fewer social activities
 
-    Neglecting your hobbies and interests
+    * Neglecting your hobbies and interests
 
-    Having difficulties in your home, work or family life
+    * Having difficulties in your home, work or family life
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -117,15 +117,15 @@ Slides:
 - Template: five
   Title: Physical signs
   Description: |-
-    Moving or speaking more slowly than usual
+    * Moving or speaking more slowly than usual
 
-    Changes in appetite or weight (usually decreased, but sometimes increased)
+    * Changes in appetite or weight (usually decreased, but sometimes increased)
 
-    Unexplained aches and pains
+    * Unexplained aches and pains
 
-    Lack of energy
+    * Lack of energy
 
-    Disturbed sleep – for example, finding it difficult to fall asleep at night or waking up very early in the morning
+    * Disturbed sleep – for example, finding it difficult to fall asleep at night or waking up very early in the morning
   Graphic Image: 
   Audio url: 
   Video Url: 
