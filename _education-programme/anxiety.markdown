@@ -63,11 +63,11 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: five
+- Template: twenty
   Title: 
   Image: 
   Description: 
-  Graphic Image: 
+  Graphic Image: "/uploads/axiety_response.png"
   Audio url: 
   Video Url: 
   Credit: Graphic
