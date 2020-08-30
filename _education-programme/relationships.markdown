@@ -180,14 +180,15 @@ Slides:
 - Template: sixteen
   Title: The styles
   Image: 
-  Description: |-
-    A) I find it relatively easy to get close to others and I feel relatively comfortable depending on them and allowing them to depend on me.  I don’t worry about being abandoned or about someone getting too close to me.
-
-
-    B) I find that others are reluctant to get as close as I would like. I often worry that my partner doesn’t love me or won’t want to stay with me. I want to get close to my partner and this sometimes scares people away.
-
-
-    C) I am somewhat uncomfortable being close to others. I find it difficult to trust them completely and difficult to allow myself to defend on them. I am nervous when anybody gets too close and people want me to be more intimate than I feel comfortable being.
+  Description: "1. I find it relatively easy to get close to others and I feel relatively
+    comfortable depending on them and allowing them to depend on me.  I don’t worry
+    about being abandoned or about someone getting too close to me.\n\n2. I find that
+    others are reluctant to get as close as I would like. I often worry that my partner
+    doesn’t love me or won’t want to stay with me. I want to get close to my partner
+    and this sometimes scares people away.I am somewhat uncomfortable being close
+    to others. \n\n3. I find it difficult to trust them completely and difficult to
+    allow myself to defend on them. I am nervous when anybody gets too close and people
+    want me to be more intimate than I feel comfortable being."
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -198,10 +199,10 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
-  Title: 'A) Secure relationship style '
+  Title: '1) Secure relationship style '
   Image: "/uploads/DTS_Unbrand_Julien_Tell_4614.jpg"
   Description: |-
-    " I find it relatively easy to get close to others and I feel relatively comfortable depending on them and allowing them to depend on me.  I don’t worry about being abandoned or about someone getting too close to me. "
+    "I find it relatively easy to get close to others and I feel relatively comfortable depending on them and allowing them to depend on me.  I don’t worry about being abandoned or about someone getting too close to me."
 
     Healthy relationships require that both people are able to present and attuned to the needs of the other and are able to notice how their own emotions impact on the experience of the other person.
   Graphic Image: 
@@ -232,7 +233,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
-  Title: B) Anxious relationship style
+  Title: 2) Anxious relationship style
   Image: "/uploads/anxious%20(1).jpg"
   Description: "\" I find that others are reluctant to get as close as I would like.
     I often worry that my partner doesn’t love me or won’t want to stay with me. I
@@ -276,7 +277,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
-  Title: C) Avoidant relationship pattern
+  Title: 3) Avoidant relationship pattern
   Image: "/uploads/avoidant.jpg"
   Description: |-
     " I am somewhat uncomfortable being close to others. I find it difficult to trust them completely and difficult to allow myself to defend on them. I am nervous when anybody gets too close and people want me to be more intimate than I feel comfortable being. "
