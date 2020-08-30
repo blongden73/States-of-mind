@@ -97,6 +97,21 @@ body.education {
   background-color: $nu-pink;
   position: relative;
 
+  ul {
+    list-style: none !important;
+
+    li {
+      &:before {
+        width: 20px;
+        height: 20px;
+        border-radius: 50%;
+        display: inline-block;
+        content: '';
+        background-color: $dark-blue;
+      }
+    }
+  }
+
   &.white {
     color: #333 !important;
   }
@@ -412,8 +427,8 @@ body.education {
     min-width: 672px;
 
     iframe {
-      width: 100%;
-      height: 28vw;
+      width: 46vw;
+      height: 26vw;
       margin-bottom: 30px;
     }
 
