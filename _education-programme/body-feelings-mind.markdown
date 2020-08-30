@@ -607,7 +607,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
-  Title: 'Imagination and problem solving '
+  Title: 'Imagination '
   Image: "/uploads/imagine.jpg"
   Description: |-
     Whenever somebody comes up with an idea, they have an image of the idea that comes along with the thought of it. This is the visual part of the mind that helps us to imagine future possibilities and helps us to access parts of our experience we have not yet seen. When we close our eyes and allow ourselves to imagine something, it helps us to visualise all of the outcomes of that reality happening. 
