@@ -900,7 +900,7 @@ Slides:
   Graphic Image: "/uploads/Group%2097%20(1).png"
   Audio url: 
   Video Url: 
-  Credit: 'Graphic showing work, relationships, play, rest, meaning and purpose. '
+  Credit: 
   Links:
   - Link Url: 
   Quote: 
