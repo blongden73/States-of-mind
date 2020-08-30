@@ -70,7 +70,7 @@ Slides:
   Graphic Image: "/uploads/anxiety_response.svg"
   Audio url: 
   Video Url: 
-  Credit: Graphic
+  Credit: 
   Links:
   - Link Url: 
   Quote: 
