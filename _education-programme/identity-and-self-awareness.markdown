@@ -411,7 +411,7 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: 'Inner child Practice '
-  Image: "/uploads/child%202.jpg"
+  Image: "/uploads/caroline-hernandez-TMpQ5R9mbOc-unsplash.jpg"
   Description: "The inner child practice is a therapeutic process that allows us to
     reconnect with our essential nature. \n\nAs young children, we do not change or
     adapt our behaviour for others but express our needs, interests and sense of self
@@ -446,7 +446,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: The Younger You
-  Image: "/uploads/identity%204.jpg"
+  Image: "/uploads/2031089-8e580b.jpg"
   Description: An Autobiography 
   Graphic Image: 
   Audio url: 
