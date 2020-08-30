@@ -280,7 +280,7 @@ Slides:
   Title: 3) Avoidant relationship pattern
   Image: "/uploads/avoidant.jpg"
   Description: |-
-    " I am somewhat uncomfortable being close to others. I find it difficult to trust them completely and difficult to allow myself to defend on them. I am nervous when anybody gets too close and people want me to be more intimate than I feel comfortable being. "
+    "I am somewhat uncomfortable being close to others. I find it difficult to trust them completely and difficult to allow myself to defend on them. I am nervous when anybody gets too close and people want me to be more intimate than I feel comfortable being."
 
     If we do not experience relationships that were attuned to our needs as children, we can lose trust in other people’s ability to understand our inner world and come to feel that we must manage our problems alone, without the presence of another.
   Graphic Image: 
@@ -766,19 +766,7 @@ Slides:
     # Being distracted by our thoughts:
 
     When we listen, it is very natural to become distracted and preoccupied by our own personal narrative and reactions to what we are hearing. By becoming aware of becoming lost in our own thoughts we can return to good listening.
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: list
-  Title: 
-  Image: 
-  Description: |-
+
     # Becoming distracted by emotions.
 
     If the conversation creates an emotional response in us, it can prevent us from being fully present to the speaker.
@@ -1095,4 +1083,4 @@ Cover Colour: "#ffffff"
 layout: presentation
 ---
 
-Authenticity and Belonging
+Authenticity and Belonging 
