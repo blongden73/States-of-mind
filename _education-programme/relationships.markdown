@@ -755,7 +755,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
+- Template: list
   Title: 'Barriers to good listening '
   Image: 
   Description: "# Being distracted by setting:\n\nIf our attention is divided, our
