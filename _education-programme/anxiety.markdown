@@ -95,7 +95,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: one
-  Title: Anxiety and the body
+  Title: Anxiety and the body
   Image: "/uploads/DTSxSSRIdentity9462-228b84.jpg"
   Description: 'The amygdala and the nervous response '
   Graphic Image: 
@@ -108,7 +108,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: five
-  Title: 'The neuroscience of anxiety '
+  Title: 'The neuroscience of anxiety '
   Image: 
   Description: "The anxiety response begins in a part of the brain called the Amygdala.
     We share this part of the brain with all animals, as it is one of the most fundamental
@@ -127,7 +127,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
-  Title: The amygdala and the nervous response
+  Title: The amygdala and the nervous response
   Image: "/uploads/amygdala.jpg"
   Description: "The size of the amygdala has been shown to correlate with people’s
     sensitivity to aspects of the environment they consider as threatening or unsafe.\n
