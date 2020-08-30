@@ -215,7 +215,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: five
+- Template: four
   Title: 
   Image: 
   Description: "The feelings of anticipation and loss of control that are connected
