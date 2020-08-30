@@ -338,7 +338,7 @@ Slides:
   Description: |-
     In 2017, nearly 300 million people were living with depression worldwide. In 2017 the UN stated:
 
-    >  “ We need to shift from talking about depression as a chemical imbalance to power imbalances in the way we live. ”
+    “ We need to shift from talking about depression as a chemical imbalance to power imbalances in the way we live. ”
   Graphic Image: 
   Audio url: 
   Video Url: 
