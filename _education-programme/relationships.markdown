@@ -67,21 +67,11 @@ Slides:
 - Template: sixteen
   Title: 'Attunement in Relationships '
   Image: "/uploads/attunement.jpg"
-  Description: "Our relationship with our family provides us with our first experiences
-    of what relationships are like. The way that our parent/s responded to our needs
-    for authenticity and connection in childhood shapes our understanding of whether
-    we can trust others to meet these needs .\n\nIf our family was present and attuned
-    to what we needed and reflected back to us a positive sense of self, we will carry
-    a sense of self worth and self-esteem into our adult relationships and will feel
-    able to communicate openly and honesty about our emotional life.\nThis process
-    of reflecting back our authentic self is called ‘attunement’.\n\nIf our parents
-    punished us or were unavailable when we needed them emotionally, we may come to
-    develop a belief that it is unsafe or uncomfortable expressing our needs with
-    others as adults. This ‘non-attunement’ can have a significant impact on our sense
-    of self worth, our ability to regulate our emotions and our mental health.\n\nAlthough
-    no parent can meet all of our needs all of the time, the amount of attunement
-    that they were able to provide has been shown to influence the quality of our
-    relationships as an adult. "
+  Description: |-
+    Our relationship with our family provides us with our first experiences of what relationships are like. The way that our parent/s responded to our needs for authenticity and connection in childhood shapes our understanding of whether we can trust others to meet these needs .
+
+    If our family was present and attuned to what we needed and reflected back to us a positive sense of self, we will carry a sense of self worth and self-esteem into our adult relationships and will feel able to communicate openly and honesty about our emotional life.
+    This process of reflecting back our authentic self is called ‘attunement’.
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -98,7 +88,27 @@ Slides:
     the fact that no parent can meet our needs all of the time and that no parenting
     style can be completely perfect.\n\nOur parents are individuals with their own
     potentially unmet needs and relational patterns that have been played out from
-    their childhoods. "
+    their childhoods. \n\nIf our parents punished us or were unavailable when we needed
+    them emotionally, we may come to develop a belief that it is unsafe or uncomfortable
+    expressing our needs with others as adults. This ‘non-attunement’ can have a significant
+    impact on our sense of self worth, our ability to regulate our emotions and our
+    mental health.\n\nAlthough no parent can meet all of our needs all of the time,
+    the amount of attunement that they were able to provide has been shown to influence
+    the quality of our relationships as an adult."
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: ten
+  Title: Discussion
+  Image: 
+  Description: 'What factors might affect a parents ability to be attuned to their
+    children''s needs as they grow up? '
   Graphic Image: 
   Audio url: 
   Video Url: 
