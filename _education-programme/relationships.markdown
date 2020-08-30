@@ -17,7 +17,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: four
+- Template: six
   Title: 'Needs in relationships '
   Image: 
   Description: "Our behaviour in relationships is driven by our evolutionary needs
@@ -35,7 +35,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - 
-- Template: four
+- Template: six
   Title: 
   Image: 
   Description: "While as individuals we can work to meet these needs for ourselves,
