@@ -714,7 +714,7 @@ Slides:
   Links:
   - Link Url: 
   Quote: '"The biggest communication problem is that we do not listen to understand.
-    We listen to reply."'
+    We listen to reply."'
   Quote Credit: 'Stephen Covey '
   Slide Colour: 
 - Template: six
