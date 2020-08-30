@@ -4,10 +4,56 @@ date: 2020-08-20 21:33:00 Z
 permalink: "/education-programme/anxiety.html"
 position: 3
 Slides:
+- Template: four
+  Title: 
+  Image: 
+  Description: "Anxiety is a natural response to feelings of fear.\n\nThis fear response
+    is a natural defence mechanism that manifests in the way we think, feel and behave.
+    \n\nAnxiety can help us by making us alert us to potential threats and dangerous
+    situations. For example if we are walking down an unfamiliar road late at night,
+    it is very natural to feel edge, nervous and to consider the potential risks. "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: one
   Title: What is anxiety?
   Image: "/uploads/adrian-swancar-72El6N0cmj4-unsplash-b2dc26.jpg"
   Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: one
+  Title: 
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: "“Many forms of anxiety should not be categorised as disorders, because they’re
+    the result of the way people evolved thousands of years ago, rather than something
+    going wrong.\" \n"
+  Quote Credit: Allan Horowitz, Rutgers University
+  Slide Colour: 
+- Template: ten
+  Title: 
+  Image: 
+  Description: 'Why do you think that so many people experience anxiety in the western
+    world? '
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -33,9 +79,12 @@ Slides:
 - Template: five
   Title: When anxiety becomes a problem
   Image: 
-  Description: |-
-    Anxiety becomes a problem in our lives when we begin to notice a reduced ability to cope with situations in our everyday life.
-    If we have experienced a situation in the past that we have not processed, it can cause us to feel like we can’t manage or cope in the present, as our threat detector, or ‘smoke alarm’ becomes overactive and responds more sensitively to things we may not normally perceive as threatening.
+  Description: "Anxiety becomes a problem in our lives when we begin to notice a reduced
+    ability to cope with situations in our everyday life.\n\nIf we have experienced
+    a situation in the past that we have not processed, it can cause us to feel like
+    we can’t manage or cope in the present. \n\nThis is because our threat detector,
+    or ‘smoke alarm’ becomes overactive and responds more sensitively to things we
+    may not normally perceive as threatening."
   Graphic Image: 
   Audio url: 
   Video Url: 
