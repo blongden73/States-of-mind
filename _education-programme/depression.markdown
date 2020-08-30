@@ -242,15 +242,16 @@ Slides:
   Image: 
 - Template: sixteen
   Title: 'The chemical imbalance theory of depression '
-  Description: "\"Although it is often stated with great confidence that depressed
-    people have a serotonin or norepinephrine deficiency, the evidence actually contradicts
-    these claims.”  \n* Professor Emeritus of Neuroscience Elliot Valenstein, in ‘Blaming
-    the Brain’ ( 1998) which reviews the evidence for the serotonin hypothesis. \n*
-    ‘ No abnormality of serotonin in depression has ever been demonstrated’ \n* Psychiatrist
-    David Healey, Psychiatrist, Former secretary for the British Association of Psychopharmacology.\n\n“Patients
-    have been diagnosed with ‘chemical imbalances’ despite the fact that no test exists
-    to support such a claim, and there is no real conception of what a correct chemical
-    imbalance would look like…”"
+  Description: |-
+    “Although it is often stated with great confidence that depressed people have a serotonin or norepinephrine deficiency, the evidence actually contradicts these claims.”
+
+    Professor Emeritus of Neuroscience Elliot Valenstein, in ‘Blaming the Brain’ ( 1998) which reviews the evidence for the serotonin hypothesis.
+
+    “No abnormality of serotonin in depression has ever been demonstrated”
+
+    Psychiatrist David Healey, Psychiatrist, Former secretary for the British Association of Psychopharmacology.
+
+    “Patients have been diagnosed with ‘chemical imbalances’ despite the fact that no test exists to support such a claim, and there is no real conception of what a correct chemical imbalance would look like…”
   Graphic Image: 
   Audio url: 
   Video Url: 
