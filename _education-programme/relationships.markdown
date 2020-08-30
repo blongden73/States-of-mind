@@ -18,17 +18,15 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - 
-- Template: sixteen
+- Template: four
   Title: 
   Image: 
-  Description: "Need for authenticity - one of our core needs is the ability to feel
-    like we can bring our full self to our relationships. \nNeed for connection -
-    we all have a need to feel like we are seen, understood and valued in our relationships.\nThis
-    module explores how by developing our authenticity we can enjoy more fulfilling
-    and connected relationships with others. \nYou will learn how these two needs
-    are interrelated and how by understanding how to recognise and express your needs
-    in relationships you can experience more fulfilling and close connections with
-    others. "
+  Description: |
+    Need for authenticity : one of our core needs is the ability to feel like we can bring our full self to our relationships.
+
+    Need for connection :  we all have a need to feel like we are seen, understood and valued in our relationships.
+
+    This module explores how we can enjoy more fulfilling and connected relationships with others.
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -40,23 +38,18 @@ Slides:
   Slide Colour: 
 - Template: Sixteen
   Title: 'What influences our personal relationships? '
-  Image: 
-  Description: "Our relationships with others are in many ways a reflection of our
-    relationship with ourselves. \nOur emotional relationship with ourselves is also
-    shaped by early childhood experiences and how we were related to by others when
-    we were young. \nOur early relationship with our parents can shape our view of
-    relationships and behaviour with others in our later life. We may internalise
-    beliefs that we developed in our early childhood relationships, such as not being
-    loveable, not being enough as we are or that we need to abandon our needs to remain
-    in a positive relationship with others. \nOur parents are also individuals with
-    their own potentially unmet needs and relational patterns that have been played
-    out from their childhoods. The beliefs and mindsets about relationships that we
-    develop in our childhood can shape our worldview about how relationships are.
-    \nAs human beings, we all have the capacity to relearn how to relate in ways that
-    allow us to feel connected, understood and seen for who we most essentially are.
-    \n By understanding the different relationship styles and dynamics we can develop
-    an awareness of how and why we struggle in relationships and how we can change
-    our unhelpful patterns. "
+  Image: "/uploads/family.jpg"
+  Description: |-
+    Our relationships with others are in many ways a reflection of our relationship with ourselves.
+
+
+    Our emotional relationship with ourselves is also shaped by early childhood experiences and how we were related to by others when we were young.
+
+
+    Our early relationship with our parents can shape our view of relationships and behaviour with others in our later life. We may internalise beliefs that we developed in our early childhood relationships, such as not being loveable, not being enough as we are or that we need to abandon our needs to remain in a positive relationship with others.
+    Our parents are also individuals with their own potentially unmet needs and relational patterns that have been played out from their childhoods. The beliefs and mindsets about relationships that we develop in our childhood can shape our worldview about how relationships are.
+    As human beings, we all have the capacity to relearn how to relate in ways that allow us to feel connected, understood and seen for who we most essentially are.
+    By understanding the different relationship styles and dynamics we can develop an awareness of how and why we struggle in relationships and how we can change our unhelpful patterns.
   Graphic Image: 
   Audio url: 
   Video Url: 
