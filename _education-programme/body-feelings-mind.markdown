@@ -327,6 +327,23 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
+  Title: Emotional Awareness
+  Image: "/uploads/emotions%202.jpg"
+  Description: "Emotional awareness is the ability to observe, name and express what
+    we are feeling. \n\nEmotional communication depends on this awareness and enables
+    us to share our experiences more richly and accurately with others. \n\nBy developing
+    this ability we can help ourselves to resolve misunderstandings with others, understand
+    our reactions and find meaning in our experiences. "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
   Title: Exploring emotion
   Image: 
   Description: graphic
@@ -356,23 +373,6 @@ Slides:
   Title: Creativity and emotional expression
   Image: 
   Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: sixteen
-  Title: Emotional Awareness
-  Image: "/uploads/emotions%202.jpg"
-  Description: "Emotional awareness is the ability to observe, name and express what
-    we are feeling. \n\nEmotional communication depends on this awareness and enables
-    us to share our experiences more richly and accurately with others. \n\nBy developing
-    this ability we can help ourselves to resolve misunderstandings with others, understand
-    our reactions and find meaning in our experiences. "
   Graphic Image: 
   Audio url: 
   Video Url: 
