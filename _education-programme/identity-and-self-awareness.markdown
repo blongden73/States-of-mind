@@ -796,8 +796,8 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-Cover Image: "/uploads/identity%20and%20self%20awareness.jpeg"
-Cover Colour: "#000000"
+Cover Image: "/uploads/pexels-photo-3283576.jpg"
+Cover Colour: "#ffffff"
 layout: presentation
 ---
 
