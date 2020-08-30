@@ -531,7 +531,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: 'Working with limiting beliefs '
-  Image: "/uploads/exercise%20.jpeg"
+  Image: "/uploads/DTSxSSRIdentity9106.jpg"
   Description: 
   Graphic Image: 
   Audio url: 
@@ -557,7 +557,7 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: 'Emotional Regulation '
-  Image: "/uploads/emotiona%20regulation.jpg"
+  Image: "/uploads/elsa-t-BlGFrdgpBqw-unsplash.jpg"
   Description: "Emotional regulation is a really important tool for getting unstuck
     a loop of fearful thoughts and feelings. By understanding how emotional regulation
     works we can develop our self awareness and gain more control over the different
@@ -648,7 +648,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: 'Developing a breathing practice '
-  Image: "/uploads/breathing%202-b71dbc.jpeg"
+  Image: "/uploads/jacl279-055.jpg"
   Description: 
   Graphic Image: 
   Audio url: 
