@@ -626,7 +626,7 @@ Slides:
   Title: 'Mindsets '
   Image: 
   Description: graphic
-  Graphic Image: 
+  Graphic Image: "/uploads/stocksy.jpg"
   Audio url: 
   Video Url: 
   Credit: 
