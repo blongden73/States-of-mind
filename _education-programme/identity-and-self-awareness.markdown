@@ -561,12 +561,15 @@ Slides:
 - Template: sixteen
   Title: What are the benefits of sub-personality work? 
   Image: 
-  Description: |
+  Description: |-
     1. We learn to connect with our different and contradictory ways of acting in the world. This raises our awareness of our behaviour and helps us to make sense of how we can seem to be different versions of ourselves in different circumstances.
-     2. We learn to free ourselves of the unconscious forces that cause us to get trapped in certain aspects of our personality. For example, a very critical part of ourselves.
-    3. We integrate the different aspects of our personality which causes us to feel less conflict within ourselves.
-    4. We emphasise all of the beneficial qualities of our sub-personalities and recognise how they serve us.
-    5. By identifying with our different sub-peronalities, it allows us to develop a greater awareness of what is our true self and what is a mask or persona.    Graphic Image: 
+
+    2. We learn to free ourselves of the unconscious forces that cause us to get trapped in certain aspects of our personality. For example, a very critical part of ourselves.We integrate the different aspects of our personality which causes us to feel less conflict within ourselves.
+
+    3. We emphasise all of the beneficial qualities of our sub-personalities and recognise how they serve us.
+
+    4. By identifying with our different sub-peronalities, it allows us to develop a greater awareness of what is our true self and what is a mask or persona.
+  Graphic Image: 
   Audio url: 
   Video Url: 
   Credit: 
