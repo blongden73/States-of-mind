@@ -908,18 +908,18 @@ Slides:
 - Template: list
   Title: 'Conflict, rupture and repair  '
   Image: 
-  Description: "**What happens in the brain when we experience ruptures in our relationships?** \nResearch
+  Description: "**What happens in the brain when we experience ruptures in our relationships?**Research
     has shown that when we experience conflict and rupture in our relationships, the
     same areas of our brain light up as those that are activated when we break a leg
-    or experience physical pain.  \n\n**Wounding in relationships**\nWounding occurs
+    or experience physical pain.  \n\n**Wounding in relationships.**Wounding occurs
     in relationships when there has been conflict or emotional neglect that has been
     left unresolved in the relationship. The emotional impact of the wounding causes
     the person to behave in ways that protect them from further harm. \n\n**Some examples
-    of patterns of behaviour that emerge from wounding in relationships are:**\nAvoiding
-    contact with the person who has caused the wounding and withdrawing attention
-    and communication. \n\nActing out and harming the other person out of fear and
+    of patterns of behaviour that emerge from wounding in relationships are:**\n*
+    Avoiding contact with the person who has caused the wounding and withdrawing attention
+    and communication. \n* Acting out and harming the other person out of fear and
     desperation. This could take the form of abusive text messages, manipulation and
-    blackmail or physical and verbal abuse. \n\nBecoming hypervigilant to the actions
+    blackmail or physical and verbal abuse. \n* Becoming hypervigilant to the actions
     of the other person and other relationships. Hypervigilance is caused by an overactive
     nervous response to emotional harm and wounding. Hypervigilance may look like
     stalking, constantly checking your phone to see if the other person has messaged
