@@ -465,6 +465,24 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: sixteen
+  Title: 'I -it and I-Thou relationships '
+  Image: "/uploads/FL37036004-715-537.jpg"
+  Description: |-
+    Martin Buber Martin Buber was a prominent twentieth century philosopher, religious thinker, political activist and educator.
+
+    He explored different ways that people perceived and acted towards other people in their relationships.
+
+     He called these different ways of viewing others in relationship as ‘I-Thou’ and ‘I-it’ relationships.
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: six
   Title: 
   Image: 
@@ -490,24 +508,6 @@ Slides:
   Image: 
   Description: 'Have you ever felt like you have experienced an ''I -It'' relationship
     with somebody? How did this make you feel towards them? '
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: sixteen
-  Title: 'I -it and I-Thou relationships '
-  Image: "/uploads/FL37036004-715-537.jpg"
-  Description: |-
-    Martin Buber Martin Buber was a prominent twentieth century philosopher, religious thinker, political activist and educator.
-
-    He explored different ways that people perceived and acted towards other people in their relationships.
-
-     He called these different ways of viewing others in relationship as ‘I-Thou’ and ‘I-it’ relationships.
   Graphic Image: 
   Audio url: 
   Video Url: 
