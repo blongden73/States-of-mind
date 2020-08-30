@@ -758,24 +758,26 @@ Slides:
 - Template: list
   Title: 'Barriers to good listening '
   Image: 
-  Description: "# Being distracted by setting:\n\nIf our attention is divided, our
-    ability to listen well will be affected. To remove this barrier, make sure you
-    are in a setting where you will not be interrupted and remove your phone or other
-    distractions within he room.\n\n# Being distracted by our thoughts: \n\nWhen we
-    listen, it is very natural to become distracted and preoccupied by our own personal
-    narrative and reactions to what we are hearing. By becoming aware of becoming
-    lost in our own thoughts we can return to good listening.\n\n# Becoming distracted
-    by emotions. If the conversation creates an emotional response in us,, it can
-    prevent us from being fully present to the speaker. \n\n# Becoming nervous about
-    silence.  \n\nSilence in conversation can make us feel uncomfortable and awkward
-    . By interrupting to prevent silences we spend a message to the other person that
-    we are not able to contain the feelings of discomfort in the listening process.
-    By taking time to allow silence, or by using silence to summarise back to the
-    listener what you have heard, you can help the listener to feel supported and
-    better understood.\n\n# Problem solving and giving advice: \n\nBy trying to solve
-    the other person’s problem we can make the other person feel that we are trying
-    to change or fix them, which will often reduce a person’s desire to share their
-    experience."
+  Description: |-
+    # Being distracted by setting:
+
+    If our attention is divided, our ability to listen well will be affected. To remove this barrier, make sure you are in a setting where you will not be interrupted and remove your phone or other distractions within he room.
+
+    # Being distracted by our thoughts:
+
+    When we listen, it is very natural to become distracted and preoccupied by our own personal narrative and reactions to what we are hearing. By becoming aware of becoming lost in our own thoughts we can return to good listening.
+
+    # Becoming distracted by emotions.
+
+    If the conversation creates an emotional response in us, it can prevent us from being fully present to the speaker.
+
+    # Becoming nervous about silence.
+
+    Silence in conversation can make us feel uncomfortable and awkward . By interrupting to prevent silences we spend a message to the other person that we are not able to contain the feelings of discomfort in the listening process. By taking time to allow silence, or by using silence to summarise back to the listener what you have heard, you can help the listener to feel supported and better understood.
+
+    # Problem solving and giving advice:
+
+    By trying to solve the other person’s problem we can make the other person feel that we are trying to change or fix them, which will often reduce a person’s desire to share their experience.
   Graphic Image: 
   Audio url: 
   Video Url: 
