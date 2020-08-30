@@ -311,9 +311,9 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: nineteen
-  Title: 
+  Title: Anxious - Avoidant Relationship dynamics
   Image: 
-  Description: Anxious - Avoidant Relationship dynamics
+  Description: 
   Graphic Image: 
   Audio url: 
   Video Url: <iframe width="560" height="315" src="https://www.youtube.com/embed/e9EgUvfgojY"
@@ -819,7 +819,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: nineteen
-  Title: 
+  Title: Brene Brown on Empathy
   Image: 
   Description: 
   Graphic Image: 
