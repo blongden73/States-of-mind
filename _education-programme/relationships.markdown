@@ -246,28 +246,41 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
+  Title: 
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
   Title: B) Anxious relationship style
   Image: "/uploads/anxious%20(1).jpg"
-  Description: "B) I find that others are reluctant to get as close as I would like.
-    I often worry that my partner doesn’t love me or won’t want to stay with me. I
-    want to get close to my partner and this sometimes scares people away. \n\n\nIf,
-    in our childhood world, we lived in an environment where we took on caretaking
-    roles for the adults around us, or our siblings, we may come to develop a relationship
-    pattern where we believe that putting the needs of others before our own is more
-    important than communicating our own needs in relationships. If we have experienced
-    this type of relational environment growing up, we are likely to become easily
-    upset and anxious if the other person in the relationship withdraws emotionally
-    or physically from us. The reason for this is because we have come to believe
-    that our emotional wellbeing is reliant on the emotional wellbeing of another
-    person. \n\nWe may become enmeshed in the emotional life of our partner, friends
-    or family, instead of prioritizing our own emotional needs and feeling confident
-    in our ability to express these in our relationships. This can lead to a feeling
-    in our relationships, that we are undeserving of love and attention and that our
-    partner’s needs are more important than ours. \n\nPeople who have experienced
-    this type of relationship pattern may find themselves in relationships where they
-    feel misunderstood and resentful. They may idealise and put their partner on a
-    pedestal or find themselves engaging in manipulative behaviour in an attempt to
-    not lose their partners attention and care. "
+  Description: |-
+    B) I find that others are reluctant to get as close as I would like. I often worry that my partner doesn’t love me or won’t want to stay with me. I want to get close to my partner and this sometimes scares people away.
+
+    If, in our childhood world, we lived in an environment where we took on caretaking roles for the adults around us, or our siblings, we may come to develop a relationship pattern where we believe that putting the needs of others before our own is more important than communicating our own needs in relationships. If we have experienced this type of relational environment growing up, we are likely to become easily upset and anxious if the other person in the relationship withdraws emotionally or physically from us. The reason for this is because we have come to believe that our emotional wellbeing is reliant on the emotional wellbeing of another person.
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: 
+  Image: 
+  Description: |-
+    We may become enmeshed in the emotional life of our partner, friends or family, instead of prioritizing our own emotional needs and feeling confident in our ability to express these in our relationships. This can lead to a feeling in our relationships, that we are undeserving of love and attention and that our partner’s needs are more important than ours.
+
+    People who have experienced this type of relationship pattern may find themselves in relationships where they feel misunderstood and resentful. They may idealise and put their partner on a pedestal or find themselves engaging in manipulative behaviour in an attempt to not lose their partners attention and care.
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -280,21 +293,29 @@ Slides:
 - Template: sixteen
   Title: Avoidant relationship pattern
   Image: "/uploads/avoidant.jpg"
-  Description: "C) I am somewhat uncomfortable being close to others. I find it difficult
-    to trust them completely and difficult to allow myself to defend on them. I am
-    nervous when anybody gets too close and people want me to be more intimate than
-    I feel comfortable being.\n\nIf we do not experience relationships that were attuned
-    to our needs as children, we can lose trust in other people’s ability to understand
-    our inner world and come to feel that we must manage our problems alone, without
-    the presence of another.\n\nPeople with avoidant attachment styles protect themselves
-    against childhood wounding and painful experiences by developing the belief that
-    it is safer to manage feelings alone rather than trust another person to be able
-    to provide them with the soothing and care taking behaviour that they require.
-    \n\nPeople with avoidant relationships styles may struggle with intimacy in relationships,
-    as they may struggle to feel able to be vulnerable and honest about their emotional
-    world in the presence of another person. \n\nPeople with avoidant relationship
-    patterns often act as if they do not need others when they are feeling vulnerable
-    and become closed off when they experience difficulties in relationships. "
+  Description: |-
+    C) I am somewhat uncomfortable being close to others. I find it difficult to trust them completely and difficult to allow myself to defend on them. I am nervous when anybody gets too close and people want me to be more intimate than I feel comfortable being.
+
+    If we do not experience relationships that were attuned to our needs as children, we can lose trust in other people’s ability to understand our inner world and come to feel that we must manage our problems alone, without the presence of another.
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: 
+  Image: 
+  Description: |2-
+
+    People with avoidant attachment styles protect themselves against childhood wounding and painful experiences by developing the belief that it is safer to manage feelings alone rather than trust another person to be able to provide them with the soothing and care taking behaviour that they require.
+
+    People with avoidant relationships styles may struggle with intimacy in relationships, as they may struggle to feel able to be vulnerable and honest about their emotional world in the presence of another person.
+
+    People with avoidant relationship patterns often act as if they do not need others when they are feeling vulnerable and become closed off when they experience difficulties in relationships.
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -450,13 +471,25 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: two
+  Title: Time to pause
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: sixteen
   Title: 'External Unifying Centres '
   Image: "/uploads/teacher.jpg"
   Description: |-
     The attunement that our supportive relationships provide, supports our personal development by reflecting back to us and reinforcing our values, goals, beliefs and worldview.
 
-    \
     Our supportive relationships act as a mirror for us to see ourselves authentically.
 
     These supportive relationships provide a structure of support that ‘hold’ us and support our sense of confidence and self esteem.
