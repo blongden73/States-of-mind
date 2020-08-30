@@ -600,7 +600,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: six
+- Template: five
   Title: Mindreading
   Image: "/uploads/mindreading.jpg"
   Description: "Assuming we know what another person is thinking or feeling is called
