@@ -119,7 +119,10 @@ body.education {
   &.ten {
     background-color: $nu-beige;
   }
-  &.sixteen, &.list {
+  &.list {
+    background-color: $nu-blue;
+  }
+  &.sixteen {
     background-color: $nu-green;
 
     &.white {
