@@ -588,9 +588,9 @@ Slides:
 - Template: sixteen
   Title: 'Exercise '
   Description: |-
-    * A study explored the effectiveness of exercise programmes for treating depression in young people. They compared the results of a 3 times per week exercise regime with a stretching regime that lasted for 12 weeks.
+    A study explored the effectiveness of exercise programmes for treating depression in young people. They compared the results of a 3 times per week exercise regime with a stretching regime that lasted for 12 weeks.
 
-    * By the end of the study:
+    **By the end of the study:**
 
     * 86% of the exercise group and 50% of thee stretching group had fully recovered from their depressive symptoms.
 
