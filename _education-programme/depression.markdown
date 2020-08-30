@@ -632,7 +632,7 @@ Slides:
   Graphic Image: 
   Audio url: 
   Video Url: 
-  Credit: McCarty and. Valeri(2006)
+  Credit: McCarty and. Valeri (2006)
   Links:
   - Link Url: 
   Quote: 
