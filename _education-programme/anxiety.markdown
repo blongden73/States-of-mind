@@ -608,7 +608,7 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: Exercise
-  Image: "/uploads/photo-1552196563-55cd4e45efb3.jpeg"
+  Image: "/uploads/photo-1545205597-3d9d02c29597.jpeg"
   Description: |-
     When we worry, our minds sends signals to our body that there is a still a potential threat that exists and the triggers our body to release the stress hormone cortisol, which makes us feel jittery and tense if not reduced.
 
