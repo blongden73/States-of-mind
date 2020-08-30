@@ -177,7 +177,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
+- Template: six
   Title: The styles
   Image: 
   Description: "1. I find it relatively easy to get close to others and I feel relatively
