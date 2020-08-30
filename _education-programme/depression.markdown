@@ -841,7 +841,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: 
-- Template: sixteen
+- Template: six
   Title: 'Tips for behavioural activation '
   Description: |-
     Don’t chose what you think you should do, chose something that you personally enjoy and want to do. Imagine a positive life that you want to have, what sorts of activities and things are you doing?
