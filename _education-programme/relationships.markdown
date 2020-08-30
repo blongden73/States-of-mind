@@ -178,7 +178,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
-  Title: 
+  Title: The styles
   Image: 
   Description: |-
     A) I find it relatively easy to get close to others and I feel relatively comfortable depending on them and allowing them to depend on me.  I don’t worry about being abandoned or about someone getting too close to me.
