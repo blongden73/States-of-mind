@@ -54,7 +54,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: Sixteen
+- Template: sixteen
   Title: 'What influences our personal relationships? '
   Image: "/uploads/family.jpg"
   Description: "Our early relationship with our parents often shape our view of relationships
@@ -190,6 +190,19 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: five
+  Title: 'Relationship Patterns '
+  Image: "/uploads/relationships%20type-b823bd.jpg"
+  Description: grpahic
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: one
   Title: 'Exploring our relationship History '
   Image: "/uploads/relationship%20history.jpg"
@@ -229,9 +242,20 @@ Slides:
   Description: |-
     A) I find it relatively easy to get close to others and I feel relatively comfortable depending on them and allowing them to depend on me.  I don’t worry about being abandoned or about someone getting too close to me.
 
-
     Healthy relationships require that both people are able to present and attuned to the needs of the other and are able to notice how their own emotions impact on the experience of the other person.
-
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: 
+  Image: 
+  Description: |-
     When there is conflict in healthy relationships, both people are able to repair the rupture by not blaming, withdrawing or attacking the other person but instead seek to identify what has caused the rupture and work collaboratively to find a solution to the underlying issue.
 
     When conflict arises in healthy relationships, both people can resolve misunderstandings, develop a deeper understanding of the needs of their partner and provide support for the other person, without neglecting their own needs and emotional honesty.
@@ -247,25 +271,15 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
-  Title: 
-  Image: 
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: sixteen
   Title: B) Anxious relationship style
   Image: "/uploads/anxious%20(1).jpg"
-  Description: |-
-    B) I find that others are reluctant to get as close as I would like. I often worry that my partner doesn’t love me or won’t want to stay with me. I want to get close to my partner and this sometimes scares people away.
-
-    If, in our childhood world, we lived in an environment where we took on caretaking roles for the adults around us, or our siblings, we may come to develop a relationship pattern where we believe that putting the needs of others before our own is more important than communicating our own needs in relationships. If we have experienced this type of relational environment growing up, we are likely to become easily upset and anxious if the other person in the relationship withdraws emotionally or physically from us. The reason for this is because we have come to believe that our emotional wellbeing is reliant on the emotional wellbeing of another person.
+  Description: "B) I find that others are reluctant to get as close as I would like.
+    I often worry that my partner doesn’t love me or won’t want to stay with me. I
+    want to get close to my partner and this sometimes scares people away.\n\nIf,
+    in our childhood world, we lived in an environment where we took on caretaking
+    roles for the adults around us, or our siblings, we may come to develop a relationship
+    pattern where we believe that putting the needs of others before our own is more
+    important than communicating our own needs in relationships. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -278,10 +292,19 @@ Slides:
 - Template: sixteen
   Title: 
   Image: 
-  Description: |-
-    We may become enmeshed in the emotional life of our partner, friends or family, instead of prioritizing our own emotional needs and feeling confident in our ability to express these in our relationships. This can lead to a feeling in our relationships, that we are undeserving of love and attention and that our partner’s needs are more important than ours.
-
-    People who have experienced this type of relationship pattern may find themselves in relationships where they feel misunderstood and resentful. They may idealise and put their partner on a pedestal or find themselves engaging in manipulative behaviour in an attempt to not lose their partners attention and care.
+  Description: "If we have experienced this type of relational environment growing
+    up, we are likely to become easily upset and anxious if the other person in the
+    relationship withdraws emotionally or physically from us. The reason for this
+    is because we have come to believe that our emotional wellbeing is reliant on
+    the emotional wellbeing of another person.\n\nWe may become enmeshed in the emotional
+    life of our partner, friends or family, instead of prioritising our own emotional
+    needs and feeling confident in our ability to express these in our relationships.
+    \n\nThis can lead to a feeling in our relationships, that we are undeserving of
+    love and attention and that our partner’s needs are more important than ours.\n\nPeople
+    who have experienced this type of relationship pattern may find themselves in
+    relationships where they feel misunderstood and resentful. They may idealise and
+    put their partner on a pedestal or find themselves engaging in manipulative behaviour
+    in an attempt to not lose their partners attention and care."
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -310,46 +333,12 @@ Slides:
 - Template: sixteen
   Title: 
   Image: 
-  Description: |2-
-
+  Description: |-
     People with avoidant attachment styles protect themselves against childhood wounding and painful experiences by developing the belief that it is safer to manage feelings alone rather than trust another person to be able to provide them with the soothing and care taking behaviour that they require.
 
     People with avoidant relationships styles may struggle with intimacy in relationships, as they may struggle to feel able to be vulnerable and honest about their emotional world in the presence of another person.
 
     People with avoidant relationship patterns often act as if they do not need others when they are feeling vulnerable and become closed off when they experience difficulties in relationships.
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: five
-  Title: Types of relationship styles
-  Image: 
-  Description: grpahic
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: sixteen
-  Title: 'Neuroplasticity and emotional development. '
-  Image: "/uploads/neurons.jpg"
-  Description: |-
-    Neuroscientists have discovered that the brain is able to continue reshaping itself through our adolescence and adult life. This means that early emotional and behavioural patterns can change with new experiences that we have throughout our lives.
-
-
-    Often, we will repeat similar patterns in our relationships due to the way our early childhood experiences shape our perception of the present day, yet our relationships in adult life can also reshape our perception of what relationships can be like.
-
-
-    The brains ability to reshape itself has significant positive implications for our understanding of how people can heal difficult relationship patterns, learning new skills and develop new beliefs about their ability to experience intimacy and connection with others.
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -388,6 +377,61 @@ Slides:
   Video Url: <iframe width="560" height="315" src="https://www.youtube.com/embed/e9EgUvfgojY"
     frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen></iframe>
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: Splitting
+  Image: "/uploads/splitting%20(1).jpeg"
+  Description: "Melanie Klein was a psychologist who focuses on the relationships
+    between parents and children. She coined the term ‘splitting’ to describe a psychological
+    defence that young children develop to manage ambivalent feelings towards their
+    parents. \nAs young children we manage difficult feelings in relationships by
+    engaging in a process called ‘splitting’. \nThis process ‘splits’ our perception
+    of our parents into either a ‘good parent’ or a ‘bad parent’. \nThis process causes
+    feelings of either idealisation in relationships or feelings of resentment and
+    an inability to see the other persons good qualities. \nHealthy relationships
+    require that we are able to tolerate ambivalence in relationships and are able
+    to love another person while experiencing both their positive and difficult behaviours. "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: 'Neuroplasticity and emotional development. '
+  Image: "/uploads/neurons.jpg"
+  Description: |-
+    Neuroscientists have discovered that the brain is able to continue reshaping itself through our adolescence and adult life. This means that early emotional and behavioural patterns can change with new experiences that we have throughout our lives.
+
+
+    Often, we will repeat similar patterns in our relationships due to the way our early childhood experiences shape our perception of the present day, yet our relationships in adult life can also reshape our perception of what relationships can be like.
+
+
+    The brains ability to reshape itself has significant positive implications for our understanding of how people can heal difficult relationship patterns, learning new skills and develop new beliefs about their ability to experience intimacy and connection with others.
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: five
+  Title: 'What creates fulfilling relationships? '
+  Image: 
+  Description: 'What are the common features of your most fulfilling relationships? '
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
   Credit: 
   Links:
   - Link Url: 
@@ -486,6 +530,30 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
+  Title: 'I -it and I-Thou relationships '
+  Image: 
+  Description: "Martin Buber Martin Buber was a prominent twentieth century philosopher,
+    religious thinker, political activist and educator. \nHe explored different ways
+    that people perceived and acted towards other people in their relationships. He
+    called these different ways of viewing others in relationship as ‘I-Thou’ and
+    ‘I-it’ relationships. \nIn an I-Thou relationship, the other person is seen for
+    who they really are, not for what they represent or signify. In this relationships,
+    there is a willingness to understand the other person on a deeper level than our
+    immediate judgements, assumptions and stereotypes that we bring to the relationship.
+    \nIn an I-It relationship, we view the other person more as a ‘thing’ than a human
+    being with a story and individual needs. In and I-it relationship we assume we
+    know the other person, without needing to take time to develop a close and mutual
+    relationship with them. "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
   Title: 'External Unifying Centres '
   Image: "/uploads/teacher.jpg"
   Description: |-
@@ -522,99 +590,6 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: five
-  Title: 'What creates fulfilling relationships? '
-  Image: 
-  Description: 'What are the common features of your most fulfilling relationships? '
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: sixteen
-  Title: 'I -it and I-Thou relationships '
-  Image: 
-  Description: "Martin Buber Martin Buber was a prominent twentieth century philosopher,
-    religious thinker, political activist and educator. \nHe explored different ways
-    that people perceived and acted towards other people in their relationships. He
-    called these different ways of viewing others in relationship as ‘I-Thou’ and
-    ‘I-it’ relationships. \nIn an I-Thou relationship, the other person is seen for
-    who they really are, not for what they represent or signify. In this relationships,
-    there is a willingness to understand the other person on a deeper level than our
-    immediate judgements, assumptions and stereotypes that we bring to the relationship.
-    \nIn an I-It relationship, we view the other person more as a ‘thing’ than a human
-    being with a story and individual needs. In and I-it relationship we assume we
-    know the other person, without needing to take time to develop a close and mutual
-    relationship with them. "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: sixteen
-  Title: Splitting
-  Image: 
-  Description: "Melanie Klein was a psychologist who focuses on the relationships
-    between parents and children. She coined the term ‘splitting’ to describe a psychological
-    defence that young children develop to manage ambivalent feelings towards their
-    parents. \nAs young children we manage difficult feelings in relationships by
-    engaging in a process called ‘splitting’. \nThis process ‘splits’ our perception
-    of our parents into either a ‘good parent’ or a ‘bad parent’. \nThis process causes
-    feelings of either idealisation in relationships or feelings of resentment and
-    an inability to see the other persons good qualities. \nHealthy relationships
-    require that we are able to tolerate ambivalence in relationships and are able
-    to love another person while experiencing both their positive and difficult behaviours. "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: sixteen
-  Title: Mindreading
-  Image: 
-  Description: 'Assuming we know what another person is thinking or feeling is called
-    ‘mindreading’. Mind Reading occurs when we project our own assumptions and feelings
-    onto another person and it is often accompanied by a feeling of separateness and
-    passivity. '
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: five
-  Title: 'Mentalising '
-  Image: 
-  Description: |-
-    Mentalising is a skill that we all use in our everyday lives.
-    The term is used to describe our capacity to understand our own mental state and that of other people and how this affects our behaviour.
-    Mentalising allows us to think consciously about what we are thinking and feeling, aswell as being curious about what may be going on in other people’s minds.  
-
-    Mentalising allows us to switch from concrete thought ‘ She is behaving like that because’ to a wondering stance ‘ I wonder why she may be behaving like that’. 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: five
   Title: 'Why do we misunderstand other people? '
   Image: 
   Description: "When we are distressed, distracted or experiencing conflict in our
@@ -635,28 +610,74 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
+- Template: six
+  Title: Mindreading
+  Image: "/uploads/mindreading.jpg"
+  Description: "Assuming we know what another person is thinking or feeling is called
+    ‘mindreading’. \n\nMind Reading occurs when we project our own assumptions and
+    feelings onto another person and it is often accompanied by a feeling of separateness
+    and passivity."
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: six
+  Title: 'Mentalising '
+  Image: 
+  Description: |-
+    Mentalising is a skill that we all use in our everyday lives.
+
+    The term is used to describe our capacity to understand our own mental state and that of other people and how this affects our behaviour.
+
+    Mentalising allows us to think consciously about what we are thinking and feeling, aswell as being curious about what may be going on in other people’s minds.
+
+    Mentalising allows us to switch from concrete thought ‘ She is behaving like that because’ to a wondering stance ‘ I wonder why she may be behaving like that’.
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: six
   Title: How does mentalising improve our relationships?
   Image: 
-  Description: "\nIt helps us to reduce misunderstandings in our personal relationships
-    as it allows us to clarify what people are really experiencing, instead of making
-    assumptions. \n\nIt helps us to develop our ability to reflect on our motivations,
-    beliefs, values and feelings in any given situation so that we can understand
-    our reactions and responses to situations with more coherence. \n\nIt helps us
-    to regulate our emotions and limiting beliefs, by allowing us to develop the ability
-    to step back from our experience and notice what is causing it.  \n\nWhen we mentalise
-    other people, it makes them feel like we are really paying attention and attempting
-    to understand exactly what is happening for them. This process of clarification
-    is really useful for helping us to develop trust and understanding in relationships. \n\nWhen
-    we notice the connection between our feelings and actions it allows us to feel
-    a sense of choice and control over how we react and respond to different situations. \n\nWhat
-    does research tell us about mentalising? \n\n\t1.\tPeople who are skilled at mentalising
-    are considerably more resilient when faced with stressful situations and are able
-    to self reflect and process experiences of adversity in their lives with more
-    coherence and understanding. \L\n\t2.\tThey are more able to make sense of both
-    the external world and their internal world of thoughts, feelings and emotions. \L\n\n\t3.\tThey
-    have an increased ability for creative thought, the ability to hold multiple perspectives
-    and are generally more capable of connecting with the inner lives of other people. \L\n\L"
+  Description: "# It reduces misunderstandings \n\nMentalising allows us to clarify
+    what people are really experiencing, instead of making assumptions.\n\n# Improves
+    our ability to reflect \n\nWhen we consider our motivations, beliefs, values and
+    feelings in any given situation we can understand our reactions and responses
+    to situations with more coherence.\n\n# Regulates our emotions and limiting beliefs\n\nBy
+    stepping back from our experience and considering other possibilities we can develop
+    more positive and supportive ideas about how to relate. \n\n# Deepens our understanding
+    of others\n\nWhen we mentalise other people, they know we are really paying attention
+    and attempting to understand exactly what is happening for them. This process
+    of clarification is really useful for helping us to develop trust and understanding
+    in relationships."
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: What does research tell us about mentalising?
+  Image: 
+  Description: |-
+    1\. People who are skilled at mentalising are considerably more resilient when faced with stressful situations and are able to self reflect and process experiences of adversity in their lives with more coherence and understanding.
+
+    2\. They are more able to make sense of both the external world and their internal world of thoughts, feelings and emotions.
+
+    3\. They have an increased ability for creative thought, the ability to hold multiple perspectives and are generally more capable of connecting with the inner lives of other people.
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -668,7 +689,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: 'Practicing mentalising '
-  Image: 
+  Image: "/uploads/mentalsiing.jpg"
   Description: 
   Graphic Image: 
   Audio url: 
@@ -692,26 +713,29 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
+- Template: six
   Title: Listening skills
   Image: 
   Description: "Listening is one of the most powerful tools for improving communication
-    in our relationships. \nWhen we listen well to others, we indicate that we care
-    about them and their experiences.  Listening is a skill that can be developed
-    and improved over time. \nHow can we listen well? \nPay attention: \nShow curiosity
-    and interest\nShow you are listening by using non verbal feedback\nMirror the
-    other person’s body language, such as how they are sitting, to help the person
-    feel you are connected with their experience. \nReflect back to the speaker what
-    you have heard them say. This allows the person to know that they have been heard.
-    \nAsk clarifying questions. By clarifying with the other person what you have
-    heard you show that you are motivated to really understand the message they are
-    trying to communicate. This also helps the other person to clarify what they are
-    trying to communicate. \nInvite the person to say more. By inviting the person
-    to speak more, you help them feel that you are interested in understanding what
-    they have to say. \nDo not interrupt the speaker by sharing your experiences opinions
-    or beliefs in response to what you have heard. When we interrupt the process of
-    listening we send the other person the message that we are not focused on their
-    experience but are more concerned with sharing our own. "
+    in our relationships.\nWhen we listen well to others, we indicate that we care
+    about them and their experiences.  \n\nListening is a skill that anybody can develop
+    and improve over time with practice.\n"
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: six
+  Title: How can we listen well?
+  Image: 
+  Description: "Pay attention\n\nShow curiosity and interest\n\nShow you are listening
+    by using non verbal feedback\n\nMirror the other person’s body language\n\nReflect
+    back to the speaker what you have heard them say\n\nAsk clarifying questions \n\nDon't
+    interrupt "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -724,26 +748,24 @@ Slides:
 - Template: sixteen
   Title: 'Barriers to good listening '
   Image: 
-  Description: "Being distracted by setting: If our attention is divided, our ability
-    to listen well will be affected. To remove this barrier, make sure you are in
-    a setting where you will not be interrupted and remove your phone or other distractions
-    within he room. \nBeing distracted by our thoughts: When we listen, it is very
-    natural to become distracted and preoccupied by our own personal narrative and
-    reactions to what we are hearing. By becoming aware of becoming lost in our own
-    thoughts we can return to good listening. \nBecoming distracted by emotions. If
-    the conversation creates an emotional response in us,, it can prevent us from
-    being fully present to the speaker. Good listening involves maintaining curiosity
-    and feeding back our emotional response to the speaker. By feeding back how we
-    are feeling, it shows that we are empathising with what we are hearing. \nBecoming
-    nervous about silence.  Silence in conversation can make us feel uncomfortable
-    and awkward . By interrupting to prevent silences we spend a message to the other
-    person that we are not able to contain the feelings of discomfort in the listening
-    process. By taking time to allow silence, or by using silence to summarise back
-    to the listener what you have heard, you can help the listener to feel supported
-    and better understood. \nProblem solving and giving advice: By trying to solve
+  Description: "# Being distracted by setting:\n\nIf our attention is divided, our
+    ability to listen well will be affected. To remove this barrier, make sure you
+    are in a setting where you will not be interrupted and remove your phone or other
+    distractions within he room.\n\n# Being distracted by our thoughts: \n\nWhen we
+    listen, it is very natural to become distracted and preoccupied by our own personal
+    narrative and reactions to what we are hearing. By becoming aware of becoming
+    lost in our own thoughts we can return to good listening.\n\n# Becoming distracted
+    by emotions. If the conversation creates an emotional response in us,, it can
+    prevent us from being fully present to the speaker. \n\n# Becoming nervous about
+    silence.  \n\nSilence in conversation can make us feel uncomfortable and awkward
+    . By interrupting to prevent silences we spend a message to the other person that
+    we are not able to contain the feelings of discomfort in the listening process.
+    By taking time to allow silence, or by using silence to summarise back to the
+    listener what you have heard, you can help the listener to feel supported and
+    better understood.\n\n# Problem solving and giving advice: \n\nBy trying to solve
     the other person’s problem we can make the other person feel that we are trying
     to change or fix them, which will often reduce a person’s desire to share their
-    experience. "
+    experience."
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -758,7 +780,7 @@ Slides:
 
 '
   Image: 
-  Description: 'Mirroring  '
+  Description: 
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -768,24 +790,40 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: five
-  Title: 'Empathy '
+- Template: 'nineteen '
+  Title: 
   Image: 
-  Description: "Empathy is the ability to connect with another person’s feelings and
-    to imagine what it is like to have their point of view. Empathy can relate to
-    our ability to connect with both the positive and uncomfortable emotions of others.
-    \ \n\nPracticing empathy in relationships changes the way we speak and listen
-    to others and promotes deeper levels of connection and understanding. \n\n"
+  Description: 
   Graphic Image: 
   Audio url: 
-  Video Url: https://www.youtube.com/watch?v=1Evwgu369Jw
+  Video Url: <iframe width="560" height="315" src="https://www.youtube.com/embed/1Evwgu369Jw"
+    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen></iframe>
   Credit: 
   Links:
   - Link Url: 
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: five
+- Template: six
+  Title: 'Empathy '
+  Image: 
+  Description: |-
+    Empathy is the ability to connect with another person’s feelings and to imagine what it is like to have their point of view.
+
+     Empathy can relate to our ability to connect with both the positive and uncomfortable emotions of others.
+
+    Practicing empathy in relationships changes the way we speak and listen to others and promotes deeper levels of connection and understanding.
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: fourteen
   Title: Empathy
   Image: 
   Description: 
