@@ -457,7 +457,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: 'one '
+- Template: one
   Title: 'Part 3: Personality '
   Description: 
   Graphic Image: 
