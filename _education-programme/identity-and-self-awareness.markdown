@@ -796,7 +796,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-Cover Image: "/uploads/identity%20and%20self%20awareness-45a35a.jpeg"
+Cover Image: "/uploads/gemma-chua-tran-mZQpsI1CoVQ-unsplash%20(1)-bc2c6e.jpg"
 Cover Colour: 
 layout: presentation
 ---
