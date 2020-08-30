@@ -264,17 +264,18 @@ Slides:
   Title: 'What are the long term effects of anxiety? '
   Image: 
   Description: |-
-    Inability to concentrate 
+    # Inability to concentrate 
+
+
     When the anxiety response is active, being in survival mode shuts down the activity of the prefrontal cortex which is required for focused attention.
 
-    # Insomnia 
+    # Insomnia
 
-    The hypervigilance caused by anxiety prevents the body from being in a state of relaxation which interrupts the functioning of our circadian rhythms. 
+    The hypervigilance caused by anxiety prevents the body from being in a state of relaxation which interrupts the functioning of our circadian rhythms.
 
-    # Loss of memory 
+    # Loss of memory
 
     As with concentration, our memory systems are temporarily impaired by anxiety due to the activity of cortisol that is released in the brain during the anxiety response.
-     
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -291,12 +292,12 @@ Slides:
     # Social Isolation
 
     Anxiety causes us to avoid situations that may threaten our sense of safety. We often feel anxiety around social situations if we do not feel  comfortable enough to interact with others, leading to a loop of avoidance and social isolation.
-     
-    # Weakened immune system 
+
+    # Weakened immune system
 
     The prolonged activation of the parasympathetic nervous system and continued release of cortisol into our bloodstream suppresses our body's natural immune response.
      
-    Muscle tension and fatigue 
+    # Muscle tension and fatigue 
      
     The adrenaline and cortisol released in the fight/flight/ freeze response causes the body to tense up as a way of protecting against injury and pain.
   Graphic Image: 
@@ -492,6 +493,19 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: two
+  Title: Take time to pause
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: sixteen
   Title: 'Emotional Regulation '
   Image: "/uploads/emotiona%20regulation.jpg"
@@ -543,7 +557,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: five
+- Template: sixteen
   Title: Exercise
   Image: "/uploads/exercise%20.jpeg"
   Description: |-
@@ -563,7 +577,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: five
+- Template: sixteen
   Title: 'Breathing Exercises '
   Image: "/uploads/breathe.jpg"
   Description: |-
@@ -615,7 +629,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: 'Mindfulness Meditation practice '
-  Image: "/uploads/mindfulness.jpg"
+  Image: "/uploads/mindfulnesss.jpg"
   Description: 
   Graphic Image: 
   Audio url: 
@@ -733,7 +747,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-Cover Image: "/uploads/anxiety%208.jpg"
+Cover Image: "/uploads/Anxiety%20cover%202%20(1).jpg"
 Cover Colour: "#000000"
 layout: presentation
 ---
