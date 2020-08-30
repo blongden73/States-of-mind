@@ -358,7 +358,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: five
+- Template: six
   Title: Compassion
   Image: 
   Description: |-
