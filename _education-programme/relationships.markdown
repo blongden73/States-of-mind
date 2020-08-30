@@ -1067,7 +1067,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
+- Template: list
   Title: 'Ending relationships. '
   Image: 
   Description: "Relationships come to an end for many reasons. They may end out of
