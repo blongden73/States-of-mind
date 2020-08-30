@@ -23,7 +23,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: six
-  Title: 
+  Title: 'Authenticity and Connection '
   Image: 
   Description: |-
     While as individuals we can work to meet these needs for ourselves, we can also supporting each other to meet these needs so that our relationships feel healthy and fulfilling.
@@ -353,16 +353,16 @@ Slides:
 - Template: sixteen
   Title: Splitting
   Image: "/uploads/splitting%20(1).jpeg"
-  Description: "Melanie Klein was a psychologist who focuses on the relationships
-    between parents and children. She coined the term ‘splitting’ to describe a psychological
-    defence that young children develop to manage ambivalent feelings towards their
-    parents. \nAs young children we manage difficult feelings in relationships by
-    engaging in a process called ‘splitting’. \nThis process ‘splits’ our perception
-    of our parents into either a ‘good parent’ or a ‘bad parent’. \nThis process causes
-    feelings of either idealisation in relationships or feelings of resentment and
-    an inability to see the other persons good qualities. \nHealthy relationships
-    require that we are able to tolerate ambivalence in relationships and are able
-    to love another person while experiencing both their positive and difficult behaviours. "
+  Description: |-
+    Melanie Klein was a psychologist who focuses on the relationships between parents and children.
+
+     She coined the term ‘splitting’ to describe a psychological defence that young children develop to manage ambivalent feelings towards their parents.
+
+    As young children we manage difficult feelings in relationships by engaging in a process called ‘splitting’. This process splits our perception of our parents into either a ‘good parent’ or a ‘bad parent’.
+
+    This process causes feelings of either idealisation in relationships or feelings of resentment and an inability to see the other persons good qualities.
+
+    Healthy relationships require that we are aware of this tendency and are able to love another person while experiencing both their positive and more difficult behaviours.
   Graphic Image: 
   Audio url: 
   Video Url: 
