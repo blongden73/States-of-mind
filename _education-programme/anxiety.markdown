@@ -575,7 +575,7 @@ Slides:
 
     Paul Gilbert described 3 main aspects of our emotional regulation system. We will always be experiencing at least one of these states and our wellbeing depends on us experiencing a healthy balance between all 3.
 
-    Each state corresponds to an area in our brain responsible for either survival ( Threat), bonding and relaxation ( Soothing)  or motivation and reward (Drive).
+    Each state corresponds to an area in our brain responsible for either survival (Threat), bonding and relaxation (Soothing)  or motivation and reward (Drive).
   Graphic Image: 
   Audio url: 
   Video Url: 
