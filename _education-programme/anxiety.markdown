@@ -713,7 +713,7 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: 'Anxiety and control '
-  Image: 
+  Image: "/uploads/anxietyzonegraphic-88a06a.svg"
   Description: 
   Graphic Image: 
   Audio url: 
