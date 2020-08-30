@@ -998,11 +998,11 @@ Slides:
   Description: "Recognise that you have a right to set boundaries about things you
     do and do not want. Healthy people will respect your need to set boundaries. \n\nPractice
     communicating the boundary to other friends or family before setting the boundary
-    with the person you need to set the boundary with. \n\nCommunicate the boundary
-    calmly, firmly, clearly and respectfully. \nDo not justify or apologise for the
-    boundary you are setting. \nRemember that you are not responsible for the feelings
-    for the person you are setting the boundary with, your only responsibly is to
-    assert the boundary in a respectful way. "
+    with the person you need to set the boundary with. Communicate the boundary calmly,
+    firmly, clearly and respectfully. \nDo not justify or apologise for the boundary
+    you are setting. \n\nRemember that you are not responsible for the feelings for
+    the person you are setting the boundary with, your only responsibly is to assert
+    the boundary in a respectful way. "
   Graphic Image: 
   Audio url: 
   Video Url: 
