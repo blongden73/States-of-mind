@@ -446,7 +446,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: The Younger You
-  Image: "/uploads/2031089-8e580b.jpg"
+  Image: "/uploads/michael-afonso-Z_bTArFy6ks-unsplash.jpg"
   Description: An Autobiography 
   Graphic Image: 
   Audio url: 
@@ -547,7 +547,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: Exploring sub personalities
-  Image: "/uploads/sub%20personalities.jpg"
+  Image: "/uploads/DTS_WARP_015.jpg"
   Description: 
   Graphic Image: 
   Audio url: 

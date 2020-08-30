@@ -818,7 +818,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: 'nineteen '
+- Template: nineteen
   Title: 
   Image: 
   Description: 
