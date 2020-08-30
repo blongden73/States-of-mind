@@ -735,7 +735,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: list
+- Template: sixteen
   Title: How can we listen well?
   Image: 
   Description: |-
