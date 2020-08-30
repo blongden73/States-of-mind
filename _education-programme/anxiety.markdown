@@ -455,11 +455,13 @@ Slides:
   Title: 
   Image: 
   Description: |-
-    How do we want others to view us? 
+    * How do we want others to view us?
 
-    What parts of ourselves do we hide from others?
 
-    How do we feel if we make mistakes or ‘let our guard down’ with people we don’t know?
+    * What parts of ourselves do we hide from others?
+
+
+    * How do we feel if we make mistakes or ‘let our guard down’ with people we don’t know?
   Graphic Image: 
   Audio url: 
   Video Url: 
