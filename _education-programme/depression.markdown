@@ -548,14 +548,13 @@ Slides:
   Image: 
 - Template: sixteen
   Title: 'Depression and abusive relationships  '
-  Description: "Researchers have found that some types of abuse had a particularly
-    strong association with the development of depression in comparison to others.
-    \nPsychological abuse was more strongly associated with depression than any other
-    forms of maltreatment\n\n“verbal and nonverbal acts by a close other in a position
-    of power,” was more strongly associated with depression than any of the other
-    forms of maltreatment. \n\nChildhood neglect, where a caretaker fails to provide
-    for the child’s basic emotional and material needs, was also strongly related
-    to depression. "
+  Description: |-
+    Researchers have found that some types of abuse had a particularly strong association with the development of depression in comparison to others.
+    Psychological abuse was more strongly associated with depression than any other forms of maltreatment
+
+    “Verbal and nonverbal acts by a close other in a position of power,” was more strongly associated with depression than any of the other forms of maltreatment.
+
+    Childhood neglect, where a caretaker fails to provide for the child’s basic emotional and material needs, was also strongly related to depression.
   Graphic Image: 
   Audio url: 
   Video Url: 
