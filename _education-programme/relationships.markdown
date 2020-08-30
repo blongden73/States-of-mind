@@ -48,7 +48,7 @@ Slides:
   Title: 'What influences our personal relationships? '
   Image: "/uploads/family.jpg"
   Description: |-
-    Our early relationship with our parents often shape our views about relationships and how we interact with others in our later life.
+    Our early relationship with our parents are one of the biggest influences on how we view relationships and interact with others in our later life.
 
     We may internalise beliefs that we developed in our early childhood relationships, such as not being loveable, not being enough as we are or that we need to abandon our needs to remain in a positive relationship with others.
 
