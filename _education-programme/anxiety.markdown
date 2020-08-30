@@ -128,7 +128,7 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: The amygdala and the nervous response
-  Image: "/uploads/amygdala.jpg"
+  Image: "/uploads/amygdala-fb64c4.jpg"
   Description: "The size of the amygdala has been shown to correlate with people’s
     sensitivity to aspects of the environment they consider as threatening or unsafe.\n
     \ \nThis is believed to be caused by past experiences of stress and fear that
