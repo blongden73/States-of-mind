@@ -628,7 +628,7 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: 'Breathing Exercises '
-  Image: "/uploads/breathe.jpg"
+  Image: "/uploads/photo-1518708909080-704599b19972.jpeg"
   Description: |-
     Breathing exercises are one of the best ways to reduce stress in the body.
 
