@@ -897,7 +897,7 @@ Slides:
 - Template: twenty
   Title: 
   Description: 
-  Graphic Image: "/uploads/Group%2097%20(1).png"
+  Graphic Image: "/uploads/Group%2097.svg"
   Audio url: 
   Video Url: 
   Credit: 
