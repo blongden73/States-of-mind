@@ -155,7 +155,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: 'Anxiety and the mind '
-  Image: "/uploads/anxiety.jpg"
+  Image: "/uploads/worry%20%20(1).jpg"
   Description: 'Anxious thought patterns '
   Graphic Image: 
   Audio url: 
@@ -324,10 +324,14 @@ Slides:
 - Template: five
   Title: 'Exploring our fears '
   Image: 
-  Description: "What ‘External Fears’ do we have? \nThese are situations or things
-    outside of us that make us feel like we are unable to cope. \n \nWhat ‘Internal
-    Fears do we have? \nThese are beliefs or internal narratives that cause us to
-    feel like we are unable to cope. "
+  Description: |-
+    ### What ‘External Fears’ do we have?
+
+    These are situations or things outside of us that make us feel like we are unable to cope. 
+     
+    ### What ‘Internal Fears do we have?
+
+    These are beliefs or internal narratives that cause us to feel like we are unable to cope.
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -351,7 +355,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
-  Title: "“Better safe than sorry”  \nAnxiety and avoidance  "
+  Title: 'Anxiety and avoidance  '
   Image: 
   Description: "Feelings of stress, combined with our inner fears can cause us to
     retreat into avoidant behaviours that make us feel more comfortable and secure
@@ -371,12 +375,13 @@ Slides:
 - Template: sixteen
   Title: Anxiety and Social Rank Theory 
   Image: 
-  Description: |-
-    Paul Gilbert, an Evolutionary Psychologist has proposed that people feel anxiety as a response to social comparison, as people are hardwired to pay attention to their social status within groups. This draws out our Fear of not being good enough in the eyes of others/ the fear of rejection and not being accepted.
-
-    As one of our primary needs is a sense of belonging, connection and acceptance, our threat system becomes active when we perceive a threat to these needs. 
-
-     
+  Description: "Paul Gilbert, an Evolutionary Psychologist has proposed that people
+    feel anxiety as a response to social comparison, as people are hardwired to pay
+    attention to their social status within groups. \n\nThis can cause us to feel
+    fear related to social situations, like the fear of rejection or not being accepted
+    by others. \n\nAs one of our primary needs is a sense of belonging, connection
+    and acceptance, our threat system becomes active when we perceive a threat to
+    our attachment needs for love and belonging."
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -391,7 +396,8 @@ Slides:
   Image: 
   Description: |-
     How do we want others to view us? 
-    What parts of ourselves do we hide from others? 
+
+    What parts of ourselves do we hide from others?
 
     How do we feel if we make mistakes or ‘let our guard down’ with people we don’t know?
   Graphic Image: 
@@ -406,13 +412,13 @@ Slides:
 - Template: sixteen
   Title: Anxiety and relationships
   Image: "/uploads/ian-dooley-v9sAFGJ3Ojk-unsplash.jpg"
-  Description: "Anxiety is also triggered as a response to a threat to our attachment
-    needs for safety and connection. \n \nAttachment needs are needs for love, connection
-    and acceptance. When we do not feel secure in our relationships our in our environments,
-    anxiety is a natural alarm system that exists as a coping mechanism to tell us
-    something is wrong.  \n\nAnxiety can cause us to avoid relationships and social
-    situations or to change our behaviour while around others out of fear of being
-    rejected."
+  Description: "Anxiety can be triggered as a response to a threat to our attachment
+    needs for safety and connection.\n\nEverybody has attachment needs such as love,
+    connection and acceptance. When we do not feel secure in our relationships our
+    in our environments, anxiety is a natural alarm system that exists as a coping
+    mechanism to tell us something is wrong.\n\nIf we are experiencing a conflict
+    or rupture in our relationships, this may trigger anxiety as a signal that our
+    needs are threatened. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -425,7 +431,8 @@ Slides:
 - Template: ten
   Title: Discussion point
   Image: 
-  Description: 
+  Description: 'Have you ever felt anxiety in your relationships? What helped to calm
+    this anxiety? '
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -438,12 +445,15 @@ Slides:
 - Template: sixteen
   Title: 'How can you calm the anxiety response? '
   Image: 
-  Description: "The key to managing anxiety is to address the underlying cause of
-    the fear response.  This part of the module will explore how you can calm the
-    fear response by understanding how you can regulate it. \n\nExploring your fears
-    and limiting beliefs \nReducing the stress response and activating the ‘soothing
-    system’\n\nOver-riding rumination by activating the Task Positive Network \n\nChanging
-    your state of mind from a need to control, to a state of acceptance and self compassion. "
+  Description: |-
+    The key to managing anxiety is to address the underlying cause of the fear response.  This part of the module will explore how you can calm the fear response by understanding how you can regulate it.
+
+    Exploring your fears and limiting beliefs
+    Reducing the stress response and activating the ‘soothing system’
+
+    Over-riding rumination by activating the Task Positive Network
+
+    Changing your state of mind from a need to control, to a state of acceptance and self compassion.
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -456,10 +466,10 @@ Slides:
 - Template: five
   Title: 'Fears and Limiting Beliefs '
   Image: 
-  Description: Calming our fears is possible for everyone. It requires us to listen
-    carefully to the messages our fears hold and listen with kindness to what they
-    are telling us about the ideas that we have about ourselves, so that we can uncover
-    the underlying belief, explore it and let it go. 
+  Description: |-
+    Calming our fears is possible for everyone.
+
+    It requires us to listen carefully to the messages our fears hold and listen with kindness to what they are telling us about the ideas that we have about ourselves, so that we can uncover the underlying belief, explore it and let it go.
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -484,7 +494,7 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: 'Emotional Regulation '
-  Image: 
+  Image: "/uploads/emotiona%20regulation.jpg"
   Description: "Emotional regulation is a really important tool for getting unstuck
     a loop of fearful thoughts and feelings. By understanding how emotional regulation
     works we can develop our self awareness and gain more control over the different
@@ -520,10 +530,10 @@ Slides:
   Title: 
   Image: 
   Description: "To break out of the stress response, we need to re-engage the body
-    to remind the body that it is safe. When the body feels it is safe, it is able
-    to process new information that can help us to see new possibilities.\n \nThis
+    to remind the body that it is safe. \n\nWhen the body feels it is safe, it is
+    able to process new information that can help us to see new possibilities.\n\nThis
     part of the module explores how we can activate the soothing system through exercise,
-    breathing, mindfulness and social support. "
+    breathing, mindfulness and social support."
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -535,13 +545,15 @@ Slides:
   Slide Colour: 
 - Template: five
   Title: Exercise
-  Image: 
-  Description: "When we worry, our minds sends signals to our body that there is a
-    still a potential threat that exists and the triggers our body to release the
-    stress hormone cortisol, which makes us feel jittery and tense if not reduced.
-    \nExercise is beneficial for anxiety as it reduces levels of cortisol and increases
-    our endorphins which improve our mood. \nResearch has shown that 5 minutes of
-    exercise can begin to reduce our levels of anxiety. "
+  Image: "/uploads/exercise%20.jpeg"
+  Description: |-
+    When we worry, our minds sends signals to our body that there is a still a potential threat that exists and the triggers our body to release the stress hormone cortisol, which makes us feel jittery and tense if not reduced.
+
+
+    Exercise is beneficial for anxiety as it reduces levels of cortisol and increases our endorphins which improve our mood.
+
+
+    Research has shown that 5 minutes of exercise can begin to reduce our levels of anxiety.
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -553,11 +565,15 @@ Slides:
   Slide Colour: 
 - Template: five
   Title: 'Breathing Exercises '
-  Image: 
-  Description: "Breathing exercises are one of the best ways to reduce stress in the
-    body. \nWhen we practice slow and deep breathing, it activates the vagus nerve
-    which sends a signal to the brain that allows the body to relax.  \nBreathing
-    exercises help to quiet the mind and return our awareness to the present moment."
+  Image: "/uploads/breathe.jpg"
+  Description: |-
+    Breathing exercises are one of the best ways to reduce stress in the body.
+
+
+    When we practice slow and deep breathing, it activates the vagus nerve which sends a signal to the brain that allows the body to relax.
+
+    \
+    Breathing exercises help to quiet the mind and return our awareness to the present moment.
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -583,11 +599,11 @@ Slides:
 - Template: five
   Title: Mindfulness -Based Stress reduction
   Image: 
-  Description: "MBSR is a therapeutic tool that helps people to relax and return their
-    attention to the present moment. \nAs the anxiety is often accompanied by persistent
-    worrying about the past and future, by bringing our awareness to the present moment,
-    we can redirect our attention and focus to the here and now and relieve ourselves
-    of distressing thought patterns. "
+  Description: |-
+    MBSR is a therapeutic tool that helps people to relax and return their attention to the present moment.
+
+
+    As the anxiety is often accompanied by persistent worrying about the past and future, by bringing our awareness to the present moment, we can redirect our attention and focus to the here and now and relieve ourselves of distressing thought patterns.
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -599,7 +615,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: 'Mindfulness Meditation practice '
-  Image: "/uploads/cristofer-jeschke-EqyzRKP6mwM-unsplash.jpg"
+  Image: "/uploads/mindfulness.jpg"
   Description: 
   Graphic Image: 
   Audio url: 
@@ -613,10 +629,16 @@ Slides:
 - Template: sixteen
   Title: 'Activating the Task Positive Network '
   Image: 
-  Description: |-
-    The Default mode is switched OFF when we focus our attention on tasks or ‘doing things’. When we are in this mode, our ‘ Task Positive Network’ is activated. We can see this network as the ‘solution focused network.’ These networks are similar to a switch, when one is ON the other is OFF. 
-     
-    This explains why we find it much more difficult to worry about a problem when we choose to go for a walk, when we go to meet our friends or when we are doing something that takes our attention away from the problem. If you experience a lot of worry, you can strengthen your Task Positive Network by adding particular tasks to your daily routine that ensure you spend less time in your mind ruminating about your fears and anxieties. 
+  Description: "The Default mode is switched OFF when we focus our attention on tasks
+    or ‘doing things’. When we are in this mode, our ‘ Task Positive Network’ is activated.
+    We can see this network as the ‘solution focused network.’ These networks are
+    similar to a switch, when one is ON the other is OFF. \n \nThis explains why we
+    find it much more difficult to worry about a problem when we choose to go for
+    a walk, when we go to meet our friends or when we are doing something that takes
+    our attention away from the problem. \n\nIf you experience a lot of worry, you
+    can strengthen your Task Positive Network by adding particular tasks to your daily
+    routine that ensure you spend less time in your mind ruminating about your fears
+    and anxieties. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -661,7 +683,7 @@ Slides:
   Slide Colour: 
 - Template: two
   Title: 'Compassionate letter writing '
-  Image: 
+  Image: "/uploads/fotografierende-jw3xbuelpKM-unsplash.jpg"
   Description: 
   Graphic Image: 
   Audio url: 
@@ -675,9 +697,9 @@ Slides:
 - Template: five
   Title: 'Acceptance meditation '
   Image: 
-  Description: 'This meditation has been designed to help you reconnect with your
-    body and your feelings and allow the feelings of fear into your experience so
-    that it can be processed. '
+  Description: This meditation has been designed to help you reconnect with your body
+    and your feelings and allow uncomfortable feelings into your experience so that
+    they can be processed.
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -690,14 +712,18 @@ Slides:
 - Template: five
   Title: Other ways to reduce anxiety
   Image: 
-  Description: "\nDiet a diet that stabilises your blood sugar. If your blood sugar
-    is low, it triggers the stress response which makes you more likely to feel anxiety.
-    \  \n\n\nSpeaking about it: \nResearch shows that when we form connections with
-    other people, we are reducing cortisol in the body. Our parasympathetic nervous
-    system is turned off when we feel safe and supported. \nSleep - at least 8 hours:
-    \nSleep is designed to reduce stress levels as it allows you to release the resistance
-    that causes anxiety. Your fight or fight response is triggered when you do not
-    get enough sleep. "
+  Description: |-
+    ### Diet a diet that stabilises your blood sugar
+
+    If your blood sugar is low, it triggers the stress response which makes you more likely to feel anxiety.
+
+    ### Speaking about it
+
+    Research shows that when we form connections with other people, we are reducing cortisol in the body. Our parasympathetic nervous system is turned off when we feel safe and supported.
+
+    ### Sleep - at least 8 hours
+
+    Sleep is designed to reduce stress levels as it allows you to release the resistance that causes anxiety. Your fight or fight response is triggered when you do not get enough sleep.
   Graphic Image: 
   Audio url: 
   Video Url: 
