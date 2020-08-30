@@ -685,8 +685,8 @@ Slides:
   - Link Url: 
   Quote: "“Mindfulness and other meditations, particularly combined with cognitive
     therapy, work just as well for anxiety or depression as the medications do, but
-    they don’t have those side effects,” D. Goleman"
-  Quote Credit: 
+    they don’t have those side effects,” "
+  Quote Credit: D. Goleman
   Image: 
 - Template: two
   Title: 'Time to take a Pause '
@@ -700,7 +700,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: 
-- Template: sixteen
+- Template: list
   Title: 'Psychotherapy and Family Therapy '
   Description: "Psychodynamic Therapy is a medium to long term therapy that usually
     takes place in a 1-1 context. The therapy provides a supportive environment that
