@@ -96,7 +96,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: Anxiety and the body
-  Image: "/uploads/DTSxSSRIdentity9462-917458.jpg"
+  Image: "/uploads/DTSxSSRIdentity9462.jpg"
   Description: 'The amygdala and the nervous response '
   Graphic Image: 
   Audio url: 
@@ -164,7 +164,7 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: 'The vagus nerve '
-  Image: "/uploads/vagus%20nerve-49f2ca.jpg"
+  Image: "/uploads/01fe37949565422e28df49293a42de5f35-09-vagus-nerve.rsquare.w1200.jpg"
   Description: "The vagus nerve causes a response in the heart, lungs and gut, which
     is triggered by a release of adrenaline and cortisol, two hormones that are connected
     with the threat response. \n\nThis causes our heart to beat faster, our breathing
@@ -360,7 +360,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: What causes anxiety?
-  Image: "/uploads/DTSxSSRIdentity9776-b69e4e.jpg"
+  Image: "/uploads/DTSxSSRIdentity9776.jpg"
   Description: 
   Graphic Image: 
   Audio url: 
@@ -531,7 +531,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: 'Working with limiting beliefs '
-  Image: "/uploads/DTSxSSRIdentity9106-32b967.jpg"
+  Image: "/uploads/DTSxSSRIdentity9106.jpg"
   Description: 
   Graphic Image: 
   Audio url: 
@@ -648,7 +648,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: 'Developing a breathing practice '
-  Image: "/uploads/jacl279-055-b80733.jpg"
+  Image: "/uploads/jacl279-055.jpg"
   Description: 
   Graphic Image: 
   Audio url: 
