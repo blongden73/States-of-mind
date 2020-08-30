@@ -589,7 +589,7 @@ Slides:
   Title: 
   Image: 
   Description: 
-  Graphic Image: 
+  Graphic Image: "/uploads/anxietyzonegraphic-225217.svg"
   Audio url: 
   Video Url: 
   Credit: 'Emotional regulation graphic '
