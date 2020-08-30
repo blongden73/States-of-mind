@@ -889,13 +889,13 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: five
-  Title: 'How to practice bifocal vision '
+  Title: 'How to practice bifocal vision '
   Image: 
-  Description: "Pay attention to the tone of voice of the speaker \nNotice the body
-    language of the speaker \nNotice the emotional response that you feel within yourself
-    as you listen to the speaker \nFeedback to the speaker with statement such as
-    ‘ When you spoke about your week, I felt some sadness in your body language and
-    within my own body.’ "
+  Description: "* Pay attention to the tone of voice of the speaker \n* Notice the
+    body language of the speaker \n* Notice the emotional response that you feel within
+    yourself as you listen to the speaker \n* Feedback to the speaker with statement
+    such as ‘ When you spoke about your week, I felt some sadness in your body language
+    and within my own body.’ "
   Graphic Image: 
   Audio url: 
   Video Url: 
