@@ -547,7 +547,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: Exploring sub personalities
-  Image: "/uploads/DTS_WARP_015.jpg"
+  Image: "/uploads/gemma-chua-tran-WHXtTyfKCco-unsplash.jpg"
   Description: 
   Graphic Image: 
   Audio url: 
