@@ -275,7 +275,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: "/uploads/medication%203.jpeg"
-- Template: six
+- Template: four
   Title: 
   Description: "A Meta-analysis ( analysis of a large group of research studies) has
     shown that\n\n“unmedicated patients have much shorter episodes, and better long-term
