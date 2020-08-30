@@ -519,7 +519,7 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: 'External Unifying Centres '
-  Image: "/uploads/teacher.jpg"
+  Image: "/uploads/thisisengineering-raeng-h6gCRTCxM7o-unsplash.jpg"
   Description: |-
     The attunement that our supportive relationships provide, supports our personal development by reflecting back to us and reinforcing our values, goals, beliefs and worldview.
 
