@@ -762,7 +762,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: five
+- Template: four
   Title: 'Acceptance meditation '
   Image: 
   Description: This meditation has been designed to help you reconnect with your body
