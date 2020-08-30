@@ -622,6 +622,19 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: one
+  Title: 'Mindsets '
+  Image: 
+  Description: graphic
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: five
   Title: 
   Image: 
@@ -632,19 +645,6 @@ Slides:
     exploring our mindsets we can become aware of how they serve or limit us. \n\nBy
     becoming aware of how they limit us, we can chose to let go of the resistance
     they create in our lives."
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: one
-  Title: 'Mindsets '
-  Image: 
-  Description: graphic
   Graphic Image: 
   Audio url: 
   Video Url: 
