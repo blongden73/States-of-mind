@@ -791,7 +791,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: 
-- Template: sixteen
+- Template: list
   Title: 'Why is unconditional  positive regard beneficial for depression? '
   Description: |-
     People who are experiencing depression often hold an underlying belief that they are not loveable, are flawed and not worthy of love & acceptance.  
