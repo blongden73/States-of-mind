@@ -1026,10 +1026,10 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: five
+- Template: list
   Title: Why is it difficult to leave unhealthy relationships?  
   Image: 
-  Description: "\n\nEven if we know our relationships are unfitlfilling and not meeting
+  Description: "Even if we know our relationships are unfitlfilling and not meeting
     our needs, it can feel  difficult to move forward and take the initiative to end
     the relationship. The feelings of pain and detachment are extremely strong feelings
     that motivate us to maintain the relationship at all costs. It is actually painful
