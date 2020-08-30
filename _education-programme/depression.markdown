@@ -528,15 +528,12 @@ Slides:
   Image: 
 - Template: sixteen
   Title: Life events and depression
-  Description: "Baumeister explored people’s reactions to experiences of setbacks
-    and personal failures. He found that most suicide attempts are preceded by some
-    failure or setback that reflects badly on the self. \n\nHe explored how people
-    respond to distressing experiences by focusing narrowly on the present moment
-    in an attempt to avoid the painful emotions caused by recent failure, which shuts
-    off the mind to states of self awareness and problem solving capacities.  \n\n“
-    \ Time seems to drag, and the person remains stuck in a relatively empty present
-    moment, cut off from past and future. Deprived of reasons for action, the person
-    may become passive, lethargic, and idle.” "
+  Description: |-
+    Baumeister explored people’s reactions to experiences of setbacks and personal failures. He found that most suicide attempts are preceded by some failure or setback that reflects badly on the self.
+
+    He explored how people respond to distressing experiences by focusing narrowly on the present moment in an attempt to avoid the painful emotions caused by recent failure, which shuts off the mind to states of self awareness and problem solving capacities.
+
+    “Time seems to drag, and the person remains stuck in a relatively empty present moment, cut off from past and future. Deprived of reasons for action, the person may become passive, lethargic, and idle.”
   Graphic Image: 
   Audio url: 
   Video Url: 
