@@ -687,7 +687,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
+- Template: list
   Title: Letter writing and emotional expression
   Image: 
   Description: "We often rely on relationships with other people to help us regulate
