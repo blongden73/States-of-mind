@@ -238,7 +238,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: list
+- Template: six
   Title: 
   Image: 
   Description: "If we have experienced this type of relational environment growing
