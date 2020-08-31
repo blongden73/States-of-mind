@@ -239,7 +239,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: six
+- Template: sixteen
   Title: Identity
   Image: 
   Description: "Our identity isn’t fixed but develops and changes over time. It is
@@ -269,7 +269,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: six
+- Template: sixteen
   Title: Your name
   Image: 
   Description: "Our name is a personal and special aspect of our identity. It is a
