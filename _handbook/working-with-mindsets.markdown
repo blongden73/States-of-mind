@@ -1,7 +1,7 @@
 ---
 title: Working with mindsets
 date: 2020-08-26 14:46:00 Z
-permalink: working-with-mindsets.html
+permalink: "/handbook/working-with-mindsets.html"
 Form: |-
   <form id="test-form">
     <div>
