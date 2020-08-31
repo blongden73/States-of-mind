@@ -153,11 +153,11 @@ Slides:
   Description: |-
     If you are interested, you can explore these models too:
 
-    Maslow’s hierarchy of needs
+    * Maslow’s hierarchy of needs
 
-    Freud and the psychodynamic model of the personality
+    * Freud and the psychodynamic model of the personality
 
-    Jung and the Five Factor model of the Personality.
+    * Jung and the Five Factor model of the Personality.
   Graphic Image: 
   Audio url: 
   Video Url: 
