@@ -10,6 +10,7 @@ collections:
   handbook:
     title: Handbook
     output: true
+    permalink: "/handbook/:path"
   posts:
     title: Posts
     output: true
