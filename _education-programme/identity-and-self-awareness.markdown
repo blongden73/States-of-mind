@@ -64,7 +64,7 @@ Slides:
     and behaviour, as if we are an observer.\n\nIt also allows us to step back and
     understand both ourselves and how we are in relationship with others. \n\nBy developing
     our levels of self awareness, we can access a sense of choice around how we respond
-    to life's challenges. Over time, we can experience a deep connection with our
+    to life's challenges. Over time, we can experience a deep connection with our
     most authentic self. "
   Graphic Image: 
   Audio url: 
