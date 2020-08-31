@@ -182,7 +182,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: six
+- Template: sixteen
   Title: 'The freeze response '
   Image: 
   Description: "When fighting or running seems impossible or because the threat seems
