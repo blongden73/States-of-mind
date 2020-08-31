@@ -114,7 +114,7 @@ Slides:
     We share this part of the brain with all animals, as it is one of the most fundamental
     survival systems that allows us to detect threats in our environment. \n\nAnimal
     studies have shown that if you remove the amygdala, the animal loses any sense
-    of fear or anxiety. \n \nThe amygdala is activated in response to situations of
+    of fear or anxiety. \n\nThe amygdala is activated in response to situations of
     fear and uncertainty. Once activated, this part of the brain sends a message through
     the vagus nerve to activate our parasympathetic nervous system. "
   Graphic Image: 
