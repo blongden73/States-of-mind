@@ -82,7 +82,7 @@ Slides:
   Image: "/uploads/body%20scan-cc3639.jpeg"
   Description: Meditation
   Graphic Image: 
-  Audio url: 
+  Audio url: "/uploads/body_feelings_mind_20_08_2020_18.56-d454ff.mp3"
   Video Url: 
   Credit: 
   Links:
