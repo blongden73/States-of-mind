@@ -402,7 +402,7 @@ Slides:
   - Link Url: 
   Quote: 
   Quote Credit: 
-  Slide Colour: 
+  Slide Colour: FFF8EA
 - Template: one
   Title: 'The Mind '
   Image: "/uploads/mari-lezhava-Xm9-vA_bhm0-unsplash.jpg"
