@@ -749,7 +749,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: two
+- Template: one
   Title: 'Compassionate letter writing '
   Image: "/uploads/fotografierende-jw3xbuelpKM-unsplash.jpg"
   Description: 
