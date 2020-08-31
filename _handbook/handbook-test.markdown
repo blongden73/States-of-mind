@@ -1,17 +1,8 @@
 ---
 title: Working with mindsets
 date: 2020-08-26 14:46:00 Z
-Form: |-
-  <form action="https://getform.io/f/f29364ba-bd98-4c2f-b3f9-7c58ed7f3625" method="POST">
-  <p>How does this mindset affect your feelings and behaviour?</p>
-    <input type="text" name="name">
-  <p>How long have you had this mindset? </p>
-    <input type="email" name="email">
-  <p>How did this mindset first develop? </p>
-    <input type="text" name="message">
-    <button type="submit">Send submissions</button>
-
-  </form>
+Form: <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfnT1J2qYOd3B2MOLzYzA_c0zysKAInUhOWidXAT3dNn3IN4A/viewform?embedded=true"
+  width="640" height="486" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 layout: handbook
 ---
 
