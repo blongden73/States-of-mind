@@ -60,9 +60,14 @@ Slides:
 - Template: four
   Title: 
   Image: 
-  Description: "Everybody has 3 distinct states that we can become conscious to that
-    are both separate from each other and inter-related:  \n\nMental states\n\nEmotional
-    states\n\nPhysical states "
+  Description: |-
+    Everybody has 3 distinct states that we can become conscious to that are both separate from each other and inter-related:
+
+    * Mental states
+
+    * Emotional states
+
+    * Physical states
   Graphic Image: 
   Audio url: 
   Video Url: 
