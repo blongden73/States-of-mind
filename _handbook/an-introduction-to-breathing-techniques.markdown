@@ -1,6 +1,7 @@
 ---
 title: An introduction to breathing techniques
 date: 2020-08-31 16:50:00 Z
+layout: handbook
 ---
 
 Please answer the following questions to help you reflect on your current relationship with your breathing and how able you are, at present to use your breathing as a tool to regulate your emotional 
