@@ -796,8 +796,8 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-Cover Image: "/uploads/testcover.jpg"
-Cover Colour: 
+Cover Image: "/uploads/2097204.jpg"
+Cover Colour: "#fefefe"
 layout: presentation
 ---
 
