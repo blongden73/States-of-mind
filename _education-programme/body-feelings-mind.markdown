@@ -558,7 +558,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
+- Template: list
   Title: Getting stuck in the rational
   Image: 
   Description: "\nSometimes the rational mind can get so caught up in facts and information
