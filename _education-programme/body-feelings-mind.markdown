@@ -298,7 +298,7 @@ Slides:
   - Link Url: 
   Quote: 
   Quote Credit: 
-  Slide Colour: 
+  Slide Colour: "#3A7CA9"
 - Template: one
   Title: Feelings
   Image: "/uploads/BFM%20hands.jpg"
