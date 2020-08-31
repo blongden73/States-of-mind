@@ -688,7 +688,7 @@ Slides:
   Credit: 
   Links:
   - Link Url: 
-  Quote: "“ Belonging is the innate human desire to be part of something larger than
+  Quote: "\"Belonging is the innate human desire to be part of something larger than
     us. Because this yearning is so primal, we often try to acquire it by fitting
     in and by seeking approval, which are not only hollow substitutes for belonging,
     but often barriers to it. Because true belonging only happens when we present
