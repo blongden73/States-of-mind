@@ -18,8 +18,9 @@
   {% assign credit = slide.['Credit'] %}
   {% assign quote = slide.['Quote'] %}
   {% assign quoteCred = slide.['Quote Credit'] %}
+  {% assign slideColor = slide.['Slide Colour']%}
   {% assign links = slide.Links %}
-    <div id="slide-{{ forloop.index }}" class="slide {{template}} {%if image %}white{% endif %}">
+    <div id="slide-{{ forloop.index }}" class="slide {{template}} {%if image %}white{% endif %}" {%if slideColor %}style="background-color:{{slideColor}};"{% endif %}>
       <div class="som-wrapper">
         {% if template == "five" %}
           {% include templatefive.html %}
