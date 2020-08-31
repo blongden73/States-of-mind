@@ -553,7 +553,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
+- Template: list
   Title: What are the benefits of sub-personality work? 
   Image: 
   Description: |-
