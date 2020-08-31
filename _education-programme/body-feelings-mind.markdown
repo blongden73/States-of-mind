@@ -264,7 +264,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
-  Title: 'Yoga : Calming the body '
+  Title: 'Yoga: Calming the body '
   Image: "/uploads/DeathtoStock_Fitness1.jpg"
   Description: "Yoga has been proven to have a range of benefits for mental health.
     Yoga works by reducing stress, relieving muscle tension and inflammation and calming
