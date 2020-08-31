@@ -385,7 +385,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
+- Template: list
   Title: 'What is our authentic self ? '
   Image: 
   Description: "Under the many layers of our identity and our personality is our true
