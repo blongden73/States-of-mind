@@ -22,4 +22,10 @@
         {% endfor %}
   </div>
 </div>
+<!-- <div class="handbook-list">
+  {% assign handbooks = site.handbook %}
+  {% for handbook in handbooks %}
+    <a href="{{handbook.permalink}}">{{handbook.title}}</a>
+  {% endfor %}
+</div> -->
 {% include footer.html %}
