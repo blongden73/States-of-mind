@@ -1,5 +1,5 @@
 ---
-title: "Identity \n&\nSelf Awareness"
+title: "Identity \n& Self\nAwareness"
 date: 2020-08-26 15:29:00 Z
 permalink: "/education-programme/identity-and-self-awareness.html"
 position: 0
