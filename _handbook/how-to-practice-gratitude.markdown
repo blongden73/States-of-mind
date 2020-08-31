@@ -1,6 +1,7 @@
 ---
 title: How to Practice Gratitude
 date: 2020-08-31 17:45:00 Z
+layout: handbook
 ---
 
 “Gratitude has been conceptualized as an emotion, a virtue, a moral sentiment, a motive, a coping response, a skill, and an attitude. It is all of these and more,” 

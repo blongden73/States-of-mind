@@ -1,6 +1,7 @@
 ---
 title: Empathic Listening Instructions
 date: 2020-08-31 16:59:00 Z
+layout: handbook
 ---
 
 1. Be attentive. Be interested. Be alert and not distracted. Create a positive atmosphere through nonverbal behaviour.
