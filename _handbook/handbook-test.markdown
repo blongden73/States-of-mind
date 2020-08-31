@@ -1,7 +1,24 @@
 ---
 title: Working with mindsets
 date: 2020-08-26 14:46:00 Z
-Form: 
+Form: |-
+  <form id="test-form">
+    <div>
+      <label>Field 1</label>
+      <input type="text" name="form_1" placeholder="Field 1"/>
+    </div>
+    <div>
+      <label>Field 2</label>
+      <input type="text" name="form_2" placeholder="Field 2"/>
+    </div>
+    <div>
+      <label>Field 3</label>
+      <input type="text" name="form_3" placeholder="Field 3"/>
+    </div>
+    <div>
+      <button type="submit"id="submit-form">Submit</button>
+    </div>
+  </form>
 layout: handbook
 ---
 
