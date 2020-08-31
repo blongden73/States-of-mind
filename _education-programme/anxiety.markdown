@@ -777,7 +777,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: five
+- Template: list
   Title: Other ways to reduce anxiety
   Image: 
   Description: |-
