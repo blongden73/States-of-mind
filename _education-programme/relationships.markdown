@@ -279,7 +279,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: six
+- Template: sixteen
   Title: 
   Image: 
   Description: |-
