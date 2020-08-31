@@ -1,6 +1,7 @@
 ---
 title: Observing the Mind
 date: 2020-08-31 18:28:00 Z
+layout: handbook
 ---
 
 **Find a space where you can focus on the activity without becoming distracted. **

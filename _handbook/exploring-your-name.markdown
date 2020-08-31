@@ -1,6 +1,7 @@
 ---
 title: Exploring your name
 date: 2020-08-31 17:18:00 Z
+layout: handbook
 ---
 
 Do you have one name or different names? 

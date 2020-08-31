@@ -1,6 +1,7 @@
 ---
 title: Working with Mindsets
 date: 2020-08-31 19:16:00 Z
+layout: handbook
 ---
 
 **Step 1.**
