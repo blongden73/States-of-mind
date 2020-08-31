@@ -574,7 +574,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
-  Title: "Example: The Expert \n\n"
+  Title: "Example: The Expert \n\n"
   Image: "/uploads/expert.jpg"
   Description: "**Behaviour**\nPatronising, condescending, arrogant, ‘ know it all’,
     rigid, defensive, guarded and slightly hostile.  Serious tone of voice. Body language:
