@@ -1,7 +1,7 @@
 ---
 title: Working with mindsets
 date: 2020-08-26 14:46:00 Z
-Form: <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfnT1J2qYOd3B2MOLzYzA_c0zysKAInUhOWidXAT3dNn3IN4A/viewform?embedded=true"
+Form: <iframe name="frame" src="https://docs.google.com/forms/d/e/1FAIpQLSfnT1J2qYOd3B2MOLzYzA_c0zysKAInUhOWidXAT3dNn3IN4A/viewform?embedded=true"
   width="640" height="486" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 layout: handbook
 ---
