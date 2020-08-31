@@ -74,7 +74,7 @@ Slides:
   - Link Url: 
   Quote: 
   Quote Credit: 
-  Slide Colour: 
+  Slide Colour: "#FFF8EA"
 - Template: five
   Title: And what are the benefits of developing Self Awareness?
   Image: 
