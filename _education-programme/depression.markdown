@@ -607,11 +607,12 @@ Slides:
 - Template: sixteen
   Title: Depression and rumination
   Description: "People experiencing depression can become very identified with their
-    mind, as a way to escape difficult feelings and internal beliefs. \nThis can lead
-    to rumination, which is the habit of becoming caught in repetitive and ongoing
-    cycles of negative evaluations about ourselves. \nThis is why many therapies and
-    approaches to depression focus on observing our thoughts, introducing more positive
-    activities into our lives or speaking with others about our problems.  "
+    mind, as a way to escape difficult feelings and internal beliefs. \n\nThis can
+    lead to rumination, which is the habit of becoming caught in repetitive and ongoing
+    cycles of negative evaluations about ourselves. \n\nThis is why many therapies
+    and approaches to depression focus on observing our thoughts, introducing more
+    positive activities into our lives or speaking with others about our problems.
+    \ "
   Graphic Image: 
   Audio url: 
   Video Url: 
