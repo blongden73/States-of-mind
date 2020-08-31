@@ -255,7 +255,7 @@ Slides:
   - Link Url: 
   Quote: 
   Quote Credit: 
-  Slide Colour: "#3A7CA9"
+  Slide Colour: "#A3C3CF"
 - Template: one
   Title: Your Name
   Image: "/uploads/names.jpg"
