@@ -1,6 +1,7 @@
 ---
 title: Active Listening Worksheet 1
 date: 2020-08-31 16:47:00 Z
+layout: handbook
 ---
 
 Qualities of a good listener and a bad listener. 
