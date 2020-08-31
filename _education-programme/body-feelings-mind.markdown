@@ -640,16 +640,13 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: five
+- Template: six
   Title: 
   Image: 
-  Description: "Mindsets are the belief patterns that influence how we think and behave
-    in our everyday lives. \n\nSome Mindsets/ beliefs are very unconscious to us,
-    while others are more apparent in our lives. \n\nMany of our Mindsets are formed
-    in childhood and adolescence and we hold onto these throughout our lives. \n\nBy
-    exploring our mindsets we can become aware of how they serve or limit us. \n\nBy
-    becoming aware of how they limit us, we can chose to let go of the resistance
-    they create in our lives."
+  Description: |-
+    Mindsets are the belief patterns that influence how we think and behave in our everyday lives. Some Mindsets/ beliefs are very unconscious to us, while others are more apparent in our lives. 
+
+    Many of our Mindsets are formed in childhood and adolescence and we hold onto these throughout our lives. By exploring our mindsets we can become aware of how they serve or limit us. By becoming aware of how they limit us, we can chose to let go of the resistance they create in our lives.
   Graphic Image: 
   Audio url: 
   Video Url: 
