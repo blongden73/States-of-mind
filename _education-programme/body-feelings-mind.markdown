@@ -228,7 +228,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: 'two '
+- Template: two
   Title: Take time to pause
   Image: 
   Description: 
