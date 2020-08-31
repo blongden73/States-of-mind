@@ -267,13 +267,13 @@ Slides:
   Title: 'Yoga : Calming the body '
   Image: "/uploads/DeathtoStock_Fitness1.jpg"
   Description: "Yoga has been proven to have a range of benefits for mental health.
-    \n\nYoga works by reducing stress, relieving muscle tension and inflammation and
-    calming the nervous system. \n\nThese physical benefits are correlated with improved
-    attention and concentration and significant improvements in mood and relaxation.
-    \ \n\nYoga is beneficial for a range of distressing states, such as anxiety, depression
-    and PTSD. \n\nA study followed 64 women with post-traumatic stress disorder (PTSD),
+    Yoga works by reducing stress, relieving muscle tension and inflammation and calming
+    the nervous system. \n\nThese physical benefits are correlated with improved attention
+    and concentration and significant improvements in mood and relaxation. Yoga is
+    beneficial for a range of distressing states, such as anxiety, depression and
+    PTSD. \n\nA study followed 64 women with post-traumatic stress disorder (PTSD),
     which is characterized by severe anxiety and fear following exposure to a traumatic
-    event.\n\nAfter 10 weeks, 52% of participants no longer met the criteria for PTSD
+    event.After 10 weeks, 52% of participants no longer met the criteria for PTSD
     at all.  \n"
   Graphic Image: 
   Audio url: 
