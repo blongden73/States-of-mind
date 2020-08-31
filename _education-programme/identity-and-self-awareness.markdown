@@ -731,7 +731,7 @@ Slides:
   - Link Url: 
   Quote: 
   Quote Credit: 
-  Slide Colour: "#b9e0fc"
+  Slide Colour: 
 - Template: four
   Title: 'Exploring our relationship with groups '
   Image: "/uploads/groups%203.jpg"
