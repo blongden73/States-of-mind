@@ -627,20 +627,19 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
+- Template: four
   Title: 'Stages of Integration '
   Image: 
-  Description: |2-
+  Description: |-
+    * Recognition
 
-    ### Recognition
+    * Acceptance
 
-    Acceptance
+    * Coordination
 
-    Coordination
+    * Integration
 
-    Integration
-
-    Synthesis
+    * Synthesis
   Graphic Image: 
   Audio url: 
   Video Url: 
