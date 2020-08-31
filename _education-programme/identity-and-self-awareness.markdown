@@ -736,7 +736,7 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: Group Identity  
-  Image: "/uploads/gemma-chua-tran-Ftvf4VbVbDE-unsplash.jpg"
+  Image: "/uploads/brooke-cagle--uHVRvDr7pg-unsplash.jpg"
   Description: "**Values, Beliefs and Behaviour**\n\nOne of the strongest factors
     that influence and reflect our sense of identity are the groups that we are a
     part of in our lives. \n\nFrom the moment we are born, we are a part of our family
