@@ -503,22 +503,22 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
+- Template: six
   Title: 
   Image: 
   Description: "They are distinct patterns of thoughts, feelings and behaviours that
     we develop to adapt to various environments where we feel unable to be our authentic
-    self. \n\nIn neuroscience these are viewed as distinct neural networks that function
-    as ‘specialised selves’ or ‘self states’. ( Siegel 1993) \n\n\nSub-personality
-    theory explains personality development and helps to explain why parts of our
-    personality can feel conflicted and as if there are ‘multiple selves’ within us
-    who have different ways of being.\n\nFor example the feeling of ‘ I want to do
-    this but another part of me wants to do that’, or ‘ I shouldn’t be getting angry
-    right now but I think its important I tell the truth’"
+    self.\n\nIn neuroscience these are viewed as distinct neural networks that function
+    as ‘specialised selves’ or ‘self states’. \n\nSub-personality theory explains
+    personality development and helps to explain why parts of our personality can
+    feel conflicted and as if there are ‘multiple selves’ within us who have different
+    ways of being.\n\nFor example the feeling of ‘ I want to do this but another part
+    of me wants to do that’, or ‘ I shouldn’t be getting angry right now but I think
+    its important I tell the truth’"
   Graphic Image: 
   Audio url: 
   Video Url: 
-  Credit: 
+  Credit: Siegel 1993
   Links:
   - Link Url: 
   Quote: 
