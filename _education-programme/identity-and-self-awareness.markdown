@@ -126,18 +126,13 @@ Slides:
   - Link Url: 
   Quote: 
   Quote Credit: 
-  Slide Colour: 
+  Slide Colour: "#FFF8EA"
 - Template: four
   Title: 
   Image: 
-  Description: |
-    Psychology provides us with different models to understand and develop self awareness. This module will introduce you to 3 of those models:
-
-    * Johari Window
-
-    * Inner child
-
-    * Subpersonalities
+  Description: "Psychology provides us with different models to understand and develop
+    self awareness. \n\nThis module will introduce you to 3 of those models:\n\n*
+    Johari Window\n\n* Inner child\n\n* Subpersonalities"
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -244,7 +239,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: six
+- Template: sixteen
   Title: Identity
   Image: 
   Description: "Our identity isn’t fixed but develops and changes over time. It is
@@ -274,7 +269,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: six
+- Template: sixteen
   Title: Your name
   Image: 
   Description: "Our name is a personal and special aspect of our identity. It is a
