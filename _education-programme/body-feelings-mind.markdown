@@ -216,7 +216,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: one
-  Title: 'Introduction to breathing techniques '
+  Title: 'Introduction to breathing techniques '
   Image: "/uploads/mindfulness%203.jpeg"
   Description: 
   Graphic Image: 
