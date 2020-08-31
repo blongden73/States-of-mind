@@ -4,16 +4,16 @@ date: 2020-08-26 14:46:00 Z
 Form: |-
   <form id="test-form">
     <div>
-      <label>Field 1</label>
-      <input type="text" name="form_1" placeholder="Field 1"/>
+      <label>How does this mindset serve you? ( How has it helped you or provided you with something?)</label>
+      <input type="text" name="mindset_serve_you" placeholder="Field 1"/>
     </div>
     <div>
-      <label>Field 2</label>
-      <input type="text" name="form_2" placeholder="Field 2"/>
+      <label>How does this mindset limit you? ( How does it hold you back or prevent you from seeing other perspectives of yourself and others?)</label>
+      <input type="text" name="mindset_limit_you" placeholder="Field 2"/>
     </div>
     <div>
-      <label>Field 3</label>
-      <input type="text" name="form_3" placeholder="Field 3"/>
+      <label>If you detach from this mindset, what other ways of seeing yourself and others begin to emerge?</label>
+      <input type="text" name="detach_mindset" placeholder="Field 3"/>
     </div>
     <div>
       <button type="submit"id="submit-form">Submit</button>
@@ -39,9 +39,3 @@ Education, romantic relationships, social media, politics, the future.
 * Choose one of the strongest mindsets you have to work with in step 2.
 
 ## Step 2:
-
-How does this mindset serve you? ( How has it helped you or provided you with something?)
-
-How does this mindset limit you? ( How does it hold you back or prevent you from seeing other perspectives of yourself and others?)
-
-If you detach from this mindset, what other ways of seeing yourself and others begin to emerge?
