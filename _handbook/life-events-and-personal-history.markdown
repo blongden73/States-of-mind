@@ -1,6 +1,7 @@
 ---
 title: Life Events and Personal History
 date: 2020-08-31 18:14:00 Z
+layout: handbook
 ---
 
 **PART 1 
