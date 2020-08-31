@@ -576,14 +576,18 @@ Slides:
 - Template: sixteen
   Title: "Example: The Expert \n\n"
   Image: "/uploads/expert.jpg"
-  Description: "**Behaviour**\nPatronising, condescending, arrogant, ‘ know it all’,
-    rigid, defensive, guarded and slightly hostile.  Serious tone of voice. Body language:
-    Rigid, tense, stiff. \n\n**Wants** \nTo be taken seriously, to be respected, not
-    to be challenged, to be right, to feel superior, to be admired and given attention.
-    to not be criticised.\n\n**Needs** \nTo feel unconditionally accepted and loved,
-    to be seen and valued, to be heard, to feel worthy and enough as they are.\n  \n**Qualities
-    of self that are hidden** \nPlayfulness and spontaneity, willingness to learn
-    from others, curiosity, the part of us that wants to grow, acceptance of self. "
+  Description: |-
+    **Behaviour:**
+    Patronising, condescending, arrogant, ‘ know it all’, rigid, defensive, guarded and slightly hostile.  Serious tone of voice. Body language: Rigid, tense, stiff.
+
+    **Wants:**
+    To be taken seriously, to be respected, not to be challenged, to be right, to feel superior, to be admired and given attention. to not be criticised.
+
+    **Needs:**
+    To feel unconditionally accepted and loved, to be seen and valued, to be heard, to feel worthy and enough as they are.
+
+    **Qualities of self that are hidden:**
+    Playfulness and spontaneity, willingness to learn from others, curiosity, the part of us that wants to grow, acceptance of self.
   Graphic Image: 
   Audio url: 
   Video Url: 
