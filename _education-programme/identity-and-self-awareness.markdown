@@ -45,9 +45,9 @@ Slides:
 - Template: sixteen
   Title: 'Common misconceptions about self awareness '
   Image: 
-  Description: "“ Self awareness is narcissistic ” \n\n“ It's when you are really
-    self absorbed \"  \n\n“ Self awareness is impossible to maintain ” \n\n“ You either
-    have self awareness or you don’t ” "
+  Description: "Self awareness is narcissistic \n\nIt's when you are really self absorbed
+    \ \n\nSelf awareness is impossible to maintain \n\nYou either have self awareness
+    or you don’t"
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -796,7 +796,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-Cover Image: "/uploads/test2-f7500d.jpg"
+Cover Image: "/uploads/test2-a87882.jpg"
 Cover Colour: "#fefefe"
 layout: presentation
 ---
