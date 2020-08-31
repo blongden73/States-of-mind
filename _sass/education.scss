@@ -97,6 +97,43 @@ body.education {
   background-color: $nu-pink;
   position: relative;
 
+  ol {
+    counter-reset: my-awesome-counter !important;
+    list-style: none !important;
+    padding: 0;
+
+    li {
+      counter-increment: my-awesome-counter !important;
+
+      &:before {
+        content: counter(my-awesome-counter);
+        display: block;
+        float: left;
+        margin-right: 10px;
+
+      }
+    }
+  }
+
+  ul {
+    list-style: none !important;
+    padding: 0;
+    
+    li {
+      &:before {
+        width: 15px;
+        height: 15px;
+        margin-top: 6px;
+        border-radius: 50%;
+        margin-right: 10px;
+        display: block;
+        float: left;
+        content: '';
+        border: 1px solid #333;
+      }
+    }
+  }
+
   &.white {
     color: #333 !important;
   }
@@ -418,12 +455,9 @@ body.education {
 
     .slide-description {
       text-align: center;
-      font-size: 4.2vw;
+      font-size: 2.2vw;
       line-height: 0;
       margin: 0;
-      -webkit-text-stroke-width: 1px;
-      -webkit-text-stroke-color: black;
-      color: transparent;
     }
   }
 
@@ -656,7 +690,15 @@ body.education {
 }
 
 .sixteen + .sixteen + .sixteen {
+  background-color: $nu-green;
+}
+
+.sixteen + .sixteen + .sixteen + .sixteen {
   background-color: $nu-beige;
+}
+
+.sixteen + .sixteen + .sixteen + .sixteen + .sixteen {
+  background-color: $nu-green;
 }
 
 .fourteen + .sixteen {

@@ -16,7 +16,7 @@
               <div class="arrow">→</div>
             </div>
             <div class="right">
-              <h1><a href="{{progamme.permalink}}">{{progamme.title}}</a></h1>
+              <h1><div class="indicator"></div><a href="{{progamme.permalink}}">{{progamme.title}}</a></h1>
             </div>
           </div>
         {% endfor %}
