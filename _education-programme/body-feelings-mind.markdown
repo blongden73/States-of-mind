@@ -90,9 +90,9 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: five
+- Template: sixteen
   Title: 
-  Image: 
+  Image: "/uploads/thoughts_feelings.svg"
   Description: "Some people may naturally be more connected with either their body,
     feelings or mind and we each have our own unique relationship to all three, like
     a fingerprint or personal map. \n\n+ graphic"
