@@ -1,6 +1,7 @@
 ---
 title: Reflecting on the supportive relationships in our lives
 date: 2020-08-31 19:04:00 Z
+layout: handbook
 ---
 
 This activity has been designed to help you reflect on the positive and supportive relationships in your life, so that you can identify which relationships have healthy qualities and remember the emotional resources that you have available to you. 
