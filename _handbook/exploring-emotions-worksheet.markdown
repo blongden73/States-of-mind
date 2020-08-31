@@ -1,6 +1,7 @@
 ---
 title: Exploring Emotions Worksheet
 date: 2020-08-31 17:03:00 Z
+layout: handbook
 ---
 
 **PART 1: **
