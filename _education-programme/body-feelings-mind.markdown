@@ -170,7 +170,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
+- Template: list
   Title: 'How else is the vagus nerve related to our mental health? '
   Image: 
   Description: "# Experiencing a Threat \n\nWhen we experience a threat, the vagus
