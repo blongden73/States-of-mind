@@ -245,7 +245,7 @@ function presentation(){
       var id = slide[i].id;
       var postion = slide[i].getBoundingClientRect();
       // console.log(postion, 'position');
-      if(postion.top <= 1 && postion.top >= -1){
+      if(postion.top <= 2 && postion.top >= -1){
         console.log(true);
         console.log(postion);
         console.log(id);
@@ -339,7 +339,7 @@ function init(){
     animatedCircles();
   }
   if(slides) {
-    console.log('new scrolling');
+    console.log('new scrolling v2');
     presentation();
   }
 }
