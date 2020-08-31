@@ -201,7 +201,9 @@ function elementInViewport(el) {
   var width = el.offsetWidth;
   var height = el.offsetHeight + 50;
 
-  console.log(height, "height");
+  // console.log(height, "height");
+  // console.log(top + height , window.pageYOffset + window.innerHeight);
+  // console.log(top , window.pageYOffset);
 
   while(el.offsetParent) {
     el = el.offsetParent;
@@ -241,7 +243,11 @@ function presentation(){
     console.log('scrolling');
     for(i=0; i < slide.length; i++) {
       var id = slide[i].id;
-      if(elementInViewport(slide[i])){
+      var postion = slide[i].getBoundingClientRect();
+      // console.log(postion, 'position');
+      if(postion.top <= 1 && postion.top >= -1){
+        console.log(true);
+        console.log(postion);
         console.log(id);
         history.pushState(null, null, currentLocation+'#'+id);
         slide[i].classList.add('inview');
@@ -251,6 +257,11 @@ function presentation(){
         slide[i].classList.remove('inview');
         dot[i].classList.remove('inview');
       }
+      // if(elementInViewport(slide[i])){
+      //
+      // }else {
+      //
+      // }
     }
   });
   var nextSlide = document.querySelector('.next-slide');
@@ -328,6 +339,7 @@ function init(){
     animatedCircles();
   }
   if(slides) {
+    console.log('new scrolling');
     presentation();
   }
 }
