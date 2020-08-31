@@ -123,7 +123,7 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: 
-  Image: "/uploads/family_portrait.svg"
+  Image: "/uploads/family_tree.svg"
   Description: |-
     This graphic reflects the nature of our emotional development. Our emotional memory from key stages of our life shapes our personal blueprint for how we relate with others as adults.
 
