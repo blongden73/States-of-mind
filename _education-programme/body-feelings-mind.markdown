@@ -350,8 +350,8 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: Exploring emotion
-  Image: 
-  Description: graphic
+  Image: "/uploads/exploring_emotions.svg"
+  Description: 
   Graphic Image: 
   Audio url: 
   Video Url: 
