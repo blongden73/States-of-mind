@@ -108,7 +108,7 @@ Slides:
   - Link Url: 
   Quote: 
   Quote Credit: 
-  Slide Colour: 
+  Slide Colour: "#E7EEE7"
 - Template: sixteen
   Title: Research has proven that self awareness is a tool that can help us to flourish.
   Image: 
