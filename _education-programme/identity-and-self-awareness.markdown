@@ -7,90 +7,90 @@ Slides:
 - Template: one
   Title: 'Part 1: Self Awareness'
   Image: "/uploads/identity%20and%20self%20awareness-0906a5.jpeg"
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
+  Description:
+  Graphic Image:
+  Audio url:
+  Video Url:
+  Credit:
   Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
+  - Link Url:
+  Quote:
+  Quote Credit:
+  Slide Colour:
 - Template: nineteen
   Title: Ella  (18)  - Young person from the States of Mind Team
-  Image: 
-  Description: 
-  Graphic Image: 
-  Audio url: 
+  Image:
+  Description:
+  Graphic Image:
+  Audio url:
   Video Url: <iframe src="https://player.vimeo.com/video/452858109" width="640" height="360"
     frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-  Credit: 
+  Credit:
   Links:
-  - Link Url: 
-  Slide Colour: 
+  - Link Url:
+  Slide Colour:
 - Template: ten
-  Title: 
-  Image: 
+  Title:
+  Image:
   Description: 'What does self awareness mean to you? '
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
+  Graphic Image:
+  Audio url:
+  Video Url:
+  Credit:
   Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
+  - Link Url:
+  Quote:
+  Quote Credit:
+  Slide Colour:
 - Template: sixteen
   Title: 'Common misconceptions about self awareness '
-  Image: 
+  Image:
   Description: "Self awareness is narcissistic \n\nIt's when you are really self absorbed
     \ \n\nSelf awareness is impossible to maintain \n\nYou either have self awareness
     or you don’t"
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
+  Graphic Image:
+  Audio url:
+  Video Url:
+  Credit:
   Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
+  - Link Url:
+  Quote:
+  Quote Credit:
+  Slide Colour:
 - Template: five
   Title: 'So what is self awareness? '
-  Image: 
+  Image:
   Description: "Self awareness is the experience of noticing our thoughts, feelings
     and behaviour, as if we are an observer.\n\nIt also allows us to step back and
     understand both ourselves and how we are in relationship with others. \n\nBy developing
     our levels of self awareness, we can access a sense of choice around how we respond
     to life's challenges. Over time, we can experience a deep connection with our
     most authentic self. "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
+  Graphic Image:
+  Audio url:
+  Video Url:
+  Credit:
   Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
+  - Link Url:
+  Quote:
+  Quote Credit:
   Slide Colour: "#FFF8EA"
 - Template: five
   Title: And what are the benefits of developing Self Awareness?
-  Image: 
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
+  Image:
+  Description:
+  Graphic Image:
+  Audio url:
+  Video Url:
+  Credit:
   Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
+  - Link Url:
+  Quote:
+  Quote Credit:
+  Slide Colour:
 - Template: five
-  Title: 
-  Image: 
+  Title:
+  Image:
   Description: "# Self awareness enables us to:\n\n# Take responsibility for our problems.\n\nBy
     developing self-knowledge we can understand ourselves more fully. This helps us
     to determine where our problems are coming from so that we can begin to resolve
@@ -100,51 +100,51 @@ Slides:
     our confidence \n\nPeople with self awareness have more clarity about who they
     are, what they believe in and what their personal goals are. Without this clarity,
     it can be easy to lack self assurance and struggle with our self esteem."
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
+  Graphic Image:
+  Audio url:
+  Video Url:
+  Credit:
   Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
+  - Link Url:
+  Quote:
+  Quote Credit:
   Slide Colour: "#E7EEE7"
 - Template: sixteen
   Title: Self awareness is a tool that can help us to flourish
-  Image: 
+  Image:
   Description: "\nThe **insights** that self awareness provides us with allow us to
     feel more satisfied with our lives because we become more aware of why we feel
     and act the way we do. \n\nWhen cultivated fully, we no longer feel the need to
     repress or hide our emotions or react unconsciously to our experiences but view
     ourselves with a deeper level of understanding. \n"
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
+  Graphic Image:
+  Audio url:
+  Video Url:
   Credit: Harrington, Rick,Loffredo, Donald 2010/11/30, Insight, Rumination, and Self-Reflection
     as Predictors of Well-Being, The Journal of psychology
   Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
+  - Link Url:
+  Quote:
+  Quote Credit:
   Slide Colour: "#FFF8EA"
 - Template: four
-  Title: 
-  Image: 
+  Title:
+  Image:
   Description: "Psychology provides us with different models to understand and develop
     self awareness. \n\nThis module will introduce you to 3 of those models:\n\n*
     Johari Window\n\n* Inner child\n\n* Subpersonalities"
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
+  Graphic Image:
+  Audio url:
+  Video Url:
+  Credit:
   Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
+  - Link Url:
+  Quote:
+  Quote Credit:
+  Slide Colour:
 - Template: four
-  Title: 
-  Image: 
+  Title:
+  Image:
   Description: |-
     If you are interested, you can explore these models too:
 
@@ -153,18 +153,18 @@ Slides:
     * Freud and the psychodynamic model of the personality
 
     * Jung and the Five Factor model of the Personality.
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
+  Graphic Image:
+  Audio url:
+  Video Url:
+  Credit:
   Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
+  - Link Url:
+  Quote:
+  Quote Credit:
+  Slide Colour:
 - Template: list
-  Title: 
-  Image: 
+  Title:
+  Image:
   Description: |-
     ## The Johari Window
 
@@ -177,157 +177,157 @@ Slides:
     * **The blind spot** relates to the parts of ourselves we are not aware of but that others know about us. This can relate to both our positive attributes and areas for growth.
 
     * **The unknown** relates to information about ourselves that is unconscious to both ourselves and others. This relates to parts of ourselves we still have yet to discover through new experiences.
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
+  Graphic Image:
+  Audio url:
+  Video Url:
+  Credit:
   Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
+  - Link Url:
+  Quote:
+  Quote Credit:
+  Slide Colour:
 - Template: two
   Title: 'Time to pause '
-  Image: 
+  Image:
   Description: 'And take time to reflect on your personal experience in the insight
     handbook. '
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
+  Graphic Image:
+  Audio url:
+  Video Url:
+  Credit:
   Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
+  - Link Url:
+  Quote:
+  Quote Credit:
+  Slide Colour:
 - Template: one
   Title: 'Part 2: Identity '
   Image: "/uploads/identity.jpg"
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
+  Description:
+  Graphic Image:
+  Audio url:
+  Video Url:
+  Credit:
   Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
+  - Link Url:
+  Quote:
+  Quote Credit:
+  Slide Colour:
 - Template: ten
   Title: "Who \nare \nyou?"
-  Image: 
+  Image:
   Description: What is it about a person that defines who they are? 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
+  Graphic Image:
+  Audio url:
+  Video Url:
+  Credit:
   Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
+  - Link Url:
+  Quote:
+  Quote Credit:
+  Slide Colour:
 - Template: one
   Title: Who are you?
   Image: "/uploads/identity%205.jpeg"
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
+  Description:
+  Graphic Image:
+  Audio url:
+  Video Url:
+  Credit:
   Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
+  - Link Url:
+  Quote:
+  Quote Credit:
+  Slide Colour:
 - Template: sixteen
   Title: Identity
-  Image: 
+  Image:
   Description: "Our identity isn’t fixed but develops and changes over time. It is
     subjective and personal and is influenced by our unique life experiences. \n\nAs
     our life history and identity are so closely related, exploring and bringing awareness
     to different aspects of our identity can provide an important foundation for self-discovery,
     self awareness and personal growth. "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
+  Graphic Image:
+  Audio url:
+  Video Url:
+  Credit:
   Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
+  - Link Url:
+  Quote:
+  Quote Credit:
   Slide Colour: "#A3C3CF"
 - Template: one
   Title: Your Name
   Image: "/uploads/names.jpg"
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
+  Description:
+  Graphic Image:
+  Audio url:
+  Video Url:
+  Credit:
   Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
+  - Link Url:
+  Quote:
+  Quote Credit:
+  Slide Colour:
 - Template: sixteen
   Title: Your name
-  Image: 
+  Image:
   Description: "Our name is a personal and special aspect of our identity. It is a
     part of our identity that we are very familiar with, yet we do not always pause
     to consider the meaning our name has for us. \n\nThe act of bringing conscious
     awareness to an aspect of ourselves such as our name allows us to connect more
     deeply with our sense of who we are and the meaning this part of us has in our
     lives. "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
+  Graphic Image:
+  Audio url:
+  Video Url:
+  Credit:
   Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
+  - Link Url:
+  Quote:
+  Quote Credit:
+  Slide Colour:
 - Template: two
   Title: 'Time to pause '
-  Image: 
+  Image:
   Description: 'And take time to reflect on your personal experience in the insight
     handbook. '
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
+  Graphic Image:
+  Audio url:
+  Video Url:
+  Credit:
   Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
+  - Link Url:
+  Quote:
+  Quote Credit:
+  Slide Colour:
 - Template: one
   Title: 'Life events and Personal History '
   Image: "/uploads/personal%20history.jpg"
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
+  Description:
+  Graphic Image:
+  Audio url:
+  Video Url:
+  Credit:
   Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
+  - Link Url:
+  Quote:
+  Quote Credit:
+  Slide Colour:
 - Template: two
   Title: 'Time to pause '
-  Image: 
+  Image:
   Description: 'And take time to reflect on your personal experience in the insight
     handbook. '
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
+  Graphic Image:
+  Audio url:
+  Video Url:
+  Credit:
   Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
+  - Link Url:
+  Quote:
+  Quote Credit:
+  Slide Colour:
 - Template: sixteen
   Title: Authenticity and mental health
   Image: "/uploads/Jung.jpg"
@@ -339,50 +339,50 @@ Slides:
     to move towards their fullest potential  and that this was achieved by becoming
     aware of the aspects of ourselves that we often ignore or are unconscious to.
     \n\n"
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
+  Graphic Image:
+  Audio url:
+  Video Url:
+  Credit:
   Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
+  - Link Url:
+  Quote:
+  Quote Credit:
+  Slide Colour:
 - Template: fourteen
-  Title: 
-  Image: 
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
+  Title:
+  Image:
+  Description:
+  Graphic Image:
+  Audio url:
+  Video Url:
+  Credit:
   Links:
-  - Link Url: 
+  - Link Url:
   Quote: |-
     “There is in the psyche a process that seeks its own goal no matter what the external factors may be….the almost irresistible compulsion and urge to become what one is.” 
      
   Quote Credit: 'Carl Jung 
 
 '
-  Slide Colour: 
+  Slide Colour:
 - Template: nineteen
   Title: What is real?
-  Image: 
-  Description: 
-  Graphic Image: 
-  Audio url: 
+  Image:
+  Description:
+  Graphic Image:
+  Audio url:
   Video Url: <iframe width="560" height="315" src="https://www.youtube.com/embed/TucyzpHDNlE?start=14"
     frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen></iframe>
-  Credit: 
+  Credit:
   Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
+  - Link Url:
+  Quote:
+  Quote Credit:
+  Slide Colour:
 - Template: list
   Title: 'What is our authentic self ? '
-  Image: 
+  Image:
   Description: "Under the many layers of our identity and our personality is our true
     self, this part of us never changes but exists throughout our life as our innermost
     being. It exists independently of our thoughts, feelings and roles that we play
@@ -395,15 +395,15 @@ Slides:
     true to ourselves and wanting to fit in with the world around us. \n\nThis next
     part of the module will explore the authentic self and how we develop the different
     ‘masks’ or sub-personalities that we show to the world."
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
+  Graphic Image:
+  Audio url:
+  Video Url:
+  Credit:
   Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
+  - Link Url:
+  Quote:
+  Quote Credit:
+  Slide Colour:
 - Template: sixteen
   Title: 'Inner child Practice '
   Image: "/uploads/caroline-hernandez-TMpQ5R9mbOc-unsplash.jpg"
@@ -414,56 +414,56 @@ Slides:
     reintegrate lost qualities of ourselves and bring them into our present lives
     more fully. \n\nThis is a therapeutic process that can help us to develop our
     self awareness and self esteem."
-  Graphic Image: 
+  Graphic Image:
   Audio url: '<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=2688643689/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/"
     seamless><a href="http://statesofmind.bandcamp.com/track/inner-child-meditation">Inner
     Child Meditation by States of Mind</a></iframe>'
-  Video Url: 
-  Credit: 
+  Video Url:
+  Credit:
   Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
+  - Link Url:
+  Quote:
+  Quote Credit:
+  Slide Colour:
 - Template: two
   Title: 'Time to pause '
-  Image: 
+  Image:
   Description: 'And take time to reflect on your personal experience in the insight
     handbook. '
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
+  Graphic Image:
+  Audio url:
+  Video Url:
+  Credit:
   Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
+  - Link Url:
+  Quote:
+  Quote Credit:
+  Slide Colour:
 - Template: one
   Title: The Younger You
   Image: "/uploads/michael-afonso-Z_bTArFy6ks-unsplash.jpg"
   Description: An Autobiography 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
+  Graphic Image:
+  Audio url:
+  Video Url:
+  Credit:
   Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
+  - Link Url:
+  Quote:
+  Quote Credit:
+  Slide Colour:
 - Template: one
   Title: 'Part 3: Personality '
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
+  Description:
+  Graphic Image:
+  Audio url:
+  Video Url:
+  Credit:
   Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
+  - Link Url:
+  Quote:
+  Quote Credit:
+  Slide Colour:
   Image: "/uploads/personality%20.jpg"
 - Template: sixteen
   Title: 'Personality '
@@ -476,36 +476,36 @@ Slides:
     but is our essential nature. \n\nOur Self is the part of us that is spontaneous
     and loving, that seeks to be known and is the experience of who we most fundamentally
     are.\n"
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
+  Graphic Image:
+  Audio url:
+  Video Url:
+  Credit:
   Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
+  - Link Url:
+  Quote:
+  Quote Credit:
+  Slide Colour:
 - Template: sixteen
   Title: 'The psychology of Sub-personalities '
-  Image: 
+  Image:
   Description: "Subpersonalities are habits or patterns of behaviour that we have
     followed since childhood\n\nWhen people fail to respond empathetically to our
     true personality, we learn to hide our authentic nature and adapt to how our parents
     or our environment need us to be. \n\nA psychotherapist called Winnicott also
     called this process of adapting, the development of the False Self. It has also
     been referred to as the Survival Personality or 'Character Armour'. \n "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
+  Graphic Image:
+  Audio url:
+  Video Url:
+  Credit:
   Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
+  - Link Url:
+  Quote:
+  Quote Credit:
+  Slide Colour:
 - Template: six
-  Title: 
-  Image: 
+  Title:
+  Image:
   Description: "They are distinct patterns of thoughts, feelings and behaviours that
     we develop to adapt to various environments where we feel unable to be our authentic
     self.\n\nIn neuroscience these are viewed as distinct neural networks that function
@@ -515,47 +515,47 @@ Slides:
     ways of being.\n\nFor example the feeling of ‘ I want to do this but another part
     of me wants to do that’, or ‘ I shouldn’t be getting angry right now but I think
     its important I tell the truth’"
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
+  Graphic Image:
+  Audio url:
+  Video Url:
   Credit: Siegel 1993
   Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
+  - Link Url:
+  Quote:
+  Quote Credit:
+  Slide Colour:
 - Template: fourteen
-  Title: 
-  Image: 
+  Title:
+  Image:
   Description: " "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
+  Graphic Image:
+  Audio url:
+  Video Url:
+  Credit:
   Links:
-  - Link Url: 
+  - Link Url:
   Quote: "‘ It is now largely accepted that there are multiple (context -specific)
     selves that can interact with each other, observe each other, and converse together
     out of consciousness. This is normal, not limited to pathological dissociative
     states.’ "
   Quote Credit: 'Daniel Stern '
-  Slide Colour: 
+  Slide Colour:
 - Template: one
   Title: Exploring sub personalities
   Image: "/uploads/gemma-chua-tran-Ftvf4VbVbDE-unsplash-a0e98c.jpg"
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
+  Description:
+  Graphic Image:
+  Audio url:
+  Video Url:
+  Credit:
   Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
+  - Link Url:
+  Quote:
+  Quote Credit:
+  Slide Colour:
 - Template: list
   Title: What are the benefits of sub-personality work? 
-  Image: 
+  Image:
   Description: |-
     1. We learn to connect with our different and contradictory ways of acting in the world. This raises our awareness of our behaviour and helps us to make sense of how we can seem to be different versions of ourselves in different circumstances.
 
@@ -564,15 +564,15 @@ Slides:
     3. We emphasise all of the beneficial qualities of our sub-personalities and recognise how they serve us.
 
     4. By identifying with our different sub-peronalities, it allows us to develop a greater awareness of what is our true self and what is a mask or persona.
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
+  Graphic Image:
+  Audio url:
+  Video Url:
+  Credit:
   Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
+  - Link Url:
+  Quote:
+  Quote Credit:
+  Slide Colour:
 - Template: sixteen
   Title: "Example: The Expert \n\n"
   Image: "/uploads/expert.jpg"
@@ -588,48 +588,48 @@ Slides:
 
     **Qualities of self that are hidden:**
     Playfulness and spontaneity, willingness to learn from others, curiosity, the part of us that wants to grow, acceptance of self.
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
+  Graphic Image:
+  Audio url:
+  Video Url:
+  Credit:
   Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
+  - Link Url:
+  Quote:
+  Quote Credit:
+  Slide Colour:
 - Template: five
   Title: 'Some other sub-personalities for you to explore '
-  Image: 
+  Image:
   Description: "* The clown\n* The critic\n* The people pleaser\n* The caretaker\n*
     The rebel\n* The high achiever\n* The child "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
+  Graphic Image:
+  Audio url:
+  Video Url:
+  Credit:
   Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
+  - Link Url:
+  Quote:
+  Quote Credit:
   Slide Colour: "#FFF8EA"
 - Template: list
   Title: How are sub-personalities related to mental health? 
-  Image: 
+  Image:
   Description: |-
     Subpersonalities cause us difficulties when we identify with this one part of ourselves and believe it to be all of us. For example, if we are identified with the ‘ High achiever’ part of ourselves, it may help us to get good grades and maintain a motivation for developing our knowledge and experience. However, if we become over identified with this part of ourselves we may become very distressed by setbacks, we may spend less time with our friends or we may never be satisfied with what we have achieved. 
 
     Our sub personalities all emerge from an unmet need. By exploring these parts of ourselves, we can develop our self awareness and integrate the many different parts of ourselves. You can imagine your sub-personalities as an orchestra and your awareness as the conductor. By bringing awareness to your different sub personalities you can integrate them and enable the different parts of your personality to work together as a harmonious whole.
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
+  Graphic Image:
+  Audio url:
+  Video Url:
+  Credit:
   Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
+  - Link Url:
+  Quote:
+  Quote Credit:
+  Slide Colour:
 - Template: four
   Title: 'Stages of Integration '
-  Image: 
+  Image:
   Description: |-
     * Recognition
 
@@ -640,65 +640,78 @@ Slides:
     * Integration
 
     * Synthesis
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
+  Graphic Image:
+  Audio url:
+  Video Url:
+  Credit:
   Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
+  - Link Url:
+  Quote:
+  Quote Credit:
+  Slide Colour:
 - Template: four
-  Title: 
-  Image: 
+  Title:
+  Image:
   Description: "If you would like to learn more the psychology of personality you
     can explore the Enneagram, Myers Briggs and the Big Five Personality test.\n\nIt
     is important to recognise that personality tests highlight **aspects** of our
     personality by showing us dominant traits not our complete self. "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
+  Graphic Image:
+  Audio url:
+  Video Url:
+  Credit:
   Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
+  - Link Url:
+  Quote:
+  Quote Credit:
+  Slide Colour:
 - Template: one
   Title: 'Part 4: Society and Identity '
   Image: "/uploads/society.jpg"
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
+  Description:
+  Graphic Image:
+  Audio url:
+  Video Url:
+  Credit:
   Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
+  - Link Url:
+  Quote:
+  Quote Credit:
+  Slide Colour:
 - Template: fourteen
-  Title: 
-  Image: 
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
+  Title:
+  Image:
+  Description:
+  Graphic Image:
+  Audio url:
+  Video Url:
+  Credit:
   Links:
-  - Link Url: 
+  - Link Url:
   Quote: "\"Belonging is the innate human desire to be part of something larger than
     us. Because this yearning is so primal, we often try to acquire it by fitting
     in and by seeking approval, which are not only hollow substitutes for belonging,
-    but often barriers to it. Because true belonging only happens when we present
-    our authentic, imperfect selves to the world, our sense of belonging can never
-    be greater than our level of self-acceptance. ”"
+    but often barriers to it...”"
   Quote Credit: Brene Brown
-  Slide Colour: 
-- Template: list
-  Title: 
-  Image: 
+  Slide Colour:
+- Template: fourteen
+  Title:
+  Image:
+  Description:
+  Graphic Image:
+  Audio url:
+  Video Url:
+  Credit:
+  Links:
+  - Link Url:
+  Quote: "\"...Because true belonging only happens when we present our authentic,
+    imperfect selves to the world, our sense of belonging can never be greater than
+    our level of self-acceptance.”"
+  Quote Credit: Brene Brown
+  Slide Colour:
+- Template: 'sixteen '
+  Title:
+  Image:
   Description: "We live in a social world and many aspects of our personalities are
     shaped by the social relationships and situations we encounter throughout our
     lives. \n\nAs it is impossible for our close relationships to be fully present
@@ -710,28 +723,28 @@ Slides:
     the process behind it can help us develop an awareness of how parts of our identity
     are shaped by our desire to fit in and be accepted in contrast to expressing our
     authentic self. "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
+  Graphic Image:
+  Audio url:
+  Video Url:
+  Credit:
   Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
+  - Link Url:
+  Quote:
+  Quote Credit:
   Slide Colour: "#b9e0fc"
 - Template: four
   Title: 'Exploring our relationship with groups '
   Image: "/uploads/groups%203.jpg"
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
+  Description:
+  Graphic Image:
+  Audio url:
+  Video Url:
+  Credit:
   Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
+  - Link Url:
+  Quote:
+  Quote Credit:
+  Slide Colour:
 - Template: sixteen
   Title: Group Identity  
   Image: "/uploads/brooke-cagle--uHVRvDr7pg-unsplash.jpg"
@@ -746,56 +759,55 @@ Slides:
     mental health and wellbeing. \n\nResearch has shown consistently that the quality
     of our social world is one of the most significant indicators of our wellbeing
     and ability to recover from difficult times in our lives.  "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
+  Graphic Image:
+  Audio url:
+  Video Url:
+  Credit:
   Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
+  - Link Url:
+  Quote:
+  Quote Credit:
+  Slide Colour:
 - Template: two
   Title: Time to take a pause
-  Image: 
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
+  Image:
+  Description:
+  Graphic Image:
+  Audio url:
+  Video Url:
+  Credit:
   Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
+  - Link Url:
+  Quote:
+  Quote Credit:
+  Slide Colour:
 - Template: one
   Title: 'Family and Identity '
   Image: "/uploads/family.jpeg"
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
+  Description:
+  Graphic Image:
+  Audio url:
+  Video Url:
+  Credit:
   Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
+  - Link Url:
+  Quote:
+  Quote Credit:
+  Slide Colour:
 - Template: two
   Title: 'End of module reflective practice  '
-  Image: 
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
+  Image:
+  Description:
+  Graphic Image:
+  Audio url:
+  Video Url:
+  Credit:
   Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
+  - Link Url:
+  Quote:
+  Quote Credit:
+  Slide Colour:
 Cover Image: "/uploads/joeyy-lee-EOzTQ1K7Wiw-unsplash-cc4834.jpg"
 Cover Colour: "#fefefe"
 layout: presentation
 ---
-

@@ -786,6 +786,10 @@ body.education {
   background-color: $nu-blue;
 }
 
+.fourteen + .fourteen {
+  background-color: $nu-beige;
+}
+
 .page-centred {
   padding-top: 100px;
   width: 660px;
