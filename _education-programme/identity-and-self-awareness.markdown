@@ -696,7 +696,7 @@ Slides:
     be greater than our level of self-acceptance. ”"
   Quote Credit: Brene Brown
   Slide Colour: 
-- Template: 'list '
+- Template: list
   Title: 
   Image: 
   Description: "We live in a social world and many aspects of our personalities are
