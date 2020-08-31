@@ -1,6 +1,7 @@
 ---
 title: Post-traumatic Growth
 date: 2020-08-31 18:30:00 Z
+layout: handbook
 ---
 
 **What is post-traumatic growth? **
