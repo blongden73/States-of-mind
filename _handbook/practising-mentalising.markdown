@@ -1,6 +1,7 @@
 ---
 title: Practising Mentalising
 date: 2020-08-31 18:37:00 Z
+layout: handbook
 ---
 
 Consider other times in your life when you noticed that you were not really mentalising but mind reading. Think about what was happening in the situation. 
