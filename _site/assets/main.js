@@ -199,7 +199,9 @@ function elementInViewport(el) {
   var top = el.offsetTop;
   var left = el.offsetLeft;
   var width = el.offsetWidth;
-  var height = el.offsetHeight;
+  var height = el.offsetHeight + 50;
+
+  console.log(height, "height");
 
   while(el.offsetParent) {
     el = el.offsetParent;
