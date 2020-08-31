@@ -610,7 +610,7 @@ Slides:
   - Link Url: 
   Quote: 
   Quote Credit: 
-  Slide Colour: 
+  Slide Colour: "#FFF8EA"
 - Template: sixteen
   Title: How are sub-personalities related to mental health? 
   Image: 
