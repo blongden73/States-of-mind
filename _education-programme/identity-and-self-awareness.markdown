@@ -503,22 +503,22 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
+- Template: six
   Title: 
   Image: 
   Description: "They are distinct patterns of thoughts, feelings and behaviours that
     we develop to adapt to various environments where we feel unable to be our authentic
-    self. \n\nIn neuroscience these are viewed as distinct neural networks that function
-    as ‘specialised selves’ or ‘self states’. ( Siegel 1993) \n\n\nSub-personality
-    theory explains personality development and helps to explain why parts of our
-    personality can feel conflicted and as if there are ‘multiple selves’ within us
-    who have different ways of being.\n\nFor example the feeling of ‘ I want to do
-    this but another part of me wants to do that’, or ‘ I shouldn’t be getting angry
-    right now but I think its important I tell the truth’"
+    self.\n\nIn neuroscience these are viewed as distinct neural networks that function
+    as ‘specialised selves’ or ‘self states’. \n\nSub-personality theory explains
+    personality development and helps to explain why parts of our personality can
+    feel conflicted and as if there are ‘multiple selves’ within us who have different
+    ways of being.\n\nFor example the feeling of ‘ I want to do this but another part
+    of me wants to do that’, or ‘ I shouldn’t be getting angry right now but I think
+    its important I tell the truth’"
   Graphic Image: 
   Audio url: 
   Video Url: 
-  Credit: 
+  Credit: Siegel 1993
   Links:
   - Link Url: 
   Quote: 
@@ -553,7 +553,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
+- Template: list
   Title: What are the benefits of sub-personality work? 
   Image: 
   Description: |-
@@ -574,16 +574,20 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
-  Title: "Example: The Expert \n\n"
+  Title: "Example: The Expert \n\n"
   Image: "/uploads/expert.jpg"
-  Description: "**Behaviour**\nPatronising, condescending, arrogant, ‘ know it all’,
-    rigid, defensive, guarded and slightly hostile.  Serious tone of voice. Body language:
-    Rigid, tense, stiff. \n\n**Wants** \nTo be taken seriously, to be respected, not
-    to be challenged, to be right, to feel superior, to be admired and given attention.
-    to not be criticised.\n\n**Needs** \nTo feel unconditionally accepted and loved,
-    to be seen and valued, to be heard, to feel worthy and enough as they are.\n  \n**Qualities
-    of self that are hidden** \nPlayfulness and spontaneity, willingness to learn
-    from others, curiosity, the part of us that wants to grow, acceptance of self. "
+  Description: |-
+    **Behaviour:**
+    Patronising, condescending, arrogant, ‘ know it all’, rigid, defensive, guarded and slightly hostile.  Serious tone of voice. Body language: Rigid, tense, stiff.
+
+    **Wants:**
+    To be taken seriously, to be respected, not to be challenged, to be right, to feel superior, to be admired and given attention. to not be criticised.
+
+    **Needs:**
+    To feel unconditionally accepted and loved, to be seen and valued, to be heard, to feel worthy and enough as they are.
+
+    **Qualities of self that are hidden:**
+    Playfulness and spontaneity, willingness to learn from others, curiosity, the part of us that wants to grow, acceptance of self.
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -594,7 +598,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: five
-  Title: 'Some other sub-personalities for you to explore '
+  Title: 'Some other sub-personalities for you to explore '
   Image: 
   Description: "* The clown\n* The critic\n* The people pleaser\n* The caretaker\n*
     The rebel\n* The high achiever\n* The child "
@@ -606,8 +610,8 @@ Slides:
   - Link Url: 
   Quote: 
   Quote Credit: 
-  Slide Colour: 
-- Template: sixteen
+  Slide Colour: "#FFF8EA"
+- Template: list
   Title: How are sub-personalities related to mental health? 
   Image: 
   Description: |-
