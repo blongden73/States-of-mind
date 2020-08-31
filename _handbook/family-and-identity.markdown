@@ -1,6 +1,7 @@
 ---
 title: Family and Identity
 date: 2020-08-31 17:26:00 Z
+layout: handbook
 ---
 
 What is your family background? What country are your family from and what cultural beliefs and practices have influenced your personal development until now? 
