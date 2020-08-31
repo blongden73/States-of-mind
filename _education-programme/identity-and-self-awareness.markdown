@@ -332,7 +332,7 @@ Slides:
   - Link Url: 
   Quote: 
   Quote Credit: 
-  Slide Colour: "#7ad5eb"
+  Slide Colour: 
 - Template: sixteen
   Title: Authenticity and mental health
   Image: "/uploads/Jung.jpg"
