@@ -678,23 +678,23 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
+- Template: fourteen
   Title: 
   Image: 
-  Description: "“ Belonging is the innate human desire to be part of something larger
-    than us. Because this yearning is so primal, we often try to acquire it by fitting
-    in and by seeking approval, which are not only hollow substitutes for belonging,
-    but often barriers to it. Because true belonging only happens when we present
-    our authentic, imperfect selves to the world, our sense of belonging can never
-    be greater than our level of self-acceptance. ” \n\n**Brene Brown**\n"
+  Description: 
   Graphic Image: 
   Audio url: 
   Video Url: 
   Credit: 
   Links:
   - Link Url: 
-  Quote: 
-  Quote Credit: 
+  Quote: "“ Belonging is the innate human desire to be part of something larger than
+    us. Because this yearning is so primal, we often try to acquire it by fitting
+    in and by seeking approval, which are not only hollow substitutes for belonging,
+    but often barriers to it. Because true belonging only happens when we present
+    our authentic, imperfect selves to the world, our sense of belonging can never
+    be greater than our level of self-acceptance. ”"
+  Quote Credit: Brene Brown
   Slide Colour: 
 - Template: 'sixteen '
   Title: 
