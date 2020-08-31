@@ -13,5 +13,10 @@
 -->
 <div class="slide-content">
   <h2 class="slide-title">{{title}}</h2>
+  {% if audio %}
+    <div class="som-audio-player">
+      <audio src="{{audio}}" controls ></audio>
+    </div>
+  {% endif %}
   <svg width="80" height="394" viewBox="0 0 80 394" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M16.564 393.159h47.52V123.843h-47.52v269.316z" fill="#1D1D1B"/><path fill-rule="evenodd" clip-rule="evenodd" d="M79.92 40.261A39.608 39.608 0 0168.32 68.266 39.597 39.597 0 01.72 40.261a39.608 39.608 0 0111.598-28.005A39.597 39.597 0 0179.92 40.26" fill="#156583"/></svg>
 </div>

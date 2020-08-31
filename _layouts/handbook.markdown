@@ -1,4 +1,5 @@
 {% include header.html %}
+<div class="education-background"></div>
 <div class="som-wrapper">
   <div class="page-centred">
     <h1>{{page.title}}</h1>

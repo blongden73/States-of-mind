@@ -1,6 +1,6 @@
-// html.education-programme, body.education-programme {
-//   overflow: hidden;
-// }
+body.education-programme {
+  overflow: hidden;
+}
 
 body.education {
   .som-header {
@@ -9,9 +9,16 @@ body.education {
   }
 }
 
+body.handbook {
+  .som-header {
+    background-color: #fff;
+    border-bottom: 1px solid #121212;
+  }
+}
+
 .education-background {
   position: fixed;
-  z-index: 0;
+  z-index: -1;
   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f7e3e7+0,ffffff+49,d0eef4+100 */
   background: #f7e3e7; /* Old browsers */
   background: -moz-linear-gradient(-45deg,  #f7e3e7 0%, #ffffff 49%, #d0eef4 100%); /* FF3.6-15 */
@@ -84,11 +91,13 @@ body.education {
   margin-bottom: 30px;
   position: relative;
   z-index: 1;
+  padding-top: 160px;
+  padding-bottom: 60px;
+  border-bottom: 1px solid #121212;
 
-  @include mq($from: desktop) {
-    padding-top: 160px;
-    padding-bottom: 60px;
-    border-bottom: 1px solid #121212;
+  svg {
+    width: 100%;
+    height: auto;
   }
 }
 
@@ -791,17 +800,57 @@ body.education {
 }
 
 .page-centred {
-  padding-top: 100px;
+  padding-top: 200px;
   width: 660px;
   margin-left: auto;
   margin-right: auto;
 
+  p {
+    font-size: 20px;
+    line-height: 1.4;
+  }
+
   h1 {
-    font-size: 32px;
+    font-size: 60px;
+    letter-spacing: -1px;
+    line-height: 1;
     margin: 0;
+    margin-bottom: 100px;
   }
 
   h2 {
-    font-size: 24px;
+    font-size: 36px;
+  }
+
+  form {
+    margin-bottom: 60px;
+
+    label {
+      display: block;
+      font-size: 20px;
+      line-height: 1.4;
+      margin-bottom: 20px;
+      margin-top: 10px;
+    }
+
+    textarea {
+      margin-top: 10px;
+      margin-bottom: 10px;
+      width: 100%;
+      font-family: 'circular';
+      border: 1px solid #121212;
+      background-color: #fff;
+      height: 200px;
+      padding: 10px;
+      font-size: 20px;
+    }
+
+    button {
+      border: 1px solid #121212;
+      padding: 10px;
+      font-family: 'circular';
+      font-size: 20px;
+      background-color: $nu-pink;
+    }
   }
 }

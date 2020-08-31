@@ -16,6 +16,11 @@
 </div>
 <div class="slide-content">
   <div class="slide-description">{{description | markdownify}}</div>
+  {% if audio %}
+    <div class="som-audio-player">
+      <audio src="{{audio}}" controls ></audio>
+    </div>
+  {% endif %}
 </div>
 {% if credit %}
   <small>{{credit}}</small>

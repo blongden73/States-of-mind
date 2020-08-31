@@ -13,6 +13,11 @@
 -->
 <div class="slide-content">
   <h2 class="slide-title">{{title}}</h2>
+  {% if audio %}
+    <div class="som-audio-player">
+      <audio src="{{audio}}" controls ></audio>
+    </div>
+  {% endif %}
 </div>
 <div class="slide-image">
   <img src="{{image}}">

@@ -296,6 +296,25 @@ function presentation(){
   }
 }
 
+var $form = $('form#test-form'),
+    url = 'https://script.google.com/macros/s/AKfycby1lB9as0jKusRMwgCGs9iqgCGgJAD6ezzZ5vvAjyt6WByYP1k/exec'
+
+    console.log($form);
+    console.log(url);
+
+$('#submit-form').on('click', function(e) {
+  e.preventDefault();
+  var jqxhr = $.ajax({
+    url: url,
+    method: "GET",
+    dataType: "json",
+    data: $form.serializeObject()
+  }).success(
+    // do something
+
+  );
+})
+
 
 function init(){
   grid();
