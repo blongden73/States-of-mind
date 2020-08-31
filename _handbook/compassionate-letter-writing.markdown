@@ -1,6 +1,7 @@
 ---
 title: Compassionate letter writing
 date: 2020-08-31 16:55:00 Z
+layout: handbook
 ---
 
 **A letter to your past self. **
