@@ -629,9 +629,9 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: 'Mindsets '
-  Image: 
+  Image: "/uploads/motoki-tonn-GuCdEgE3Gcw-unsplash.jpg"
   Description: graphic
-  Graphic Image: "/uploads/stocksy.jpg"
+  Graphic Image: 
   Audio url: 
   Video Url: 
   Credit: 
