@@ -402,7 +402,7 @@ Slides:
   - Link Url: 
   Quote: 
   Quote Credit: 
-  Slide Colour: FFF8EA
+  Slide Colour: "#FFF8EA"
 - Template: one
   Title: 'The Mind '
   Image: "/uploads/mari-lezhava-Xm9-vA_bhm0-unsplash.jpg"
@@ -471,7 +471,7 @@ Slides:
   - Link Url: 
   Quote: 
   Quote Credit: 
-  Slide Colour: 
+  Slide Colour: "#FFF8EA"
 - Template: sixteen
   Title: 'Rumination '
   Image: "/uploads/rumination%204-7271b0.jpg"
