@@ -167,7 +167,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
+- Template: list
   Title: 
   Image: 
   Description: |-
@@ -175,13 +175,13 @@ Slides:
 
     The Johari Window is a visual representation of the parts of ourselves that are  either known or unknown to ourselves and others.
 
-    **The open area** represents everything we know about ourselves. This is what people know about us and what we are consciously aware of too.
+    * **The open area** represents everything we know about ourselves. This is what people know about us and what we are consciously aware of too.
 
-    **The hidden area** relates to all of the parts of ourselves that we do not share with others. This information that we keep private may relate to our fears and insecurities swell as your hopes and dreams.
+    * **The hidden area** relates to all of the parts of ourselves that we do not share with others. This information that we keep private may relate to our fears and insecurities swell as your hopes and dreams.
 
-    **The blind spot** relates to the parts of ourselves we are not aware of but that others know about us. This can relate to both our positive attributes and areas for growth.
+    * **The blind spot** relates to the parts of ourselves we are not aware of but that others know about us. This can relate to both our positive attributes and areas for growth.
 
-    **The unknown** relates to information about ourselves that is unconscious to both ourselves and others. This relates to parts of ourselves we still have yet to discover through new experiences.
+    * **The unknown** relates to information about ourselves that is unconscious to both ourselves and others. This relates to parts of ourselves we still have yet to discover through new experiences.
   Graphic Image: 
   Audio url: 
   Video Url: 
