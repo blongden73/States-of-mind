@@ -219,7 +219,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: ten
-  Title: Who are you?
+  Title: "Who \nare \nyou?"
   Image: 
   Description: What is it about a person that defines who they are? 
   Graphic Image: 
