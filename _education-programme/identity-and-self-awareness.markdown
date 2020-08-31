@@ -88,7 +88,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: six
+- Template: five
   Title: 
   Image: 
   Description: "# Self awareness enables us to:\n\n# Take responsibility for our problems.\n\nBy
