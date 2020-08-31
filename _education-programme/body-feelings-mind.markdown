@@ -4,11 +4,11 @@ date: 2020-08-28 16:25:00 Z
 permalink: "/education-programme/body-feelings-mind.html"
 position: 1
 Slides:
-- Template: sixteen
+- Template: four
   Title: 
   Image: 
   Description: |-
-    There is now a large body of research confirming that our mental and physical wellbeing are closely inter-related and dependent on each other.**
+    There is now a large body of research confirming that our mental and physical wellbeing are closely inter-related and dependent on each other.
 
     This module will provide you with ways of understanding and exploring the mind-body connection.
   Graphic Image: 
