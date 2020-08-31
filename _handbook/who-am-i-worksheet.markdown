@@ -1,6 +1,7 @@
 ---
 title: Who am I worksheet
 date: 2020-08-31 19:08:00 Z
+layout: handbook
 ---
 
 The purpose of this practice is to help you develop self-awareness and connect more closely with the qualities of your true self. Each of us have many layers of our identity that we associate with, these parts of our personality that we identify with may be experienced as positive or negative. Some of these aspects of our identity may be like a mask, helping us to hide parts of ourselves that we do not like, whereas others may be positive aspects of ourselves that we do not acknowledge or accept. Beneath each of these layers is an inner core, or centre of identity called the Self, which is a loving and creative centre that represents our true self, the essence of who we are.  
