@@ -172,8 +172,8 @@ Slides:
   Title: 'Medication and recovery '
   Description: "\n* SSRIs and other antidepressant prescriptions have increased from
     less than 10 million in 1991 to almost 40 million in 2009.\n\nThese levels of
-    prescribing have not been associated with a reduction requiring help, with the
-    number of people claiming incapacity benefit for a mental health problem rising
+    prescribing have not been associated with an improvement in the population, with
+    the number of people claiming incapacity benefit for a mental health problem rising
     steadily from under 750 000 in 2000 to nearly a million in 2008.\n\n65 - 80% of
     people remain feeling depressed after one year of taking antidepressant medications.
     (1) \n\n\n"
