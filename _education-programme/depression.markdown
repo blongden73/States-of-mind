@@ -588,7 +588,7 @@ Slides:
 
     **By the end of the study:**
 
-    * 86% of the exercise group and 50% of thee stretching group had fully recovered from their depressive symptoms.
+    * 86% of the exercise group and 50% of the stretching group had fully recovered from their depressive symptoms.
 
     * The study followed up with participants a year later and found that the effect was maintained.
   Graphic Image: 
