@@ -800,6 +800,24 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: six
+  Title: 'Empathy '
+  Image: 
+  Description: |-
+    Empathy is the ability to connect with another person’s feelings and to imagine what it is like to have their point of view.
+
+    Empathy can relate to our ability to connect with both the positive and uncomfortable emotions of others.
+
+    Practising empathy in relationships changes the way we speak and listen to others and promotes deeper levels of connection and understanding.
+  Graphic Image: "/uploads/gemma-chua-tran-jNVgCpQ0LhQ-unsplash.jpg"
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: nineteen
   Title: Brene Brown on Empathy
   Image: 
@@ -828,24 +846,6 @@ Slides:
   Quote: "“Being empathic is a complex, demanding, strong yet subtle and gentle way
     of being.”\n"
   Quote Credit: Carl Rogers
-  Slide Colour: 
-- Template: six
-  Title: 'Empathy '
-  Image: 
-  Description: |-
-    Empathy is the ability to connect with another person’s feelings and to imagine what it is like to have their point of view.
-
-    Empathy can relate to our ability to connect with both the positive and uncomfortable emotions of others.
-
-    Practising empathy in relationships changes the way we speak and listen to others and promotes deeper levels of connection and understanding.
-  Graphic Image: "/uploads/gemma-chua-tran-jNVgCpQ0LhQ-unsplash.jpg"
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
   Slide Colour: 
 - Template: sixteen
   Title: 'Empathic Listening and Bifocal vision '
