@@ -910,12 +910,24 @@ Slides:
     wounding and withdrawing attention and communication. \n* Acting out and harming
     the other person out of fear and desperation. This could take the form of abusive
     text messages, manipulation and blackmail or physical and verbal abuse. \n* Becoming
-    hypervigilant to the actions of the other person and other relationships. \n\nHypervigilance
-    is caused by an overactive nervous response to emotional harm and wounding. Hypervigilance
-    may look like: stalking, constantly checking your phone to see if the other person
-    has messaged you or become preoccupied with thoughts about the other person and
-    ruminating about the issue, without seeking to resolve it or repair the issue
-    in their presence.  "
+    hypervigilant to the actions of the other person and other relationships. \n"
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: 'list '
+  Title: 'Hypervigilance in relationships '
+  Image: 
+  Description: "Hypervigilance is caused by an overactive nervous response to emotional
+    harm and wounding. \n\nHypervigilance may look like: \n\nStalking, constantly
+    checking your phone to see if the other person has messaged you or become preoccupied
+    with thoughts about the other person and ruminating about the issue, without seeking
+    to resolve it or repair the issue in their presence.  "
   Graphic Image: 
   Audio url: 
   Video Url: 
