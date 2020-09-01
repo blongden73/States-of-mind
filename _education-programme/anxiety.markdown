@@ -769,7 +769,7 @@ Slides:
     and your feelings and allow uncomfortable feelings into your experience so that
     they can be processed.
   Graphic Image: 
-  Audio url: 
+  Audio url: "/uploads/Self_Compassion_2_25_08_2020_14_53.mp3"
   Video Url: 
   Credit: 
   Links:
