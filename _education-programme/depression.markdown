@@ -138,34 +138,6 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: "/uploads/online-marketing-hIgeoQjS_iE-unsplash.jpg"
-- Template: fourteen
-  Title: 
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: "“The claims depression is caused by a natural lack of serotonin in the brain
-    are deeply misleading and unscientific.”"
-  Quote Credit: 'Andrew Skull '
-  Image: 
-- Template: fourteen
-  Title: 
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: "“…modern psychiatry has yet to convincingly prove the genetic/biologic cause
-    of any single mental illness…Patients [have] been diagnosed with ‘chemical imbalances’
-    despite the fact that no test exists to support such a claim, and…there is no
-    real conception of what a correct chemical balance would look like.” "
-  Quote Credit: Dr. David Kaiser, Psychiatrist
-  Image: 
 - Template: sixteen
   Title: "‘The chemical imbalance theory’"
   Description: "For a long time, psychiatrists believed that depression was caused
@@ -183,6 +155,19 @@ Slides:
   Quote Credit: 
   Image: 
   Quote: 
+- Template: fourteen
+  Title: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: "“The claims depression is caused by a natural lack of serotonin in the brain
+    are deeply misleading and unscientific.”"
+  Quote Credit: 'Andrew Skull '
+  Image: 
 - Template: sixteen
   Title: 'Medication and recovery '
   Description: "\n* SSRIs and other antidepressant prescriptions have increased from
@@ -200,11 +185,25 @@ Slides:
     study in 15 cities. Br J Gen Pract. 1998;48(437):1840-1844.'
   Quote Credit: Goldberg D, 2020
   Image: "/uploads/pill.jpg"
+- Template: fourteen
+  Title: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: "\" Patients [have] been diagnosed with ‘chemical imbalances’ despite the
+    fact that no test exists to support such a claim, and…there is no real conception
+    of what a correct chemical balance would look like. ” "
+  Quote Credit: Dr. David Kaiser, Psychiatrist
+  Image: 
 - Template: sixteen
   Title: 
   Description: "A new study, published in the Journal of Affective Disorders in 2020,
     found that patients who believed that their genes or a chemical imbalance in their
-    brain was responsible for their depression had worse treatment outcomes and a
+    brain were responsible for their depression had worse treatment outcomes and a
     greater presence of depressive symptoms at the end of the study.\n\nThis research
     suggested that these people may feel less hopeful and less in control throughout
     their recovery process. \n \n"
@@ -343,16 +342,18 @@ Slides:
 - Template: six
   Title: 'Fight, Flight and “Fright” '
   Description: "* Researchers have described a stage of the stress response called
-    ‘Fright’. \n* This is a state of intense distress that is triggered when intense
-    fear combines with a sense of being trapped or constrained. (Schauer & Elbert,
-    2010) \n* If somebody is not able to release energy by escaping or defending themselves
-    from a situation that is highly distressing, the body begins to shut down.  "
+    ‘Fright’. \n\n* This is a state of intense distress that is triggered when intense
+    fear combines with a sense of being trapped or constrained. \n\n* If somebody
+    is not able to release energy by escaping or defending themselves from a situation
+    that is highly distressing, the body begins to shut down and our mind and body
+    become 'immobile'.  \n\nTonic immobility (fright) is almost always displayed when
+    the person is overwhelmed by threat and not allowed and not able to act aggressively
+    ( defend themselves) against the threat."
   Graphic Image: 
   Audio url: 
   Video Url: 
-  Credit: Tonic immobility (fright) is almost always displayed when the person is
-    overwhelmed by threat and not allowed and not able to act aggressively ( defend
-    themselves) against the threat. (Schauer & Elbert, 2010, p. 116.)
+  Credit: 'Schauer, Maggie & Elbert, Thomas. (2010). Dissociation Following Traumatic
+    Stress. Zeitschrift für Psychologie. 218. 10.1027/0044-3409/a000018. '
   Links:
   - Link Url: 
   Quote: 
@@ -538,6 +539,7 @@ Slides:
   Title: 'Depression and abusive relationships  '
   Description: |-
     Researchers have found that some types of abuse had a particularly strong association with the development of depression in comparison to others.
+
     Psychological abuse was more strongly associated with depression than any other forms of maltreatment
 
     “Verbal and nonverbal acts by a close other in a position of power,” was more strongly associated with depression than any of the other forms of maltreatment.
@@ -546,7 +548,10 @@ Slides:
   Graphic Image: 
   Audio url: 
   Video Url: 
-  Credit: 'Infurna et al, 2016 '
+  Credit: 'Infurna, Maria Rita & Reichl, Corinna & Parzer, Peter & Schimmenti, Adriano
+    & Bifulco, Antonia & Kaess, Michael. (2015). Associations between depression and
+    specific childhood experiences of abuse and neglect: A meta-analysis. Journal
+    of Affective Disorders. 10.1016/j.jad.2015.09.006. '
   Links:
   - Link Url: 
   Quote: 
@@ -565,7 +570,7 @@ Slides:
   Quote Credit: 
   Image: 
 - Template: six
-  Title: What approaches to support recovery from depression do work?
+  Title: So, what helps people to recover from depression?
   Description: 
   Graphic Image: 
   Audio url: 
@@ -589,25 +594,11 @@ Slides:
   Graphic Image: 
   Audio url: 
   Video Url: 
-  Credit: "( Hughes et al, 2013) "
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Image: 
-- Template: sixteen
-  Title: Depression and rumination
-  Description: "People experiencing depression can become very identified with their
-    mind, as a way to escape difficult feelings and internal beliefs. \n\nThis can
-    lead to rumination, which is the habit of becoming caught in repetitive and ongoing
-    cycles of negative evaluations about ourselves. \n\nThis is why many therapies
-    and approaches to depression focus on observing our thoughts, introducing more
-    positive activities into our lives or speaking with others about our problems.
-    \ "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
+  Credit: 'Hughes, C. W., Barnes, S., Barnes, C., Defina, L. F., Nakonezny, P., &
+    Emslie, G. J. (2013). Depressed Adolescents Treated with Exercise (DATE): A pilot
+    randomized controlled trial to test feasibility and establish preliminary effect
+    sizes. Mental health and physical activity, 6(2), 10.1016/j.mhpa.2013.06.006.
+    https://doi.org/10.1016/j.mhpa.2013.06.006'
   Links:
   - Link Url: 
   Quote: 
@@ -629,6 +620,24 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: "/uploads/family%20therapy.jpeg"
+- Template: sixteen
+  Title: Depression and rumination
+  Description: "People experiencing depression can become very identified with their
+    mind, as a way to escape difficult feelings and internal beliefs. \n\nThis can
+    lead to rumination, which is the habit of becoming caught in repetitive and ongoing
+    cycles of negative evaluations about ourselves. \n\nThis is why many therapies
+    and approaches to depression focus on observing our thoughts, introducing more
+    positive activities into our lives or speaking with others about our problems.
+    \ "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: 
 - Template: one
   Title: 'Mindfulness for Depression '
   Description: 
@@ -643,19 +652,17 @@ Slides:
   Image: "/uploads/mindfulness%202.jpeg"
 - Template: list
   Title: 'Mindfulness for depression '
-  Description: "Mindfulness has been described as’ paying attention in a particular
-    way; on purpose, in the present moment and non-judgementally.’\n\nMindfulness
-    allows us to take a new perspective on our experience, that is characterised by
-    openness, curiosity and acceptance of our experience. This allows us to strengthen
-    brain networks that enable us to view our thoughts as mental events rather than
-    permanent and factual aspects of our experience.\n\nRecent small trials Recent
-    research has found that young people who took part in mindfulness programmes experience
-    a range of beneficial outcomes including reduced depression, improved coping skills,
-    improved mood, and improved post-traumatic stress symptoms.  \n\nA review of nine
-    clinical trials analyzing people with severe depression found MBCT reduced a patient’s
-    chances of relapsing for up to 60 weeks, regardless of their sex, age, education
-    or relationship status. The analysis compared MBCT with routine treatments for
-    depression, including antidepressants. "
+  Description: "Mindfulness has been described by Jon Kabat Zinn as’ paying attention
+    in a particular way; on purpose, in the present moment and non-judgementally.’\n\nMindfulness
+    allows us to take a new perspective on our experience, one that is characterised
+    by openness, curiosity and acceptance. This allows us to strengthen brain networks
+    that enable us to view our thoughts as mental events rather than permanent and
+    factual aspects of our experience.\n\nRecent research has found that young people
+    who took part in mindfulness programmes experience a range of beneficial outcomes
+    including reduced depression, improved coping skills, improved mood, and improved
+    post-traumatic stress symptoms.  \n\nA review of nine clinical trials analyzing
+    people with severe depression found MBCT reduced a patient’s chances of relapsing
+    for up to 60 weeks, regardless of their sex, age, education or relationship status. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -693,19 +700,12 @@ Slides:
   Image: 
 - Template: list
   Title: 'Psychotherapy and Family Therapy '
-  Description: "Psychodynamic Therapy is a medium to long term therapy that usually
-    takes place in a 1-1 context. The therapy provides a supportive environment that
-    allows you to talk openly with someone who’s objective, neutral and nonjudgmental.
-    \n\nFamily therapy allows members of a family, couples or other groups of people
-    who care about each other to work through their difficult experiences safely in
-    the presence of a therapist. The therapy focuses on supportive people to value
-    their own and each others needs and explore their problems collaboratively. \n\n\nOne study compared
-    systemic family therapy with psychodynamic therapy for depression and found that
-    both groups improved significantly. \n\nAfter 6-months, 100% of the children in
-    psychodynamic therapy and 81% in family therapy no longer met criteria for depression.
-    \n\nBoth groups saw the same dramatic increase in the child’s overall functioning.
-    \n\nNone of the participants in either group experienced returning depressive
-    symptoms over the 6-month period. "
+  Description: "One study compared systemic family therapy with psychodynamic therapy
+    for depression and found that both groups improved significantly. \n\nAfter 6-months,
+    100% of the children in psychodynamic therapy and 81% in family therapy no longer
+    met criteria for depression. \n\nBoth groups saw the same dramatic increase in
+    the child’s overall functioning. \n\nNone of the participants in either group
+    experienced returning depressive symptoms over the 6-month period. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -717,15 +717,20 @@ Slides:
   Image: 
 - Template: sixteen
   Title: 'Mental health apps '
-  Description: |-
-    Mental health apps generally work by providing ways for people to self- monitor their mood and behaviour , providing coping strategies and a range of therapeutic practices and techniques.
-    There is little evidence that mental health apps are effective at improving mental health symptoms. Although many of the apps have not been tested with scientific research, most evidence for the apps that have, have not been shown to be effective.
-
-    Some research has shown that mental health apps may have some effect on improving depressive symptoms when compared with doing nothing. However, in comparison to doing something else this effect was reduced to being minimally effective.
-  Graphic Image: 
+  Description: "Mental health apps generally work by providing ways for people to
+    self- monitor their mood and behaviour, providing coping strategies and a range
+    of therapeutic practices and techniques.\n\nSome research has shown that mental
+    health apps may have some effect on improving depressive symptoms when compared
+    with doing nothing. \n\nHowever, in comparison to doing something else this effect
+    was reduced to being minimally effective."
+  Graphic Image: "/uploads/DTS_Another_Planet_Daniel_Faro%CC%80_3985.jpg"
   Audio url: 
   Video Url: 
-  Credit: 'Grist et al ( 2017), Firth et al ( 2017) '
+  Credit: 'Firth, J., Torous, J., Nicholas, J., Carney, R., Pratap, A., Rosenbaum,
+    S., & Sarris, J. (2017). The efficacy of smartphone-based mental health interventions
+    for depressive symptoms: a meta-analysis of randomized controlled trials. World
+    psychiatry : official journal of the World Psychiatric Association (WPA), 16(3),
+    287–298. https://doi.org/10.1002/wps.20472'
   Links:
   - Link Url: 
   Quote: 
