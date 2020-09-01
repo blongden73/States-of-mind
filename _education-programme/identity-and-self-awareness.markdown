@@ -415,9 +415,7 @@ Slides:
     more fully. \n\nThis is a therapeutic process that can help us to develop our
     self awareness and self esteem."
   Graphic Image: 
-  Audio url: '<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=2688643689/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/"
-    seamless><a href="http://statesofmind.bandcamp.com/track/inner-child-meditation">Inner
-    Child Meditation by States of Mind</a></iframe>'
+  Audio url: "/uploads/Inner%20child.mp3"
   Video Url: 
   Credit: 
   Links:
