@@ -739,14 +739,14 @@ Slides:
 - Template: list
   Title: 'Depression and Social support '
   Description: "* Our close relationships are one of the best resources we have for
-    overcoming an episode of depression in our lives.\n* Relationships can feel difficult
-    to maintain while experiencing depression as it can cause feelings of worthlessness,
-    low mood and a desire to withdraw from our social world.  \n* By connecting and
-    communicating with a small amount of close and trusted people in our lives, it
-    can help to support us through our experience by providing us with: \n* Acceptance
-    and understanding \n* Empathy and compassion \n* Practical support and help with
-    the everyday "
-  Graphic Image: 
+    overcoming an episode of depression in our lives.\n\n* Relationships can feel
+    difficult to maintain while experiencing depression as it can cause feelings of
+    worthlessness, low mood and a desire to withdraw from our social world.  \n\nBy
+    connecting and communicating with a small amount of close and trusted people in
+    our lives, it can help to support us through our experience by providing us with:
+    \n\n**Acceptance and understanding **\n**Empathy and compassion** \n**Practical
+    support and help with everyday tasks**"
+  Graphic Image: "/uploads/gemma-chua-tran-mZQpsI1CoVQ-unsplash%20(1)-bc2c6e.jpg"
   Audio url: 
   Video Url: 
   Credit: 
