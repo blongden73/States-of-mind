@@ -230,30 +230,8 @@ Slides:
     “Our findings are in line with accumulating evidence that some biogenetic beliefs, like the chemical imbalance belief, are linked with poorer expectations for improvement, especially among those with the most troubling symptoms.”
   Quote Credit: Goldberg D, 2020
   Image: "/uploads/pill.jpg"
-- Template: sixteen
-  Title: 'The chemical imbalance theory of depression '
-  Description: |+
-    “Although it is often stated with great confidence that depressed people have a serotonin or norepinephrine deficiency, the evidence actually contradicts these claims.”
-
-    Professor Emeritus of Neuroscience Elliot Valenstein, in ‘Blaming the Brain’ ( 1998) which reviews the evidence for the serotonin hypothesis.
-
-    “No abnormality of serotonin in depression has ever been demonstrated”
-
-    Psychiatrist David Healey, Psychiatrist, Former secretary for the British Association of Psychopharmacology.
-
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: KAISER, 1996; LYNCH, 2015, PP. 31-32.
-  Links:
-  - Link Url: 
-  - Link Url: 
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Image: 
 - Template: one
-  Title: How do people recover without medication?
+  Title: How well do people recover without medication?
   Description: 
   Graphic Image: 
   Audio url: 
@@ -281,6 +259,19 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: 
+- Template: ten
+  Title: 
+  Description: 'Did you believe in the chemical imbalance theory? If so, how do you
+    feel after learning this? '
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: 
 - Template: one
   Title: 'Psychosocial theories of depression '
   Description: 
@@ -296,9 +287,9 @@ Slides:
   Image: "/uploads/exclusion.jpg"
 - Template: four
   Title: 
-  Description: 'Psychosocial approaches to depression do not view depression as being
-    caused by a chemical imbalance in the brain. They explore how our living conditions,
-    social world and life experiences can contribute to the experience of depression. '
+  Description: "Psychosocial approaches to depression do not view depression as being
+    caused by a chemical imbalance in the brain. \n\nThey explore how our living conditions,
+    social world and life experiences can contribute to the experience of depression. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -349,19 +340,6 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: 
-- Template: ten
-  Title: 
-  Description: 'If depression is a stress response, what life circumstances might
-    lead somebody to experience stress related depression? '
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Image: 
 - Template: six
   Title: 'Fight, Flight and “Fright” '
   Description: "* Researchers have described a stage of the stress response called
@@ -383,8 +361,7 @@ Slides:
 - Template: six
   Title: 'The stages of the fright response '
   Description: |-
-    1. Overwhelmed by threat
-       Out of options
+    1. Feeling overwhelmed and out of options
 
     2. Gas pedal (sympathetic) activation or shut-down
 
@@ -400,18 +377,43 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: 
+- Template: ten
+  Title: 
+  Description: 'If depression is a stress response, what life circumstances might
+    lead somebody to experience stress related depression? '
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: 
 - Template: list
   Title: 
-  Description: |-
+  Description: |+
     * In her article ‘ Traumatic Immobility, Depression and the Stress Response, Sarah Knutson compared her own experience of depression with the final 3 stages of the stress response:
 
-    1. Felt constantly threatened (repeated job loss, poverty, homelessness, out of sync with mainstream & workplace values, relationship failure, social pariah): low mood, worry, mental and physical activation, weird appetite and sleep
+    1. Felt constantly threatened (repeated job loss, poverty, homelessness, out of sync with mainstream & workplace values, relationship failure): low mood, worry, mental and physical activation, weird appetite and sleep
 
     2.  Felt out of options (low physical, material and social resources; tired all the time, brain not functioning): hopelessness, sadness, despair, indecision
 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Image: 
+- Template: list
+  Title: 
+  Description: |-
     3. Gas pedal/sympathetic (constant pressure to do something to fix it): worry, activation, insomnia, eating for energy
 
-    4. Brake/parasympathetic (no clue how to fix it, where to turn or if it would ever get better): Low energy, low mood, low appetite and low interest in life; digestive troubles, stomach cramps, poor thinking and concentration; leaden limbs, sleeping a lot
+    4. Brake/parasympathetic (no clue how to fix it, where to turn or if it would ever get better): Low energy, low mood, low appetite and low interest in life; digestive troubles, stomach cramps, poor thinking and concentration; sleeping a lot
 
     5. Life indefinitely stalled by Brake (wasting my life, leaving a legacy of suffering and pain, letting myself and others down): Worthlessness, emptiness, guilt, indecision, crying a lot, preoccupied with death and suicide
   Graphic Image: 
@@ -426,7 +428,7 @@ Slides:
 - Template: nineteen
   Title: 'Depression and social status '
   Description: "* Rates of depression are highest in countries with the greatest differences
-    in socio economic status within the population.  \n* Video of Johan Hari "
+    in socio economic status within the population.  \n"
   Graphic Image: 
   Audio url: 
   Video Url: <iframe width="560" height="315" src="https://www.youtube.com/embed/lRhEIz4GbK0"
@@ -447,7 +449,7 @@ Slides:
 
     Relatedness: Feeling a sense of belonging and social acceptance
 
-    Competence: Feeling like you are confident and able in your ability to do things well
+    Competence: Feeling like you are confident and  in your ability to do things well
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -474,7 +476,7 @@ Slides:
   - Link Url: 
   Quote: 
   Quote Credit: 
-  Image: "/uploads/loneliness.JPG"
+  Image: "/uploads/liam-simpson-G-eFM1PynOo-unsplash.jpg"
 - Template: five
   Title: 
   Description: |-
