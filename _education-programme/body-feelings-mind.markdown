@@ -291,7 +291,7 @@ Slides:
     and stress unconsciously in our body. By doing a body scan, we use our awareness
     to reduce stress and tension and bring our body back to balance. \n"
   Graphic Image: 
-  Audio url: 
+  Audio url: "/uploads/Body%20Scan,%20Page%2017,%20BFM.mp3"
   Video Url: 
   Credit: 
   Links:
