@@ -138,6 +138,34 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: "/uploads/online-marketing-hIgeoQjS_iE-unsplash.jpg"
+- Template: fourteen
+  Title: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: "“The claims depression is caused by a natural lack of serotonin in the brain
+    are deeply misleading and unscientific.”"
+  Quote Credit: 'Andrew Skull '
+  Image: 
+- Template: fourteen
+  Title: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: "“…modern psychiatry has yet to convincingly prove the genetic/biologic cause
+    of any single mental illness…Patients [have] been diagnosed with ‘chemical imbalances’
+    despite the fact that no test exists to support such a claim, and…there is no
+    real conception of what a correct chemical balance would look like.” "
+  Quote Credit: Dr. David Kaiser, Psychiatrist
+  Image: 
 - Template: sixteen
   Title: "‘The chemical imbalance theory’"
   Description: "For a long time, psychiatrists believed that depression was caused
@@ -145,10 +173,7 @@ Slides:
     that are related to our mood and sense of motivation and enjoyment in life. \n\nSo
     far, no research has been able to identify a causal relationship between neurochemistry
     and depression. Some people who have high levels of serotonin can experience chronic
-    depression, as well as people with low levels. \n\nThe difficulty with identifying
-    a single biological cause for depression is that there are many factors that contribute
-    to our neurochemistry, such as the amount of exercise we do, the food we eat and
-    the types of social environments that we live in. "
+    depression, as well as people with low levels. \n"
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -159,11 +184,14 @@ Slides:
   Image: 
   Quote: 
 - Template: sixteen
-  Title: Research on the effectiveness of medical approaches to depression
-  Description: |-
-    65 - 80% of people remain feeling depressed after one year of taking antidepressant medications. (1)
-
-    A new study, published in the Journal of Affective Disorders in 2020, found that patients who believe that a chemical imbalance in the brain causes depression had worse treatment outcomes and a greater presence of depressive symptoms at the end of the study.
+  Title: 'Medication and recovery '
+  Description: "\n* SSRIs and other antidepressant prescriptions have increased from
+    less than 10 million in 1991 to almost 40 million in 2009.\n\nThese levels of
+    prescribing have not been associated with a reduction requiring help, with the
+    number of people claiming incapacity benefit for a mental health problem rising
+    steadily from under 750 000 in 2000 to nearly a million in 2008.\n\n65 - 80% of
+    people remain feeling depressed after one year of taking antidepressant medications.
+    (1) \n\n\n"
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -172,6 +200,23 @@ Slides:
     study in 15 cities. Br J Gen Pract. 1998;48(437):1840-1844.'
   Quote Credit: Goldberg D, 2020
   Image: "/uploads/pill.jpg"
+- Template: sixteen
+  Title: 
+  Description: "A new study, published in the Journal of Affective Disorders in 2020,
+    found that patients who believed that their genes or a chemical imbalance in their
+    brain was responsible for their depression had worse treatment outcomes and a
+    greater presence of depressive symptoms at the end of the study.\n\nThis research
+    suggested that these people may feel less hopeful and less in control throughout
+    their recovery process. \n \n"
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: "Schroder, H. S., Duda, J. M., Christensen, K., Beard, C., & Björgvinsson,
+    T. (2020). Stressors and chemical imbalances: Beliefs about the causes of depression
+    in an acute psychiatric treatment sample. Journal of Affective Disorders. 537-545. \n\n"
+  Quote: 
+  Quote Credit: 
+  Image: 
 - Template: fourteen
   Title: Research on the effectiveness of medical approaches to depression
   Description: 
@@ -186,42 +231,8 @@ Slides:
   Quote Credit: Goldberg D, 2020
   Image: "/uploads/pill.jpg"
 - Template: sixteen
-  Title: 
-  Description: "Research suggests that people who view their emotional distress as
-    the result of chemical imbalances in the brain may feel less hopeful and less
-    in control throughout the recovery process. (2) \n\n* Antidepressants have failed
-    to provide an effective remedy for cases of depression in the western world.  \n\n*
-    SSRIs and other antidepressants prescription has increased from less than 10 million
-    in 1991 to almost 40 million in 2009.\n\nThese levels of prescribing have not
-    been associated with a reduction in the related burden of care, with the number
-    of people claiming incapacity benefit for a mental or behavioural disorder rising
-    steadily from under 750 000 in 2000 to nearly a million in 2008.\n"
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: "Schroder, H. S., Duda, J. M., Christensen, K., Beard, C., & Björgvinsson,
-    T. (2020). Stressors and chemical imbalances: Beliefs about the causes of depression
-    in an acute psychiatric treatment sample. Journal of Affective Disorders. 537-545. \n\nHugh
-    Middleton and Joanna Moncrieff, British Journal of General Practice \n"
-  Quote: 
-  Quote Credit: 
-  Image: 
-- Template: fourteen
-  Title: 
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: "“The claims depression is caused by a natural lack of serotonin in the brain
-    are deeply misleading and unscientific.”"
-  Quote Credit: 'Andrew Skull '
-  Image: 
-- Template: sixteen
   Title: 'The chemical imbalance theory of depression '
-  Description: |-
+  Description: |+
     “Although it is often stated with great confidence that depressed people have a serotonin or norepinephrine deficiency, the evidence actually contradicts these claims.”
 
     Professor Emeritus of Neuroscience Elliot Valenstein, in ‘Blaming the Brain’ ( 1998) which reviews the evidence for the serotonin hypothesis.
@@ -230,7 +241,6 @@ Slides:
 
     Psychiatrist David Healey, Psychiatrist, Former secretary for the British Association of Psychopharmacology.
 
-    “Patients have been diagnosed with ‘chemical imbalances’ despite the fact that no test exists to support such a claim, and there is no real conception of what a correct chemical imbalance would look like…”
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -243,7 +253,7 @@ Slides:
   Quote Credit: 
   Image: 
 - Template: one
-  Title: 'Recovering from depression without medication '
+  Title: How do people recover without medication?
   Description: 
   Graphic Image: 
   Audio url: 
