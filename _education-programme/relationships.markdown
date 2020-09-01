@@ -26,13 +26,10 @@ Slides:
   Title: 'Attunement in Relationships '
   Image: "/uploads/attunement.jpg"
   Description: "Our relationship with our family provides us with our first experiences
-    of what relationships are like. \n\nThe way that our parent/s responded to our
-    needs for authenticity and connection in childhood shapes our understanding of
-    whether we can trust others to meet these needs .\n\nIf our family was present
-    and attuned to what we needed and reflected back to us a positive sense of self,
-    we will carry a sense of self worth and self-esteem into our adult relationships
-    and will feel able to communicate openly and honesty about our emotional life.\n\nThis
-    process of reflecting back our authentic self is called ‘attunement’."
+    of what relationships are like. \n\nIf our family was present and attuned to our
+    emotional needs and reflected back to us a positive sense of self, we will carry
+    a sense of self worth and self-esteem into our adult relationships and will feel
+    able to communicate openly and honesty about our emotional life.\n"
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -91,13 +88,12 @@ Slides:
     the fact that no parent can meet our needs all of the time and that no parenting
     style can be completely perfect.\n\nOur parents are individuals with their own
     potentially unmet needs and relational patterns that have been played out from
-    their childhoods. \n\nIf our parents punished us or were unavailable when we needed
-    them emotionally, we may come to develop a belief that it is unsafe or uncomfortable
-    expressing our needs with others as adults. This ‘non-attunement’ can have a significant
-    impact on our sense of self worth, our ability to regulate our emotions and our
-    mental health.\n\nAlthough no parent can meet all of our needs all of the time,
-    the amount of attunement that they were able to provide has been shown to influence
-    the quality of our relationships as an adult."
+    their childhoods. \n\nAlthough no parent can meet all of our needs all of the
+    time, the amount of attunement that they were able to provide has been shown to
+    influence the quality of our relationships as an adult.\n\nIf our parents punished
+    us or were unavailable when we needed them emotionally, we may come to develop
+    a belief that it is unsafe or uncomfortable expressing our needs with others as
+    adults. \n\n"
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -348,14 +344,13 @@ Slides:
 - Template: six
   Title: Compassion
   Image: 
-  Description: |-
-    Compassion is the foundation for empathy, love and compromise in relationships.
-
-    Compassion is an attitude and belief in equality and each persons right to be valued and understood.
-
-    When we do not judge or criticise the behaviour of another person but take time to understand and work through problems together, we show the other person that we do not see problems in the relationship as Indications of their worth. Instead, we see working through problems  as an opportunity for growth that can provide deeper levels of understanding and connection.
-
-    By respecting another person as having the same needs for love, connection and understanding as ourselves, we can overcome the judgement and limiting beliefs about others that can cause distance and misunderstanding in relationships.
+  Description: "Compassion is the foundation for empathy, love and compromise in relationships.\n\nCompassion
+    is an attitude and belief in equality and each persons right to be valued and
+    understood.\n\nWhen we do not judge or criticise the behaviour of another person
+    but take time to understand and work through problems together, we show the other
+    person that we do not see problems in the relationship as indications of their
+    worth. \n\nInstead, we see working through problems  as an opportunity for growth
+    that can provide deeper levels of understanding and connection.\n\n"
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -368,12 +363,11 @@ Slides:
 - Template: sixteen
   Title: 'Relationships with self '
   Image: 
-  Description: |-
-    ‘Fear of compassion for self and compassion from others were also significantly linked to fear of compassion for others.’ 
-
-    Paul Gilbert is an evolutionary psychologist who explored the link between self compassion and the quality of our relationships. Gilbert found that people who struggled to feel care and compassion for themselves found it more difficult to relate with compassion for others.
-
-    Gilberts work highlights how our relationship with ourselves has a real and lasting influence on our ability to form close and caring relationships with the people in our lives.
+  Description: "‘Fear of compassion for self and compassion from others was significantly
+    linked to fear of compassion for others.’ \n\nPaul Gilbert is an evolutionary
+    psychologist who explored the link between self compassion and the quality of
+    our relationships. \n\nHe found that people who struggled to feel care and compassion
+    for themselves found it more difficult to relate with compassion for others.\n"
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -389,7 +383,7 @@ Slides:
   Description: |-
     If our relationship pattern is causing us to experience unfulfilling relationships or we are struggling to experience closeness in our relationships, self-compassion is an important tool for caring for ourselves and supporting our mental health.
 
-     Without self-compassion we can reinforce limiting beliefs that we are unlovable and incapable of experiencing intimacy and closeness in relationships.
+    Without self-compassion we can reinforce limiting beliefs that we are unlovable and incapable of experiencing intimacy and closeness in relationships.
 
     When we experience conflict or challenges in our relationships it causes our nervous systems to react, due to an evolutionary fear of rejection, abandonment and isolation.
   Graphic Image: 
@@ -493,7 +487,8 @@ Slides:
   Title: Discussion
   Image: 
   Description: "Have you ever felt like you have experienced an 'I -It' relationship
-    with somebody? \n\nHow did this make you feel towards them?"
+    with somebody? \n\nHow did this make you feel about yourself and thee relationship
+    with them?"
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -511,7 +506,7 @@ Slides:
 
     Our supportive relationships act as a mirror for us to see ourselves authentically.
 
-    These supportive relationships provide a structure of support that ‘hold’ us and support our sense of confidence and self esteem.
+    These supportive relationships provide a structure of support that ‘hold’ us and builds our sense of confidence and self esteem.
 
     These relationships can be with members of our community, teachers, family friends, coaches or anybody with whom we have a close healthy relationship.
   Graphic Image: 
@@ -820,6 +815,20 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: fourteen
+  Title: Empathy
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: "“Being empathic is a complex, demanding, strong yet subtle and gentle way
+    of being.”\n"
+  Quote Credit: Carl Rogers
+  Slide Colour: 
 - Template: six
   Title: 'Empathy '
   Image: 
@@ -838,34 +847,15 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: fourteen
-  Title: Empathy
-  Image: 
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: "“Being empathic is a complex, demanding, strong yet subtle and gentle way
-    of being.”\n"
-  Quote Credit: Carl Rogers
-  Slide Colour: 
 - Template: sixteen
   Title: 'Empathic Listening and Bifocal vision '
   Image: 
   Description: "Empathic listening is a type of listening that involves tuning into
-    the emotional message that a person is communicating. \nEmpathic listening helps
-    people to understand their emotions better, builds trust and helps both the speaker
-    and listener to develop emotional intelligence.\n  \nBifocal vision is a way to
-    provide feedback about another person’s non-verbal communication and listen to
-    the deeper message they are communicating. \n\nFor example, if somebody is telling
-    us that they have had a good week but their tone of voice is low, bifocal vision
-    allows us to pick up on this mis-match between what the person is saying and the
-    emotional message they are giving to us. \nBy feeding back both the verbal message
-    and the emotional message that we are hearing from the speaker, we allow them
-    to feel seen and understood on a deeper level. "
+    the emotional message that a person is communicating. \n\nThis type of listening
+    helps people to understand their emotions better, builds trust and helps both
+    the speaker and listener to develop their emotional intelligence.\n  \nBy feeding
+    back both the verbal message and the emotional message that we are hearing from
+    the speaker, we allow them to feel seen and understood on a deeper level. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -895,23 +885,37 @@ Slides:
 - Template: list
   Title: 'Conflict, rupture and repair  '
   Image: 
-  Description: "**What happens in the brain when we experience ruptures in our relationships?**Research
-    has shown that when we experience conflict and rupture in our relationships, the
-    same areas of our brain light up as those that are activated when we break a leg
-    or experience physical pain.  \n\n**Wounding in relationships.**Wounding occurs
-    in relationships when there has been conflict or emotional neglect that has been
-    left unresolved in the relationship. The emotional impact of the wounding causes
-    the person to behave in ways that protect them from further harm. \n\n**Some examples
-    of patterns of behaviour that emerge from wounding in relationships are:**\n*
-    Avoiding contact with the person who has caused the wounding and withdrawing attention
-    and communication. \n* Acting out and harming the other person out of fear and
-    desperation. This could take the form of abusive text messages, manipulation and
-    blackmail or physical and verbal abuse. \n* Becoming hypervigilant to the actions
-    of the other person and other relationships. Hypervigilance is caused by an overactive
-    nervous response to emotional harm and wounding. Hypervigilance may look like
-    stalking, constantly checking your phone to see if the other person has messaged
-    you or become preoccupied with thoughts about the other person and ruminating
-    about the issue , without seeking to resolve it or repair the issue in their presence.  "
+  Description: "**Wounding in relationships.**\n\nWounding occurs in relationships
+    when there has been conflict or emotional neglect that has been left unresolved
+    in the relationship. The emotional impact of the wounding causes the person to
+    behave in ways that protect them from further harm. \n\n**What happens in the
+    brain when we experience ruptures in our relationships?**\n\nResearch has shown
+    that when we experience conflict and rupture in our relationships, the same areas
+    of our brain light up as those that are activated when we break a leg or experience
+    physical pain.  \n\n\n"
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: list
+  Title: 
+  Image: 
+  Description: "**Some examples of patterns of behaviour that emerge from wounding
+    in relationships are:**\n\n* Avoiding contact with the person who has caused the
+    wounding and withdrawing attention and communication. \n* Acting out and harming
+    the other person out of fear and desperation. This could take the form of abusive
+    text messages, manipulation and blackmail or physical and verbal abuse. \n* Becoming
+    hypervigilant to the actions of the other person and other relationships. \n\nHypervigilance
+    is caused by an overactive nervous response to emotional harm and wounding. Hypervigilance
+    may look like: stalking, constantly checking your phone to see if the other person
+    has messaged you or become preoccupied with thoughts about the other person and
+    ruminating about the issue, without seeking to resolve it or repair the issue
+    in their presence.  "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -924,16 +928,16 @@ Slides:
 - Template: list
   Title: 'Creating a safe space for resolving conflict '
   Image: 
-  Description: |-
-    In healthy relationships, each person feels seen and understood for their true nature and is able to act and communicate from this place. This way of being with each other is what the Psychologist Bowlby called a secure base. How can you provide and recognise a secure base in relationships? 
-
-    Problems are addressed as they arise in relationships, without the person harbouring resentment or communicating in unclear ways about the nature of the problem. 
-
-    When the person is upset and emotionally struggling, the partner makes space to understand and listen to them, without minimising or punishing you for experiencing the emotions.  
-
-    Problems are seen as opportunities for growth, not personal attacks or opportunities to play a blame game. People who are secure in their relationships, do not take criticism as a reason to blame the other, but are open to listening to the issue and adapting their behaviour to better meet the needs of their partner. 
-
-    Problems are seen as opportunities to create growth and understanding in the relationship. By learning about what is causing the problems, the partner is better able to understand the needs of the other person and what they need to feel safe and secure, instead of misunderstood and anxious.  
+  Description: "In healthy relationships, each person feels seen and understood for
+    their true nature and is able to act and communicate from this place. \n\nProblems
+    are addressed as they arise in relationships, without the person harbouring resentment
+    or communicating in unclear ways about the nature of the problem. \n\nWhen the
+    person is upset and emotionally struggling, the partner makes space to understand
+    and listen to them, without minimising or punishing you for experiencing the emotions.  \n\nProblems
+    are seen as opportunities for growth, not personal attacks or opportunities to
+    play a blame game. People who are secure in their relationships, do not take criticism
+    as a reason to blame the other, but are open to listening to the feedback about
+    how they make others feel. \n"
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -960,16 +964,15 @@ Slides:
   Title: 'Boundaries '
   Image: 
   Description: "Setting boundaries is a tool that is important in all of our relationships.
-    \nIf we did not learn to set boundaries in childhood, it is important to do so
-    in adulthood, so that we can clearly express our feelings and needs. Setting healthy
-    boundaries helps us to communicate what types of behaviour we will/ will not tolerate
-    from others by stating what is and is not acceptable to you. \n\nBy setting boundaries
-    we can improve our self esteem and prevent difficult feelings of resentment, anger
-    and stress from emerging in our relationships.\nHealthy boundaries are flexible
-    and an essential part of healthy relationships where each person respects the
-    boundaries of the other. \n\nWhen healthy boundaries are present, each person
-    understands that they are responsible for advocating for their own needs in relationships
-    and communicating clearly so that they can get their needs met."
+    \n\nIf we did not learn to set boundaries in childhood, it is important to do
+    so in adulthood, so that we can clearly express our feelings and needs. Setting
+    healthy boundaries helps us to communicate what types of behaviour we will/ will
+    not tolerate from others by stating what is and is not acceptable to you. \n\nBy
+    setting boundaries we can improve our self esteem and prevent difficult feelings
+    of resentment, anger and stress from emerging in our relationships.\n\nWhen healthy
+    boundaries are present, each person understands that they are responsible for
+    advocating for their own needs in relationships and communicating clearly so that
+    other people understand what they neeed."
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -986,7 +989,7 @@ Slides:
     do and do not want. Healthy people will respect your need to set boundaries. \n\nPractice
     communicating the boundary to other friends or family before setting the boundary
     with the person you need to set the boundary with. Communicate the boundary calmly,
-    firmly, clearly and respectfully. \nDo not justify or apologise for the boundary
+    firmly, clearly and respectfully. \n\nDo not justify or apologise for the boundary
     you are setting. \n\nRemember that you are not responsible for the feelings for
     the person you are setting the boundary with, your only responsibly is to assert
     the boundary in a respectful way. "
@@ -1018,20 +1021,19 @@ Slides:
   Image: 
   Description: "Even if we know our relationships are unfitlfilling and not meeting
     our needs, it can feel  difficult to move forward and take the initiative to end
-    the relationship. The feelings of pain and detachment are extremely strong feelings
-    that motivate us to maintain the relationship at all costs. It is actually painful
-    emotions that can keep us in unhealthy relationships, not just the positive ones.
-    \n\nOnce our painful feelings of abandonment and low self esteem are activated,
-    we become focused on reconnecting with the person and often trick ourselves into
-    believing that each time we reconnect, we will get our needs met the next time,
-    causing repeating cycles of rupture, repair and further rupture when we realise
-    that the problems still exist but we feel powerless to change them.\n\nThis causes
-    us to feel even more hopeless and even less able to solve problems in our relationships
-    and get our needs met. This belief can cause us to develop the belief that no
-    relationship will meet our needs because we internalise the experience and blame
-    ourselves for the feelings of isolation and neglect. \n\nThe fear of being alone
-    and unloved causes us to maintain relationships that are only partially able to
-    meet our needs and we end up feeling unfulfilled and distressed. "
+    the relationship. \n\nThe feelings of pain and detachment are extremely strong
+    feelings that motivate us to maintain the relationship at all costs. \n\nIt is
+    actually painful emotions that can keep us in unhealthy relationships, not just
+    the positive ones. \n\nOnce our painful feelings of abandonment and low self esteem
+    are activated, we become focused on reconnecting with the person and often trick
+    ourselves into believing that each time we reconnect, we will get our needs met
+    the next time, causing repeating cycles of rupture, repair and further rupture
+    when we realise that the problems still exist but we feel powerless to change
+    them.\n\nThis causes us to feel even more hopeless and even less able to solve
+    problems in our relationships and get our needs met. \n\nThis belief can cause
+    us to develop the belief that no relationship will meet our needs because we internalise
+    the experience and blame ourselves for the feelings of isolation and neglect.
+    \n\n"
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -1058,20 +1060,35 @@ Slides:
   Title: 'Ending relationships. '
   Image: 
   Description: "Relationships come to an end for many reasons. They may end out of
-    personal choice or for reasons outside of our control. Ending relationships can
-    be difficult if we feel a sense of loyalty for the other person or if we have
-    been avoiding ending the relationship out of fear of the consequences.  \nConsciously
+    personal choice or for reasons outside of our control. \n\nEnding relationships
+    can be difficult if we feel a sense of loyalty for the other person or if we have
+    been avoiding ending the relationship out of fear of the consequences.  \n\nConsciously
     ending a relationship in a healthy way is a skill that we can develop which can
-    have benefits for our emotional wellbeing.   \n1. Recognise that if a relationship
-    is not feeling right for you, it will not be an appropriate relationship for the
-    other person either. \n2. Recognise that ending a relationship will bring up emotions
-    for both people involved in the ending and creating space for both people’s experiences
-    to be heard and respected is crucial for both people to feel acknowledged in the
-    ending. \n3.Be emotionally honest about the reasons for wanting to end the relationship.
-    Being emotionally honest does not involve blaming or criticising the other person
-    but describing your personal feelings using ‘I’ statements not ‘You’ statements.
-    \n4. Do not send mixed messages but be clear about your reasons for wanting to
-    end the relationship. "
+    have benefits for our emotional wellbeing.   \n"
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: list
+  Title: 
+  Image: 
+  Description: "1. Recognise that if a relationship is not feeling right for you,
+    it will not be an appropriate relationship for the other person either. \n\n2.
+    Recognise that ending a relationship will bring up emotions for both people involved
+    in the ending and creating space for both people’s experiences to be heard and
+    respected is crucial for both people to feel acknowledged in the ending. \n\n3.Be
+    emotionally honest about the reasons for wanting to end the relationship. Being
+    emotionally honest does not involve blaming or criticising the other person but
+    describing your personal feelings using ‘I’ statements not ‘You’ statements. \n\n4.
+    Do not send mixed messages but be clear about your reasons for wanting to end
+    the relationship.  \n\n5. Support yourself by surrounding yourself with close
+    and trusted friends who can help you express and process any difficult feelings
+    you experience after ending an unhealthy relationship. "
   Graphic Image: 
   Audio url: 
   Video Url: 
