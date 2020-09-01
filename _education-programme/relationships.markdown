@@ -430,7 +430,7 @@ Slides:
   Image: "/uploads/photo-1554244933-d876deb6b2ff.jpeg"
   Description: 
   Graphic Image: 
-  Audio url: 
+  Audio url: "/uploads/Self_Compassion_2_25_08_2020_14_53.mp3"
   Video Url: 
   Credit: 
   Links:
