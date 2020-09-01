@@ -4,27 +4,6 @@ date: 2020-08-20 16:05:00 Z
 permalink: "/education-programme/depression.html"
 position: 4
 Slides:
-- Template: five
-  Title: What is depression?
-  Image: 
-  Description: "Depression is an experience that manifests in our mental, emotional
-    and physical experience . \n\nIt is characterised by an intense preoccupation
-    with negative thinking about our past, current and future self. These ways of
-    thinking are accompanied by an emotional experience of meaninglessness and ‘apathy’,
-    which is the loss of interest or pleasure in life. \n\nPeople experiencing depression
-    also experience changes to their physical state, such as increased tiredness and
-    fatigue."
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-  Cover Image: 
-  Cover Colour: 
 - Template: four
   Title: 
   Description: |-
@@ -158,7 +137,7 @@ Slides:
   - Link Url: 
   Quote: 
   Quote Credit: 
-  Image: "/uploads/medical%20approaches-9cc8f8.jpeg"
+  Image: "/uploads/online-marketing-hIgeoQjS_iE-unsplash.jpg"
 - Template: sixteen
   Title: "‘The chemical imbalance theory’"
   Description: "For a long time, psychiatrists believed that depression was caused
