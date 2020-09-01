@@ -721,9 +721,9 @@ Slides:
     self- monitor their mood and behaviour, providing coping strategies and a range
     of therapeutic practices and techniques.\n\nSome research has shown that mental
     health apps may have some effect on improving depressive symptoms when compared
-    with doing nothing. \n\nHowever, in comparison to doing something else this effect
-    was reduced to being minimally effective."
-  Graphic Image: "/uploads/DTS_Another_Planet_Daniel_Faro%CC%80_3985.jpg"
+    with doing nothing. \n\nWe really recommend the MeeTwo App, it's a free online
+    peer support forum for young people and signposts to other resources too."
+  Graphic Image: "/uploads/squared_invite_image_colour_copy.jpg"
   Audio url: 
   Video Url: 
   Credit: 'Firth, J., Torous, J., Nicholas, J., Carney, R., Pratap, A., Rosenbaum,
