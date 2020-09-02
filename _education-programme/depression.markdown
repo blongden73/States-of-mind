@@ -754,7 +754,7 @@ Slides:
   - Link Url: 
   Quote: 
   Quote Credit: 
-  Image: 
+  Image: "/uploads/gemma-chua-tran-mZQpsI1CoVQ-unsplash%20(1).jpg"
 - Template: five
   Title: 
   Description: |-
