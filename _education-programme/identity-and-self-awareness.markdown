@@ -333,12 +333,10 @@ Slides:
   Image: "/uploads/Jung.jpg"
   Description: "Carl Jung was a Swiss Psychologist who explored the personality and
     human nature. \n\nJung believed that ‘individuation’ was the main purpose of human
-    development. His idea was that psychological health is achieved by seeking to
-    live as authentically as we can ( to feel and act in accordance with who we most
-    essentially are).  \n\nHe believed that everybody had the ability and the impulse
-    to move towards their fullest potential  and that this was achieved by becoming
-    aware of the aspects of ourselves that we often ignore or are unconscious to.
-    \n\n"
+    development. \n\nIndividuation is the process through which a person achieves
+    a sense of individuality separate from the identities of others. \n\nHis idea
+    was that psychological health is achieved by seeking to live as authentically
+    as we can ( to feel and act in accordance with who we most essentially are).  \n\n"
   Graphic Image: 
   Audio url: 
   Video Url: 
