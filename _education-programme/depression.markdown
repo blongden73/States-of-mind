@@ -735,7 +735,7 @@ Slides:
   - Link Url: 
   Quote: 
   Quote Credit: 
-  Image: 
+  Image: "/uploads/squared_invite_image_colour_copy.jpg"
 - Template: list
   Title: 'Depression and Social support '
   Description: "* Our close relationships are one of the best resources we have for
