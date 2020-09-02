@@ -121,9 +121,9 @@ Slides:
 - Template: sixteen
   Title: Why is interoception important for mental health?
   Image: 
-  Description: "Interoception is the ability to become aware of the internal states
-    and sensations in our body.  It is a skill that provides us with a starting point
-    for regulating our moods, feelings and physical wellbeing. \n\nBy bringing awareness
+  Description: "Interoception is the ability to become aware of our emotions and the
+    physical sensations in our body. It is a skill that provides us with a starting
+    point for regulating our moods and physical wellbeing. \n\nBy bringing awareness
     to our internal sensations and emotions, through the process of interoception,
     we can reduce the intensity of the distress and discomfort that we experience.
     \n\nWhen we turn towards our discomfort, with an attitude of curiosity and acceptance,
