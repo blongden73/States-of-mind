@@ -789,7 +789,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-Cover Image: "/uploads/joeyy-lee-EOzTQ1K7Wiw-unsplash-cc4834.jpg"
+Cover Image: "/uploads/stocksy.jpg"
 Cover Colour: "#fefefe"
 layout: presentation
 ---
