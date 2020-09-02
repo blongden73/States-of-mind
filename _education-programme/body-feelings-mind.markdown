@@ -153,13 +153,22 @@ Slides:
 - Template: sixteen
   Title: Vagus Nerve
   Image: "/uploads/vagus%20nerve-49f2ca.jpg"
-  Description: "The vagus nerve is the part of our body that is responsible for a
-    large part of the mind-body connection. \n\nThe vagus nerve sends messages between
-    our internal body parts and our brain, sending messages back and forth that affect
-    the functioning of our physical body and mental states.\n\nWhen the vagus nerve
-    is not activated enough, our brain can become overstimulated, causing mental tension,
-    anxiety and rumination. \n\nWe notice the effect of the vagus nerve when we do
-    things that relieve physical tension and our minds become more relaxed and focused. "
+  Description: "The vagus nerve is the longest nerve in your body. It connects your
+    brain to many important organs throughout the body, including the gut (intestines,
+    stomach), heart and lungs.\n\nIn fact, the word “vagus” means “wanderer” in Latin,
+    which accurately represents how the nerve wanders all over the body and reaches
+    various organs.\n\nThe vagus nerve is also a key part of your parasympathetic
+    “rest and digest” nervous system. It influences your breathing, digestive function
+    and heart rate, all of which can have a huge impact on your mental health.\n\nBut
+    what you really need to pay special attention to is the “tone” of your vagus nerve.
+    Vagal tone is an internal biological process that represents the activity of the
+    vagus nerve.\n\nIncreasing your vagal tone activates the parasympathetic nervous
+    system, and having higher vagal tone means that your body can relax faster after
+    stress.\n\nIn 2010, researchers discovered a positive feedback loop between high
+    vagal tone, positive emotions, and good physical health. In other words, the more
+    you increase your vagal tone, the more your physical and mental health will improve,
+    and vice versa .\n\nWe notice the effect of the vagus nerve when we do things
+    that relieve physical tension and our minds become more relaxed and focused. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -170,24 +179,26 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: list
-  Title: 'How else is the vagus nerve related to our mental health? '
+  Title: When the vagus nerve is overactive
   Image: 
-  Description: "# Experiencing a Threat \n\nWhen we experience a threat, the vagus
-    nerve sends a message to our digestive system to stop producing digestive enzymes
-    and to stop ourselves feeling hungry so that we can focus our energy and resources
-    on responding to the threat around us. This is why when we feel stressed and anxious,
-    we feel butterflies in our stomach and other uncomfortable feelings in our belly. 
-    \n\n# Feelings Stressed and Overwhelmed \n\nWhen we are stressed and overwhelmed,
-    we are more likely to become ill and are vulnerable to catching a cold or suffering
-    from other illnesses related to the immune system. When the parasympathetic nervous
-    system is active, it suppresses the immune response in the body. \n\n# Health
-    problems and inflammation \n\nWhen the calming effects of the vagus nerve are
-    inhibited through stress, our body can experience inflammation and this can lead
-    to a range of health conditions. There is an extensive body of research that links
-    inflammation to chronic health conditions. Stress impairs functioning of the nervous
-    system which produces this inflammation and therefore it is important to use the
-    body's natural mechanism - breathing, to maintain balance and bring the balance
-    of the body back to its healthy state. "
+  Description: "When the vagus nerve is not activated enough, our brain can become
+    overstimulated, causing mental tension, anxiety and rumination. \n\n# Experiencing
+    a Threat \n\nWhen we experience a threat, the vagus nerve sends a message to our
+    digestive system to stop producing digestive enzymes and to stop ourselves feeling
+    hungry so that we can focus our energy and resources on responding to the threat
+    around us. This is why when we feel stressed and anxious, we feel butterflies
+    in our stomach and other uncomfortable feelings in our belly.  \n\n# Feelings
+    Stressed and Overwhelmed \n\nWhen we are stressed and overwhelmed, we are more
+    likely to become ill and are vulnerable to catching a cold or suffering from other
+    illnesses related to the immune system. When the parasympathetic nervous system
+    is active, it suppresses the immune response in the body. \n\n# Health problems
+    and inflammation \n\nWhen the calming effects of the vagus nerve are inhibited
+    through stress, our body can experience inflammation and this can lead to a range
+    of health conditions. There is an extensive body of research that links inflammation
+    to chronic health conditions. Stress impairs functioning of the nervous system
+    which produces this inflammation and therefore it is important to use the body's
+    natural mechanism - breathing, to maintain balance and bring the balance of the
+    body back to its healthy state. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -250,9 +261,8 @@ Slides:
     don’t realise this is happening at the time and that is why it is important to
     bring awareness to ourselves in the present moment and reconnect with our bodies
     as a way to calm ourselves and rebalance our mood. \n\nDance movement psychotherapy
-    is effective because it allows us to learn how this process works as it allows
-    us to experience the power of how we can use our bodies to influence our mood
-    and release trapped and difficult emotions. \n\n\n"
+    is effective because it allows us to use our bodies to influence our mood and
+    release trapped and difficult emotions. \n"
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -272,7 +282,7 @@ Slides:
     beneficial for a range of distressing states, such as anxiety, depression and
     PTSD. \n\nA study followed 64 women with post-traumatic stress disorder (PTSD),
     which is characterized by severe anxiety and fear following exposure to a traumatic
-    event.After 10 weeks, 52% of participants no longer met the criteria for PTSD
+    event. After 10 weeks, 52% of participants no longer met the criteria for PTSD
     at all.  \n"
   Graphic Image: 
   Audio url: 
