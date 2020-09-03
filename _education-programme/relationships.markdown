@@ -151,7 +151,7 @@ Slides:
   Title: 
   Image: 
   Description: 
-  Graphic Image: 
+  Graphic Image: "/uploads/Group%20120.svg"
   Audio url: 
   Video Url: 
   Credit: 
