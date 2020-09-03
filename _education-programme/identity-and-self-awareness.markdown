@@ -162,7 +162,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: list
+- Template: sixteen
   Title: 
   Image: 
   Description: |-
