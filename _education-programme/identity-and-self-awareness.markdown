@@ -168,7 +168,8 @@ Slides:
   Description: |-
     ## The Johari Window
 
-    The Johari Window is a visual representation of the parts of ourselves that are  either known or unknown to ourselves and others.
+    The Johari Window is a visual representation of the parts of ourselves that are either \
+    known or unknown to ourselves and others.
 
     * **The open area** represents everything we know about ourselves. This is what people know about us and what we are consciously aware of too.
 
