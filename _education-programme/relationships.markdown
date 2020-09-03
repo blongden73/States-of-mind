@@ -82,8 +82,8 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: twenty
-  Title: ''
-  Image: "/uploads/family.jpg"
+  Title: 
+  Image: "/uploads/Group%20118.svg"
   Description: 
   Graphic Image: 
   Audio url: 
