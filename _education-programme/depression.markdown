@@ -6,6 +6,7 @@ position: 4
 Slides:
 - Template: four
   Title: 
+  Image: 
   Description: |-
     Depression is the most common mental health concern worldwide.
 
@@ -19,7 +20,7 @@ Slides:
   - Link Url: 
   Quote: 
   Quote Credit: 
-  Image: 
+  Slide Colour: 
 - Template: ten
   Title: 
   Description: 'What do you think is responsible for an increase in the numbers of
@@ -339,7 +340,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: 
-- Template: six
+- Template: sixteen
   Title: 'Fight, Flight and “Fright” '
   Description: "* Researchers have described a stage of the stress response called
     ‘Fright’. \n\n* This is a state of intense distress that is triggered when intense
@@ -358,7 +359,7 @@ Slides:
   - Link Url: 
   Quote: 
   Quote Credit: 
-  Image: 
+  Image: "/uploads/Group%20125%20(1).svg"
 - Template: six
   Title: 'The stages of the fright response '
   Description: |-
