@@ -489,9 +489,9 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: six
+- Template: sixteen
   Title: 
-  Image: 
+  Image: "/uploads/Group%20125.svg"
   Description: |-
     # I-Thou relationship
 
