@@ -92,7 +92,7 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: 
-  Image: "/uploads/thoughts_feelings.svg"
+  Image: "/uploads/Group%20114.svg"
   Description: Some people may naturally be more connected with either their body,
     feelings or mind and we each have our own unique relationship to all three, like
     a fingerprint or personal map.
