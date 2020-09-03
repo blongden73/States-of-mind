@@ -83,9 +83,9 @@ Slides:
   Slide Colour: 
 - Template: twenty
   Title: 
-  Image: "/uploads/Group%20118.svg"
+  Image: 
   Description: 
-  Graphic Image: 
+  Graphic Image: "/uploads/Group%20118.svg"
   Audio url: 
   Video Url: 
   Credit: 
