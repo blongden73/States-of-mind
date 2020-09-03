@@ -649,9 +649,9 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: six
+- Template: sixteen
   Title: 
-  Image: 
+  Image: "/uploads/Group%20117.svg"
   Description: |-
     Mindsets are the belief patterns that influence how we think and behave in our everyday lives. Some Mindsets/ beliefs are very unconscious to us, while others are more apparent in our lives. 
 
