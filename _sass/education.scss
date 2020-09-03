@@ -132,7 +132,7 @@ body.handbook {
       &:before {
         width: 15px;
         height: 15px;
-        margin-top: 6px;
+        margin-top: 0.6em;
         border-radius: 50%;
         margin-right: 10px;
         display: block;
@@ -152,6 +152,11 @@ body.handbook {
   }
   &.five {
     background-color: $nu-pink;
+    li {
+      &:before {
+        margin-top: 0.3em;
+      }
+    }
   }
   &.four, &.nineteen, &.six, {
     /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f7e3e7+0,ffffff+49,d0eef4+100 */
@@ -160,13 +165,32 @@ body.handbook {
     background: -webkit-linear-gradient(-45deg,  #f7e3e7 0%,#ffffff 49%,#d0eef4 100%); /* Chrome10-25,Safari5.1-6 */
     background: linear-gradient(135deg,  #f7e3e7 0%,#ffffff 49%,#d0eef4 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f7e3e7', endColorstr='#d0eef4',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
-
+  }
+  &.nineteen {
+    li {
+      &:before {
+        margin-top: 0.3em;
+      }
+    }
+  }
+  &.six {
+    li {
+      &:before {
+        margin-top: 0.3em;
+      }
+    }
   }
   &.ten {
     background-color: $nu-beige;
   }
   &.list {
     background-color: $nu-green;
+
+    li {
+      &:before {
+        margin-top: 0.3em;
+      }
+    }
   }
   &.sixteen {
     background-color: $nu-green;
@@ -174,6 +198,12 @@ body.handbook {
     &.white {
       background-color: #fff !important;
       color: #333;
+    }
+
+    li {
+      &:before {
+        margin-top: 0.3em;
+      }
     }
   }
   &.fourteen {
@@ -335,6 +365,18 @@ body.handbook {
     }
   }
 
+  @keyframes  bounce{
+    0% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(44px);
+    }
+    100% {
+      transform: translateY(0);
+    }
+  }
+
   .two & {
     max-width: 80%;
     display: flex;
@@ -352,6 +394,16 @@ body.handbook {
     svg {
       height: 60vh;
       width: auto;
+
+      path {
+        &:nth-child(2) {
+          animation-name: bounce;
+          animation-duration: 2s;
+          animation-iteration-count: infinite;
+          animation-fill-mode: forwards;
+          animation-timing-function: ease-out;
+        }
+      }
     }
   }
 
@@ -464,9 +516,12 @@ body.handbook {
 
     .slide-description {
       text-align: center;
-      font-size: 2.2vw;
+      font-size: 4.2vw;
       line-height: 0;
       margin: 0;
+      -webkit-text-stroke-width: 1px;
+      -webkit-text-stroke-color: black;
+      color: transparent;
     }
   }
 
@@ -773,6 +828,10 @@ body.handbook {
 
 .list + .sixteen {
   background-color: $nu-beige;
+}
+
+.six + .six {
+  background: $nu-beige;
 }
 
 .sixteen + .sixteen {
