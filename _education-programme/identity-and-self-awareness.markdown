@@ -164,7 +164,7 @@ Slides:
   Slide Colour: 
 - Template: six
   Title: 
-  Image: "/uploads/Group%20111.svg"
+  Image: 
   Description: |-
     ## The Johari Window
 
