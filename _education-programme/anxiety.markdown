@@ -415,7 +415,7 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: 'Anxiety and avoidance  '
-  Image: "/uploads/DTS_Warp_Nick_Fancher_4232.jpg"
+  Image: "/uploads/avoidant.jpg"
   Description: "Feelings of stress, combined with our inner fears can cause us to
     retreat into avoidant behaviours that make us feel more comfortable and secure
     than risking potential scenarios that could cause more stress. \n\nThe tendency
