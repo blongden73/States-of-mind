@@ -380,7 +380,7 @@ Slides:
   Slide Colour: 
 - Template: five
   Title: 'Exploring our fears '
-  Image: 
+  Image: "/uploads/astrologyforartists_105941222_169499407896081_2923306870018876192_n.jpg"
   Description: |-
     ### What ‘External Fears’ do we have?
 
@@ -389,7 +389,19 @@ Slides:
     ### What ‘Internal Fears do we have?
 
     These are beliefs or internal narratives that cause us to feel like we are unable to cope.
-  Graphic Image: "/uploads/astrologyforartists_105941222_169499407896081_2923306870018876192_n.jpg"
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: two
+  Title: 'Take time to pause '
+  Image: 
+  Description: 
+  Graphic Image: 
   Audio url: 
   Video Url: 
   Credit: 
@@ -604,7 +616,7 @@ Slides:
   Video Url: 
   Credit: 
   Links:
-  - Link Url: 
+  - Link Url: 'www.statesofmind.org/handbook/exploring-limiting-and-supportive-beliefs '
   Quote: 
   Quote Credit: 
   Slide Colour: 
