@@ -81,6 +81,24 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: sixteen
+  Title: 'Neuroplasticity and emotional development. '
+  Image: "/uploads/david-clode-75CxJTYeUYs-unsplash.jpg"
+  Description: |-
+    Often, we will repeat similar patterns in our relationships due to the way our early childhood experiences shape our perception of the present day, yet our relationships in adult life can also reshape our perception of what relationships can be like.
+
+    Neuroscientists have discovered that the brain is able to continue reshaping itself through our adolescence and adult life. This means that early emotional and behavioural patterns can change with new experiences that we have throughout our lives.
+
+    The brains ability to reshape itself has significant positive implications for our understanding of how people can heal difficult relationship patterns and learn new ways of being with others in relationships.
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: twenty
   Title: 
   Image: 
@@ -334,26 +352,6 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
-  Title: 'Neuroplasticity and emotional development. '
-  Image: "/uploads/david-clode-75CxJTYeUYs-unsplash.jpg"
-  Description: |-
-    Neuroscientists have discovered that the brain is able to continue reshaping itself through our adolescence and adult life. This means that early emotional and behavioural patterns can change with new experiences that we have throughout our lives.
-
-
-    Often, we will repeat similar patterns in our relationships due to the way our early childhood experiences shape our perception of the present day, yet our relationships in adult life can also reshape our perception of what relationships can be like.
-
-
-    The brains ability to reshape itself has significant positive implications for our understanding of how people can heal difficult relationship patterns, learning new skills and develop new beliefs about their ability to experience intimacy and connection with others.
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
 - Template: ten
   Title: Discussion
   Image: 
@@ -512,9 +510,8 @@ Slides:
 - Template: ten
   Title: Discussion
   Image: 
-  Description: "Have you ever felt like you have experienced an 'I -It' relationship
-    with somebody? \n\nHow did this make you feel about yourself and thee relationship
-    with them?"
+  Description: When you experienced an I-It relationship, how did this make you feel
+    about yourself and the other person?
   Graphic Image: 
   Audio url: 
   Video Url: 
