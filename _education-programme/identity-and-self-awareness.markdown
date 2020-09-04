@@ -448,7 +448,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: The Younger You
-  Image: "/uploads/michael-afonso-Z_bTArFy6ks-unsplash.jpg"
+  Image: "/uploads/michal-parzuchowski-RYxTItxb4oY-unsplash.jpg"
   Description: An Autobiography 
   Graphic Image: 
   Audio url: 
