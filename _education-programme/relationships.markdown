@@ -83,7 +83,7 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: 'Neuroplasticity and emotional development. '
-  Image: "/uploads/david-clode-75CxJTYeUYs-unsplash.jpg"
+  Image: 
   Description: |-
     Often, we will repeat similar patterns in our relationships due to the way our early childhood experiences shape our perception of the present day, yet our relationships in adult life can also reshape our perception of what relationships can be like.
 
