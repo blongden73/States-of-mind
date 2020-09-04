@@ -336,7 +336,7 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: 'Neuroplasticity and emotional development. '
-  Image: "/uploads/neuroplasticity%202-55627e.jpg"
+  Image: "/uploads/david-clode-75CxJTYeUYs-unsplash.jpg"
   Description: |-
     Neuroscientists have discovered that the brain is able to continue reshaping itself through our adolescence and adult life. This means that early emotional and behavioural patterns can change with new experiences that we have throughout our lives.
 
