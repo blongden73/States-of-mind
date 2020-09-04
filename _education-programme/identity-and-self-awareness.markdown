@@ -824,6 +824,19 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: 'two '
+  Title: 'Take time to pause '
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: www.statesofmind.org/handbook/family-and-identity
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 Cover Image: "/uploads/stocksy.jpg"
 Cover Colour: "#fefefe"
 layout: presentation
