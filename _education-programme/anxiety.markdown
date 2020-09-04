@@ -4,14 +4,10 @@ date: 2020-08-20 21:33:00 Z
 permalink: "/education-programme/anxiety.html"
 position: 3
 Slides:
-- Template: four
-  Title: 
-  Image: 
-  Description: "Anxiety is a natural response to feelings of fear.\n\nThis fear response
-    is a natural defence mechanism that manifests in the way we think, feel and behave.
-    \n\nAnxiety can help us by making us alert us to potential threats and dangerous
-    situations. For example if we are walking down an unfamiliar road late at night,
-    it is very natural to feel edge, nervous and to consider the potential risks. "
+- Template: one
+  Title: What is anxiety?
+  Image: "/uploads/adrian-swancar-72El6N0cmj4-unsplash-b2dc26.jpg"
+  Description: 
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -21,10 +17,14 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: one
-  Title: What is anxiety?
-  Image: "/uploads/adrian-swancar-72El6N0cmj4-unsplash-b2dc26.jpg"
-  Description: 
+- Template: four
+  Title: 
+  Image: 
+  Description: "Anxiety is a natural response to feelings of fear.\n\nThis fear response
+    is a natural defence mechanism that manifests in the way we think, feel and behave.
+    \n\nAnxiety can help us by making us alert us to potential threats and dangerous
+    situations. For example if we are walking down an unfamiliar road late at night,
+    it is very natural to feel edge, nervous and to consider the potential risks. "
   Graphic Image: 
   Audio url: 
   Video Url: 
