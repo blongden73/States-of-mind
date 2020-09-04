@@ -554,11 +554,10 @@ Slides:
   Credit: 
   Links:
   - Link Url: 
-  Quote: "‘ It is now largely accepted that there are multiple (context -specific)
-    selves that can interact with each other, observe each other, and converse together
-    out of consciousness. This is normal, not limited to pathological dissociative
-    states.’ "
-  Quote Credit: 'Daniel Stern '
+  Quote: "‘ The false self is set up to protect the true self - to respond to challenges
+    in the environment - the false self essentially takes up the role of social compliance
+    ’ "
+  Quote Credit: Donald Winnicott
   Slide Colour: 
 - Template: one
   Title: Exploring sub personalities
