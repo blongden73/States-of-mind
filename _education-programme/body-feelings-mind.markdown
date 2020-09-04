@@ -161,8 +161,7 @@ Slides:
     can relax faster after stress as increasing the 'tone' of your vagus nerve activates
     the parasympathetic nervous system. \n\nIn 2010, research showed there was a positive
     feedback loop between high vagal tone, positive emotions, and good physical health.
-    The more you increase your vagal tone, the more your physical and mental health
-    will improve, and vice versa .\n"
+    \n"
   Graphic Image: 
   Audio url: 
   Video Url: 
