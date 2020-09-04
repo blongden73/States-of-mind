@@ -242,8 +242,7 @@ Slides:
     the word ‘ruminate’ which is the continued chewing motion that animals use to
     digest their food. We can think of rumination as the process of ‘ chewing on our
     thoughts’. \n\nResearch has shown that people who ruminate more are more likely
-    to struggle with anxiety and depression. This makes sense, as the more our minds
-    focus on problems, the more we will feel stuck and unable to change them. \n\n\n "
+    to struggle with anxiety and depression. \n\n "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -270,11 +269,11 @@ Slides:
   Title: 
   Image: 
   Description: "The feelings of anticipation and loss of control that are connected
-    with the fear response are reflected in the thought patterns that we feel when
-    we experience anxiety. \n\nWe use our minds and thoughts as a way to take control
-    of the situation we perceive as threatening. This process can cause us to experience
-    more distress when we get caught in our thinking as this keeps the uncomfortable
-    experience alive in our minds."
+    with the fear response are reflected in our thought patterns that we have. \n\nWe
+    use our minds and thoughts as a way to take control of the situation we perceive
+    as threatening. \n\nThis process can cause us to experience more distress when
+    we get caught in our thinking as we keep the uncomfortable experience alive in
+    our minds."
   Graphic Image: 
   Audio url: 
   Video Url: 
