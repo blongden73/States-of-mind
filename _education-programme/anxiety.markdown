@@ -63,19 +63,6 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: twenty
-  Title: 
-  Image: 
-  Description: 
-  Graphic Image: "/uploads/anxiety_response.svg"
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
 - Template: sixteen
   Title: When anxiety becomes a problem
   Image: 
@@ -369,6 +356,19 @@ Slides:
   Image: "/uploads/DTSxSSRIdentity9776-1e2552.jpg"
   Description: 
   Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: twenty
+  Title: 
+  Image: 
+  Description: 
+  Graphic Image: "/uploads/anxiety_response.svg"
   Audio url: 
   Video Url: 
   Credit: 
