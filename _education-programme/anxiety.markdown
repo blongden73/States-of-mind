@@ -214,6 +214,29 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: sixteen
+  Title: 'Rumination '
+  Image: "/uploads/rumination%202.jpeg"
+  Description: "\nWhen we imagine an aspect of a future situation that we feel we
+    can’t cope with, our mind tries to solve the problem by thinking about it. This
+    can cause a ‘Thought Loop’ that is caused by our thoughts triggering more feelings
+    of stress and anxiety, that in turn fuel more thoughts and stronger emotions.
+    \n\nThis process of overthinking in relation to a real or imagined future scenario
+    that we perceive as threatening, is called ‘ Rumination’. \n\nThe word comes from
+    the word ‘ruminate’ which is the continued chewing motion that animals use to
+    digest their food. We can think of rumination as the process of ‘ chewing on our
+    thoughts’. \n\nResearch has shown that people who ruminate more are more likely
+    to struggle with anxiety and depression. This makes sense, as the more our minds
+    focus on problems, the more we will feel stuck and unable to change them. \n\n\n "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: four
   Title: 
   Image: 
@@ -286,29 +309,6 @@ Slides:
     the outside but actually inside our minds, we will be daydreaming, reflecting
     or thinking about our lives. \n\nThe default mode is active when we are worrying
     or preoccupied with thoughts about the past and future. "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: sixteen
-  Title: 'Rumination '
-  Image: 
-  Description: "\nWhen we imagine an aspect of a future situation that we feel we
-    can’t cope with, our mind tries to solve the problem by thinking about it. This
-    can cause a ‘Thought Loop’ that is caused by our thoughts triggering more feelings
-    of stress and anxiety, that in turn fuel more thoughts and stronger emotions.
-    \n\nThis process of overthinking in relation to a real or imagined future scenario
-    that we perceive as threatening, is called ‘ Rumination’. \n\nThe word comes from
-    the word ‘ruminate’ which is the continued chewing motion that animals use to
-    digest their food. We can think of rumination as the process of ‘ chewing on our
-    thoughts’. \n\nResearch has shown that people who ruminate more are more likely
-    to struggle with anxiety and depression. This makes sense, as the more our minds
-    focus on problems, the more we will feel stuck and unable to change them. \n\n\n "
   Graphic Image: 
   Audio url: 
   Video Url: 
