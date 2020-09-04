@@ -313,7 +313,7 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: Feelings
-  Image: 
+  Image: "/uploads/aiony-haust-ftLZUqNRjTc-unsplash.jpg"
   Description: "Our relationship with our feelings and emotions has a significant
     impact on our wellbeing in our everyday life. \n\nLike our relationship to our
     body and mind, everybody has a unique relationship with their feelings and this
@@ -321,7 +321,6 @@ Slides:
     relationship to our feelings, it can help us to manage our difficult feelings
     more easily, develop stronger relationships with others and overcome challenging
     times with more clarity and confidence. \n"
-  Graphic Image: "/uploads/aiony-haust-ftLZUqNRjTc-unsplash.jpg"
   Audio url: 
   Video Url: 
   Credit: 
@@ -417,7 +416,7 @@ Slides:
   Slide Colour: "#FFF8EA"
 - Template: one
   Title: 'The Mind '
-  Image: "/uploads/mari-lezhava-Xm9-vA_bhm0-unsplash.jpg"
+  Image: "/uploads/mind.jpg"
   Description: 
   Graphic Image: 
   Audio url: 
