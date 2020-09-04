@@ -237,7 +237,7 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: Movement and emotions
-  Image: "/uploads/photo-1552642986-ccb41e7059e7.jpeg"
+  Image: "/uploads/melody-jacob-IJcdUTz7AyM-unsplash.jpg"
   Description: "When we experience difficult thoughts and emotions, this becomes reflected
     in our body as tension and discomfort. We can release this tension and discomfort
     by bringing awareness to our body and physical experience.\n\nOne of the ways
