@@ -491,7 +491,7 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: 
-  Image: "/uploads/Group%20125.svg"
+  Image: 
   Description: |-
     # I-Thou relationship
 
@@ -526,7 +526,7 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: 'External Unifying Centres '
-  Image: "/uploads/thisisengineering-raeng-h6gCRTCxM7o-unsplash.jpg"
+  Image: "/uploads/Group%20125.svg"
   Description: |-
     The attunement that our supportive relationships provide, supports our personal development by reflecting back to us and reinforcing our values, goals, beliefs and worldview.
 
