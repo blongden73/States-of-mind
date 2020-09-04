@@ -20,13 +20,13 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
+- Template: four
   Title: 
-  Image: "/uploads/katie-moum-2nOYe49Jz_s-unsplash.jpg"
+  Image: 
   Description: "Mind-body approaches to wellbeing focus on developing a balance between
     our emotional, psychological and physical wellbeing in a sustained and gradual
     way over time. \n\nThis model views healing and wellbeing as a consequence of
-    our ability to take notice and develop awareness of the state of our body, feelings
+    our ability to take notice and develop awareness of the state of our  body, feelings
     and mind in our daily life. "
   Graphic Image: 
   Audio url: 
@@ -57,9 +57,9 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
+- Template: four
   Title: 
-  Image: "/uploads/Group%20114.svg"
+  Image: 
   Description: |-
     Everybody has 3 distinct states that we can become conscious to that are both separate from each other and inter-related:
 
@@ -68,8 +68,21 @@ Slides:
     * Emotional states
 
     * Physical states
-
-    Some people may naturally be more connected with either their body, feelings or mind and we each have our own unique relationship to all three, like a fingerprint or personal map.
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: 
+  Image: "/uploads/Group%20114.svg"
+  Description: Some people may naturally be more connected with either their body,
+    feelings or mind and we each have our own unique relationship to all three, like
+    a fingerprint or personal map.
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -153,15 +166,22 @@ Slides:
 - Template: sixteen
   Title: Vagus Nerve
   Image: "/uploads/vagus%20nerve-49f2ca.jpg"
-  Description: "The vagus nerve connects your brain to many important organs throughout
-    the body, including the stomach, heart and lungs.\n\nThe vagus nerve is also a
-    key part of your parasympathetic “rest and digest” nervous system. It influences
-    your breathing, digestive function and heart rate, all of which can have a huge
-    impact on your mental health.\n\nHaving higher vagal tone means that your body
-    can relax faster after stress as increasing the 'tone' of your vagus nerve activates
-    the parasympathetic nervous system. \n\nIn 2010, research showed there was a positive
-    feedback loop between high vagal tone, positive emotions, and good physical health.
-    \n"
+  Description: "The vagus nerve is the longest nerve in your body. It connects your
+    brain to many important organs throughout the body, including the gut (intestines,
+    stomach), heart and lungs.\n\nIn fact, the word “vagus” means “wanderer” in Latin,
+    which accurately represents how the nerve wanders all over the body and reaches
+    various organs.\n\nThe vagus nerve is also a key part of your parasympathetic
+    “rest and digest” nervous system. It influences your breathing, digestive function
+    and heart rate, all of which can have a huge impact on your mental health.\n\nBut
+    what you really need to pay special attention to is the “tone” of your vagus nerve.
+    Vagal tone is an internal biological process that represents the activity of the
+    vagus nerve.\n\nIncreasing your vagal tone activates the parasympathetic nervous
+    system, and having higher vagal tone means that your body can relax faster after
+    stress.\n\nIn 2010, researchers discovered a positive feedback loop between high
+    vagal tone, positive emotions, and good physical health. In other words, the more
+    you increase your vagal tone, the more your physical and mental health will improve,
+    and vice versa .\n\nWe notice the effect of the vagus nerve when we do things
+    that relieve physical tension and our minds become more relaxed and focused. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -172,17 +192,26 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: list
-  Title: When the vagus nerve is out of balance
+  Title: When the vagus nerve is overactive
   Image: 
-  Description: "Our brain can become overstimulated, causing mental tension, anxiety
-    and rumination. \n\n# Feelings Stressed and Overwhelmed \n\nWhen we are stressed
-    and overwhelmed, we are more likely to become ill and are vulnerable to catching
-    a cold or suffering from other illnesses related to the immune system. When the
-    parasympathetic nervous system is active, it suppresses the immune response in
-    the body. \n\n# Health problems and inflammation \n\nWhen the calming effects
-    of the vagus nerve are inhibited through stress, our body can experience inflammation
-    and this can lead to a range of health conditions. There is an extensive body
-    of research that links inflammation to chronic health conditions. "
+  Description: "When the vagus nerve is not activated enough, our brain can become
+    overstimulated, causing mental tension, anxiety and rumination. \n\n# Experiencing
+    a Threat \n\nWhen we experience a threat, the vagus nerve sends a message to our
+    digestive system to stop producing digestive enzymes and to stop ourselves feeling
+    hungry so that we can focus our energy and resources on responding to the threat
+    around us. This is why when we feel stressed and anxious, we feel butterflies
+    in our stomach and other uncomfortable feelings in our belly.  \n\n# Feelings
+    Stressed and Overwhelmed \n\nWhen we are stressed and overwhelmed, we are more
+    likely to become ill and are vulnerable to catching a cold or suffering from other
+    illnesses related to the immune system. When the parasympathetic nervous system
+    is active, it suppresses the immune response in the body. \n\n# Health problems
+    and inflammation \n\nWhen the calming effects of the vagus nerve are inhibited
+    through stress, our body can experience inflammation and this can lead to a range
+    of health conditions. There is an extensive body of research that links inflammation
+    to chronic health conditions. Stress impairs functioning of the nervous system
+    which produces this inflammation and therefore it is important to use the body's
+    natural mechanism - breathing, to maintain balance and bring the balance of the
+    body back to its healthy state. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -237,14 +266,16 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: Movement and emotions
-  Image: "/uploads/melody-jacob-IJcdUTz7AyM-unsplash.jpg"
+  Image: "/uploads/photo-1552642986-ccb41e7059e7.jpeg"
   Description: "When we experience difficult thoughts and emotions, this becomes reflected
-    in our body as tension and discomfort. \n\nOne of the ways we manage painful  emotional
-    experiences is to escape into our minds. Often we don’t realise this is happening
-    at the time and that is why it is important to bring awareness to ourselves in
-    the present moment and reconnect with our bodies as a way to calm ourselves and
-    rebalance our mood. \n\nDance movement psychotherapy is effective because it allows
-    us to use our bodies to influence our mood and release trapped and difficult emotions. \n"
+    in our body as tension and discomfort. We can release this tension and discomfort
+    by bringing awareness to our body and physical experience.\n\nOne of the ways
+    we manage painful  emotional experiences is to escape into our minds. Often we
+    don’t realise this is happening at the time and that is why it is important to
+    bring awareness to ourselves in the present moment and reconnect with our bodies
+    as a way to calm ourselves and rebalance our mood. \n\nDance movement psychotherapy
+    is effective because it allows us to use our bodies to influence our mood and
+    release trapped and difficult emotions. \n"
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -254,6 +285,21 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: five
+  Title: 'The Body Scan '
+  Image: 
+  Description: "The purpose of the body scan is to notice how we may be holding tension
+    and stress unconsciously in our body. By doing a body scan, we use our awareness
+    to reduce stress and tension and bring our body back to balance. \n"
+  Graphic Image: 
+  Audio url: "/uploads/Body%20Scan,%20Page%2017,%20BFM.mp3"
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: "#A3C3CF"
 - Template: sixteen
   Title: 'Yoga: Calming the body '
   Image: "/uploads/DeathtoStock_Fitness1.jpg"
@@ -275,21 +321,6 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: five
-  Title: 'The Body Scan '
-  Image: 
-  Description: "The purpose of the body scan is to notice how we may be holding tension
-    and stress unconsciously in our body. By doing a body scan, we use our awareness
-    to reduce stress and tension and bring our body back to balance. \n"
-  Graphic Image: 
-  Audio url: "/uploads/Body%20Scan,%20Page%2017,%20BFM.mp3"
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: "#A3C3CF"
 - Template: one
   Title: Feelings
   Image: "/uploads/BFM%20hands.jpg"
@@ -305,7 +336,7 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: Feelings
-  Image: "/uploads/aiony-haust-ftLZUqNRjTc-unsplash.jpg"
+  Image: 
   Description: "Our relationship with our feelings and emotions has a significant
     impact on our wellbeing in our everyday life. \n\nLike our relationship to our
     body and mind, everybody has a unique relationship with their feelings and this
@@ -313,6 +344,7 @@ Slides:
     relationship to our feelings, it can help us to manage our difficult feelings
     more easily, develop stronger relationships with others and overcome challenging
     times with more clarity and confidence. \n"
+  Graphic Image: "/uploads/aiony-haust-ftLZUqNRjTc-unsplash.jpg"
   Audio url: 
   Video Url: 
   Credit: 
@@ -408,7 +440,7 @@ Slides:
   Slide Colour: "#FFF8EA"
 - Template: one
   Title: 'The Mind '
-  Image: "/uploads/mind.jpg"
+  Image: "/uploads/mari-lezhava-Xm9-vA_bhm0-unsplash.jpg"
   Description: 
   Graphic Image: 
   Audio url: 
@@ -423,12 +455,28 @@ Slides:
   Title: 'Observing the Tendency of the Mind to Distraction '
   Image: 
   Description: "\n\nThe first lesson in using the mind is to observe its tendency
-    to become distracted by intruding thoughts. \n\nOur mind likes to comment on our
-    experiences. It comments on everything, from how we are feeling, to what we think
-    about other people and the experiences we have. \n\nThe mind is always changing
-    because our moods are always changing. We run into problems with the mind when
-    we begin to believe that everything we are thinking is the only experience that
-    is possible. "
+    to become distracted by intruding thoughts. \n\nBy eliminating distractions, you
+    will be able to observe the mind with greater clarity. We will start with simple
+    exercises to help you understand this. \n\nOur mind likes to comment on our experiences.
+    It comments on everything, from how we are feeling, to what we think about other
+    people and the experiences we have. When we say we feel like ‘changing our mind’
+    it is because the feelings that we are having are causing us to have different
+    thoughts about the same situation. \n\nThe mind is always changing because our
+    moods are always changing. We run into problems with the mind when we begin to
+    believe that everything we are thinking is the only experience that is possible. "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: two
+  Title: Take time to pause
+  Image: 
+  Description: 
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -459,19 +507,6 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: "#FFF8EA"
-- Template: two
-  Title: Take time to pause
-  Image: 
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
 - Template: two
   Title: 'Take time to pause '
   Image: 
@@ -551,26 +586,17 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: one
-  Title: 'Mindsets '
-  Image: "/uploads/motoki-tonn-GuCdEgE3Gcw-unsplash.jpg"
-  Description: graphic
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
 - Template: sixteen
-  Title: 
-  Image: "/uploads/Group%20117.svg"
-  Description: |-
-    Mindsets are the belief patterns that influence how we think and behave in our everyday lives. Some Mindsets/ beliefs are very unconscious to us, while others are more apparent in our lives. 
-
-    Many of our Mindsets are formed in childhood and adolescence and we hold onto these throughout our lives. By exploring our mindsets we can become aware of how they serve or limit us. By becoming aware of how they limit us, we can chose to let go of the resistance they create in our lives.
+  Title: The rational mind
+  Image: "/uploads/ratioonal%20mind-00dcc7.jpg"
+  Description: "\n\nWhen you create from the rational mind, things seem very factual
+    and concrete. This is really helpful for answering questions and providing information
+    for other people to understand. You can use your rational mind to convey your
+    thoughts in a way that is simple and clear.\n\nThe rational mind is also really
+    helpful for communicating things you have already learned and want to tell to
+    others. \n\nThis is why people often get into arguments when they use their rational
+    mind because they are communicating different things that they understand but
+    not considering other possibilities with their imagination. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -580,16 +606,25 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: two
-  Title: 'Take time to pause '
+- Template: list
+  Title: Getting stuck in the rational
   Image: 
-  Description: 
+  Description: "\nSometimes the rational mind can get so caught up in facts and information
+    that we already know or want to understand that we forget to use our imagination
+    to consider how it can be used in other ways and also how other people have made
+    sense of the information from their own perspective.\n\nEverybody has a different
+    perspective and so information can seem very different to different people. The
+    way that you interpret the information depends on who is teaching you, your experiences
+    of the information before and what you want to use the information to do. \n\nIf
+    you want to use the information to add to your beliefs about something then this
+    means that you will often learn the information in a way that serves your beliefs,
+    rather than in a way that can be discussed and changes over time. "
   Graphic Image: 
   Audio url: 
   Video Url: 
   Credit: 
   Links:
-  - Link Url: 'www.statesofmind.org/handbook/working-with-mindsets.html '
+  - Link Url: 
   Quote: 
   Quote Credit: 
   Slide Colour: 
@@ -641,8 +676,50 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: one
+  Title: 'Mindsets '
+  Image: "/uploads/motoki-tonn-GuCdEgE3Gcw-unsplash.jpg"
+  Description: graphic
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: 
+  Image: "/uploads/Group%20117.svg"
+  Description: |-
+    Mindsets are the belief patterns that influence how we think and behave in our everyday lives. Some Mindsets/ beliefs are very unconscious to us, while others are more apparent in our lives. 
+
+    Many of our Mindsets are formed in childhood and adolescence and we hold onto these throughout our lives. By exploring our mindsets we can become aware of how they serve or limit us. By becoming aware of how they limit us, we can chose to let go of the resistance they create in our lives.
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: two
+  Title: 'Take time to pause '
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 'www.statesofmind.org/handbook/working-with-mindsets.html '
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: one
   Title: Connecting our body, feelings and mind
-  Image: "/uploads/elia-pellegrini-oPxeWFTYpwU-unsplash.jpg"
+  Image: "/uploads/photo-1551421802-c0e372bf7de5.jpeg"
   Description: 
   Graphic Image: 
   Audio url: 
