@@ -77,6 +77,21 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: sixteen
+  Title: 
+  Image: "/uploads/Group%20114.svg"
+  Description: Some people may naturally be more connected with either their body,
+    feelings or mind and we each have our own unique relationship to all three, like
+    a fingerprint or personal map.
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: one
   Title: Body, Feelings, Mind Meditation
   Image: "/uploads/body%20scan-cc3639.jpeg"
@@ -90,12 +105,10 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
-  Title: 
-  Image: "/uploads/Group%20114.svg"
-  Description: Some people may naturally be more connected with either their body,
-    feelings or mind and we each have our own unique relationship to all three, like
-    a fingerprint or personal map.
+- Template: two
+  Title: 'Take time to pause '
+  Image: 
+  Description: 
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -247,7 +260,7 @@ Slides:
   Video Url: 
   Credit: 
   Links:
-  - Link Url: 
+  - Link Url: 'www.statesofmind.org/handbook/an-introduction-to-breathing-techniques '
   Quote: 
   Quote Credit: 
   Slide Colour: 
@@ -340,6 +353,19 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: two
+  Title: 'Take time to pause '
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: www.statesofmind.org/handbook/expressing-emotions-worksheet
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: sixteen
   Title: Emotional Awareness
   Image: "/uploads/emotions%202.jpg"
@@ -379,7 +405,7 @@ Slides:
   Video Url: 
   Credit: 
   Links:
-  - Link Url: 
+  - Link Url: www.statesofmind.org/handbook/exploring-emotions-worksheet
   Quote: 
   Quote Credit: 
   Slide Colour: 
@@ -481,6 +507,19 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: "#FFF8EA"
+- Template: two
+  Title: 'Take time to pause '
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 'www.statesofmind.org/handbook/observing-the-mind '
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: sixteen
   Title: 'Rumination '
   Image: "/uploads/rumination%204-7271b0.jpg"
@@ -665,6 +704,19 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: two
+  Title: 'Take time to pause '
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 'www.statesofmind.org/handbook/working-with-mindsets.html '
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: one
   Title: Connecting our body, feelings and mind
   Image: "/uploads/photo-1551421802-c0e372bf7de5.jpeg"
@@ -696,6 +748,19 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: two
+  Title: 'Take time to pause '
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 'www.statesofmind.org/handbook/free-drawing '
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: list
   Title: Letter writing and emotional expression
   Image: 
@@ -714,6 +779,19 @@ Slides:
   Credit: 
   Links:
   - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: two
+  Title: 'Take time to pause '
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: www.statesofmind.org/handbook/compassionate-letter-writing
   Quote: 
   Quote Credit: 
   Slide Colour: 
