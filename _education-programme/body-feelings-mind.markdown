@@ -728,7 +728,7 @@ Slides:
   Slide Colour: 
 - Template: one
   Title: Connecting our body, feelings and mind
-  Image: "/uploads/photo-1551421802-c0e372bf7de5.jpeg"
+  Image: "/uploads/elia-pellegrini-oPxeWFTYpwU-unsplash.jpg"
   Description: 
   Graphic Image: 
   Audio url: 
