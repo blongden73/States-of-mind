@@ -698,6 +698,19 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: two
+  Title: 'Take time to pause '
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: www.statesofmind.org/handbook/practising-mentalising
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: one
   Title: 'Listening '
   Image: "/uploads/alexis-brown--Xv7k95vOFA-unsplash.jpg"
@@ -826,6 +839,19 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: two
+  Title: 'Take time to pause '
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: www.statesofmind.org/handbook/active-listening-worksheet-1
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: six
   Title: 'Empathy '
   Image: 
@@ -905,6 +931,19 @@ Slides:
   Credit: 
   Links:
   - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: two
+  Title: 'Time to pause '
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: www.statesofmind.org/handbook/empathic-listening-instructions
   Quote: 
   Quote Credit: 
   Slide Colour: 
