@@ -426,6 +426,19 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: one
+  Title: The Younger You
+  Image: "/uploads/michal-parzuchowski-RYxTItxb4oY-unsplash.jpg"
+  Description: An Autobiography 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: sixteen
   Title: 'Inner child Practice '
   Image: "/uploads/senjuti-kundu-GCI8dqi4uWM-unsplash.jpg"
@@ -450,19 +463,6 @@ Slides:
   Image: 
   Description: 'And take time to reflect on your personal experience in the insight
     handbook. '
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: one
-  Title: The Younger You
-  Image: "/uploads/michal-parzuchowski-RYxTItxb4oY-unsplash.jpg"
-  Description: An Autobiography 
   Graphic Image: 
   Audio url: 
   Video Url: 
