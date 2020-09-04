@@ -153,22 +153,16 @@ Slides:
 - Template: sixteen
   Title: Vagus Nerve
   Image: "/uploads/vagus%20nerve-49f2ca.jpg"
-  Description: "The vagus nerve is the longest nerve in your body. It connects your
-    brain to many important organs throughout the body, including the gut (intestines,
-    stomach), heart and lungs.\n\nIn fact, the word “vagus” means “wanderer” in Latin,
-    which accurately represents how the nerve wanders all over the body and reaches
-    various organs.\n\nThe vagus nerve is also a key part of your parasympathetic
-    “rest and digest” nervous system. It influences your breathing, digestive function
-    and heart rate, all of which can have a huge impact on your mental health.\n\nBut
-    what you really need to pay special attention to is the “tone” of your vagus nerve.
-    Vagal tone is an internal biological process that represents the activity of the
-    vagus nerve.\n\nIncreasing your vagal tone activates the parasympathetic nervous
-    system, and having higher vagal tone means that your body can relax faster after
-    stress.\n\nIn 2010, researchers discovered a positive feedback loop between high
-    vagal tone, positive emotions, and good physical health. In other words, the more
-    you increase your vagal tone, the more your physical and mental health will improve,
-    and vice versa .\n\nWe notice the effect of the vagus nerve when we do things
-    that relieve physical tension and our minds become more relaxed and focused. "
+  Description: "The vagus nerve connects your brain to many important organs throughout
+    the body, including the stomach, heart and lungs.\n\nThe vagus nerve is also a
+    key part of your parasympathetic “rest and digest” nervous system. It influences
+    your breathing, digestive function and heart rate, all of which can have a huge
+    impact on your mental health.\n\nHaving higher vagal tone means that your body
+    can relax faster after stress as increasing the 'tone' of your vagus nerve activates
+    the parasympathetic nervous system. \n\nIn 2010, research showed there was a positive
+    feedback loop between high vagal tone, positive emotions, and good physical health.
+    The more you increase your vagal tone, the more your physical and mental health
+    will improve, and vice versa .\n"
   Graphic Image: 
   Audio url: 
   Video Url: 
