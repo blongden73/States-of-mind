@@ -173,26 +173,22 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: list
-  Title: When the vagus nerve is overactive
+  Title: When the vagus nerve is out of balance
   Image: 
-  Description: "When the vagus nerve is not activated enough, our brain can become
-    overstimulated, causing mental tension, anxiety and rumination. \n\n# Experiencing
-    a Threat \n\nWhen we experience a threat, the vagus nerve sends a message to our
-    digestive system to stop producing digestive enzymes and to stop ourselves feeling
-    hungry so that we can focus our energy and resources on responding to the threat
-    around us. This is why when we feel stressed and anxious, we feel butterflies
-    in our stomach and other uncomfortable feelings in our belly.  \n\n# Feelings
-    Stressed and Overwhelmed \n\nWhen we are stressed and overwhelmed, we are more
-    likely to become ill and are vulnerable to catching a cold or suffering from other
-    illnesses related to the immune system. When the parasympathetic nervous system
-    is active, it suppresses the immune response in the body. \n\n# Health problems
-    and inflammation \n\nWhen the calming effects of the vagus nerve are inhibited
-    through stress, our body can experience inflammation and this can lead to a range
-    of health conditions. There is an extensive body of research that links inflammation
-    to chronic health conditions. Stress impairs functioning of the nervous system
-    which produces this inflammation and therefore it is important to use the body's
-    natural mechanism - breathing, to maintain balance and bring the balance of the
-    body back to its healthy state. "
+  Description: "Our brain can become overstimulated, causing mental tension, anxiety
+    and rumination. \n\n# Experiencing a Threat \n\nWhen we experience a threat, the
+    vagus nerve sends a message to our digestive system that stops us feeling hungry
+    so that we can focus our energy and resources on responding to the threat around
+    us. This is why when we feel stressed and anxious, we feel butterflies in our
+    stomach and other uncomfortable feelings in our belly.  \n\n# Feelings Stressed
+    and Overwhelmed \n\nWhen we are stressed and overwhelmed, we are more likely to
+    become ill and are vulnerable to catching a cold or suffering from other illnesses
+    related to the immune system. When the parasympathetic nervous system is active,
+    it suppresses the immune response in the body. \n\n# Health problems and inflammation
+    \n\nWhen the calming effects of the vagus nerve are inhibited through stress,
+    our body can experience inflammation and this can lead to a range of health conditions.
+    There is an extensive body of research that links inflammation to chronic health
+    conditions. "
   Graphic Image: 
   Audio url: 
   Video Url: 
