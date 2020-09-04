@@ -162,7 +162,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: six
+- Template: sixteen
   Title: 
   Image: "/uploads/Group%20111.svg"
   Description: |-
