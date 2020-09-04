@@ -67,7 +67,7 @@ Slides:
   Title: 
   Image: 
   Description: 
-  Graphic Image: "/uploads/anxiety_response_v2.svg"
+  Graphic Image: "/uploads/anxiety_response.svg"
   Audio url: 
   Video Url: 
   Credit: 
@@ -517,12 +517,31 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
+  Title: 'Emotional Regulation '
+  Image: "/uploads/elsa-t-BlGFrdgpBqw-unsplash.jpg"
+  Description: |-
+    Emotional regulation is a really important tool for getting unstuck a loop of fearful thoughts and feelings. By understanding how emotional regulation works we can develop our self awareness and gain more control over the different states of mind we experience. 
+
+    Paul Gilbert described 3 main aspects of our emotional regulation system. We will always be experiencing at least one of these states and our wellbeing depends on us experiencing a healthy balance between all 3.
+
+    Each state corresponds to an area in our brain responsible for either survival (Threat), bonding and relaxation (Soothing)  or motivation and reward (Drive).
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
   Title: 'How can you calm the anxiety response? '
   Image: 
   Description: |-
     The key to managing anxiety is to address the underlying cause of the fear response.  This part of the module will explore how you can calm the fear response by understanding how you can regulate it.
 
     Exploring your fears and limiting beliefs
+
     Reducing the stress response and activating the ‘soothing system’
 
     Over-riding rumination by activating the Task Positive Network
@@ -532,6 +551,19 @@ Slides:
   Audio url: 
   Video Url: 
   Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: 
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 'Emotional regulation graphic '
   Links:
   - Link Url: 
   Quote: 
@@ -574,37 +606,6 @@ Slides:
   Audio url: 
   Video Url: 
   Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: sixteen
-  Title: 'Emotional Regulation '
-  Image: "/uploads/elsa-t-BlGFrdgpBqw-unsplash.jpg"
-  Description: |-
-    Emotional regulation is a really important tool for getting unstuck a loop of fearful thoughts and feelings. By understanding how emotional regulation works we can develop our self awareness and gain more control over the different states of mind we experience. 
-
-    Paul Gilbert described 3 main aspects of our emotional regulation system. We will always be experiencing at least one of these states and our wellbeing depends on us experiencing a healthy balance between all 3.
-
-    Each state corresponds to an area in our brain responsible for either survival (Threat), bonding and relaxation (Soothing)  or motivation and reward (Drive).
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: sixteen
-  Title: 
-  Image: 
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 'Emotional regulation graphic '
   Links:
   - Link Url: 
   Quote: 
