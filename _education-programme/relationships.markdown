@@ -62,7 +62,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
-  Title: 'What influences our personal relationships? '
+  Title: 'What shapes our relationships? '
   Image: "/uploads/family.jpg"
   Description: "Our early relationship with our parents are one of the biggest influences
     on how we view relationships and interact with others in our later life.\n\nIt
