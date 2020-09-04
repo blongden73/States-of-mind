@@ -426,28 +426,12 @@ Slides:
   Title: 'Observing the Tendency of the Mind to Distraction '
   Image: 
   Description: "\n\nThe first lesson in using the mind is to observe its tendency
-    to become distracted by intruding thoughts. \n\nBy eliminating distractions, you
-    will be able to observe the mind with greater clarity. We will start with simple
-    exercises to help you understand this. \n\nOur mind likes to comment on our experiences.
-    It comments on everything, from how we are feeling, to what we think about other
-    people and the experiences we have. When we say we feel like ‘changing our mind’
-    it is because the feelings that we are having are causing us to have different
-    thoughts about the same situation. \n\nThe mind is always changing because our
-    moods are always changing. We run into problems with the mind when we begin to
-    believe that everything we are thinking is the only experience that is possible. "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: two
-  Title: Take time to pause
-  Image: 
-  Description: 
+    to become distracted by intruding thoughts. \n\nOur mind likes to comment on our
+    experiences. It comments on everything, from how we are feeling, to what we think
+    about other people and the experiences we have. \n\nThe mind is always changing
+    because our moods are always changing. We run into problems with the mind when
+    we begin to believe that everything we are thinking is the only experience that
+    is possible. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -478,6 +462,19 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: "#FFF8EA"
+- Template: two
+  Title: Take time to pause
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: two
   Title: 'Take time to pause '
   Image: 
