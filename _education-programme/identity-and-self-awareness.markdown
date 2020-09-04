@@ -825,7 +825,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: 'two '
-  Title: 'Take time to pause '
+  Title: Time to pause
   Image: 
   Description: 
   Graphic Image: 
