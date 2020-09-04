@@ -59,7 +59,7 @@ Slides:
   Slide Colour: 
 - Template: four
   Title: 
-  Image: 
+  Image: "/uploads/Group%20114.svg"
   Description: |-
     Everybody has 3 distinct states that we can become conscious to that are both separate from each other and inter-related:
 
@@ -68,6 +68,8 @@ Slides:
     * Emotional states
 
     * Physical states
+
+    Some people may naturally be more connected with either their body, feelings or mind and we each have our own unique relationship to all three, like a fingerprint or personal map.
   Graphic Image: 
   Audio url: 
   Video Url: 
