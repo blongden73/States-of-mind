@@ -368,7 +368,7 @@ Slides:
   Title: 
   Image: 
   Description: 
-  Graphic Image: "/uploads/anxiety_response.svg"
+  Graphic Image: "/uploads/Group%20127.svg"
   Audio url: 
   Video Url: 
   Credit: 
