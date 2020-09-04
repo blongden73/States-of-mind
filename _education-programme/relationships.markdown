@@ -544,19 +544,16 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: six
-  Title: 'Reflecting on supportive relationships in our lives. '
+- Template: two
+  Title: 'Time to pause '
   Image: 
-  Description: This activity has been designed to help you reflect on the positive
-    and supportive relationships in your life, so that you can identify which relationships
-    have healthy qualities and remember the emotional resources that you have available
-    to you. 
+  Description: 
   Graphic Image: 
   Audio url: 
   Video Url: 
   Credit: 
   Links:
-  - Link Url: 
+  - Link Url: www.statesofmind.org/handbook/reflecting-on-the-supportive-relationships-in-our-lives
   Quote: 
   Quote Credit: 
   Slide Colour: 
