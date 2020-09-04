@@ -416,14 +416,26 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: 'Anxiety and avoidance  '
-  Image: 
+  Image: "/uploads/DTS_Warp_Nick_Fancher_4232.jpg"
   Description: "Feelings of stress, combined with our inner fears can cause us to
     retreat into avoidant behaviours that make us feel more comfortable and secure
     than risking potential scenarios that could cause more stress. \n\nThe tendency
     to avoid situations that could cause us discomfort can help in the short term
     but in the long term can perpetuate feelings of anxiety as it reinforces our internal
     beliefs that we cannot cope with situations that challenge us. "
-  Graphic Image: "/uploads/DTS_Warp_Nick_Fancher_4232.jpg"
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: 'Anxiety and control '
+  Image: "/uploads/zone_boy_yellow.svg"
+  Description: 
+  Graphic Image: 
   Audio url: 
   Video Url: 
   Credit: 
@@ -707,19 +719,6 @@ Slides:
     This explains why we find it much more difficult to worry about a problem when we choose to go for a walk, when we go to meet our friends or when we are doing something that takes our attention away from the problem.
 
     If you experience a lot of worry, you can strengthen your Task Positive Network by adding particular tasks to your daily routine that ensure you spend less time in your mind ruminating about your fears and anxieties.
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: sixteen
-  Title: 'Anxiety and control '
-  Image: "/uploads/zone_boy_yellow.svg"
-  Description: 
   Graphic Image: 
   Audio url: 
   Video Url: 
