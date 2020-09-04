@@ -212,15 +212,15 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: four
-  Title: 
+- Template: sixteen
+  Title: 'The Default mode network '
   Image: 
-  Description: "The feelings of anticipation and loss of control that are connected
-    with the fear response are reflected in the thought patterns that we feel when
-    we experience anxiety. \n\nWe use our minds and thoughts as a way to take control
-    of the situation we perceive as threatening. This process can cause us to experience
-    more distress when we get caught in our thinking as this keeps the uncomfortable
-    experience alive in our minds."
+  Description: "Neuroscientists have identified a distinct neural network in the brain
+    that is activated when we ruminate called the ‘Default Mode Network’ . \n\nWhen
+    the ‘Default Mode’ Network is active, it may look like nothing is happening from
+    the outside but actually inside our minds, we will be daydreaming, reflecting
+    or thinking about our lives. \n\nThe default mode is active when we are worrying
+    or preoccupied with thoughts about the past and future. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -266,6 +266,24 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: four
+  Title: 
+  Image: 
+  Description: "The feelings of anticipation and loss of control that are connected
+    with the fear response are reflected in the thought patterns that we feel when
+    we experience anxiety. \n\nWe use our minds and thoughts as a way to take control
+    of the situation we perceive as threatening. This process can cause us to experience
+    more distress when we get caught in our thinking as this keeps the uncomfortable
+    experience alive in our minds."
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: sixteen
   Title: 
   Image: 
@@ -289,24 +307,6 @@ Slides:
     # Emotional reasoning
 
     Assuming that because we feel strongly towards a situation it must be the only reflection of how things are.
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: sixteen
-  Title: 'The Default mode network '
-  Image: 
-  Description: "Neuroscientists have identified a distinct neural network in the brain
-    that is activated when we ruminate called the ‘Default Mode Network’ . \n\nWhen
-    the ‘Default Mode’ Network is active, it may look like nothing is happening from
-    the outside but actually inside our minds, we will be daydreaming, reflecting
-    or thinking about our lives. \n\nThe default mode is active when we are worrying
-    or preoccupied with thoughts about the past and future. "
   Graphic Image: 
   Audio url: 
   Video Url: 
