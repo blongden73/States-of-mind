@@ -164,12 +164,11 @@ Slides:
   Slide Colour: 
 - Template: six
   Title: 
-  Image: 
+  Image: "/uploads/Group%20111.svg"
   Description: |-
     ## The Johari Window
 
     The Johari Window is a visual representation of the parts of ourselves that are either known or unknown to ourselves and others.
-  Graphic Image: 
   Audio url: 
   Video Url: 
   Credit: 
@@ -180,7 +179,7 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: 
-  Image: "/uploads/Group%20111.svg"
+  Image: 
   Description: |-
     * **The open area** represents everything we know about ourselves. This is what people know about us and what we are consciously aware of too.
 
