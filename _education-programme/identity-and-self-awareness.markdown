@@ -88,6 +88,24 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: sixteen
+  Title: Self awareness is a tool that can help us to flourish
+  Image: 
+  Description: "\nThe **insights** that self awareness provides us with allow us to
+    feel more satisfied with our lives because we become more aware of why we feel
+    and act the way we do. \n\nWhen cultivated fully, we no longer feel the need to
+    repress or hide our emotions or react unconsciously to our experiences but view
+    ourselves with a deeper level of understanding. \n"
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: Harrington, Rick,Loffredo, Donald 2010/11/30, Insight, Rumination, and Self-Reflection
+    as Predictors of Well-Being, The Journal of psychology
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: "#FFF8EA"
 - Template: five
   Title: 
   Image: 
@@ -109,24 +127,6 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: "#E7EEE7"
-- Template: sixteen
-  Title: Self awareness is a tool that can help us to flourish
-  Image: 
-  Description: "\nThe **insights** that self awareness provides us with allow us to
-    feel more satisfied with our lives because we become more aware of why we feel
-    and act the way we do. \n\nWhen cultivated fully, we no longer feel the need to
-    repress or hide our emotions or react unconsciously to our experiences but view
-    ourselves with a deeper level of understanding. \n"
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: Harrington, Rick,Loffredo, Donald 2010/11/30, Insight, Rumination, and Self-Reflection
-    as Predictors of Well-Being, The Journal of psychology
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: "#FFF8EA"
 - Template: four
   Title: 
   Image: 
