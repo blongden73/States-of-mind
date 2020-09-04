@@ -179,7 +179,7 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: 
-  Image: 
+  Image: "/uploads/Group%20111.svg"
   Description: |-
     * **The open area** represents everything we know about ourselves. This is what people know about us and what we are consciously aware of too.
 
