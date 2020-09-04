@@ -553,17 +553,10 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
-  Title: The rational mind
-  Image: "/uploads/ratioonal%20mind-00dcc7.jpg"
-  Description: "\n\nWhen you create from the rational mind, things seem very factual
-    and concrete. This is really helpful for answering questions and providing information
-    for other people to understand. You can use your rational mind to convey your
-    thoughts in a way that is simple and clear.\n\nThe rational mind is also really
-    helpful for communicating things you have already learned and want to tell to
-    others. \n\nThis is why people often get into arguments when they use their rational
-    mind because they are communicating different things that they understand but
-    not considering other possibilities with their imagination. "
+- Template: one
+  Title: 'Mindsets '
+  Image: "/uploads/motoki-tonn-GuCdEgE3Gcw-unsplash.jpg"
+  Description: graphic
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -573,25 +566,32 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: list
-  Title: Getting stuck in the rational
-  Image: 
-  Description: "\nSometimes the rational mind can get so caught up in facts and information
-    that we already know or want to understand that we forget to use our imagination
-    to consider how it can be used in other ways and also how other people have made
-    sense of the information from their own perspective.\n\nEverybody has a different
-    perspective and so information can seem very different to different people. The
-    way that you interpret the information depends on who is teaching you, your experiences
-    of the information before and what you want to use the information to do. \n\nIf
-    you want to use the information to add to your beliefs about something then this
-    means that you will often learn the information in a way that serves your beliefs,
-    rather than in a way that can be discussed and changes over time. "
+- Template: sixteen
+  Title: 
+  Image: "/uploads/Group%20117.svg"
+  Description: |-
+    Mindsets are the belief patterns that influence how we think and behave in our everyday lives. Some Mindsets/ beliefs are very unconscious to us, while others are more apparent in our lives. 
+
+    Many of our Mindsets are formed in childhood and adolescence and we hold onto these throughout our lives. By exploring our mindsets we can become aware of how they serve or limit us. By becoming aware of how they limit us, we can chose to let go of the resistance they create in our lives.
   Graphic Image: 
   Audio url: 
   Video Url: 
   Credit: 
   Links:
   - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: two
+  Title: 'Take time to pause '
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 'www.statesofmind.org/handbook/working-with-mindsets.html '
   Quote: 
   Quote Credit: 
   Slide Colour: 
@@ -639,48 +639,6 @@ Slides:
   Credit: 
   Links:
   - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: one
-  Title: 'Mindsets '
-  Image: "/uploads/motoki-tonn-GuCdEgE3Gcw-unsplash.jpg"
-  Description: graphic
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: sixteen
-  Title: 
-  Image: "/uploads/Group%20117.svg"
-  Description: |-
-    Mindsets are the belief patterns that influence how we think and behave in our everyday lives. Some Mindsets/ beliefs are very unconscious to us, while others are more apparent in our lives. 
-
-    Many of our Mindsets are formed in childhood and adolescence and we hold onto these throughout our lives. By exploring our mindsets we can become aware of how they serve or limit us. By becoming aware of how they limit us, we can chose to let go of the resistance they create in our lives.
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: two
-  Title: 'Take time to pause '
-  Image: 
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 'www.statesofmind.org/handbook/working-with-mindsets.html '
   Quote: 
   Quote Credit: 
   Slide Colour: 
