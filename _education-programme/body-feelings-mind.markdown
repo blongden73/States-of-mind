@@ -239,14 +239,12 @@ Slides:
   Title: Movement and emotions
   Image: "/uploads/melody-jacob-IJcdUTz7AyM-unsplash.jpg"
   Description: "When we experience difficult thoughts and emotions, this becomes reflected
-    in our body as tension and discomfort. We can release this tension and discomfort
-    by bringing awareness to our body and physical experience.\n\nOne of the ways
-    we manage painful  emotional experiences is to escape into our minds. Often we
-    don’t realise this is happening at the time and that is why it is important to
-    bring awareness to ourselves in the present moment and reconnect with our bodies
-    as a way to calm ourselves and rebalance our mood. \n\nDance movement psychotherapy
-    is effective because it allows us to use our bodies to influence our mood and
-    release trapped and difficult emotions. \n"
+    in our body as tension and discomfort. \n\nOne of the ways we manage painful  emotional
+    experiences is to escape into our minds. Often we don’t realise this is happening
+    at the time and that is why it is important to bring awareness to ourselves in
+    the present moment and reconnect with our bodies as a way to calm ourselves and
+    rebalance our mood. \n\nDance movement psychotherapy is effective because it allows
+    us to use our bodies to influence our mood and release trapped and difficult emotions. \n"
   Graphic Image: 
   Audio url: 
   Video Url: 
