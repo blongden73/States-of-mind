@@ -560,19 +560,6 @@ Slides:
     states.’ "
   Quote Credit: 'Daniel Stern '
   Slide Colour: 
-- Template: two
-  Title: Take time to pause
-  Image: 
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: www.statesofmind.org/handbook/identifying-with-your-sub-personalities
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
 - Template: one
   Title: Exploring sub personalities
   Image: "/uploads/identity%202.jpg"
@@ -583,6 +570,19 @@ Slides:
   Credit: 
   Links:
   - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: two
+  Title: Take time to pause
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: www.statesofmind.org/handbook/identifying-with-your-sub-personalities
   Quote: 
   Quote Credit: 
   Slide Colour: 
