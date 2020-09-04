@@ -85,7 +85,7 @@ Slides:
   Title: 
   Image: 
   Description: 
-  Graphic Image: "/uploads/Group%20118.svg"
+  Graphic Image: "/uploads/Group%20119.svg"
   Audio url: 
   Video Url: 
   Credit: 
@@ -132,7 +132,7 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: 
-  Image: "/uploads/Group%20119.svg"
+  Image: "/uploads/Group%20118.svg"
   Description: |-
     This graphic reflects the nature of our emotional development. Our emotional memory from key stages of our life shapes our personal blueprint for how we relate with others as adults.
 
@@ -147,11 +147,11 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: twenty
-  Title: 
-  Image: 
+- Template: one
+  Title: 'Relationship Patterns '
+  Image: "/uploads/relationships%20type-b823bd.jpg"
   Description: 
-  Graphic Image: "/uploads/Group%20120.svg"
+  Graphic Image: 
   Audio url: 
   Video Url: 
   Credit: 
@@ -160,11 +160,11 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: one
-  Title: 'Relationship Patterns '
-  Image: "/uploads/relationships%20type-b823bd.jpg"
+- Template: twenty
+  Title: 
+  Image: 
   Description: 
-  Graphic Image: 
+  Graphic Image: "/uploads/Group%20120.svg"
   Audio url: 
   Video Url: 
   Credit: 
