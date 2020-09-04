@@ -180,14 +180,14 @@ Slides:
 - Template: sixteen
   Title: 
   Image: "/uploads/Group%20111.svg"
-  Description: |-
-    * **The open area** represents everything we know about ourselves. This is what people know about us and what we are consciously aware of too.
-
-    * **The hidden area** relates to all of the parts of ourselves that we do not share with others. This information that we keep private may relate to our fears and insecurities swell as your hopes and dreams.
-
-    * **The blind spot** relates to the parts of ourselves we are not aware of but that others know about us. This can relate to both our positive attributes and areas for growth.
-
-    * **The unknown** relates to information about ourselves that is unconscious to both ourselves and others. This relates to parts of ourselves we still have yet to discover through new experiences.
+  Description: "* **The open area** The parts of ourself that we are aware of and
+    that other people know about us too.\n\n* **The hidden area** The parts of ourselves
+    that we do not share with others. This information that we keep private may relate
+    to our fears and insecurities as well as our hopes and dreams.\n\n* **The blind
+    spot** The parts of ourselves we are not aware of but that others know about us.
+    This can relate to both our positive attributes and areas for growth.\n\n* **The
+    unknown** This relates to the the parts of ourselves we are not aware of yet and
+    which nobody else knows either. "
   Graphic Image: 
   Audio url: 
   Video Url: 
