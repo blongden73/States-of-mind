@@ -111,12 +111,11 @@ Slides:
   Title: 'The neuroscience of anxiety '
   Image: 
   Description: "The anxiety response begins in a part of the brain called the Amygdala.
-    We share this part of the brain with all animals, as it is one of the most fundamental
+    The amygdala is activated in response to situations of fear and uncertainty.\n\nWe
+    share this part of the brain with all animals, as it is one of the most fundamental
     survival systems that allows us to detect threats in our environment. \n\nAnimal
     studies have shown that if you remove the amygdala, the animal loses any sense
-    of fear or anxiety. \n\nThe amygdala is activated in response to situations of
-    fear and uncertainty. Once activated, this part of the brain sends a message through
-    the vagus nerve to activate our parasympathetic nervous system. "
+    of fear or anxiety. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -129,15 +128,15 @@ Slides:
 - Template: sixteen
   Title: The amygdala and the nervous response
   Image: "/uploads/amygdala-fb64c4.jpg"
-  Description: "The size of the amygdala has been shown to correlate with people’s
+  Description: "Once activated, this part of the brain sends a message through the
+    vagus nerve to activate our parasympathetic nervous system ( The fight or flight
+    response). \n\nThe size of the amygdala has been shown to correlate with people’s
     sensitivity to aspects of the environment they consider as threatening or unsafe.\n
     \ \nThis is believed to be caused by past experiences of stress and fear that
     causes the brain to adapt to become more alert to future instances of threat so
     that we can recognise them more easily.\n\nResearch has shown that mindfulness
-    and stress reduction programmes reduce the size of the amygalda and people’s levels
-    of anxiety in situations previously experienced as threatening. The size of the
-    amygdala is correlated with the degree to which people subjectively experience
-    the world as safe or threatening. "
+    and stress reduction programmes reduce the size of the amygdala and people’s levels
+    of anxiety in situations previously experienced as threatening. "
   Graphic Image: 
   Audio url: 
   Video Url: 
