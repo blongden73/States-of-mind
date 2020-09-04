@@ -37,26 +37,6 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
-  Title: 'How effective are mind-body techniques? '
-  Image: 
-  Description: |-
-    Mind body techniques have been shown to improve depression in both children and adults.
-
-    In one study, 129 Palestinian children and teenagers took part in a 10-week mind-body skills programme that included meditation, breathing techniques and self expression through drawings and movement. After the programme the participants reported feeling significantly less feelings of hopelessness (a common experience in depression).
-
-    The young people experienced improvements in their depression after 7 months, despite continuing to live through conflict and adversity.
-
-    Further research has shown that mind-body techniques enable higher levels of self awareness, motivation and improvements in mood and behaviour.
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: Staples, Atti, and Gordon (2011), Lin et al. (2010),
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
 - Template: four
   Title: 
   Image: 
@@ -113,6 +93,26 @@ Slides:
   Audio url: 
   Video Url: 
   Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: 'How effective are mind-body techniques? '
+  Image: 
+  Description: |-
+    Mind body techniques have been shown to improve depression in both children and adults.
+
+    In one study, 129 Palestinian children and teenagers took part in a 10-week mind-body skills programme that included meditation, breathing techniques and self expression through drawings and movement. After the programme the participants reported feeling significantly less feelings of hopelessness (a common experience in depression).
+
+    The young people experienced improvements in their depression after 7 months, despite continuing to live through conflict and adversity.
+
+    Further research has shown that mind-body techniques enable higher levels of self awareness, motivation and improvements in mood and behaviour.
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: Staples, Atti, and Gordon (2011), Lin et al. (2010),
   Links:
   - Link Url: 
   Quote: 
