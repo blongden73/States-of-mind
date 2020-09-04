@@ -108,45 +108,6 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: five
-  Title: 'The neuroscience of anxiety '
-  Image: 
-  Description: "The anxiety response begins in a part of the brain called the Amygdala.
-    The amygdala is activated in response to situations of fear and uncertainty.\n\nWe
-    share this part of the brain with all animals, as it is one of the most fundamental
-    survival systems that allows us to detect threats in our environment. \n\nAnimal
-    studies have shown that if you remove the amygdala, the animal loses any sense
-    of fear or anxiety. "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: sixteen
-  Title: The amygdala and the nervous response
-  Image: "/uploads/amygdala-fb64c4.jpg"
-  Description: "Once activated, this part of the brain sends a message through the
-    vagus nerve to activate our parasympathetic nervous system ( The fight or flight
-    response). \n\nThe size of the amygdala has been shown to correlate with people’s
-    sensitivity to aspects of the environment they consider as threatening or unsafe.\n
-    \ \nThis is believed to be caused by past experiences of stress and fear that
-    causes the brain to adapt to become more alert to future instances of threat so
-    that we can recognise them more easily.\n\nResearch has shown that mindfulness
-    and stress reduction programmes reduce the size of the amygdala and people’s levels
-    of anxiety in situations previously experienced as threatening. "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: five
   Title: The sympathetic response - Fight, Fight and Freeze
   Image: 
   Description: "The sympathetic response is the part of the stress response that activates
@@ -201,10 +162,65 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: five
+  Title: 'The neuroscience of anxiety '
+  Image: 
+  Description: "The anxiety response begins in a part of the brain called the Amygdala.
+    The amygdala is activated in response to situations of fear and uncertainty.\n\nWe
+    share this part of the brain with all animals, as it is one of the most fundamental
+    survival systems that allows us to detect threats in our environment. \n\nAnimal
+    studies have shown that if you remove the amygdala, the animal loses any sense
+    of fear or anxiety. "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: one
   Title: 'Anxiety and the mind '
   Image: "/uploads/worry%20%20(1).jpg"
   Description: 'Anxious thought patterns '
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: The amygdala and the nervous response
+  Image: "/uploads/amygdala-fb64c4.jpg"
+  Description: "Once activated, this part of the brain sends a message through the
+    vagus nerve to activate our parasympathetic nervous system ( The fight or flight
+    response). \n\nThe size of the amygdala has been shown to correlate with people’s
+    sensitivity to aspects of their environment they consider as threatening or unsafe.\n
+    \ \nResearch has shown that mindfulness and stress reduction programmes reduce
+    the size of the amygdala and people’s levels of anxiety in situations previously
+    experienced as threatening. "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: four
+  Title: 
+  Image: 
+  Description: "The feelings of anticipation and loss of control that are connected
+    with the fear response are reflected in the thought patterns that we feel when
+    we experience anxiety. \n\nWe use our minds and thoughts as a way to take control
+    of the situation we perceive as threatening. This process can cause us to experience
+    more distress when we get caught in our thinking as this keeps the uncomfortable
+    experience alive in our minds."
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -228,24 +244,6 @@ Slides:
     thoughts’. \n\nResearch has shown that people who ruminate more are more likely
     to struggle with anxiety and depression. This makes sense, as the more our minds
     focus on problems, the more we will feel stuck and unable to change them. \n\n\n "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: four
-  Title: 
-  Image: 
-  Description: "The feelings of anticipation and loss of control that are connected
-    with the fear response are reflected in the thought patterns that we feel when
-    we experience anxiety. \n\nWe use our minds and thoughts as a way to take control
-    of the situation we perceive as threatening. This process can cause us to experience
-    more distress when we get caught in our thinking as this keeps the uncomfortable
-    experience alive in our minds."
   Graphic Image: 
   Audio url: 
   Video Url: 
