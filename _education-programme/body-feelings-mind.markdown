@@ -20,7 +20,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: four
+- Template: sixteen
   Title: 
   Image: "/uploads/katie-moum-2nOYe49Jz_s-unsplash.jpg"
   Description: "Mind-body approaches to wellbeing focus on developing a balance between
