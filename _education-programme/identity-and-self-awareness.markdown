@@ -207,7 +207,7 @@ Slides:
   Video Url: 
   Credit: 
   Links:
-  - Link Url: 
+  - Link Url: www.statesofmind.org/handbook/known-to-self
   Quote: 
   Quote Credit: 
   Slide Colour: 
@@ -247,6 +247,19 @@ Slides:
   Credit: 
   Links:
   - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: 'two '
+  Title: 'Take time to pause '
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: www.statesofmind.org/handbook/who-am-i-worksheet
   Quote: 
   Quote Credit: 
   Slide Colour: 
@@ -308,7 +321,7 @@ Slides:
   Video Url: 
   Credit: 
   Links:
-  - Link Url: 
+  - Link Url: 'www.statesofmind.org/handbook/exploring-your-name '
   Quote: 
   Quote Credit: 
   Slide Colour: 
@@ -335,7 +348,7 @@ Slides:
   Video Url: 
   Credit: 
   Links:
-  - Link Url: 
+  - Link Url: www.statesofmind.org/handbook/life-events-and-personal-history
   Quote: 
   Quote Credit: 
   Slide Colour: 
@@ -546,6 +559,19 @@ Slides:
     out of consciousness. This is normal, not limited to pathological dissociative
     states.’ "
   Quote Credit: 'Daniel Stern '
+  Slide Colour: 
+- Template: two
+  Title: Take time to pause
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: www.statesofmind.org/handbook/identifying-with-your-sub-personalities
+  Quote: 
+  Quote Credit: 
   Slide Colour: 
 - Template: one
   Title: Exploring sub personalities
