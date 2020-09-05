@@ -198,7 +198,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: two
-  Title: 'Time to pause '
+  Title: 'Exploring your Johari Window '
   Image: 
   Description: 'And take time to reflect on your personal experience in the insight
     handbook. '
