@@ -370,7 +370,20 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: five
+- Template: two
+  Title: 'Reflect on your experience '
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: www.statesofmind.org/handbook/feeling-overwhelmed
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
   Title: 'Exploring our fears '
   Image: "/uploads/astrologyforartists_105941222_169499407896081_2923306870018876192_n.jpg"
   Description: |-
@@ -390,7 +403,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: two
-  Title: 'Take time to pause '
+  Title: 'Explore your fears '
   Image: 
   Description: 
   Graphic Image: 
@@ -446,7 +459,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: two
-  Title: 'Time to pause '
+  Title: 'Explore your experience '
   Image: 
   Description: 
   Graphic Image: 
@@ -454,7 +467,7 @@ Slides:
   Video Url: 
   Credit: 
   Links:
-  - Link Url: 
+  - Link Url: www.statesofmind.org/handbook/anxiety-and-control
   Quote: 
   Quote Credit: 
   Slide Colour: 
@@ -581,6 +594,19 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: two
+  Title: 'Explore your experience '
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: www.statesofmind.org/handbook/drive-slash-soothing-system
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: five
   Title: 'Fears and Limiting Beliefs '
   Image: 
@@ -691,6 +717,19 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: two
+  Title: 'Practice a breathing exercise '
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: www.statesofmind.org/handbook/an-introduction-to-breathing-techniques
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: five
   Title: Mindfulness -Based Stress reduction
   Image: 
@@ -724,11 +763,24 @@ Slides:
   Title: 'Activating the Task Positive Network '
   Image: 
   Description: |-
-    Your Default mode is switched OFF when you focus your attention on tasks or ‘doing things’. When you are in this mode, your ‘ Task Positive Network’ is activated. You can see this network as your ‘solution focused network.’ These networks are similar to a switch, when one is ON the other is OFF. 
+    Your Default mode is switched OFF when you focus your attention on tasks or ‘doing things’. When you are in this mode, your ‘Task Positive Network’ is activated. You can see this network as your ‘solution focused network.’ These networks are similar to a switch, when one is ON the other is OFF. 
 
     This explains why you find it much more difficult to worry about a problem when you choose to go for a walk, when you go to meet your friends or when you are doing something that takes your attention away from the problem.
 
     If you experience a lot of worry, you can strengthen your Task Positive Network by adding particular tasks to your daily routine that ensure you spend less time in your mind ruminating about your fears and anxieties.
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: two
+  Title: 'Activate you task positive network '
+  Image: 
+  Description: 
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -759,7 +811,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: two
-  Title: 'Compassionate letter writing '
+  Title: Write yourself a letter
   Image: 
   Description: 
   Graphic Image: 
@@ -798,6 +850,19 @@ Slides:
 
     ### Sleep - at least 8 hours
     Sleep is designed to reduce stress levels as it allows you to release the resistance that causes anxiety. Your fight or fight response is triggered when you do not get enough sleep.
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: two
+  Title: Write yourself a letter
+  Image: 
+  Description: 
   Graphic Image: 
   Audio url: 
   Video Url: 
