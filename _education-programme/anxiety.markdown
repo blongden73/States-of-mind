@@ -309,7 +309,7 @@ Slides:
     with the threat response. \n\nThis causes your heart to beat faster, your breathing
     to become more shallow and a sensation of ‘butterflys in the stomach’. \n\nThe
     higher levels of adrenaline and cortisol cause you to feel nervous and jittery
-    as they are preparing us to escape the threat (Flight) or become defensive to
+    as they are preparing you to escape the threat (Flight) or become defensive to
     \ it ( Fight). The anxiety response is closely linked with the Freeze response,
     where you feel paralysed to act in the face of a threat. "
   Graphic Image: 
