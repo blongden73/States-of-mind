@@ -14,4 +14,11 @@ What areas of your life do you most notice a lack of compassion for yourself?
 
 
 
-In what ways could you practice more self compassion for this part of yourself? 
+
+In what ways could you begin to practice more self compassion with this part of yourself? 
+
+
+
+
+
+In general, how would your life be different if you were more compassionate with yourself? 
