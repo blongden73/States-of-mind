@@ -252,19 +252,6 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
-  Title: 'Anxiety and control '
-  Image: "/uploads/zone_boy_yellow.svg"
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
 - Template: four
   Title: 
   Image: 
@@ -272,19 +259,6 @@ Slides:
     we perceive as threatening. \n\nThis process can cause us to experience more distress
     when we get caught in our thinking as we keep the uncomfortable experience alive
     in our minds.\n\n"
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: two
-  Title: 'Reflect on your experience '
-  Image: 
-  Description: 
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -315,6 +289,32 @@ Slides:
     # Emotional reasoning
 
     Assuming that because we feel strongly towards a situation it must be the only reflection of how things are.
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: 'Anxiety and control '
+  Image: "/uploads/zone_boy_yellow.svg"
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: two
+  Title: 'Reflect on your experience '
+  Image: 
+  Description: 
   Graphic Image: 
   Audio url: 
   Video Url: 
