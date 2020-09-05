@@ -188,7 +188,7 @@ Slides:
   Description: "When you feel overwhelmed, you may use your mind and thoughts to feel
     more in control of the situation you perceive as threatening, by overthinking
     and trying to solve the problem. \n\nThis can cause you to prolong or increase
-    your distress by keeping the uncomfortable experience alive in your thoughts.\n\n"
+    your distress by keeping the uncomfortable experience present in your mind.\n\n"
   Graphic Image: 
   Audio url: 
   Video Url: 
