@@ -560,24 +560,6 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
-  Title: 'Emotional Regulation '
-  Image: "/uploads/elsa-t-BlGFrdgpBqw-unsplash.jpg"
-  Description: |-
-    Emotional regulation is a really important tool for getting unstuck a loop of fearful thoughts and feelings. By understanding how emotional regulation works we can develop our self awareness and gain more control over the different states of mind we experience. 
-
-    Paul Gilbert described 3 main aspects of our emotional regulation system. We will always be experiencing at least one of these states and our wellbeing depends on us experiencing a healthy balance between all 3.
-
-    Each state corresponds to an area in our brain responsible for either survival (Threat), bonding and relaxation (Soothing)  or motivation and reward (Drive).
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: sixteen
   Title: 'How can you calm the anxiety response? '
   Image: 
   Description: |-
@@ -600,6 +582,24 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
+  Title: 'Emotional Regulation '
+  Image: "/uploads/elsa-t-BlGFrdgpBqw-unsplash.jpg"
+  Description: |-
+    Emotional regulation is a really important tool for getting unstuck a loop of fearful thoughts and feelings. By understanding how emotional regulation works we can develop our self awareness and gain more control over the different states of mind we experience. 
+
+    Paul Gilbert described 3 main aspects of our emotional regulation system. We will always be experiencing at least one of these states and our wellbeing depends on us experiencing a healthy balance between all 3.
+
+    Each state corresponds to an area in our brain responsible for either survival (Threat), bonding and relaxation (Soothing)  or motivation and reward (Drive).
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
   Title: 
   Image: 
   Description: 
@@ -607,6 +607,27 @@ Slides:
   Audio url: 
   Video Url: 
   Credit: 'Emotional regulation graphic '
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: 
+  Image: "/uploads/phone%202.jpg"
+  Description: "One of the traps that we can get caught in when we are stressed and
+    anxious is mistaking the Drive system for the Soothing System.\n\nWhen this happens,
+    we mistake the feelings of relief we get from distracting ourselves, with the
+    restoring and reassuring states that we access through our soothing system. \n\nAn
+    example of this is getting home from a long day and feelings stressed and tired.
+    We chose to watch Netflix all night to distract ourselves from the stress of the
+    day. Instead of paying attention to our feelings and caring for ourselves, we
+    get caught in the ‘seeking mode' of looking for something to distract us from
+    our uncomfortable feelings. \n \n\n"
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
   Links:
   - Link Url: 
   Quote: 
