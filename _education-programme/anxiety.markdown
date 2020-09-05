@@ -20,9 +20,9 @@ Slides:
 - Template: four
   Title: 
   Image: 
-  Description: "Anxiety is a natural a natural fear response that is triggered when
-    you are overwhelmed and feel that you cannot cope.\n\nThis fear response creates
-    changes in the way you think, feel and behave. \n"
+  Description: "Anxiety is a natural fear response that is triggered when you are
+    overwhelmed and feel that you cannot cope.\n\nThis fear response creates changes
+    in the way you think, feel and behave. \n"
   Graphic Image: 
   Audio url: 
   Video Url: 
