@@ -298,8 +298,6 @@ Slides:
   Title: 
   Image: 
   Description: |-
-    # Anxious thought patterns
-
     One of those ways to notice if we are experiencing anxiety is to bring awareness to our thought patterns. When we are fearful and anxious, we begin to think differently, bringing awareness to these can help us recognise when we are caught in anxiety.
 
     # Tunnel Vision
