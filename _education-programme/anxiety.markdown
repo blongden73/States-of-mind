@@ -79,15 +79,10 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: five
-  Title: 'The neuroscience of anxiety '
-  Image: 
-  Description: "The anxiety response begins in a part of the brain called the Amygdala.
-    The amygdala is activated in response to situations of fear and uncertainty.\n\nWe
-    share this part of the brain with all animals, as it is one of the most fundamental
-    survival systems that allows us to detect threats in our environment. \n\nAnimal
-    studies have shown that if you remove the amygdala, the animal loses any sense
-    of fear or anxiety. "
+- Template: one
+  Title: 'Anxiety and the mind '
+  Image: "/uploads/worry%20%20(1).jpg"
+  Description: 'Anxious thought patterns '
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -97,10 +92,15 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: one
-  Title: 'Anxiety and the mind '
-  Image: "/uploads/worry%20%20(1).jpg"
-  Description: 'Anxious thought patterns '
+- Template: five
+  Title: 'The neuroscience of anxiety '
+  Image: 
+  Description: "The anxiety response begins in a part of the brain called the Amygdala.
+    The amygdala is activated in response to situations of fear and uncertainty.\n\nWe
+    share this part of the brain with all animals, as it is one of the most fundamental
+    survival systems that allows us to detect threats in our environment. \n\nAnimal
+    studies have shown that if you remove the amygdala, the animal loses any sense
+    of fear or anxiety. "
   Graphic Image: 
   Audio url: 
   Video Url: 
