@@ -36,8 +36,8 @@ Slides:
   Title: 
   Image: 
   Description: "Anxiety is a natural fear response that is triggered when you are
-    overwhelmed and feel that you cannot cope.\n\nThis fear response creates changes
-    in the way you think, feel and behave. \n"
+    overwhelmed and feel that you cannot cope with a real or imagined threat.\n\nThis
+    fear response creates changes in the way you think, feel and behave. \n"
   Graphic Image: 
   Audio url: 
   Video Url: 
