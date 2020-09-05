@@ -542,24 +542,6 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
-  Title: 'Emotional Regulation '
-  Image: "/uploads/elsa-t-BlGFrdgpBqw-unsplash.jpg"
-  Description: |-
-    Emotional regulation is a really important tool for getting unstuck a loop of fearful thoughts and feelings. By understanding how emotional regulation works you can develop your self awareness and gain more control over the different states of mind you experience. 
-
-    Paul Gilbert described 3 main aspects of your emotional regulation system. You will always be experiencing at least one of these states and your wellbeing depends on you experiencing a healthy balance between all 3.
-
-    Each state corresponds to an area in your brain responsible for either survival (Threat), bonding and relaxation (Soothing)  or motivation and reward (Drive).
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: sixteen
   Title: 'How can you calm the anxiety response? '
   Image: 
   Description: |-
@@ -572,6 +554,24 @@ Slides:
     Over-riding rumination by activating your Task Positive Network
 
     Changing your state of mind from a need to control, to a state of acceptance and self compassion.
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: 'Emotional Regulation '
+  Image: "/uploads/elsa-t-BlGFrdgpBqw-unsplash.jpg"
+  Description: |-
+    Emotional regulation is a really important tool for getting unstuck a loop of fearful thoughts and feelings. By understanding how emotional regulation works you can develop your self awareness and gain more control over the different states of mind you experience. 
+
+    Paul Gilbert described 3 main aspects of your emotional regulation system. You will always be experiencing at least one of these states and your wellbeing depends on you experiencing a healthy balance between all 3.
+
+    Each state corresponds to an area in your brain responsible for either survival (Threat), bonding and relaxation (Soothing)  or motivation and reward (Drive).
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -778,7 +778,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: two
-  Title: 'Activate you task positive network '
+  Title: 'Activate your task positive network '
   Image: 
   Description: 
   Graphic Image: 
@@ -850,19 +850,6 @@ Slides:
 
     ### Sleep - at least 8 hours
     Sleep is designed to reduce stress levels as it allows you to release the resistance that causes anxiety. Your fight or fight response is triggered when you do not get enough sleep.
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: two
-  Title: Write yourself a letter
-  Image: 
-  Description: 
   Graphic Image: 
   Audio url: 
   Video Url: 
