@@ -575,6 +575,53 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: list
+  Title: How are sub-personalities related to mental health? 
+  Image: 
+  Description: "Subpersonalities cause difficulties when you identify with this one
+    part of yourself and believe it to be all of you. \n\nFor example, if you are
+    identified with the ‘High achiever’ part of yourself, it may help you to get good
+    grades and maintain a motivation for developing your knowledge and experience.
+    However, if you become over identified with this part of yourself you may become
+    very distressed by setbacks, you may spend less time with our friends or you may
+    never be satisfied with what you have achieved. \n\nYour sub personalities all
+    emerge from an unmet need.By identifying these needs you can develop more self
+    awareness and understanding of your behaviour. \n\nBy bringing awareness to your
+    different sub personalities you can integrate them and enable the different parts
+    of your personality to work together as a harmonious whole."
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: "Example: The Expert \n\n"
+  Image: "/uploads/expert.jpg"
+  Description: |-
+    **Behaviour:**
+    Patronising, condescending, arrogant, ‘ know it all’, rigid, defensive, guarded and slightly hostile.  Serious tone of voice. Body language: Rigid, tense, stiff.
+
+    **Wants:**
+    To be taken seriously, to be respected, not to be challenged, to be right, to feel superior, to be admired and given attention. to not be criticised.
+
+    **Needs:**
+    To feel unconditionally accepted and loved, to be seen and valued, to be heard, to feel worthy and enough as they are.
+
+    **Qualities of self that are hidden:**
+    Playfulness and spontaneity, willingness to learn from others, curiosity, the part of us that wants to grow, acceptance of self.
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: two
   Title: 'Explore your subpersonalities '
   Image: 
@@ -612,30 +659,6 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
-  Title: "Example: The Expert \n\n"
-  Image: "/uploads/expert.jpg"
-  Description: |-
-    **Behaviour:**
-    Patronising, condescending, arrogant, ‘ know it all’, rigid, defensive, guarded and slightly hostile.  Serious tone of voice. Body language: Rigid, tense, stiff.
-
-    **Wants:**
-    To be taken seriously, to be respected, not to be challenged, to be right, to feel superior, to be admired and given attention. to not be criticised.
-
-    **Needs:**
-    To feel unconditionally accepted and loved, to be seen and valued, to be heard, to feel worthy and enough as they are.
-
-    **Qualities of self that are hidden:**
-    Playfulness and spontaneity, willingness to learn from others, curiosity, the part of us that wants to grow, acceptance of self.
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: sixteen
   Title: 'Some other sub-personalities for you to explore '
   Image: "/uploads/Group%20113.svg"
   Description: "* The clown\n* The critic\n* The people pleaser\n* The caretaker\n*
@@ -649,29 +672,6 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: "#FFF8EA"
-- Template: list
-  Title: How are sub-personalities related to mental health? 
-  Image: 
-  Description: "Subpersonalities cause difficulties when you identify with this one
-    part of yourself and believe it to be all of you. \n\nFor example, if you are
-    identified with the ‘High achiever’ part of yourself, it may help you to get good
-    grades and maintain a motivation for developing your knowledge and experience.
-    However, if you become over identified with this part of yourself you may become
-    very distressed by setbacks, you may spend less time with our friends or you may
-    never be satisfied with what you have achieved. \n\nYour sub personalities all
-    emerge from an unmet need.By identifying these needs you can develop more self
-    awareness and understanding of your behaviour. \n\nBy bringing awareness to your
-    different sub personalities you can integrate them and enable the different parts
-    of your personality to work together as a harmonious whole."
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
 - Template: four
   Title: 'Stages of Integration '
   Image: 
