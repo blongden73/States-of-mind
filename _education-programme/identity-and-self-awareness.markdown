@@ -198,7 +198,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: two
-  Title: 'Exploring your Johari Window '
+  Title: 'Explore your Johari Window '
   Image: 
   Description: 'And take time to reflect on your personal experience in the insight
     handbook. '
@@ -251,7 +251,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: 'two '
-  Title: 'Who am I activity '
+  Title: 'Explore your identity '
   Image: 
   Description: 
   Graphic Image: 
