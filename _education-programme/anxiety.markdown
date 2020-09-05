@@ -185,7 +185,7 @@ Slides:
 - Template: four
   Title: 
   Image: 
-  Description: "You can use your mind and thoughts as a way to take control of the
+  Description: "You can use your mind and thoughts to feel more in control of the
     situation you perceive as threatening. \n\nThis process can cause you to experience
     more distress when you get caught in your thinking as you keep the uncomfortable
     experience alive in your mind.\n\n"
