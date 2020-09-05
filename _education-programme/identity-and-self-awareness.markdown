@@ -294,7 +294,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
-  Title: 'Reflect on your name '
+  Title: Your name
   Image: 
   Description: "Our name is a personal and special aspect of our identity. It is a
     part of our identity that we are very familiar with, yet we do not always pause
@@ -312,7 +312,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: two
-  Title: 'Time to pause '
+  Title: Reflect on your name
   Image: 
   Description: 'And take time to reflect on your personal experience in the insight
     handbook. '
