@@ -115,7 +115,7 @@ Slides:
     the fact that no parent can meet your needs all of the time and that no parenting
     style can be completely perfect.\n\nYour parents are individuals with their own
     potentially unmet needs and relational patterns that have been played out from
-    their childhoods. \n\nAlthough no parent can meet all of our needs all of the
+    their childhoods. \n\nAlthough no parent can meet all of your needs all of the
     time, the amount of attunement that they were able to provide has been shown to
     influence the quality of your relationships as an adult.\n\nIf your parents punished
     you or were unavailable when you needed them emotionally, you may come to develop
