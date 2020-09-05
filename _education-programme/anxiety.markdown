@@ -50,8 +50,7 @@ Slides:
 - Template: ten
   Title: 
   Image: 
-  Description: 'Why do you think that so many people experience anxiety in the western
-    world? '
+  Description: 'What do you think are the main sources of anxiety for young people? '
   Graphic Image: 
   Audio url: 
   Video Url: 
