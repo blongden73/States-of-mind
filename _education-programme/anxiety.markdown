@@ -545,7 +545,7 @@ Slides:
   Title: 'How can you calm the anxiety response? '
   Image: 
   Description: |-
-    The key to managing anxiety is to address the underlying cause of your fear response. This part of the module will explore how you can calm your fear response by understanding how you can regulate it.
+    The key to managing anxiety is to address the underlying cause of your fear response. This part of the module will explore how you can do that by:
 
     Exploring your fears and limiting beliefs
 
