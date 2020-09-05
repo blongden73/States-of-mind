@@ -13,4 +13,4 @@ What early experiences do you think may have contributed to this way of relating
 
 
 
-What relationship patterns do you notice yourself repeating that you feel are areas for growth? 
+What relationship patterns do you notice yourself repeating that you feel are areas for growth? Eg. not feeling comfortable communicating your feelings honestly with others. 
