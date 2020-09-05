@@ -83,9 +83,7 @@ Slides:
   Title: 'Neuroplasticity and emotional development. '
   Image: 
   Description: |-
-    Often, you will repeat similar patterns in your relationships due to the way your early childhood experiences shape your perception of the present, yet your relationships in adult life can also reshape your perception of what relationships can be like.
-
-    Neuroscientists have discovered that your brain is able to continue reshaping itself through your adolescence and adult life. This means that early emotional and behavioural patterns can change with new experiences that you have throughout your life.
+    Neuroscientists have discovered that your brain is able to continue reshaping itself through your adolescence and adult life. This means that your early emotional and behavioural patterns can change with new experiences that you have throughout your life.
 
     Your brains ability to reshape itself has significant positive implications for your ability to heal difficult relationship patterns and learn new ways of being with others in relationships.
   Graphic Image: 
