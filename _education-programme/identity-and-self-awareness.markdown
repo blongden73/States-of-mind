@@ -554,9 +554,9 @@ Slides:
   Credit: 
   Links:
   - Link Url: 
-  Quote: "‘ The false self is set up to protect the true self - to respond to challenges
-    in the environment - the false self essentially takes up the role of social compliance
-    ’ "
+  Quote: '" The false self is set up to protect the true self - to respond to challenges
+    in the environment - the false self essentially takes up the role of social compliance.
+    " '
   Quote Credit: Donald Winnicott
   Slide Colour: 
 - Template: one
