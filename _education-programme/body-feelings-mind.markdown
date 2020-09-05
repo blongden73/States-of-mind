@@ -447,7 +447,7 @@ Slides:
     understanding how to control its different aspects, you can dramatically improve
     the quality of your everyday life. \n\nThis part of the course is designed to
     teach you how to examine and gain more awareness of your mind and thought processes.\n\nThere
-    is a tendency for the mind to become distracted, which makes us feel lost and
+    is a tendency for the mind to become distracted, which makes you feel lost and
     unclear about what you want to focus on. \n\nTo train the mind, you must learn
     how to control our attention and bring balance to it’s different tendencies so
     that you can use the mind, instead of allowing yourself to become stuck in autopilot. "
@@ -511,12 +511,11 @@ Slides:
 - Template: five
   Title: What is mindfulness?
   Image: 
-  Description: "Mindfulness is a practice that involves bringing our awareness to
-    the present moment consciously and non-judgementally. \n\nOften, our thoughts
-    become preoccupied with thinking about the future, dwelling on our past or overanalysing
-    our personal experiences. \n\nThrough mindfulness, we can ‘step back’ and become
-    attuned to our present moment experience and step back from our attachment to
-    thinking. "
+  Description: "Mindfulness is a practice that involves bringing your awareness to
+    the present moment consciously and non-judgementally. \n\nOften, your thoughts
+    become preoccupied with thinking about the future, dwelling on your past or overanalysing
+    your personal experiences. \n\nThrough mindfulness, you can ‘step back’, become
+    attuned to your present moment experience and release the grip on your thoughts. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -556,9 +555,9 @@ Slides:
   Title: 
   Image: "/uploads/Group%20117.svg"
   Description: |-
-    Mindsets are the belief patterns that influence how we think and behave in our everyday lives. Some Mindsets/ beliefs are very unconscious to us, while others are more apparent in our lives. 
+    Mindsets are the belief patterns that influence how you think and behave in your everyday life. Some Mindsets/ beliefs are very unconscious to you, while others are more apparent in your lives. 
 
-    Many of our Mindsets are formed in childhood and adolescence and we hold onto these throughout our lives. By exploring our mindsets we can become aware of how they serve or limit us. By becoming aware of how they limit us, we can chose to let go of the resistance they create in our lives.
+    Many of your Mindsets are formed in childhood and adolescence and you hold onto these throughout your life. By exploring your mindsets you can become aware of how they serve or limit you. By becoming aware of how they limit you, you can chose to let go of the resistance they create in your life.
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -597,12 +596,12 @@ Slides:
 - Template: sixteen
   Title: 'The creative mind and problem solving '
   Image: 
-  Description: "We can use our mind to come up with ideas and to create insights that
-    can help us to make decisions more easily. How do we enable this part of the mind
-    to work? \n\nOften, this is the part of the mind that we are not encouraged to
-    use as much, so it can take a bit of practice to remind ourselves of what it feels
-    like to use this part of the mind.\n\nThis part of the mind is much softer and
-    it enjoys working in ways that are more imaginative, like storytelling. \n "
+  Description: "You can use our mind to come up with ideas and to create insights
+    that can help you to make decisions more easily. How do you enable this part of
+    the mind to work? \n\nOften, this is the part of the mind that you are not encouraged
+    to use as much, so it can take a bit of practice to remind yourself of what it
+    feels like to use this part of the mind.\n\nThis part of the mind is much softer
+    and it enjoys working in ways that are more imaginative, like storytelling. \n "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -616,9 +615,9 @@ Slides:
   Title: 'Imagination '
   Image: "/uploads/imagine.jpg"
   Description: |-
-    Whenever somebody comes up with an idea, they have an image of the idea that comes along with the thought of it. This is the visual part of the mind that helps us to imagine future possibilities and helps us to access parts of our experience we have not yet seen. When we close our eyes and allow ourselves to imagine something, it helps us to visualise all of the outcomes of that reality happening. 
+    Whenever somebody comes up with an idea, they have an image of the idea that comes along with the thought of it. This is the visual part of the mind that helps you to imagine future possibilities. When you close our eyes and allow yourself to imagine something, it helps you to visualise all of the outcomes of that reality happening. 
 
-    When we get stuck with a decision, it’s because we feel like we don’t know what the outcome will be, so by visualising the different situations, problems or people we are having the problem with, we can visualise other aspects that we can’t access when we are stuck in the thinking, judging mind that likes to get stuck on one belief or potential situation. 
+    When you get stuck with a decision, it’s because you feel like you don’t know what the outcome will be, so by visualising the different situations, problems or people you are having the problem with, you can also visualise other aspects that you can’t access when we are stuck in the thinking, judging mind that likes to get stuck on one belief or potential situation. 
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -657,10 +656,10 @@ Slides:
 - Template: sixteen
   Title: 'Drawing '
   Image: "/uploads/sergio-rodriguez-portugues-del-olmo-Prqjj23e2QA-unsplash.jpg"
-  Description: "Drawing is a powerful tool for getting in touch with our emotional
-    world. \n\nOften if our lives are busy and we are very caught in our thoughts,
-    it can be difficult to step back and observe how our feelings and emotions are.
-    \n\nIf our feelings get trapped or ignored it can contribute to a lot of tension
+  Description: "Drawing is a powerful tool for getting in touch with your emotional
+    world. \n\nOften if your life is busy and you are very caught in your thoughts,
+    it can be difficult to step back and observe how your feelings and emotions are.
+    \n\nIf your feelings get trapped or ignored it can contribute to a lot of tension
     and discomfort. \n\nThis activity allows you to gently connect with your feelings
     in a therapeutic way, using a simple drawing exercise. \n\n"
   Graphic Image: 
@@ -688,15 +687,15 @@ Slides:
 - Template: list
   Title: Letter writing and emotional expression
   Image: 
-  Description: "We often rely on relationships with other people to help us regulate
-    our emotions but in the absence of these supportive environments it is important
-    that we find healthy ways to cope with difficult emotions on our own.\n\nLetter
-    writing, or journaling has been found to be a really effective way to identify
-    and process our emotional world. \n\nThis letter writing exercise is focused on
-    expressing our emotions towards other people but we can also journal about our
-    own thoughts and feelings to help us make sense of them. \n\nThe process works
-    in a similar way to communicating with words, as we are externalising our distress
-    which allows us to view it in a new way."
+  Description: "People often rely on relationships with other people to help regulate
+    their emotions but in the absence of these supportive environments it is important
+    to find healthy ways to cope with difficult emotions on our own.\n\nLetter writing,
+    or journaling has been found to be a really effective way to identify and process
+    your emotional world. \n\nThis letter writing exercise is focused on expressing
+    your emotions towards other people but you can also journal about your own thoughts
+    and feelings to help you make sense of them. \n\nThe process works in a similar
+    way to communicating with words, as you are externalising your distress which
+    allows you to view it in a new way."
   Graphic Image: 
   Audio url: 
   Video Url: 
