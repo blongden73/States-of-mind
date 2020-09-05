@@ -89,7 +89,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
-  Title: Self awareness is a tool that can help us to flourish
+  Title: Self awareness is a tool that can help us to grow
   Image: 
   Description: "\nThe **insights** that self awareness provides you with allow you
     to feel more satisfied with your life because you become more aware of why you
