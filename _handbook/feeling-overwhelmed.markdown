@@ -13,3 +13,9 @@ What thoughts and feelings did you notice in this situation?
 
 
 
+
+
+How did this situation end and what did you learn from it? 
+
+
+
