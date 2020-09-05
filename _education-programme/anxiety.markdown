@@ -500,6 +500,19 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: 'two '
+  Title: 'Reflect on your experience '
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: sixteen
   Title: Anxiety and relationships
   Image: "/uploads/diana-spatariu-HdZX3whmcGg-unsplash-9019fc.jpg"
