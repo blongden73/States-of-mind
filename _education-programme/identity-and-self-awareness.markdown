@@ -494,7 +494,7 @@ Slides:
   Description: "Personality comes from the greek word ‘persona’ which means mask.
     \n\nYour personality refers to the different ways you express yourself in the
     world and the many different ways you relate with other people. \n\nTogether with
-    your personality you have an unchanging part of who we you are that psychologists
+    your personality you have an unchanging part of who you you are that psychologists
     call the 'Self'. This is the part of you that does not change over time or adapt
     to different circumstances, but is your essential nature. \n\nYour Self is the
     part of you that is spontaneous and loving, that seeks to be known and is the
