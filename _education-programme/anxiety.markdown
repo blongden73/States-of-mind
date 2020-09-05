@@ -130,24 +130,6 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
-  Title: 'The Default mode network '
-  Image: 
-  Description: "Neuroscientists have identified a distinct neural network in the brain
-    that is activated when we ruminate called the ‘Default Mode Network’ . \n\nWhen
-    the ‘Default Mode’ Network is active, it may look like nothing is happening from
-    the outside but actually inside our minds, we will be daydreaming, reflecting
-    or thinking about our lives. \n\nThe default mode is active when we are worrying
-    or preoccupied with thoughts about the past and future. "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: sixteen
   Title: 'Rumination '
   Image: "/uploads/rumination%202.jpeg"
   Description: "\nWhen we imagine an aspect of a future situation that we feel we
@@ -160,6 +142,24 @@ Slides:
     digest their food. We can think of rumination as the process of ‘ chewing on our
     thoughts’. \n\nResearch has shown that people who ruminate more are more likely
     to struggle with anxiety and depression. \n\n "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: 'The Default mode network '
+  Image: 
+  Description: "Neuroscientists have identified a distinct neural network in the brain
+    that is activated when we ruminate called the ‘Default Mode Network’ . \n\nWhen
+    the ‘Default Mode’ Network is active, it may look like nothing is happening from
+    the outside but actually inside our minds, we will be daydreaming, reflecting
+    or thinking about our lives. \n\nThe default mode is active when we are worrying
+    or preoccupied with thoughts about the past and future. "
   Graphic Image: 
   Audio url: 
   Video Url: 
