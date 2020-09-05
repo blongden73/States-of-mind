@@ -473,58 +473,6 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
-  Title: Anxiety and Social Rank Theory 
-  Image: 
-  Description: "Paul Gilbert, an Evolutionary Psychologist has proposed that people
-    feel anxiety as a response to social comparison, as people are hardwired to pay
-    attention to their social status within groups. \n\nThis can cause you to feel
-    fear related to social situations, like the fear of rejection or not being accepted
-    by others. \n\nAs one of your primary needs is a sense of belonging, connection
-    and acceptance, your threat system becomes active when you perceive a threat to
-    your attachment needs for love and belonging."
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: four
-  Title: 
-  Image: 
-  Description: |-
-    * How do we want others to view us?
-
-
-    * What parts of ourselves do we hide from others?
-
-
-    * How do we feel if we make mistakes or ‘let our guard down’ with people we don’t know?
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: 'two '
-  Title: 'Reflect on your experience '
-  Image: 
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: sixteen
   Title: Anxiety and relationships
   Image: "/uploads/diana-spatariu-HdZX3whmcGg-unsplash-9019fc.jpg"
   Description: "Anxiety can be triggered as a response to a threat to your attachment
@@ -554,6 +502,38 @@ Slides:
   Credit: 
   Links:
   - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: Anxiety and Social Rank Theory 
+  Image: 
+  Description: "Paul Gilbert, an Evolutionary Psychologist has proposed that people
+    feel anxiety as a response to social comparison, as people are hardwired to pay
+    attention to their social status within groups. \n\nThis can cause you to feel
+    fear related to social situations, like the fear of rejection or not being accepted
+    by others. \n\nAs one of your primary needs is a sense of belonging, connection
+    and acceptance, your threat system becomes active when you perceive a threat to
+    your attachment needs for love and belonging."
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: 'two '
+  Title: 'Reflect on your experience '
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: www.statesofmind.org/handbook/social-anxiety
   Quote: 
   Quote Credit: 
   Slide Colour: 
