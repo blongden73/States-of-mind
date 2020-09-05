@@ -457,7 +457,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: two
-  Title: Time to pause
+  Title: Reflect on your experience
   Image: 
   Description: 
   Graphic Image: 
@@ -542,7 +542,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: two
-  Title: 'Time to pause '
+  Title: Explore the supportive relationships in your life
   Image: 
   Description: 
   Graphic Image: 
@@ -693,7 +693,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: two
-  Title: 'Take time to pause '
+  Title: 'Practice mentalising '
   Image: 
   Description: 
   Graphic Image: 
@@ -821,7 +821,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: five
-  Title: Practicing good listening
+  Title: Practicing active listening
   Image: 
   Description: 
   Graphic Image: 
@@ -834,7 +834,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: two
-  Title: 'Take time to pause '
+  Title: Practice listening well
   Image: 
   Description: 
   Graphic Image: 
@@ -929,7 +929,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: two
-  Title: 'Time to pause '
+  Title: 'Practice empathic listening '
   Image: 
   Description: 
   Graphic Image: 
@@ -1160,6 +1160,19 @@ Slides:
     the relationship.  \n\n5. Support yourself by surrounding yourself with close
     and trusted friends who can help you express and process any difficult feelings
     you experience after ending an unhealthy relationship. "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: two
+  Title: 'reflect on endings in your relationships '
+  Image: 
+  Description: 
   Graphic Image: 
   Audio url: 
   Video Url: 
