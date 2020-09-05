@@ -60,12 +60,12 @@ Slides:
 - Template: five
   Title: 'So what is self awareness? '
   Image: 
-  Description: "Self awareness is the experience of noticing our thoughts, feelings
-    and behaviour, as if we are an observer.\n\nIt also allows us to step back and
-    understand both ourselves and how we are in relationship with others. \n\nBy developing
-    our levels of self awareness, we can access a sense of choice around how we respond
-    to life's challenges. Over time, we can experience a deep connection with our
-    most authentic self. "
+  Description: "Self awareness is the experience of noticing your thoughts, feelings
+    and behaviour, as if you are an observer.\n\nIt also allows you to step back and
+    understand yourself and how you are affected by other people. \n\nBy developing
+    your levels of self awareness, you can access a sense of choice around how you
+    respond to life's challenges. Over time, you can experience a deep connection
+    with your most authentic self. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -91,11 +91,11 @@ Slides:
 - Template: sixteen
   Title: Self awareness is a tool that can help us to flourish
   Image: 
-  Description: "\nThe **insights** that self awareness provides us with allow us to
-    feel more satisfied with our lives because we become more aware of why we feel
-    and act the way we do. \n\nWhen cultivated fully, we no longer feel the need to
-    repress or hide our emotions or react unconsciously to our experiences but view
-    ourselves with a deeper level of understanding. \n"
+  Description: "\nThe **insights** that self awareness provides you with allow you
+    to feel more satisfied with your life because you become more aware of why you
+    feel and act the way you do. \n\nWhen cultivated fully, you no longer feel the
+    need to repress or hide your emotions or react unconsciously to your experiences
+    but will view yourself with a deeper level of understanding. \n"
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -109,15 +109,16 @@ Slides:
 - Template: five
   Title: 
   Image: 
-  Description: "# Self awareness enables us to:\n\n# Take responsibility for our problems.\n\nBy
-    developing self-knowledge we can understand ourselves more fully. This helps us
-    to determine where our problems are coming from so that we can begin to resolve
-    them. \n\n# Improve our relationships \n\nBy being more aware of how we are acting
-    towards ourselves and in our relationships, we can improve the quality of these
-    relationships, which are key to experiencing a fulfilling life.  \n\n# Improve
-    our confidence \n\nPeople with self awareness have more clarity about who they
-    are, what they believe in and what their personal goals are. Without this clarity,
-    it can be easy to lack self assurance and struggle with our self esteem."
+  Description: "# Self awareness enables you to:\n\n# Take responsibility for your
+    problems.\n\nBy developing knowledge about yourself and understanding yourself
+    more fully, you can determine where your problems are coming from so that you
+    can begin to resolve them. \n\n# Improve your relationships \n\nBy being more
+    aware of how you are acting towards yourself and in your relationships, you can
+    improve the quality of these relationships, which are so key for experiencing
+    a fulfilling life.  \n\n# Improve your confidence \n\nPeople with self awareness
+    have more clarity about who they are, what they believe in and what their personal
+    goals are. Without this clarity, it can be easy to lack self assurance and struggle
+    with your self esteem."
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -168,7 +169,7 @@ Slides:
   Description: |-
     ## The Johari Window
 
-    The Johari Window is a visual representation of the parts of ourselves that are either known or unknown to ourselves and others.
+    The Johari Window is a visual representation of the parts of yourself that are either known or unknown to you and the people in your life.
   Audio url: 
   Video Url: 
   Credit: 
@@ -180,14 +181,14 @@ Slides:
 - Template: sixteen
   Title: 
   Image: "/uploads/Group%20111.svg"
-  Description: "* **The open area** The parts of ourself that we are aware of and
-    that other people know about us too.\n\n* **The hidden area** The parts of ourselves
-    that we do not share with others. This information that we keep private may relate
-    to our fears and insecurities as well as our hopes and dreams.\n\n* **The blind
-    spot** The parts of ourselves we are not aware of but that others know about us.
-    This can relate to both our positive attributes and areas for growth.\n\n* **The
-    unknown** This relates to the the parts of ourselves we are not aware of yet and
-    which nobody else knows either. "
+  Description: "* **The open area** The parts of yourself that you are aware of and
+    that other people know about you too.\n\n* **The hidden area** The parts of yourself
+    that you do not share with others. This information that you keep private may
+    relate to your fears and insecurities as well as your hopes and dreams.\n\n* **The
+    blind spot** The parts of yourself you are not aware of but that others know about
+    you. This can relate to both your positive attributes and your areas for growth.\n\n*
+    **The unknown** This relates to the the parts of yourself that you are not aware
+    of yet and which nobody else knows either. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -266,11 +267,11 @@ Slides:
 - Template: sixteen
   Title: Identity
   Image: 
-  Description: "Our identity isn’t fixed but develops and changes over time. It is
-    subjective and personal and is influenced by our unique life experiences. \n\nAs
-    our life history and identity are so closely related, exploring and bringing awareness
-    to different aspects of our identity can provide an important foundation for self-discovery,
-    self awareness and personal growth. "
+  Description: "Your identity isn’t fixed but develops and changes over time. It is
+    subjective and personal and is influenced by your unique life experiences. \n\nAs
+    your life history and identity are so closely related, exploring and bringing
+    awareness to different aspects of your identity can provide an important foundation
+    for self-discovery, self awareness and personal growth. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -296,12 +297,12 @@ Slides:
 - Template: sixteen
   Title: Your name
   Image: 
-  Description: "Our name is a personal and special aspect of our identity. It is a
-    part of our identity that we are very familiar with, yet we do not always pause
-    to consider the meaning our name has for us. \n\nThe act of bringing conscious
-    awareness to an aspect of ourselves such as our name allows us to connect more
-    deeply with our sense of who we are and the meaning this part of us has in our
-    lives. "
+  Description: "Your name is a personal and special aspect of your identity. It is
+    a part of your identity that you people are very familiar with, yet they do not
+    always pause to consider the meaning our their name has for them. \n\nThe act
+    of bringing conscious awareness to an aspect of yourself such as your name allows
+    you to connect more deeply with your sense of who you are and the meaning this
+    part of us has in your life. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -360,7 +361,8 @@ Slides:
     development. \n\nIndividuation is the process through which a person achieves
     a sense of individuality separate from the identities of others. \n\nHis idea
     was that psychological health is achieved by seeking to live as authentically
-    as we can ( to feel and act in accordance with who we most essentially are).  \n\n"
+    as you can ( to feel and act in accordance with who you most essentially are).
+    \ \n\n"
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -405,18 +407,19 @@ Slides:
 - Template: list
   Title: 'What is our authentic self ? '
   Image: 
-  Description: "Under the many layers of our identity and our personality is our true
-    self, this part of us never changes but exists throughout our life as our innermost
-    being. This part of ourselves exists independently of our thoughts, feelings and
-    roles that we play in the world. \n\nWhen we are connected with our authentic
-    self, we are able to live freely, without feeling the need to be anybody else.
-    In this place, we accept our qualities, attributes and innate gifts and can live
-    according to who we most essentially are. \n\nThroughout our lives, we change
-    and adapt parts of ourself to maintain our relationships with others and to fit
-    in to who we think other people want us to be. We can all experience this conflict
-    between wanting to be true to ourselves and wanting to fit in with the world around
-    us. \n\nThis next part of the module will explore the authentic self and how we
-    develop the different ‘masks’ or sub-personalities that we show to the world."
+  Description: "Under the many layers of your identity and your personality is your
+    true self, this part of you never changes but exists throughout your life as your
+    innermost being. This part of yourself exists independently of your thoughts,
+    feelings and roles that you play in the world. \n\nWhen you are connected with
+    your authentic self, you are able to live freely, without feeling the need to
+    be anybody else. In this place, you accept your qualities, attributes and innate
+    gifts and can live according to who you most essentially are. \n\nThroughout your
+    life, you change and adapt parts of yourself to maintain your relationships with
+    others and to fit in to who you think other people want you to be. Everyone experiences
+    this conflict between wanting to be true to themselves and wanting to fit in with
+    the world around them. \n\nThis next part of the module will explore the authentic
+    self and how you develop the different ‘masks’ or sub-personalities that you show
+    to the world."
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -442,12 +445,12 @@ Slides:
 - Template: sixteen
   Title: 'Inner child Practice '
   Image: "/uploads/senjuti-kundu-GCI8dqi4uWM-unsplash.jpg"
-  Description: "The inner child practice is a therapeutic process that allows us to
-    reconnect with our essential nature. \n\nAs young children, we do not change or
-    adapt our behaviour for others but express our needs, interests and sense of self
-    authentically. \n\nBy reconnecting with our younger self, we can discover and
-    reintegrate lost qualities of ourselves and bring them into our present lives
-    more fully. \n\nThis is a therapeutic process that can help us to develop our
+  Description: "The inner child practice is a therapeutic process that allows you
+    to reconnect with your essential nature. \n\nAs a young child, you do not change
+    or adapt your behaviour for others but express your needs, interests and sense
+    of self authentically. \n\nBy reconnecting with your younger self, you can discover
+    and reclaim lost qualities of yourself and bring them into your present life to
+    help you. \n\nThis is a therapeutic process that can help you to develop your
     self awareness and self esteem."
   Graphic Image: 
   Audio url: "/uploads/Inner%20child.mp3"
@@ -489,13 +492,13 @@ Slides:
   Title: 'Personality '
   Image: "/uploads/mask.jpg"
   Description: "Personality comes from the greek word ‘persona’ which means mask.
-    \n\nOur personality refers to the different ways we express ourselves in the world
-    and the many different ways we relate with other people. Together with our personality
-    we all have an unchanging part of who we are that psychologists call the 'Self'.
-    This is the part of us that does not change over time or adapt to different circumstances,
-    but is our essential nature. \n\nOur Self is the part of us that is spontaneous
-    and loving, that seeks to be known and is the experience of who we most fundamentally
-    are.\n"
+    \n\nYour personality refers to the different ways you express yourself in the
+    world and the many different ways you relate with other people. \n\nTogether with
+    your personality you have an unchanging part of who we you are that psychologists
+    call the 'Self'. This is the part of you that does not change over time or adapt
+    to different circumstances, but is your essential nature. \n\nYour Self is the
+    part of you that is spontaneous and loving, that seeks to be known and is the
+    experience of who you most fundamentally are.\n"
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -508,12 +511,12 @@ Slides:
 - Template: sixteen
   Title: 'The psychology of Sub-personalities '
   Image: 
-  Description: "Subpersonalities are habits or patterns of behaviour that we have
-    followed since childhood\n\nWhen people fail to respond empathetically to our
-    true personality, we learn to hide our authentic nature and adapt to how our parents
-    or our environment need us to be. \n\nA psychotherapist called Winnicott also
-    called this process of adapting, the development of the False Self. It has also
-    been referred to as the Survival Personality or 'Character Armour'. \n "
+  Description: "Subpersonalities are habits or patterns of behaviour that you have
+    followed since childhood.\n\nWhen people fail to respond empathetically to your
+    true personality, you learn to hide your authentic nature and adapt to how your
+    parents or other people tell you that you should be. \n\nA psychotherapist called
+    Winnicott also called this process of adapting, the development of the False Self.
+    It has also been referred to as the Survival Personality or 'Character Armour'. \n "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -527,14 +530,14 @@ Slides:
   Title: 
   Image: 
   Description: "They are distinct patterns of thoughts, feelings and behaviours that
-    we develop to adapt to various environments where we feel unable to be our authentic
-    self.\n\nIn neuroscience these are viewed as distinct neural networks that function
-    as ‘specialised selves’ or ‘self states’. \n\nSub-personality theory explains
-    personality development and helps to explain why parts of our personality can
-    feel conflicted and as if there are ‘multiple selves’ within us who have different
-    ways of being.\n\nFor example the feeling of ‘ I want to do this but another part
-    of me wants to do that’, or ‘ I shouldn’t be getting angry right now but I think
-    its important I tell the truth’"
+    you develop to adapt to various environments where you feel unable to be your
+    authentic self.\n\nIn neuroscience these are viewed as distinct neural networks
+    that function as ‘specialised selves’ or ‘self states’. \n\nSub-personality theory
+    explains personality development and helps to explain why parts of your personality
+    can feel conflicted and as if there are ‘multiple selves’ within you who have
+    different ways of being.\n\nFor example the feeling of ‘I want to do this but
+    another part of me wants to do that’, or ‘ I am angry right now but I think its
+    important I tell the truth’"
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -588,14 +591,17 @@ Slides:
 - Template: list
   Title: What are the benefits of sub-personality work? 
   Image: 
-  Description: |-
-    1. We learn to connect with our different and contradictory ways of acting in the world. This raises our awareness of our behaviour and helps us to make sense of how we can seem to be different versions of ourselves in different circumstances.
-
-    2. We learn to free ourselves of the unconscious forces that cause us to get trapped in certain aspects of our personality. For example, a very critical part of ourselves.We integrate the different aspects of our personality which causes us to feel less conflict within ourselves.
-
-    3. We emphasise all of the beneficial qualities of our sub-personalities and recognise how they serve us.
-
-    4. By identifying with our different sub-peronalities, it allows us to develop a greater awareness of what is our true self and what is a mask or persona.
+  Description: "1. You learn to connect with your different and contradictory ways
+    of acting in the world. This raises your awareness of your behaviour and helps
+    you to make sense of how you can seem to be different versions of yourself in
+    different circumstances.\n\n2. You learn to free yourself of the unconscious forces
+    that cause you to get trapped in certain aspects of your personality. \nFor example,
+    a very critical part of yourself. \n\n3. You integrate the different aspects of
+    your personality which causes you to feel less conflict within yourself.\n\n4.
+    You emphasise all of the beneficial qualities of your sub-personalities and recognise
+    how they serve you.\n\n5. By identifying with your different sub-peronalities,
+    it allows you to develop a greater awareness of what is your true self and what
+    is a mask or persona."
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -646,10 +652,17 @@ Slides:
 - Template: list
   Title: How are sub-personalities related to mental health? 
   Image: 
-  Description: |-
-    Subpersonalities cause us difficulties when we identify with this one part of ourselves and believe it to be all of us. For example, if we are identified with the ‘ High achiever’ part of ourselves, it may help us to get good grades and maintain a motivation for developing our knowledge and experience. However, if we become over identified with this part of ourselves we may become very distressed by setbacks, we may spend less time with our friends or we may never be satisfied with what we have achieved. 
-
-    Our sub personalities all emerge from an unmet need. By exploring these parts of ourselves, we can develop our self awareness and integrate the many different parts of ourselves. You can imagine your sub-personalities as an orchestra and your awareness as the conductor. By bringing awareness to your different sub personalities you can integrate them and enable the different parts of your personality to work together as a harmonious whole.
+  Description: "Subpersonalities cause difficulties when you identify with this one
+    part of yourself and believe it to be all of you. For example, if you are identified
+    with the ‘ High achiever’ part of yourself, it may help you to get good grades
+    and maintain a motivation for developing our knowledge and experience. However,
+    if you become over identified with this part of yourself you may become very distressed
+    by setbacks, you may spend less time with our friends or you may never be satisfied
+    with what we have achieved. \n\nYour sub personalities all emerge from an unmet
+    need.By identifying these needs you can develop more self awareness and understanding
+    of your behaviour. \n\nBy bringing awareness to your different sub personalities
+    you can integrate them and enable the different parts of your personality to work
+    together as a harmonious whole."
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -686,8 +699,8 @@ Slides:
   Image: 
   Description: "If you would like to learn more the psychology of personality you
     can explore the Enneagram, Myers Briggs and the Big Five Personality test.\n\nIt
-    is important to recognise that personality tests highlight **aspects** of our
-    personality by showing us dominant traits not our complete self. "
+    is important to recognise that personality tests highlight **aspects** of your
+    personality by showing you dominant traits not your complete self. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -744,17 +757,17 @@ Slides:
 - Template: list
   Title: 
   Image: 
-  Description: "We live in a social world and many aspects of our personalities are
-    shaped by the social relationships and situations we encounter throughout our
-    lives. \n\nAs it is impossible for our close relationships to be fully present
-    all the time and for us to be completely present to others, we fit our environments
-    by adapting our personality to defend ourselves or meet our needs for connection.\n
+  Description: "You live in a social world and many aspects of your personality is
+    shaped by the social relationships and situations you encounter throughout your
+    life. \n\nAs it is impossible for your close relationships to be fully present
+    all the time and for you to be completely present to others, you fit your environments
+    by adapting your personality to defend yourself and meet your needs for connection.\n
     \ \nAn example of this is noticing when somebody seems to have a different personality
-    depending on what group they are in, or when we notice we behave differently depending
-    on who we are with. \n\nThis is a completely normal process but understanding
-    the process behind it can help us develop an awareness of how parts of our identity
-    are shaped by our desire to fit in and be accepted in contrast to expressing our
-    authentic self. "
+    depending on what group they are in, or when you notice you behave differently
+    depending on who you are with. \n\nThis is a completely normal process but understanding
+    the process behind it can help you develop an awareness of how parts of your identity
+    are shaped by your desire to fit in and be accepted in contrast to expressing
+    your authentic feelings and experince when you are with others. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -783,11 +796,11 @@ Slides:
   Description: |-
     **Values, Beliefs and Behaviour**
 
-    One of the strongest factors that influence and reflect our sense of identity are the groups that we are a part of in our lives.
+    One of the strongest factors that influence and reflect your sense of identity are the groups that you are a part of in your life.
 
-    From the moment we are born, we are a part of our family group. As we grow and develop, we encounter new groups at school or in our local community. Throughout our whole lives, out of choice or out of circumstance, we will spend our times in groups that have an influence on us and which reflect our values, beliefs and mindsets about who we are.
+    From the moment you are born, you are a part of your family group. As you grow and develop, you encounter new groups at school or in our local community. Throughout your whole life, out of choice or out of circumstance, you will spend your times in groups that have an influence on you and which reflect your values, beliefs and mindsets about who you are.
 
-    Groups provide us with a sense of belonging, which is one of our most important needs in terms of our mental health and wellbeing. Research has shown consistently that the quality of our social world is one of the most significant indicators of our wellbeing and ability to recover from difficult times in our lives.
+    Groups provide a sense of belonging, which is one of the most important needs in terms of mental health and wellbeing. Research has shown consistently that the quality of your social world is one of the most significant indicators of your wellbeing and ability to recover from difficult times in your life.
   Graphic Image: 
   Audio url: 
   Video Url: 
