@@ -115,10 +115,11 @@ Slides:
   Image: "/uploads/amygdala-fb64c4.jpg"
   Description: "Once activated, this part of your brain sends a message through the
     vagus nerve to activate your parasympathetic nervous system ( The fight or flight
-    response). \n\nThe size of your amygdala has been shown to correlate your sensitivity
-    to aspects of your environment you consider as threatening or unsafe.\n  \nResearch
-    has shown that mindfulness and stress reduction programmes reduce the size of
-    the amygdala and your levels of anxiety in situations you experience as threatening. "
+    response). \n\nThe size of your amygdala has been shown to correlate with your
+    sensitivity to the aspects of your environment that you consider as threatening
+    or unsafe.\n  \nResearch has shown that mindfulness and stress reduction programmes
+    reduce the size of the amygdala and your levels of anxiety in situations you experience
+    as threatening. "
   Graphic Image: 
   Audio url: 
   Video Url: 
