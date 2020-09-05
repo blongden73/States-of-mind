@@ -475,10 +475,10 @@ Slides:
 - Template: sixteen
   Title: Anxiety and relationships
   Image: "/uploads/diana-spatariu-HdZX3whmcGg-unsplash-9019fc.jpg"
-  Description: "Anxiety can be triggered as a response to a threat to your attachment
-    needs for safety and connection.\n\nEverybody has attachment needs such as love,
-    connection and acceptance. When you do not feel secure in your relationships our
-    in your environments, anxiety is a natural alarm system that exists as a coping
+  Description: "Anxiety can be triggered if you feel like your attachment needs for
+    safety and connection are threatened.\n\nEverybody has attachment needs such as
+    love, connection and acceptance. When you do not feel secure in your relationships
+    our in your environments, anxiety is a natural alarm system that exists as a coping
     mechanism to tell you something is wrong.\n\nIf you are experiencing a conflict
     or rupture in our relationships, this may trigger anxiety as a signal that your
     needs are threatened. "
