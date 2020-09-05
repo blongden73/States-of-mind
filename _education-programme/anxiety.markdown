@@ -20,11 +20,12 @@ Slides:
 - Template: four
   Title: 
   Image: 
-  Description: "Anxiety is a natural response to feelings of fear.\n\nThis fear response
-    is a natural defence mechanism that manifests in the way we think, feel and behave.
-    \n\nAnxiety can help us by making us alert us to potential threats and dangerous
-    situations. For example if we are walking down an unfamiliar road late at night,
-    it is very natural to feel edge, nervous and to consider the potential risks. "
+  Description: "Anxiety is a natural fear response that is triggered when we are overwhelmed
+    and feel that we cannot cope with a real or imagined threat. \n\nThis fear response
+    triggers changes in our feelings, thoughts and behaviour. \n\nAnxiety is a response
+    that can help to become alert to potential threats and dangerous situations. \n\nFor
+    example if we are walking down an unfamiliar road late at night, it is very natural
+    to feel edge, nervous and to consider the potential risks. "
   Graphic Image: 
   Audio url: 
   Video Url: 
