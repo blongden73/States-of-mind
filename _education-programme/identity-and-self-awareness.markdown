@@ -251,7 +251,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: 'two '
-  Title: 'Time to pause '
+  Title: 'Who am I activity '
   Image: 
   Description: 
   Graphic Image: 
@@ -294,7 +294,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
-  Title: Your name
+  Title: 'Reflect on your name '
   Image: 
   Description: "Our name is a personal and special aspect of our identity. It is a
     part of our identity that we are very familiar with, yet we do not always pause
@@ -339,7 +339,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: two
-  Title: 'Time to pause '
+  Title: 'Explore your personal history '
   Image: 
   Description: 'And take time to reflect on your personal experience in the insight
     handbook. '
@@ -459,7 +459,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: two
-  Title: 'Time to pause '
+  Title: 'Inner child reflection '
   Image: 
   Description: 'And take time to reflect on your personal experience in the insight
     handbook. '
@@ -573,7 +573,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: two
-  Title: Take time to pause
+  Title: 'Explore your subpersonalities '
   Image: 
   Description: 
   Graphic Image: 
@@ -798,7 +798,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: two
-  Title: Time to take a pause
+  Title: 'Explore your relationship with groups '
   Image: 
   Description: 
   Graphic Image: 
@@ -824,7 +824,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: 'two '
-  Title: Time to pause
+  Title: 'Explore your family identity '
   Image: 
   Description: 
   Graphic Image: 
