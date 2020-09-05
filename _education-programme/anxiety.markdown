@@ -255,12 +255,10 @@ Slides:
 - Template: four
   Title: 
   Image: 
-  Description: "The feelings of anticipation and loss of control that are connected
-    with the fear response are reflected in our thought patterns that we have. \n\nWe
-    use our minds and thoughts as a way to take control of the situation we perceive
-    as threatening. \n\nThis process can cause us to experience more distress when
-    we get caught in our thinking as we keep the uncomfortable experience alive in
-    our minds."
+  Description: "We use our minds and thoughts as a way to take control of the situation
+    we perceive as threatening. \n\nThis process can cause us to experience more distress
+    when we get caught in our thinking as we keep the uncomfortable experience alive
+    in our minds.\n\n"
   Graphic Image: 
   Audio url: 
   Video Url: 
