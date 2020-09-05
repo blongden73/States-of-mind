@@ -562,19 +562,6 @@ Slides:
     " '
   Quote Credit: Donald Winnicott
   Slide Colour: 
-- Template: one
-  Title: Exploring sub personalities
-  Image: "/uploads/identity%202.jpg"
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
 - Template: list
   Title: How are sub-personalities related to mental health? 
   Image: 
@@ -589,6 +576,19 @@ Slides:
     awareness and understanding of your behaviour. \n\nBy bringing awareness to your
     different sub personalities you can integrate them and enable the different parts
     of your personality to work together as a harmonious whole."
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: one
+  Title: Exploring sub personalities
+  Image: "/uploads/identity%202.jpg"
+  Description: 
   Graphic Image: 
   Audio url: 
   Video Url: 
