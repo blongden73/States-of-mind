@@ -297,12 +297,12 @@ Slides:
 - Template: sixteen
   Title: Your name
   Image: 
-  Description: "Your name is a personal and special aspect of your identity. It is
-    a part of your identity that you people are very familiar with, yet they do not
-    always pause to consider the meaning our their name has for them. \n\nThe act
-    of bringing conscious awareness to an aspect of yourself such as your name allows
-    you to connect more deeply with your sense of who you are and the meaning this
-    part of us has in your life. "
+  Description: "Your name is a personal and special aspect of your identity. People
+    are very familiar with this part of their identity, yet they do not always pause
+    to consider the meaning their name has for them. \n\nThe act of bringing conscious
+    awareness to an aspect of yourself such as your name allows you to connect more
+    deeply with your sense of who you are and the meaning this part of us has in your
+    life. "
   Graphic Image: 
   Audio url: 
   Video Url: 
