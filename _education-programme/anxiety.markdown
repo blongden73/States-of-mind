@@ -50,7 +50,8 @@ Slides:
 - Template: ten
   Title: 
   Image: 
-  Description: 'What do you think are the main sources of anxiety for young people? '
+  Description: 'What do you think are the main sources of anxiety for people your
+    age? '
   Graphic Image: 
   Audio url: 
   Video Url: 
