@@ -79,74 +79,6 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: one
-  Title: Anxiety and the body
-  Image: "/uploads/DTSxSSRIdentity9462-228b84.jpg"
-  Description: 'The amygdala and the nervous response '
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: five
-  Title: The sympathetic response - Fight, Fight and Freeze
-  Image: 
-  Description: "The sympathetic response is the part of the stress response that activates
-    our mind and body to defend against stressful situations. \n\nThis response is
-    triggered after the amygdala responds to a potential threat."
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: sixteen
-  Title: 'The vagus nerve '
-  Image: "/uploads/01fe37949565422e28df49293a42de5f35-09-vagus-nerve.rsquare.w1200.jpg"
-  Description: "The vagus nerve causes a response in the heart, lungs and gut, which
-    is triggered by a release of adrenaline and cortisol, two hormones that are connected
-    with the threat response. \n\nThis causes our heart to beat faster, our breathing
-    to become more shallow and a sensation of ‘butterflys in the stomach’. \n\nThe
-    higher levels of adrenaline and cortisol cause us to feel nervous and jittery
-    as they are preparing us to escape the threat (Flight) or become defensive to
-    \ it ( Fight). The anxiety response is closely linked with the Freeze response,
-    where we feel paralysed to act in the face of a threat. "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: sixteen
-  Title: 'The freeze response '
-  Image: 
-  Description: "When fighting or running seems impossible or because the threat seems
-    too powerful, our brain triggers a ‘Freeze Response’ that can feel very difficult
-    to break out of.   \n\nFor example, if you have an upcoming test and you feel
-    overwhelmed, you may feel paralysed and ‘frozen’ and unable to cope.  \n\nYou
-    may feel feelings of numbness, detachment and dissociation which is caused by
-    your brain separating you from the unpleasantness and strength of your emotions.
-    \ \n\nYou may also feel overwhelmed, a sense of stiffness or a feeling of holding
-    your breath. "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
 - Template: five
   Title: 'The neuroscience of anxiety '
   Image: 
@@ -319,6 +251,74 @@ Slides:
   Credit: 
   Links:
   - Link Url: www.statesofmind.org/handbook/anxiety-and-control
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: one
+  Title: Anxiety and the body
+  Image: "/uploads/DTSxSSRIdentity9462-228b84.jpg"
+  Description: 'The amygdala and the nervous response '
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: five
+  Title: The sympathetic response - Fight, Fight and Freeze
+  Image: 
+  Description: "The sympathetic response is the part of the stress response that activates
+    our mind and body to defend against stressful situations. \n\nThis response is
+    triggered after the amygdala responds to a potential threat."
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: 'The freeze response '
+  Image: 
+  Description: "When fighting or running seems impossible or because the threat seems
+    too powerful, our brain triggers a ‘Freeze Response’ that can feel very difficult
+    to break out of.   \n\nFor example, if you have an upcoming test and you feel
+    overwhelmed, you may feel paralysed and ‘frozen’ and unable to cope.  \n\nYou
+    may feel feelings of numbness, detachment and dissociation which is caused by
+    your brain separating you from the unpleasantness and strength of your emotions.
+    \ \n\nYou may also feel overwhelmed, a sense of stiffness or a feeling of holding
+    your breath. "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: 'The vagus nerve '
+  Image: "/uploads/01fe37949565422e28df49293a42de5f35-09-vagus-nerve.rsquare.w1200.jpg"
+  Description: "The vagus nerve causes a response in the heart, lungs and gut, which
+    is triggered by a release of adrenaline and cortisol, two hormones that are connected
+    with the threat response. \n\nThis causes our heart to beat faster, our breathing
+    to become more shallow and a sensation of ‘butterflys in the stomach’. \n\nThe
+    higher levels of adrenaline and cortisol cause us to feel nervous and jittery
+    as they are preparing us to escape the threat (Flight) or become defensive to
+    \ it ( Fight). The anxiety response is closely linked with the Freeze response,
+    where we feel paralysed to act in the face of a threat. "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
   Quote: 
   Quote Credit: 
   Slide Colour: 
