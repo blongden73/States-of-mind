@@ -17,24 +17,6 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: four
-  Title: 
-  Image: 
-  Description: "Anxiety is a natural fear response that is triggered when we are overwhelmed
-    and feel that we cannot cope with a real or imagined threat. \n\nThis fear response
-    triggers changes in our feelings, thoughts and behaviour. \n\nAnxiety is a response
-    that can help to become alert to potential threats and dangerous situations. \n\nFor
-    example if we are walking down an unfamiliar road late at night, it is very natural
-    to feel edge, nervous and to consider the potential risks. "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
 - Template: fourteen
   Title: 
   Image: 
@@ -49,6 +31,22 @@ Slides:
     the result of the way people evolved thousands of years ago, rather than something
     going wrong.\" \n"
   Quote Credit: Allan Horowitz, Rutgers University
+  Slide Colour: 
+- Template: four
+  Title: 
+  Image: 
+  Description: "Anxiety is a natural fear response that is triggered when we are overwhelmed
+    and feel that we cannot cope with a real or imagined threat. \n\nThis fear response
+    triggers changes in our feelings, thoughts and behaviour. \n\nAnxiety is a response
+    that can help to become alert to potential threats and dangerous situations. "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
   Slide Colour: 
 - Template: ten
   Title: 
