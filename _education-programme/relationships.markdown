@@ -23,7 +23,7 @@ Slides:
 - Template: sixteen
   Title: 'Attunement in Relationships '
   Image: "/uploads/attunement.jpg"
-  Description: "Your relationship with our caregiver/s provides you with your first
+  Description: "Your relationship with your caregiver/s provides you with your first
     experiences of what relationships are like. \n\nIf your caregiver/s was present
     and attuned to your emotional needs and reflected back to you a positive sense
     of self, you will carry a sense of self worth and self-esteem into your adult
