@@ -833,19 +833,6 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: five
-  Title: Practicing active listening
-  Image: 
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
 - Template: two
   Title: Practice listening well
   Image: 
