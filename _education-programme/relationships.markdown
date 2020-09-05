@@ -283,12 +283,12 @@ Slides:
     the emotional wellbeing of another person.\n\nYou may become enmeshed in the emotional
     life of our partner, friends or family, instead of prioritising your own emotional
     needs and feeling confident in your ability to express these in your relationships.
-    \n\nThis can lead to a feeling in your relationships, that you are undeserving
-    of love and attention and that your partner’s needs are more important than your
-    own.\n\nIf you who this type of relationship pattern you may find yourself in
-    relationships where you feel misunderstood and resentful. You may idealise and
-    put your partner on a pedestal or find yourself engaging in manipulative behaviour
-    in an attempt to not lose your partners attention and care."
+    \n\nThis can lead you feeling that you are undeserving of love and attention and
+    that other people's needs are more important than your own.\n\nIf you have this
+    type of relationship pattern you may find yourself in relationships where you
+    feel misunderstood and resentful. You may idealise and put your partner on a pedestal
+    or find yourself engaging in manipulative behaviour in an attempt to not lose
+    your partners attention and care."
   Graphic Image: 
   Audio url: 
   Video Url: 
