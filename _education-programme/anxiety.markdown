@@ -490,23 +490,16 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: four
-  Title: 
+- Template: two
+  Title: 'Explore your experience '
   Image: 
-  Description: |-
-    * How do we want others to view you?
-
-
-    * What parts of yourself do you hide from others?
-
-
-    * How do you feel if you make mistakes or ‘let your guard down’ with people you don’t know?
+  Description: 
   Graphic Image: 
   Audio url: 
   Video Url: 
   Credit: 
   Links:
-  - Link Url: 
+  - Link Url: 'www.statesofmind.org/handbook/social-anxiety '
   Quote: 
   Quote Credit: 
   Slide Colour: 
@@ -684,6 +677,19 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: one
+  Title: 'Developing a breathing practice '
+  Image: "/uploads/jacl279-055-4c10da.jpg"
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: sixteen
   Title: 'Breathing Exercises '
   Image: "/uploads/photo-1518708909080-704599b19972.jpeg"
@@ -695,19 +701,6 @@ Slides:
 
     \
     Breathing exercises help to quiet the mind and return your awareness to your present experience.
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: one
-  Title: 'Developing a breathing practice '
-  Image: "/uploads/jacl279-055-4c10da.jpg"
-  Description: 
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -810,19 +803,6 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: two
-  Title: Write yourself a letter
-  Image: 
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
 - Template: four
   Title: 'Acceptance meditation '
   Image: 
@@ -831,6 +811,19 @@ Slides:
     they can be processed.
   Graphic Image: 
   Audio url: "/uploads/Self_Compassion_2_25_08_2020_14_53.mp3"
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: two
+  Title: Write yourself a letter
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
   Video Url: 
   Credit: 
   Links:
