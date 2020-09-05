@@ -26,8 +26,8 @@ Slides:
   Description: "Mind-body approaches to wellbeing focus on developing a balance between
     our emotional, psychological and physical wellbeing in a sustained and gradual
     way over time. \n\nThis model views healing and wellbeing as a consequence of
-    our ability to take notice and develop awareness of the state of our body, feelings
-    and mind in our daily life. "
+    your ability to take notice and develop awareness of the state of your body, feelings
+    and mind in your daily life. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -61,7 +61,7 @@ Slides:
   Title: 
   Image: "/uploads/Group%20114.svg"
   Description: |-
-    Everybody has 3 distinct states that we can become conscious to that are both separate from each other and inter-related:
+    There are 3 distinct states that you can become conscious to that are both separate from each other and inter-related:
 
     * Mental states
 
@@ -69,7 +69,7 @@ Slides:
 
     * Physical states
 
-    Some people may naturally be more connected with either their body, feelings or mind and we each have our own unique relationship to all three, like a fingerprint or personal map.
+    You may naturally be more connected with either your body, feelings or mind and each person has their own unique relationship to all three, like a fingerprint or personal map.
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -121,13 +121,13 @@ Slides:
 - Template: sixteen
   Title: Why is interoception important for mental health?
   Image: 
-  Description: "Interoception is the ability to become aware of our emotions and the
-    physical sensations in our body. It is a skill that provides us with a starting
-    point for regulating our moods and physical wellbeing. \n\nBy bringing awareness
-    to our internal sensations and emotions, through the process of interoception,
-    we can reduce the intensity of the distress and discomfort that we experience.
-    \n\nWhen we turn towards our discomfort, with an attitude of curiosity and acceptance,
-    we begin to develop the ability to regulate and reduce it.\n\n"
+  Description: "Interoception is the ability to become aware of your emotions and
+    the physical sensations in your body. It is a skill that provides you with a starting
+    point for regulating your moods and physical wellbeing. \n\nBy bringing awareness
+    to your internal sensations and emotions, through the process of interoception,
+    you can reduce the intensity of the distress and discomfort that you experience.
+    \n\nWhen you turn towards our discomfort, with an attitude of curiosity and acceptance,
+    you can begin to develop the ability to regulate and reduce it.\n\n"
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -174,13 +174,13 @@ Slides:
 - Template: list
   Title: When the vagus nerve is out of balance
   Image: 
-  Description: "Our brain can become overstimulated, causing mental tension, anxiety
-    and rumination. \n\n# Feelings Stressed and Overwhelmed \n\nWhen we are stressed
-    and overwhelmed, we are more likely to become ill and are vulnerable to catching
+  Description: "Your brain can become overstimulated, causing mental tension, anxiety
+    and rumination. \n\n# Feelings Stressed and Overwhelmed \n\nWhen you are stressed
+    and overwhelmed, you are more likely to become ill and are vulnerable to catching
     a cold or suffering from other illnesses related to the immune system. When the
     parasympathetic nervous system is active, it suppresses the immune response in
-    the body. \n\n# Health problems and inflammation \n\nWhen the calming effects
-    of the vagus nerve are inhibited through stress, our body can experience inflammation
+    your body. \n\n# Health problems and inflammation \n\nWhen the calming effects
+    of the vagus nerve are inhibited through stress, your body can experience inflammation
     and this can lead to a range of health conditions. There is an extensive body
     of research that links inflammation to chronic health conditions. "
   Graphic Image: 
@@ -195,11 +195,11 @@ Slides:
 - Template: sixteen
   Title: 
   Image: "/uploads/photo-1513097847644-f00cfe868607.jpeg"
-  Description: "Breathing is a tool that we can use to connect us with our bodies
-    and restore balance to the underlying biological cause of stress, tension and
-    emotional distress. \n\nWhen we breathe deeply, our diaphragm presses against
-    the vagus nerve. This nerve is responsible for sending impulses to the brain and
-    signals to our mind it can relax. \n"
+  Description: "Breathing is a tool that you can use to connect yourself with your
+    body and restore balance to the underlying biological cause of your stress, tension
+    and emotional distress. \n\nWhen you breathe deeply, your diaphragm presses against
+    the vagus nerve. This nerve is responsible for sending impulses to your brain
+    and signals to your mind it can relax. \n"
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -238,13 +238,14 @@ Slides:
 - Template: sixteen
   Title: Movement and emotions
   Image: "/uploads/melody-jacob-IJcdUTz7AyM-unsplash.jpg"
-  Description: "When we experience difficult thoughts and emotions, this becomes reflected
-    in our body as tension and discomfort. \n\nOne of the ways we manage painful  emotional
-    experiences is to escape into our minds. Often we don’t realise this is happening
-    at the time and that is why it is important to bring awareness to ourselves in
-    the present moment and reconnect with our bodies as a way to calm ourselves and
-    rebalance our mood. \n\nDance movement psychotherapy is effective because it allows
-    us to use our bodies to influence our mood and release trapped and difficult emotions. \n"
+  Description: "When you experience difficult thoughts and emotions, this becomes
+    reflected in your body as tension and discomfort. \n\nOne of the ways you manage
+    painful  emotional experiences is to escape into your mind. Often you don’t realise
+    this is happening at the time and that is why it is important to bring awareness
+    to yourself in the present moment and reconnect with your body as a way to calm
+    yourself and rebalance your mood. \n\nDance movement psychotherapy is effective
+    because it allows you to use our body to influence your mood and release trapped
+    and difficult emotions. \n"
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -278,9 +279,9 @@ Slides:
 - Template: five
   Title: 'The Body Scan '
   Image: 
-  Description: "The purpose of the body scan is to notice how we may be holding tension
-    and stress unconsciously in our body. By doing a body scan, we use our awareness
-    to reduce stress and tension and bring our body back to balance. \n"
+  Description: "The purpose of the body scan is to notice how you may be holding tension
+    and stress unconsciously in your body. By doing a body scan, you use our awareness
+    to reduce stress and tension and bring your body back to balance. \n"
   Graphic Image: 
   Audio url: "/uploads/Body%20Scan,%20Page%2017,%20BFM.mp3"
   Video Url: 
@@ -306,13 +307,13 @@ Slides:
 - Template: sixteen
   Title: Feelings
   Image: "/uploads/aiony-haust-ftLZUqNRjTc-unsplash.jpg"
-  Description: "Our relationship with our feelings and emotions has a significant
-    impact on our wellbeing in our everyday life. \n\nLike our relationship to our
-    body and mind, everybody has a unique relationship with their feelings and this
-    relationship can change and evolve over time.\n\nBy bringing awareness to our
-    relationship to our feelings, it can help us to manage our difficult feelings
-    more easily, develop stronger relationships with others and overcome challenging
-    times with more clarity and confidence. \n"
+  Description: "Your relationship with our feelings and emotions has a significant
+    impact on your wellbeing in your everyday life. \n\nLike the relationship with
+    your body and mind, everybody has a unique relationship with their feelings and
+    this relationship can change and evolve over time.\n\nBy becoming more accepting
+    and aware of your different feelings, it can help you to manage uncomfortable
+    feelings more easily, develop stronger relationships with others and overcome
+    challenging times in your life with more clarity and confidence. \n"
   Audio url: 
   Video Url: 
   Credit: 
@@ -338,10 +339,10 @@ Slides:
   Title: Emotional Awareness
   Image: "/uploads/emotions%202.jpg"
   Description: "Emotional awareness is the ability to observe, name and express what
-    we are feeling. \n\nEmotional communication depends on this awareness and enables
-    us to share our experiences more richly and accurately with others. \n\nBy developing
-    this ability we can help ourselves to resolve misunderstandings with others, understand
-    our reactions and find meaning in our experiences. "
+    you are feeling. \n\nEmotional communication depends on this awareness and enables
+    you to share your experiences more richly and accurately with others. \n\nBy developing
+    this ability you can help yourself to resolve misunderstandings with others, understand
+    your reactions and find meaning in your experiences. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -393,9 +394,9 @@ Slides:
 - Template: five
   Title: Emotional regulation
   Image: 
-  Description: Emotional Regulation is a term used to describe our ability to process
-    emotions and to tolerate uncomfortable emotions that we often avoid. If we are
-    able to regulate our emotions we can build our resilience and cope with challenging
+  Description: Emotional Regulation is a term used to describe your ability to process
+    emotions and to tolerate uncomfortable emotions that you often avoid. If you are
+    able to regulate your emotions you can build your resilience and cope with challenging
     situations more effectively. 
   Graphic Image: 
   Audio url: 
@@ -422,13 +423,13 @@ Slides:
 - Template: sixteen
   Title: 'Observing the Tendency of the Mind to Distraction '
   Image: 
-  Description: "\n\nThe first lesson in using the mind is to observe its tendency
-    to become distracted by intruding thoughts. \n\nOur mind likes to comment on our
-    experiences. It comments on everything, from how we are feeling, to what we think
-    about other people and the experiences we have. \n\nThe mind is always changing
-    because our moods are always changing. We run into problems with the mind when
-    we begin to believe that everything we are thinking is the only experience that
-    is possible. "
+  Description: "\nThe first lesson in using your mind more effectively is to observe
+    its tendency to become distracted by intruding thoughts. \n\nYour mind likes to
+    comment on our experiences. It comments on everything, from how you are feeling,
+    to what you think about other people and the experiences you have. \n\nThe mind
+    is always changing because your mood is always changing. You run into problems
+    with the mind when you begin to believe that everything you are thinking is the
+    only experience that is possible. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -441,15 +442,15 @@ Slides:
 - Template: sixteen
   Title: Understanding the nature of the mind 
   Image: 
-  Description: "\nOften, we do not realise how much our mind and thoughts have an
-    impact on how we are feeling. By bringing awareness to the nature of our mind
-    and by understanding how to control its different aspects, we can dramatically
-    improve the quality of our lives. \n\nThis part of the course is designed to teach
-    you how to examine and gain more awareness of your mind and thought processes.\n\nThere
+  Description: "\nYou may not realise how much your mind and thoughts have an impact
+    on how you are feeling. By bringing awareness to the nature of your mind and by
+    understanding how to control its different aspects, you can dramatically improve
+    the quality of your everyday life. \n\nThis part of the course is designed to
+    teach you how to examine and gain more awareness of your mind and thought processes.\n\nThere
     is a tendency for the mind to become distracted, which makes us feel lost and
-    unclear about what we want to focus on. \n\nTo train the mind, we must learn how
-    to control our attention and bring balance to it’s different tendencies so that
-    we can use the mind, instead of allowing ourselves to become stuck in autopilot. "
+    unclear about what you want to focus on. \n\nTo train the mind, you must learn
+    how to control our attention and bring balance to it’s different tendencies so
+    that you can use the mind, instead of allowing yourself to become stuck in autopilot. "
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -478,13 +479,13 @@ Slides:
   Description: "\nIn Mind-Body Therapy the body itself becomes a record of everything
     that has happened and will elucidate the story that is manifesting in symptoms.
     One of these symptoms is overthinking as a result of built up tension and stress,
-    Psychologists call this ‘rumination’.\n\nRumination happens when we become caught
-    in a particular story about our lives which limits our focus to repetitive thought
+    Psychologists call this ‘rumination’.\n\nRumination happens when you become caught
+    in a particular story about your life which limits your focus to repetitive thought
     patterns. \n\nHigh levels of rumination are linked with feelings of panic, anxiety
-    and low mood. \n\nWhen we ruminate, we often feel trapped in our thinking and
-    can’t see a way out. This makes us feel low and makes us believe that our life
-    is our thoughts. But this is not the case. \n\nOur mind is just one part of our
-    experience and we can use it in many different ways. "
+    and low mood. \n\nWhen you ruminate, you may feel trapped in your thinking and
+    can’t see a way out. This makes you feel low and makes you believe that your thoughts
+    are an accurate reflection of reality. But this is not the case. \n\nYour mind
+    is just one part of your experience and you can use it in many different ways. "
   Graphic Image: 
   Audio url: 
   Video Url: 
