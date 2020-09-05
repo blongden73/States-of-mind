@@ -320,7 +320,7 @@ Slides:
   Video Url: 
   Credit: 
   Links:
-  - Link Url: 
+  - Link Url: www.statesofmind.org/handbook/anxiety-and-control
   Quote: 
   Quote Credit: 
   Slide Colour: 
