@@ -353,7 +353,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: two
-  Title: 'Reflect on your behaviour in relationships '
+  Title: Reflect on your personal experience
   Image: 
   Description: 
   Graphic Image: 
@@ -361,7 +361,7 @@ Slides:
   Video Url: 
   Credit: 
   Links:
-  - Link Url: 
+  - Link Url: www.statesofmind.org/handbook/exploring-relationships-styles
   Quote: 
   Quote Credit: 
   Slide Colour: 
@@ -478,7 +478,7 @@ Slides:
   Video Url: 
   Credit: 
   Links:
-  - Link Url: 
+  - Link Url: www.statesofmind.org/handbook/compassion-reflection
   Quote: 
   Quote Credit: 
   Slide Colour: 
@@ -1009,6 +1009,19 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: two
+  Title: 'reflect on your experience '
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: www.statesofmind.org/handbook/conflict-in-relationships
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: list
   Title: 'Creating a safe space for resolving conflict '
   Image: 
@@ -1083,6 +1096,19 @@ Slides:
   Credit: 
   Links:
   - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: two
+  Title: 'reflect on your experience '
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: www.statesofmind.org/handbook/boundaries
   Quote: 
   Quote Credit: 
   Slide Colour: 
@@ -1191,7 +1217,7 @@ Slides:
   Video Url: 
   Credit: 
   Links:
-  - Link Url: 
+  - Link Url: www.statesofmind.org/handbook/ending-relationships
   Quote: 
   Quote Credit: 
   Slide Colour: 
