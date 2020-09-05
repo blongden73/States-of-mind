@@ -432,7 +432,7 @@ Slides:
   Title: 'Anxiety and avoidance  '
   Image: "/uploads/avoidant.jpg"
   Description: "Feelings of stress, combined with your inner fears can cause you to
-    retreat into avoidant behaviours that make you feel more comfortable and secure
+    retreat into avoidant behaviours that make you feel comfortable and secure rather
     than risking potential scenarios that could cause you more stress. \n\nThe tendency
     to avoid situations that could cause you discomfort can help in the short term
     but in the long term can perpetuate feelings of anxiety as it reinforces your
