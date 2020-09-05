@@ -93,7 +93,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: two
-  Title: 'Take time to pause '
+  Title: Body, feelings, mind reflection
   Image: 
   Description: 
   Graphic Image: 
@@ -223,7 +223,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: two
-  Title: Take time to pause
+  Title: Practice breathing techniques
   Image: 
   Description: 
   Graphic Image: 
@@ -322,7 +322,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: two
-  Title: 'Take time to pause '
+  Title: 'Explore your relationship with your feelings '
   Image: 
   Description: 
   Graphic Image: 
@@ -365,7 +365,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: two
-  Title: Take time to pause
+  Title: 'Explore some emotions '
   Image: 
   Description: 
   Graphic Image: 
@@ -460,7 +460,7 @@ Slides:
   Quote Credit: 
   Slide Colour: "#FFF8EA"
 - Template: two
-  Title: 'Take time to pause '
+  Title: Observe your mind
   Image: 
   Description: 
   Graphic Image: 
@@ -568,7 +568,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: two
-  Title: 'Take time to pause '
+  Title: Explore your mindsets
   Image: 
   Description: 
   Graphic Image: 
@@ -628,7 +628,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: two
-  Title: Take time to pause
+  Title: Use your imagination to problem solve
   Image: 
   Description: 
   Graphic Image: 
@@ -672,7 +672,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: two
-  Title: 'Take time to pause '
+  Title: Practice a drawing meditation
   Image: 
   Description: 
   Graphic Image: 
@@ -706,7 +706,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: two
-  Title: 'Take time to pause '
+  Title: Write yourself a letter
   Image: 
   Description: 
   Graphic Image: 
