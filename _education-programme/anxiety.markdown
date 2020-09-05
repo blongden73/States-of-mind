@@ -377,7 +377,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: five
+- Template: sixteen
   Title: 'Exploring our fears '
   Image: "/uploads/astrologyforartists_105941222_169499407896081_2923306870018876192_n.jpg"
   Description: |-
@@ -397,7 +397,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: two
-  Title: 'Take time to pause '
+  Title: 'Explore your fears '
   Image: 
   Description: 
   Graphic Image: 
@@ -442,6 +442,19 @@ Slides:
 - Template: sixteen
   Title: 'Anxiety and control '
   Image: "/uploads/zone_boy_yellow.svg"
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: two
+  Title: 'Reflect on your experience '
+  Image: 
   Description: 
   Graphic Image: 
   Audio url: 
@@ -577,6 +590,19 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: two
+  Title: 'Reflect on your experience '
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: five
   Title: 'Fears and Limiting Beliefs '
   Image: 
@@ -607,7 +633,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: two
-  Title: Take time to pause
+  Title: 'Explore your limiting beliefs '
   Image: 
   Description: 
   Graphic Image: 
@@ -689,6 +715,19 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: two
+  Title: 'Try a breathing exercise '
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: five
   Title: Mindfulness -Based Stress reduction
   Image: 
@@ -728,6 +767,19 @@ Slides:
     This explains why we find it much more difficult to worry about a problem when we choose to go for a walk, when we go to meet our friends or when we are doing something that takes our attention away from the problem.
 
     If you experience a lot of worry, you can strengthen your Task Positive Network by adding particular tasks to your daily routine that ensure you spend less time in your mind ruminating about your fears and anxieties.
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: two
+  Title: 'Activate your task positive network '
+  Image: 
+  Description: 
   Graphic Image: 
   Audio url: 
   Video Url: 
