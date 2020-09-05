@@ -185,10 +185,10 @@ Slides:
 - Template: four
   Title: 
   Image: 
-  Description: "You can use your mind and thoughts to feel more in control of the
-    situation you perceive as threatening. \n\nThis process can cause you to experience
-    more distress when you get caught in your thinking as you keep the uncomfortable
-    experience alive in your mind.\n\n"
+  Description: "When you feel overwhelmed, you may use your mind and thoughts to feel
+    more in control of the situation you perceive as threatening, by overthinking
+    and trying to solve the problem. \n\nThis can cause you to prolong or increase
+    your distress by keeping the uncomfortable experience alive in your thoughts.\n\n"
   Graphic Image: 
   Audio url: 
   Video Url: 
