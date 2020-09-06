@@ -106,6 +106,19 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: one
+  Title: 'Body '
+  Image: "/uploads/body%20-%20feeelings.jpeg"
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: one
   Title: 'Interoception '
   Image: "/uploads/engin-akyurt-5e8SJhu-YEA-unsplash.jpg"
   Description: 
@@ -137,25 +150,27 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: one
-  Title: 'Body '
-  Image: "/uploads/body%20-%20feeelings.jpeg"
-  Description: 
+- Template: five
+  Title: 'The Body Scan '
+  Image: 
+  Description: "The purpose of the body scan is to notice how you may be holding tension
+    and stress unconsciously in your body. By doing a body scan, you use our awareness
+    to reduce stress and tension and bring your body back to balance. \n"
   Graphic Image: 
-  Audio url: 
+  Audio url: "/uploads/Body%20Scan,%20Page%2017,%20BFM.mp3"
   Video Url: 
   Credit: 
   Links:
   - Link Url: 
   Quote: 
   Quote Credit: 
-  Slide Colour: 
+  Slide Colour: "#A3C3CF"
 - Template: sixteen
   Title: Vagus Nerve
   Image: "/uploads/vagus%20nerve-49f2ca.jpg"
   Description: "The vagus nerve connects your brain to many important organs throughout
-    the body, including the stomach, heart and lungs.\n\nThe vagus nerve is also a
-    key part of your parasympathetic “rest and digest” nervous system. It influences
+    your body, including your stomach, heart and lungs.\n\nThe vagus nerve is also
+    a key part of your parasympathetic “rest and digest” nervous system. It influences
     your breathing, digestive function and heart rate, all of which can have a huge
     impact on your mental health.\n\nHaving higher vagal tone means that your body
     can relax faster after stress as increasing the 'tone' of your vagus nerve activates
@@ -276,21 +291,6 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: five
-  Title: 'The Body Scan '
-  Image: 
-  Description: "The purpose of the body scan is to notice how you may be holding tension
-    and stress unconsciously in your body. By doing a body scan, you use our awareness
-    to reduce stress and tension and bring your body back to balance. \n"
-  Graphic Image: 
-  Audio url: "/uploads/Body%20Scan,%20Page%2017,%20BFM.mp3"
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: "#A3C3CF"
 - Template: one
   Title: Feelings
   Image: "/uploads/BFM%20hands.jpg"
@@ -636,7 +636,7 @@ Slides:
   Video Url: 
   Credit: 
   Links:
-  - Link Url: 
+  - Link Url: www.statesofmind.org/handbook/imagination-and-problem-solving
   Quote: 
   Quote Credit: 
   Slide Colour: 
