@@ -581,7 +581,7 @@ Slides:
   Graphic Image: "/uploads/Group%20132.svg"
   Audio url: 
   Video Url: 
-  Credit: 'Emotional regulation graphic '
+  Credit: 
   Links:
   - Link Url: 
   Quote: 
