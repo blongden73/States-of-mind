@@ -387,11 +387,11 @@ Slides:
   Title: 'Exploring our fears '
   Image: "/uploads/astrologyforartists_105941222_169499407896081_2923306870018876192_n.jpg"
   Description: |-
-    ### What ‘External Fears’ do you have?
+    ### What External Fears do you have?
 
     These are situations or things outside of you that make you feel like you are unable to cope. 
      
-    ### What ‘Internal Fears do you have?
+    ### What Internal Fears do you have?
 
     These are beliefs or internal narratives that cause you to feel like you are unable to cope.
   Audio url: 
@@ -411,7 +411,7 @@ Slides:
   Video Url: 
   Credit: 
   Links:
-  - Link Url: 
+  - Link Url: www.statesofmind.org/handbook/exploring-your-fears
   Quote: 
   Quote Credit: 
   Slide Colour: 
@@ -600,10 +600,13 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: one
-  Title: 'Limiting beliefs '
-  Image: "/uploads/DTSxSSRIdentity9106-29e14b.jpg"
-  Description: 
+- Template: five
+  Title: 'Fears and Limiting Beliefs '
+  Image: 
+  Description: |-
+    Calming our fears is possible for everyone.
+
+    It requires you to listen carefully to the messages your fears hold and listen with kindness to what they are telling you about the ideas that you have about ourselves, so that you can uncover the underlying belief, explore it and let it go.
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -613,13 +616,10 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: five
-  Title: 'Fears and Limiting Beliefs '
-  Image: 
-  Description: |-
-    Calming our fears is possible for everyone.
-
-    It requires you to listen carefully to the messages your fears hold and listen with kindness to what they are telling you about the ideas that you have about ourselves, so that you can uncover the underlying belief, explore it and let it go.
+- Template: one
+  Title: 'Working with limiting beliefs '
+  Image: "/uploads/DTSxSSRIdentity9106-29e14b.jpg"
+  Description: 
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -779,7 +779,7 @@ Slides:
   Video Url: 
   Credit: 
   Links:
-  - Link Url: 
+  - Link Url: www.statesofmind.org/handbook/task-positive-network
   Quote: 
   Quote Credit: 
   Slide Colour: 
