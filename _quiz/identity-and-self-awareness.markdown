@@ -1,6 +1,7 @@
 ---
 title: Identity and Self Awareness
 date: 2020-09-06 15:28:00 Z
+permalink: "/quiz/identity-and-self-awareness.html"
 Quiz type: Multiple choice
 Question: Self awareness helps us to
 Choice: 3
