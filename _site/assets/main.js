@@ -328,6 +328,58 @@ $('#submit-form').on('click', function(e) {
   );
 })
 
+var quizCheck = document.querySelector('.quiz-wrapper');
+
+function quiz() {
+  var quizWrapper = document.querySelector('.quiz-wrapper');
+  var answers = document.querySelectorAll('.quiz-wrapper li');
+  var checkButton = document.querySelector('.check-button');
+  var seeanswers = document.querySelector('.see-correct');
+
+  for(i = 0; i < answers.length; i++) {
+    console.log(answers[i]);
+    answers[i].addEventListener('click', function(){
+      this.classList.toggle('chosen');
+    });
+    checkButton.addEventListener('click', function(){
+      console.log('clicked');
+      var chosen = document.querySelector('.chosen');
+      var answersChosen = document.querySelectorAll('.chosen');
+      var correctAnswers = document.querySelectorAll('[data-type="1"]');
+      console.log(correctAnswers.length);
+
+      if(answersChosen.length == correctAnswers.length) {
+        seeanswers.classList.add('display');
+        console.log(answersChosen);
+        for(j = 0; j < answersChosen.length; j++){
+          var checkAnswers = answersChosen[j].dataset.type;
+          if(checkAnswers == 1){
+            answersChosen[j].classList.add('correct');
+          } else {
+            answersChosen[j].classList.add('wrong');
+          }
+        }
+      }else {
+        var highlight = document.querySelector('.choose-option');
+        highlight.classList.add('bigger');
+      }
+    });
+    seeanswers.addEventListener('click', function(){
+      var wrongAnswers = document.querySelectorAll('[data-type="0"]');
+      var correctAnswers = document.querySelectorAll('[data-type="1"]');
+      if(wrongAnswers) {
+        for(g = 0; g < wrongAnswers.length; g++) {
+          wrongAnswers[g].classList.remove('wrong');
+          wrongAnswers[g].classList.add('hide');
+        }
+        for(k = 0; k < correctAnswers.length; k++) {
+          correctAnswers[k].classList.add('correct');
+        }
+      }
+    });
+  }
+}
+
 
 function init(){
   grid();
@@ -341,6 +393,9 @@ function init(){
   if(slides) {
     console.log('new scrolling v2');
     presentation();
+  }
+  if(quizCheck) {
+    quiz();
   }
 }
 init();
