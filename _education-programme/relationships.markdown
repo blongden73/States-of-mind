@@ -974,7 +974,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: 'list '
+- Template: list
   Title: 'Hypervigilance in relationships '
   Image: 
   Description: "Hypervigilance is caused by an overactive nervous response to emotional
