@@ -17,6 +17,7 @@ Answers:
   True/False: 'False'
 Education programme: "Identity \n& Self\nAwareness"
 slide: 14
+layout: quiz
 ---
 
 **After page 13**
