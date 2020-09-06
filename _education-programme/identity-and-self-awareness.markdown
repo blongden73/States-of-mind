@@ -251,7 +251,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: two
+- Template: 'two '
   Title: 'Explore your identity '
   Image: 
   Description: 
@@ -836,7 +836,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: 'two '
+- Template: two
   Title: 'Explore your family identity '
   Image: 
   Description: 

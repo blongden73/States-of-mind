@@ -574,11 +574,11 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
+- Template: twenty
   Title: 
   Image: 
   Description: 
-  Graphic Image: 
+  Graphic Image: "/uploads/Group%20132.svg"
   Audio url: 
   Video Url: 
   Credit: 'Emotional regulation graphic '
