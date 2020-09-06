@@ -626,7 +626,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: six
+- Template: sixteen
   Title: 'Mentalising '
   Image: 
   Description: |-
@@ -637,7 +637,7 @@ Slides:
     Mentalising allows you to notice and reflect on what you are thinking and feeling, aswell as being curious about what may be going on in other people’s minds.
 
     Mentalising allows you to switch from concrete thought ‘She is behaving like that because’ to a wondering stance ‘ I wonder why she may be behaving like that’.
-  Graphic Image: "/uploads/gemma-chua-tran-mZQpsI1CoVQ-unsplash%20(1).jpg"
+  Graphic Image: "/uploads/mentalising.jpg"
   Audio url: 
   Video Url: 
   Credit: 
@@ -678,19 +678,6 @@ Slides:
     They are more able to **make sense of both the external world and their internal world** of thoughts, feelings and emotions.
 
     They have an **increased ability for creative thought**, the ability to hold multiple perspectives and are generally more capable of connecting with the inner lives of other people.
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: one
-  Title: 'Practicing mentalising '
-  Image: "/uploads/gemma-chua-tran-6tHTXiSRUi8-unsplash.jpg"
-  Description: 
   Graphic Image: 
   Audio url: 
   Video Url: 
