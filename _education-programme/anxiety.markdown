@@ -578,7 +578,7 @@ Slides:
   Title: 
   Image: 
   Description: 
-  Graphic Image: "/uploads/Group%20132.svg"
+  Graphic Image: "/uploads/Group%20133.svg"
   Audio url: 
   Video Url: 
   Credit: 
