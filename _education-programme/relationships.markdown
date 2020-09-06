@@ -837,7 +837,7 @@ Slides:
     Empathy can relate to our ability to connect with both the positive and uncomfortable emotions of others.
 
     Practising empathy in relationships changes the way you speak and listen to others and promotes deeper levels of connection and understanding.
-  Graphic Image: "/uploads/gemma-chua-tran-jNVgCpQ0LhQ-unsplash.jpg"
+  Graphic Image: "/uploads/empathy.jpg"
   Audio url: 
   Video Url: 
   Credit: 
