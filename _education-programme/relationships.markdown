@@ -828,6 +828,19 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: one
+  Title: Empathy
+  Image: "/uploads/empathy.jpg"
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: six
   Title: 'Empathy '
   Image: 
@@ -837,7 +850,7 @@ Slides:
     Empathy can relate to our ability to connect with both the positive and uncomfortable emotions of others.
 
     Practising empathy in relationships changes the way you speak and listen to others and promotes deeper levels of connection and understanding.
-  Graphic Image: "/uploads/empathy.jpg"
+  Graphic Image: 
   Audio url: 
   Video Url: 
   Credit: 
