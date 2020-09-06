@@ -737,7 +737,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: "/uploads/squared_invite_image_colour_copy.jpg"
-- Template: list
+- Template: sixteen
   Title: 'Depression and Social support '
   Description: "* Our close relationships are one of the best resources we have for
     overcoming an episode of depression in our lives.\n\n* Relationships can feel
