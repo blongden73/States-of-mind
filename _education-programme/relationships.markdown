@@ -1191,7 +1191,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: two
-  Title: 'reflect on endings in your relationships '
+  Title: 'Reflect on endings in your relationships '
   Image: 
   Description: 
   Graphic Image: 
