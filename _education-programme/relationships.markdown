@@ -99,7 +99,7 @@ Slides:
   Title: 
   Image: 
   Description: 
-  Graphic Image: "/uploads/Group%20119.svg"
+  Graphic Image: "/uploads/Group%20119%20(1).svg"
   Audio url: 
   Video Url: 
   Credit: 
@@ -146,7 +146,7 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: 
-  Image: "/uploads/Group%20118.svg"
+  Image: "/uploads/Group%20134.svg"
   Description: |-
     This graphic reflects the nature of your emotional development. Your emotional memory from key stages of your life shapes your personal blueprint for how you relate with others as an adult.
 

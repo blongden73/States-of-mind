@@ -14,12 +14,12 @@
 <div class="slide-content">
   <h2 class="slide-title">
     {{title}}
-    {% if links %}
-      {% for link in links %}
-        <a class="som-button" href="https://{{link.['Link Url'] | uri_escape }}">Go to handbook <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M8.66598 7.54202H22.4791c.8476 0 1.5348.68715 1.5348 1.53479V22.8899c0 .8477-.6872 1.5348-1.5348 1.5348-.8476 0-1.5348-.6871-1.5348-1.5348V12.7821L9.07708 24.6493l-2.17052-2.1705L18.7738 10.6116H8.66598c-.84765 0-1.5348-.68715-1.5348-1.53479 0-.84764.68715-1.53479 1.5348-1.53479z" fill="#000"/></svg></a>
-      {% endfor %}
-    {% endif %}
   </h2>
+  {% if links %}
+    {% for link in links %}
+      <a class="som-button" href="https://{{link.['Link Url'] | uri_escape }}">Go to handbook <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M8.66598 7.54202H22.4791c.8476 0 1.5348.68715 1.5348 1.53479V22.8899c0 .8477-.6872 1.5348-1.5348 1.5348-.8476 0-1.5348-.6871-1.5348-1.5348V12.7821L9.07708 24.6493l-2.17052-2.1705L18.7738 10.6116H8.66598c-.84765 0-1.5348-.68715-1.5348-1.53479 0-.84764.68715-1.53479 1.5348-1.53479z" fill="#000"/></svg></a>
+    {% endfor %}
+  {% endif %}
   {% if audio %}
     <div class="som-audio-player">
       <audio src="{{audio}}" controls ></audio>
