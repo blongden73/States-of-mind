@@ -16,6 +16,10 @@ Form: |-
       <label>If you detach from this mindset, what other ways of seeing yourself and others begin to emerge?</label>
       <textarea type="text" name="detach_mindset" placeholder="Type your answer here"/></textarea>
     </div>
+  <div>
+      <label>What is your username?</label>
+      <input type="text" name="username" placeholder="Type your answer here"/></input>
+    </div>
     <div>
       <button type="submit"id="submit-form">Submit</button>
     </div>

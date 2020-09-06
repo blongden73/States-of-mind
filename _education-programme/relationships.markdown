@@ -1208,4 +1208,3 @@ Cover Colour: "#ffffff"
 layout: presentation
 ---
 
-Authenticity and Belonging
