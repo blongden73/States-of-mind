@@ -301,8 +301,7 @@ Slides:
     are very familiar with this part of their identity, yet they do not always pause
     to consider the meaning their name has for them. \n\nThe act of bringing conscious
     awareness to an aspect of yourself such as your name allows you to connect more
-    deeply with your sense of who you are and the meaning this part of us has in your
-    life. "
+    deeply with your sense of who you are and the meaning it holds for you. "
   Graphic Image: 
   Audio url: 
   Video Url: 
