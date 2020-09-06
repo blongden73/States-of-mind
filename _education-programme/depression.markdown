@@ -359,7 +359,7 @@ Slides:
   - Link Url: 
   Quote: 
   Quote Credit: 
-  Image: "/uploads/Group%20125%20(1).svg"
+  Image: "/uploads/Group%20126.svg"
 - Template: six
   Title: 'The stages of the fright response '
   Description: |-
