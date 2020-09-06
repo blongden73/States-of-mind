@@ -99,7 +99,7 @@ Slides:
   Title: 
   Image: 
   Description: 
-  Graphic Image: "/uploads/Group%20119.svg"
+  Graphic Image: "/uploads/Group%20119%20(1).svg"
   Audio url: 
   Video Url: 
   Credit: 
