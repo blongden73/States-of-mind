@@ -1,20 +1,12 @@
 ---
 title: What we do
 date: 2020-02-13 22:41:00 Z
-Intro text: |-
-  # ...to live their potential?
-
-  Our world needs the thinkers,
-  do-ers and leaders of tomorrow
-  to feel like they’ve got this.
-
-  But in a rapidly changing world,
-  being young and transitioning into
-  adult life is more challenging than
-  ever. We believe there are better ways of supporting young people’s
-  wellbeing, and we’ll only find it by
-  fully engaging them in the process
-  of change.
+Intro text: "# ...to really be heard?\n\nWe are here to change the way young people
+  consider mental health.\n\nIn our society we often try to fit people's problems
+  into boxes, or try to medicate the issues away. We are here to listen to what is
+  really causing the problems, so that future approaches to support young people address
+  the root causes of the problem. \n\nWe work alongside young people, talking, listening
+  and innovating with them. None of us are experts, we are learning together. "
 Carousel:
 - Image: "/uploads/1-9db443.jpg"
   Quote: 'The programme has helped me see mental health with a different perspective.
