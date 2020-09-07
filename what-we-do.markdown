@@ -5,9 +5,9 @@ Intro text: "# ...to really be heard?\n\nWe are here to inspire new ways of thin
   about mental health.\n\nFor too long, our society has used a medical approach to
   solve a social problem. We believe young people deserve more. Our work focuses on
   understanding and addressing the social causes of young people's distress. We then
-  design new systems of support that are based on our findings. \n\nWe work alongside
-  young people, talking, listening and innovating with them. None of us are experts,
-  we are failing, learning and testing our ideas together. "
+  design new systems of support that can be sustained and replicated. \n\nWe work
+  alongside young people, talking, listening and innovating with them. None of us
+  are experts, we are failing, learning and testing our ideas together. "
 Carousel:
 - Image: "/uploads/1-9db443.jpg"
   Quote: 'The programme has helped me see mental health with a different perspective.
