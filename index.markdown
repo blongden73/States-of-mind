@@ -27,10 +27,10 @@ Why we are here description: |-
 What We Are Doing description: "# Education\n\nOur vision is for a world where it's
   natural to talk about and care for our emotional and mental wellbeing. Where times
   of suffering don't disconnect us, but help us align with who we are, acknowledge
-  our needs, and make sense of our lives, together.  \n\nWe educate young people about
-  mental health through a programme that fosters self awareness, connection, and hope.
-  Our work is based on therapeutic approaches, which offer a chance to understand
-  yourself, others, and explore how you can fully land in your potential, with integrity.
+  our needs, and make sense of our lives, together.  \n\nWe provide young people with
+  different ways of understanding mental health concerns through a programme that
+  fosters self awareness, connection, and hope. Our work is based on Psychosynthesis
+  Psychotherapy and a range of psychological models that explore the human experience.
   \n\n# Social action\n \nIdeas raised to action can change the world. Working with
   and listening to young people, we combine insights with social action so that the
   problems we find can be transformed into meaningful change. \n\nOur programme's
