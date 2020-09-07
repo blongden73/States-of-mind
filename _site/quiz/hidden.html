@@ -462,31 +462,41 @@ function dragDropResetForm()
 window.onload = initDragDropScript;
 </script>
 <div class="education-background"></div>
-<div class="quiz-wrapper som-wrapper Multiple choice">
+<div class="quiz-wrapper som-wrapper Drag">
   <div class="page-centred">
     
-      <h2>Self awareness helps us to</h2>
-      <p class="choose-option">Choose 3 answers</p>
-      <ul>
-      
-        <li data-type="1">Take responsibility for our problems </li>
-      
-        <li data-type="0">Ignore other people’s feelings</li>
-      
-        <li data-type="1">Improve our relationships</li>
-      
-        <li data-type="1">Improve our confidence and self esteem</li>
-      
-        <li data-type="0">Become more self absorbed</li>
-      
-      </ul>
-      <div class="check-button">
-        Check answers
-      </div>
-      <div class="see-correct">
-        See correct
-      </div>
     
+    <h2>Match the correct answers</h2>
+    <div id="dragScriptContainer">
+      <div id="questionDiv">
+        
+          <div class="dragDropSmallBox" id="q1">The parts of ourselves that we do not share with others. This information that we keep private may relate to your fears and insecurities aswell as your hopes and dreams.</div>
+          <div class="destinationBox"></div>
+        
+          <div class="dragDropSmallBox" id="q2">Everything we know about ourselves. This is what people know about us and what we are consciously aware of too.</div>
+          <div class="destinationBox"></div>
+        
+          <div class="dragDropSmallBox" id="q3">Information about ourselves that is unconscious to both ourselves and others. This relates to the parts of ourselves and unrealised potential and skills we have yet to discover.</div>
+          <div class="destinationBox"></div>
+        
+          <div class="dragDropSmallBox" id="q4">The parts of ourselves we are not aware of but that others know about us. This can relate to both our positive attributes and areas for growth.</div>
+          <div class="destinationBox"></div>
+        
+      </div>
+      <div id="answerDiv">
+        
+          <div class="dragDropSmallBox" id="a1">Hidden</div>
+        
+          <div class="dragDropSmallBox" id="a2">Open</div>
+        
+          <div class="dragDropSmallBox" id="a3">Unknown</div>
+        
+          <div class="dragDropSmallBox" id="a4">Blind spot</div>
+        
+      </div>
+      </div>
+      <div id="dragContent"></div>
+      <input class="som-button" type="button" onclick="dragDropResetForm();return false" value="Reset">
     
   </div>
 </div>
