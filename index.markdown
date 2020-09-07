@@ -29,8 +29,8 @@ What We Are Doing description: "# Education\n\nOur vision is for a world where m
   suffering don't disconnect us, but help us learn about ourselves and eachother,
   \ acknowledge our needs, and make sense of our problems together. \n\nWe provide
   young people with different ways of understanding their emotional world through
-  a programme that fosters self awareness, connection, and hope. Our work is based
-  on Psychosynthesis Psychotherapy and a range of psychological models that explore
+  a programme that fosters self awareness, connection, and hope. \n\nOur seminars
+  draw on Psychosynthesis theory and a range of other psychological models that explore
   the human experience.\n\n# Social action\n\nIdeas raised to action can change the
   world. Working with and listening to young people, we combine insights with social
   action so that the problems we find can be transformed into meaningful change.\n\nOur
