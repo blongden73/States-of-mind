@@ -1,8 +1,8 @@
 ---
 title: Home
 permalink: "/"
-Intro text: "We’re creating a better future for mental health by involving young people
-  in the process of change. \n"
+Intro text: "We are creating a better future for mental health care by involving young
+  people in the process of change. \n"
 Intro image: "/uploads/intro_image.jpg"
 Quote text: |-
   # "I feel like, for once, my opinion and the voices of other young people have been listened to and that they actually matter."
@@ -15,11 +15,11 @@ Why we are here image: "/uploads/scroller1.jpg"
 Why we are here description: |-
   # <img src="/uploads/connected_icon.svg">Choice
 
-  Growing numbers of young people in the UK are seeking help for their mental health, but many aren’t getting the support they need. With the NHS unable to meet the rising demand, we believe it's time for a new approach, one that is co-created with young people outside of clinical settings.
+  Growing numbers of young people in the UK are seeking help for their mental health, but many aren’t getting the support they want or need. With the NHS unable to meet the rising demand, we believe it's time for a new approach, one that is co-created with young people outside of clinical settings.
 
   # <img src="/uploads/space_icon.svg">Autonomy
 
-  By supporting young people to develop the skills, confidence, and knowledge to look after their mental health, we can help them find meaning and opportunity in the everyday struggles of life. We run trauma-informed mental health education programs in schools, giving young people the tools to explore their minds and emotions in a safe and familiar environment.
+  By supporting young people to develop the skills, confidence, and knowledge to explore their inner life, we can help them find meaning in suffering. We run trauma-informed mental health education programmes in schools, providing young people with an understanding of mental health that functions without diagnostic language.
 
   # <img src="/uploads/change_icon.svg">Collaboration
 
