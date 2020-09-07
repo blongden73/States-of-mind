@@ -1,5 +1,6 @@
 ---
-title: 'Breaking the Silence: students respond to the Ofsted Framework consultation'
+title: 'Open Letter, Breaking the Silence: students respond to the Ofsted Framework
+  consultation'
 date: 2020-08-26 09:33:00 Z
 categories:
 - journal
