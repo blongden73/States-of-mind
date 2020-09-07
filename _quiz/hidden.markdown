@@ -21,5 +21,6 @@ Answers:
     us. This can relate to both our positive attributes and areas for growth.
 Education programme: "Identity \n& Self\nAwareness"
 slide: 14
+layout: quiz
 ---
 
