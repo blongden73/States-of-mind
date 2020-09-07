@@ -3,10 +3,11 @@ title: What we do
 date: 2020-02-13 22:41:00 Z
 Intro text: "# ...to really be heard?\n\nWe are here to change the way young people
   consider mental health.\n\nIn our society we often try to fit people's problems
-  into boxes, or try to medicate the issues away. We are here to listen to what is
-  really causing the problems, so that future approaches to support young people address
-  the root causes of the problem. \n\nWe work alongside young people, talking, listening
-  and innovating with them. None of us are experts, we are learning together. "
+  into boxes, or try to medicate the issues away. We believe young people deserve
+  more. We are here to listen to what is really causing the problems, so that future
+  approaches to support young people address the root causes. \n\nWe work alongside
+  young people, talking, listening and innovating with them. None of us are experts,
+  we are failing, learning and testing our ideas together. "
 Carousel:
 - Image: "/uploads/1-9db443.jpg"
   Quote: 'The programme has helped me see mental health with a different perspective.
