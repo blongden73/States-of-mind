@@ -19,7 +19,7 @@ Why we are here description: |-
 
   # <img src="/uploads/space_icon.svg">Autonomy
 
-  By supporting young people to develop the skills, confidence, and knowledge to explore their inner life, we can help them find meaning in suffering. We run trauma-informed mental health education programmes in schools, providing young people with an understanding of mental health that functions without diagnostic language.
+  By supporting young people to develop self-knowledge, compassion and curiosity towards their inner life, we can help them find meaning in suffering. We run trauma-informed mental health education programmes in schools, providing young people with an understanding of mental health that functions without the use of diagnostic labels.
 
   # <img src="/uploads/change_icon.svg">Collaboration
 
