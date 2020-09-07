@@ -54,12 +54,12 @@ Ambassador description: "# Wellbeing Ambassadors Programme\n\nFor the last coupl
 Eduacation description: |-
   # Education
 
-  Our mission is to make psychological theory and practice more accessible for young people, so that they can benefit from the rich insights that psychology can bring to our understanding of ourselves and others.**Explore the human mind, behaviour and emotions in a series of seminars that draw on a range of psychological models.** **Develop a shared understanding of how our personal histories of life shape our mind, personality and self-perception, through a group learning model.**[Book programme](/)
+  Our mission is to make psychological theory and practice more accessible for young people, so that they can benefit from the rich insights that psychology can bring to our understanding of ourselves and others.**We teach young people about psychosocial and trauma informed theories of mental health** **Our series of seminars explores how our personal histories of life shape our mind, personality and self-perception, without using diagnostic labels to describe distress.**[Book programme](/)
 
   # Exploration
 
   We create spaces that help young people explore the underlying causes of emotional distress. We are curious about what lies behind the surface of problems and by exploring the complexity of issues, we work with young people to find solutions that can really work.**Our research underpins our work and we use it to provide clarity, direction and purpose.
-  By combining research and storytelling, we have developed an approach that is built from a meaningful search for better ways of helping people.** **We embrace complexity and dedicate our work to revealing what’s really contributing to problems, so that we can create meaningful and sustainable solutions.**
+  By combining research and systems theory, we have developed an approach that is built from a meaningful search for better ways of helping people.** **We embrace complexity and dedicate our work to revealing what’s really contributing to problems, so that we can create meaningful and sustainable solutions.**
 
   # Social impact
 
