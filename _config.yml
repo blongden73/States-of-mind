@@ -43,7 +43,7 @@ defaults:
       Quote Credit:
       Slide Colour:
 - scope:
-  path: quiz
+    path: quiz
   values:
     Quiz type:
     Question:
