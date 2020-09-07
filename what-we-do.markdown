@@ -51,7 +51,7 @@ Ambassador description: "# Wellbeing Ambassadors Programme\n\nFor the last coupl
   lead a targeted intervention to improve wellbeing in their college. \n\nWe provide
   facilitation, support and psychological insight throughout the process. We aren't
   interested in one off workshops, we want to create a completely new approach to
-  supporting young people in education. \n\n[Download our curriculum](/uploads/States%20ofMind%20Ambassadors%20Training%20Programme.pdf)"
+  supporting young people throughout their time in education. \n\n[Download our curriculum](/uploads/States%20ofMind%20Ambassadors%20Training%20Programme.pdf)"
 Eduacation description: |-
   # Education
 
