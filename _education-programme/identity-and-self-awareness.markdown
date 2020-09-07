@@ -112,9 +112,9 @@ Slides:
   Description: "# Self awareness enables you to:\n\n# Take responsibility for your
     problems.\n\nBy developing knowledge about yourself and understanding yourself
     more fully, you can determine where your problems are coming from so that you
-    can begin to resolve them. \n\n# Improve your relationships \n\nBy being more
-    aware of how you are acting towards yourself and in your relationships, you can
-    improve the quality of these relationships, which are so key for experiencing
+    can begin to resolve them more easily. \n\n# Improve your relationships \n\nBy
+    being more aware of how you are acting towards yourself and in your relationships,
+    you can improve the quality of these relationships, which are so key for experiencing
     a fulfilling life.  \n\n# Improve your confidence \n\nPeople with self awareness
     have more clarity about who they are, what they believe in and what their personal
     goals are. Without this clarity, it can be easy to lack self assurance and struggle
@@ -301,8 +301,7 @@ Slides:
     are very familiar with this part of their identity, yet they do not always pause
     to consider the meaning their name has for them. \n\nThe act of bringing conscious
     awareness to an aspect of yourself such as your name allows you to connect more
-    deeply with your sense of who you are and the meaning this part of us has in your
-    life. "
+    deeply with your sense of who you are and the meaning it holds for you. "
   Graphic Image: 
   Audio url: 
   Video Url: 

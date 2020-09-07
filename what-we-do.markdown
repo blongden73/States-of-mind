@@ -1,20 +1,13 @@
 ---
 title: What we do
 date: 2020-02-13 22:41:00 Z
-Intro text: |-
-  # ...to live their potential?
-
-  Our world needs the thinkers,
-  do-ers and leaders of tomorrow
-  to feel like they’ve got this.
-
-  But in a rapidly changing world,
-  being young and transitioning into
-  adult life is more challenging than
-  ever. We believe there are better ways of supporting young people’s
-  wellbeing, and we’ll only find it by
-  fully engaging them in the process
-  of change.
+Intro text: "# ...to really be heard?\n\nWe are here to inspire new ways of thinking
+  about mental health.\n\nFor too long, our society has used a medical approach to
+  solve a social problem. We believe young people deserve more. Our work focuses on
+  understanding and addressing the social causes of young people's distress. We then
+  design new systems of support that can be sustained and replicated. \n\nWe work
+  alongside young people, talking, listening and innovating with them. None of us
+  are experts, we are failing, learning and testing our ideas together. "
 Carousel:
 - Image: "/uploads/1-9db443.jpg"
   Quote: 'The programme has helped me see mental health with a different perspective.
@@ -50,27 +43,28 @@ Carousel:
 Intro image: "/uploads/MG_4948.jpg"
 What we do lead image: "/uploads/what_we_do.jpg"
 Ambassador image: "/uploads/ambassador-c73089.jpg"
-Ambassador description: |-
-  # Wellbeing Ambassadors Programme
-
-  Launched in Newham in 2019, our Wellbeing Ambassadors Programme provides training and resources for schools to create an approach to wellbeing that is informed and led by students. We’re designing a model that helps students develop self awareness and emotional intelligence as part of their academic life.
-
-  With three core components, the programme is underpinned by a project-led approach where students harness their insights to create a social impact.
-
-  [Download our curriculum](/uploads/States%20ofMind%20Ambassadors%20Training%20Programme.pdf)
+Ambassador description: "# Wellbeing Ambassadors Programme\n\nFor the last couple
+  of years we have been learning about what young people want mental health support
+  to look like in education. We have designed our Wellbeing Ambassadors Programme
+  Wellbeing Ambassadors to explore and address the underlying issues affecting young
+  people's wellbeing. We work with students weekly, supporting them to design and
+  lead a targeted intervention to improve wellbeing in their college. \n\nWe provide
+  facilitation, support and psychological insight throughout the process. We aren't
+  interested in one off workshops, we want to create a completely new approach to
+  supporting young people in education. \n\n[Download our curriculum](/uploads/States%20ofMind%20Ambassadors%20Training%20Programme.pdf)"
 Eduacation description: |-
   # Education
 
-  Our mission is to make psychological theory and practice more accessible for young people, so that they can benefit from the rich insights that psychology can bring to our understanding of ourselves and others.**Explore the human mind, behaviour and emotions in a series of seminars that draw on a range of psychological models.**Develop a shared understanding of how our personal histories of life shape our mind, personality and self-perception, through a group learning model.**[Book programme](/)
+  Our mission is to make psychological theory and practice more accessible for young people, so that they can benefit from the rich insights that psychology can bring to our understanding of ourselves and others.**We teach young people about psychosocial and trauma informed theories of mental health** **Our series of seminars explores how our personal histories of life shape our mind, personality and self-perception, without using diagnostic labels to describe distress.**[Book programme](/)
 
   # Exploration
 
   We create spaces that help young people explore the underlying causes of emotional distress. We are curious about what lies behind the surface of problems and by exploring the complexity of issues, we work with young people to find solutions that can really work.**Our research underpins our work and we use it to provide clarity, direction and purpose.
-  By combining research and storytelling, we have developed an approach that is built from a meaningful search for better ways of helping people.** **We embrace complexity and dedicate our work to revealing what’s really contributing to problems, so that we can create meaningful and sustainable solutions.**
+  By combining research and systems theory, we have developed an approach that is built from a meaningful search for better ways of helping people.** **We embrace complexity and dedicate our work to revealing what’s really contributing to problems, so that we can create meaningful and sustainable solutions.**
 
   # Social impact
 
-  In order to prevent psychological distress from reaching a crisis point, systems must evolve to listen more closely to the voices and needs of young people at an earlier stage.**By embedding our model within education, we aim to develop more effective methods for the education system to support young people's mental health, throughout their academic life and beyond.** **We combine education with social action for meaningful and sustainable change. Using a social enterprise model, our program supports young people to lead their own projects and initiatives, so they can take their learning and insights forward to a wider audience.**
+  In order to prevent psychological distress from reaching a crisis point, systems must evolve to listen more closely to the voices and needs of young people at an earlier stage.**By embedding our model within education, we aim to develop more effective methods for the education system to support young people's mental health, throughout their academic life and beyond.** **We combine education with social action for meaningful and sustainable change. Using a social enterprise model, our programme supports young people to lead their own projects and initiatives, so they can take their learning and insights forward to a wider audience.**
 Education image: "/uploads/GIRLS%20IN%20A%20LINE.JPG"
 Research image: "/uploads/yousif%20talking.JPG"
 Research description: |-
