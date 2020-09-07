@@ -41,4 +41,3 @@ What we are doing image: "/uploads/Pembury.jpg"
 layout: home
 ---
 
-## 
