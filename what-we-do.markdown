@@ -44,13 +44,13 @@ Intro image: "/uploads/MG_4948.jpg"
 What we do lead image: "/uploads/what_we_do.jpg"
 Ambassador image: "/uploads/ambassador-c73089.jpg"
 Ambassador description: "# Wellbeing Ambassadors Programme\n\nFor the last couple
-  of years we have been working in schools across London to learn about what young
-  people want mental health support to look like in education. Alongside students
-  and teachers, we have designed a programme that explores the key issues causing
-  young people distress. Wellbeing Ambassadors then design and lead a targeted intervention
-  for their school or college. \n\nWe provide facilitation and support throughout
-  the process. We aren't interested in one off workshops, we want to create a completely
-  new approach to supporting young people in education. \n\n[Download our curriculum](/uploads/States%20ofMind%20Ambassadors%20Training%20Programme.pdf)"
+  of years we have been learning about what young people want mental health support
+  to look like in education. Alongside students and teachers, we have designed a programme
+  that explores and addresses the key issues causing young people distress. Wellbeing
+  Ambassadors design and lead a targeted intervention to improve wellbeing in their
+  college. \n\nWe provide facilitation and support throughout the process. We aren't
+  interested in one off workshops, we want to create a completely new approach to
+  supporting young people in education. \n\n[Download our curriculum](/uploads/States%20ofMind%20Ambassadors%20Training%20Programme.pdf)"
 Eduacation description: |-
   # Education
 
