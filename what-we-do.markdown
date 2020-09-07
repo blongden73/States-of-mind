@@ -2,7 +2,7 @@
 title: What we do
 date: 2020-02-13 22:41:00 Z
 Intro text: "# ...to really be heard?\n\nWe are here to change the way young people
-  consider their mental health.\n\nIn our society we often try to fit people's distress
+  consider mental health.\n\nIn our society we often try to fit people's distress
   into medical categories, or try to medicate the issues away. We believe young people
   deserve more. We are here to listen to what is really causing the problems, so that
   future approaches address the root causes of the issues and lead to sustainable
