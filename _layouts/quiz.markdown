@@ -5,8 +5,10 @@
 
 {% include header.html %}
 <div class="education-background"></div>
+
 <div class="quiz-wrapper som-wrapper {{quizType}}">
   <div class="page-centred">
+    {% if quizType == 'Multiple Choice'%}
     <h2>{{question}}</h2>
     <p class="choose-option">Choose {{choice}} answers</p>
     <ul>

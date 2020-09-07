@@ -29,27 +29,39 @@ defaults:
     path: education-programme
   values:
     Slides:
-    - Template: 
-      Title: 
-      Image: 
-      Description: 
-      Graphic Image: 
-      Audio url: 
-      Video Url: 
-      Credit: 
+    - Template:
+      Title:
+      Image:
+      Description:
+      Graphic Image:
+      Audio url:
+      Video Url:
+      Credit:
       Links:
-      - Link Url: 
-      Quote: 
-      Quote Credit: 
-      Slide Colour: 
-Cover Image: 
-Cover Colour: 
+      - Link Url:
+      Quote:
+      Quote Credit:
+      Slide Colour:
+- scope:
+  path: quiz
+  values:
+    Quiz type:
+    Question:
+    Choice:
+    Answers:
+    - Answer:
+      True/False:
+    Education programme:
+    slide:
+    layout: quiz
+Cover Image:
+Cover Colour:
 email: hello@benlongdendesign.co.uk
 description: Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search
   results) and in your feed.xml site description.
-baseurl: 
-url: 
+baseurl:
+url:
 sass:
   sass_dir: _sass
   style: compressed
