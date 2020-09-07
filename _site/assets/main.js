@@ -378,6 +378,31 @@ function quiz() {
       }
     });
   }
+  var single = document.querySelector('.single-quiz');
+  var checkButtonSingle = document.querySelector('.check-button-single');
+  var correctmessage = document.querySelector('.correct-answer');
+  var wrongmessage = document.querySelector('.correct-wrong');
+  var seeCorrectSingle = document.querySelector('.see-correct-single');
+  var correctAnswer = document.querySelector('.correct-answer-reveal');
+  if(single) {
+    checkButtonSingle.addEventListener('click', function(){
+      var singleAnswer = single.value;
+      var correct = single.dataset.type;
+      if( singleAnswer == correct){
+        single.classList.remove('wrong');
+        single.classList.add('correct');
+        wrongmessage.classList.remove('display');
+        correctmessage.classList.add('display');
+      }else {
+        single.classList.add('wrong');
+        wrongmessage.classList.add('display');
+        seeCorrectSingle.classList.add('display');
+      }
+    });
+    seeCorrectSingle.addEventListener('click', function(){
+      correctAnswer.classList.add('display');
+    });
+  }
 }
 
 

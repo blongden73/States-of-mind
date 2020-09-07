@@ -956,7 +956,7 @@ body.handbook {
 
 
 //quiz style
-.check-button, .see-correct {
+.check-button, .see-correct, .check-button-single, .see-correct-single {
   border: 1px solid #121212;
   width: max-content;
   padding: 15px;
@@ -970,6 +970,14 @@ body.handbook {
 }
 .see-correct {
   margin-top: 10px;
+  display: none;
+
+  &.display {
+    display: block;
+  }
+}
+
+.see-correct-single {
   display: none;
 
   &.display {
@@ -1014,6 +1022,40 @@ body.handbook {
         background-color: #fff;
         opacity: 0.5;
       }
+    }
+  }
+
+  input {
+    padding: 10px;
+    background-color: #fff;
+    width: 90%;
+    border: 1px solid #e6e6e6;
+    font-size: 18px;
+    margin-bottom: 10px;
+
+    &.correct {
+      background-color: $green;
+      border-color: green;
+    }
+
+    &.wrong {
+      background-color: #f44336;
+      border-color: red;
+    }
+  }
+
+  .correct-answer {
+    display: none;
+
+    &.display {
+      display: block;
+    }
+  }
+  .correct-wrong {
+    display: none;
+
+    &.display {
+      display: block;
     }
   }
 }
@@ -1148,5 +1190,20 @@ body.handbook {
     display: inline-block;
     -webkit-animation: pulsate-fwd 0.5s ease-in-out infinite both;
 	  animation: pulsate-fwd 0.5s ease-in-out infinite both;
+  }
+}
+
+.correct-answer-reveal {
+  opacity: 0;
+  transition: all ease-in-out 0.5s;
+  height: 0;
+
+  span {
+    color: $green;
+  }
+
+  &.display {
+    opacity: 1;
+    height: auto;
   }
 }

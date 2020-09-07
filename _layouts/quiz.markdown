@@ -435,6 +435,21 @@ window.onload = initDragDropScript;
       <div id="dragContent"></div>
       <input class="som-button" type="button" onclick="dragDropResetForm();return false" value="Reset">
     {% endif %}
+    {% if quizType == "Single" %}
+    <h2>{{question}}</h2>
+    {% for answer in answers%}
+      <input class="single-quiz" data-type="{{answer.Answer}}" placeholder="Type your answer here" value=""></input>
+      <p class="correct-answer">😄Well done! You're right!</p>
+      <p class="correct-wrong">🤦🏽‍♀️Offfff! Not quite!</p>
+      <p class="correct-answer-reveal">The correct answer is <span>{{answer.Answer}}</span></p>
+    {% endfor %}
+    <div class="check-button-single">
+      Check answer
+    </div>
+    <div class="see-correct-single">
+      See correct
+    </div>
+    {% endif %}
   </div>
 </div>
 {% include footer.html %}
