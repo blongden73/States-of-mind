@@ -5,10 +5,11 @@ Quiz type: Multiple Choice
 Question: Who coined the term ‘unconditional positive regard’?
 Answers:
 - Answer: Wilfred Bion
-  True/False:
+  True/False: 
 - Answer: Carl Rogers
   True/False: 'True'
 Education programme: Depression & Low Mood
 slide: 53
 layout: quiz
 ---
+

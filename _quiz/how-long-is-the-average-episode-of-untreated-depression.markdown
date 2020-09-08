@@ -7,12 +7,13 @@ Answers:
 - Answer: 12–13 weeks
   True/False: 'True'
 - Answer: 9 months
-  True/False:
+  True/False: 
 - Answer: 3 years
-  True/False:
+  True/False: 
 - Answer: 5 years
-  True/False:
+  True/False: 
 Education programme: Depression & Low Mood
 slide: 28
 layout: quiz
 ---
+
