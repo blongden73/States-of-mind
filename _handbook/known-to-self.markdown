@@ -16,7 +16,7 @@ Form: |-
       <textarea type="text" name="detach_mindset" placeholder="Type your answer here"/></textarea>
     </div>
   <div>
-      <label>What is your username?</label>
+      <label>Unknown Area<br>When have you had a new experience that showed you something new about yourself?</label>
       <input type="text" name="username" placeholder="Type your answer here"/></input>
     </div>
     <div>
@@ -26,8 +26,3 @@ Form: |-
 layout: handbook
 ---
 
-Hidden Area\
-What parts of yourself do you conceal from others?
-
-Unknown Area\
-When have you had a new experience that showed you something new about yourself?
