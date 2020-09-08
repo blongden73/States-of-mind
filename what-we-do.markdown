@@ -48,7 +48,7 @@ Ambassador description: |-
 
   For the last couple of years we have been learning about what young people want mental health support to look like in education. We have designed our  Wellbeing Ambassadors Programme with young people across London. We work with students weekly, supporting them to design and lead a targeted intervention to improve wellbeing in their college.
 
-  We provide facilitation, support and psychological insight throughout the process. We want to create a completely new approach to supporting young people throughout their time in education.
+  We provide facilitation, support and psychological thinking throughout the process. We want to create a completely new approach to supporting young people throughout their time in education.
 
   [Download our curriculum](/uploads/States%20ofMind%20Ambassadors%20Training%20Programme.pdf)
 Eduacation description: |-
