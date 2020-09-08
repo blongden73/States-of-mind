@@ -4,8 +4,8 @@ date: 2020-08-31 17:03:00 Z
 layout: handbook
 ---
 
-**PART 1: **
-**Describe this emotion in as many ways as you can**:
+# **PART 1
+On paper Describe this emotion in as many ways as you can:**
 
 What does it look and feel like?
 
@@ -21,10 +21,9 @@ What might prevent me from communicating this emotion to others?
 
 How have people responded to you expressing this emotion in the past?
 
-What do our families and society tell us about this emotion?  
+What do our families and society tell us about this emotion?
 
-
-**PART 2: **
+# **PART 2**
 
 What stops us from being honest about our emotions?
 
