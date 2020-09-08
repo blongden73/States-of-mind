@@ -11,6 +11,6 @@ Answers:
 - Answer: Competence
   True/False: 'Feeling like you are confident in your ability to do things well '
 Education programme: Depression & Low Mood
-slide: 28
+slide: 54
 ---
 
