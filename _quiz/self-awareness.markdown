@@ -12,5 +12,5 @@ Answers:
     to adapt to various environments where we feel unable to be our authentic self.
 Education programme: "Identity \n& Self\nAwareness"
 slide: 44
+layout: quiz
 ---
-

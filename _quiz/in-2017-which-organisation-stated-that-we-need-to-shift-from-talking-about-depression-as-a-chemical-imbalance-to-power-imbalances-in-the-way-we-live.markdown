@@ -9,14 +9,14 @@ Question: 'In 2017, which organisation stated that: “ We need to shift from ta
 Choice: 1
 Answers:
 - Answer: The Mental Health Foundation
-  True/False: 
+  True/False:
 - Answer: The UN
   True/False: 'True'
 - Answer: Amnesty International
-  True/False: 
+  True/False:
 - Answer: The World Health Organization
-  True/False: 
+  True/False:
 Education programme: Depression & Low Mood
 slide: 28
+layout: quiz
 ---
-

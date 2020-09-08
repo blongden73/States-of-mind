@@ -16,5 +16,5 @@ Answers:
 - Answer: 85
   True/False: false
 Education programme: Body, Feelings, Mind
+layout: quiz
 ---
-

@@ -15,5 +15,5 @@ Answers:
   True/False: 'True'
 Education programme: Anxiety
 slide: 25
+layout: quiz
 ---
-

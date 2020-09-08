@@ -9,10 +9,10 @@ Answers:
     that they are able to be accepted for who they are, without needing to change.
   True/False: 'True'
 - Answer: It allows us to take responsibility for how the other person is feeling
-  True/False: 
+  True/False:
 - Answer: It shows the other person we only care about them when they are happy.
-  True/False: 
+  True/False:
 Education programme: Depression & Low Mood
 slide: 53
+layout: quiz
 ---
-

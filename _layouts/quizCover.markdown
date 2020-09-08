@@ -16,7 +16,7 @@
               <div class="arrow">→</div>
             </div>
             <div class="right">
-              <h1><div class="indicator"></div><a href="{{quiz.permalink}}">{{quiz.title}}</a></h1>
+              <h1><div class="indicator"></div><a href="/quiz/{{quiz.title | slugify}}.html">{{quiz.title}}</a></h1>
             </div>
           </div>
         {% endfor %}

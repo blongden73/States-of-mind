@@ -14,5 +14,5 @@ Answers:
   True/False: 'False'
 Education programme: Body, Feelings, Mind
 slide: 17
+layout: quiz
 ---
-

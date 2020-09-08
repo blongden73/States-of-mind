@@ -24,5 +24,5 @@ Answers:
     overeating, overworking or taking drugs. '
 Education programme: Anxiety
 slide: 53
+layout: quiz
 ---
-

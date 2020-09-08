@@ -17,5 +17,5 @@ Answers:
   True/False: the ability to observe, name and express what we are feeling.
 Education programme: Body, Feelings, Mind
 slide: 45
+layout: quiz
 ---
-

@@ -17,5 +17,5 @@ Answers:
     the only reality of how things are.
 Education programme: Anxiety
 slide: 26
+layout: quiz
 ---
-
