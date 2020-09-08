@@ -15,5 +15,7 @@ Answers:
 - Answer: Emotional reasoning
   True/False: Assuming that because we feel strongly towards a situation it must be
     the only reality of how things are.
+Education programme: Anxiety
+slide: 26
 ---
 
