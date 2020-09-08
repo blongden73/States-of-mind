@@ -1,6 +1,8 @@
 ---
 title: How does each therapeutic approach work?
 date: 2020-09-08 18:53:00 Z
+Quiz type: Drag
+Question: How does each therapeutic approach work?
 Answers:
 - Answer: Yoga
   True/False: works by reducing stress, relieving muscle tension and inflammation
