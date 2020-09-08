@@ -17,7 +17,7 @@ Form: |-
     </div>
   <div>
       <label>Unknown Area<br>When have you had a new experience that showed you something new about yourself?</label>
-      <input type="text" name="unknown_area" placeholder="Type your answer here"/></input>
+      <textarea type="text" name="unknown_area" placeholder="Type your answer here"/></textarea>
     </div>
   <div>
       <label>Whats your username?</label>
