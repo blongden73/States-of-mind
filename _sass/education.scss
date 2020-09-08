@@ -65,6 +65,15 @@ body.handbook {
       line-height:0.9;
     }
   }
+
+  &.quiz-list {
+    h1 {
+      font-size: 50px;
+      margin: 0;
+      line-height:1;
+      max-width: 75%;
+    }
+  }
 }
 
 .dev-info {
@@ -1032,6 +1041,11 @@ body.handbook {
     border: 1px solid #e6e6e6;
     font-size: 18px;
     margin-bottom: 10px;
+
+
+    &.som-button {
+        width: max-content;
+    }
 
     &.correct {
       background-color: $green;
