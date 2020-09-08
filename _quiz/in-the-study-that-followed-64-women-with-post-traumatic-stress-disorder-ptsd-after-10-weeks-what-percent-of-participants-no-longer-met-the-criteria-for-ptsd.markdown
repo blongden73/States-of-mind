@@ -8,12 +8,12 @@ Question: In the study that followed 64 women with post-traumatic stress disorde
 Choice: "\n"
 Answers:
 - Answer: 10
-  True/False: 
+  True/False: false
 - Answer: 5
-  True/False: 
+  True/False: false
 - Answer: 52
   True/False: true
 - Answer: 85
-  True/False: 
+  True/False: false
 ---
 
