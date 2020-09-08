@@ -46,15 +46,3 @@ Form: |-
 layout: handbook
 ---
 
-
-A.
-
-A.
-
-A.
-
-A.
-
-A.
-
-A.
