@@ -5,18 +5,22 @@ Form: |-
   <form id="test-form">
     <div>
       <label>Open Area <br> What parts of yourself do you know and share with others?</label>
-      <textarea type="text" name="mindset_serve_you" placeholder="Type your answer here"/></textarea>
+      <textarea type="text" name="open_area" placeholder="Type your answer here"/></textarea>
     </div>
     <div>
       <label>Blind Spot <br> When have you realised something about yourself through your relationships with other people?</label>
-      <textarea type="text" name="mindset_limit_you" placeholder="Type your answer here"/></textarea>
+      <textarea type="text" name="blind_spot" placeholder="Type your answer here"/></textarea>
     </div>
     <div>
       <label>Hidden Area <br> What parts of yourself do you conceal from others?</label>
-      <textarea type="text" name="detach_mindset" placeholder="Type your answer here"/></textarea>
+      <textarea type="text" name="hidden_area" placeholder="Type your answer here"/></textarea>
     </div>
   <div>
       <label>Unknown Area<br>When have you had a new experience that showed you something new about yourself?</label>
+      <input type="text" name="unknown_area" placeholder="Type your answer here"/></input>
+    </div>
+  <div>
+      <label>Whats your username?</label>
       <input type="text" name="username" placeholder="Type your answer here"/></input>
     </div>
     <div>
