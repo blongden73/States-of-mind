@@ -2,7 +2,6 @@
 title: Exploring limiting and supportive beliefs
 date: 2020-08-31 17:05:00 Z
 layout: handbook
-layout: handbook
 ---
 
 **Calming our fears **
