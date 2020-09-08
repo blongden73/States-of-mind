@@ -1,7 +1,7 @@
 ---
 title: Emotional Regulation
 date: 2020-09-08 18:54:00 Z
-Quiz type: Multiple Choice
+Quiz type: Drag
 Question: Match the correct answers
 Answers:
 - Answer: Emotional Regulation
