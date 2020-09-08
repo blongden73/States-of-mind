@@ -402,7 +402,7 @@ window.onload = initDragDropScript;
 <div class="education-background"></div>
 <div class="quiz-wrapper som-wrapper {{quizType}}">
   <div class="page-centred">
-    {% if quizType == 'Multiple choice'%}
+    {% if quizType == 'Multiple choice' or quizType == 'Multiple Choice'%}
       <h2>{{question}}</h2>
       <p class="choose-option">Choose {{choice}} answers</p>
       <ul>

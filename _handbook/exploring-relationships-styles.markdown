@@ -1,16 +1,17 @@
 ---
 title: Exploring relationships styles
 date: 2020-09-05 10:59:00 Z
+layout: handbook
 ---
 
-What relationship pattern feels most familiar to you? 
+What relationship pattern feels most familiar to you?
 
 
 
 
-What early experiences do you think may have contributed to this way of relating in your relationships? 
+What early experiences do you think may have contributed to this way of relating in your relationships?
 
 
 
 
-What relationship patterns do you notice yourself repeating that you feel are areas for growth? Eg. not feeling comfortable communicating your feelings honestly with others. 
+What relationship patterns do you notice yourself repeating that you feel are areas for growth? Eg. not feeling comfortable communicating your feelings honestly with others.

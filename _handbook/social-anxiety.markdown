@@ -1,6 +1,7 @@
 ---
 title: Social anxiety
 date: 2020-09-05 14:43:00 Z
+layout: handbook
 ---
 
 * How do you want others to view you?

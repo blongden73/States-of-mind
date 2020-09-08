@@ -1,6 +1,7 @@
 ---
 title: Feeling overwhelmed
 date: 2020-09-05 10:55:00 Z
+layout: handbook
 ---
 
 When was the last time you felt overwhelmed by a situation and felt like you lacked the resources to cope?  
@@ -9,13 +10,10 @@ When was the last time you felt overwhelmed by a situation and felt like you lac
 
 
 
-What thoughts and feelings did you notice in this situation? 
+What thoughts and feelings did you notice in this situation?
 
 
 
 
 
-How did this situation end and what did you learn from it? 
-
-
-
+How did this situation end and what did you learn from it?

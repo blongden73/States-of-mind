@@ -1,9 +1,10 @@
 ---
 title: Exploring your fears
 date: 2020-09-06 12:08:00 Z
+layout: handbook
 ---
 
-What are your external fears? These are fears that are caused by an outside source, eg flying on a plane, spiders or an upcoming exam. 
+What are your external fears? These are fears that are caused by an outside source, eg flying on a plane, spiders or an upcoming exam.
 
 
 
