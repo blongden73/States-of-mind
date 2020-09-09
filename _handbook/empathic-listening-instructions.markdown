@@ -6,7 +6,7 @@ layout: handbook
 
 Find a partner to try this activity with. Chose who will be the speaker and who will be the listener. 
 
-Set a timer for 5 minutes on your phone. Ask the person to speak for 3 minutes about one of their favourite memories. Before beginning the activity make sure you have read the following instructions: 
+Set a timer for 3 minutes on your phone. Ask the person to speak for 3 minutes about one of their favourite memories. Before beginning the activity make sure you have read the following instructions: 
 
 1. Be attentive. Be interested. Be alert and not distracted. Create a positive atmosphere through nonverbal behaviour.
 
