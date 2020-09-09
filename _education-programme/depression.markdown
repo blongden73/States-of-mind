@@ -445,6 +445,7 @@ Slides:
   Quiz:
   - www.statesofmind.org/quiz/how-many-people-remain-depressed-after-1-year-of-taking-antidepressant-medication.html
   - " www.statesofmind.org/quiz/in-2017-which-organisation-stated-that-we-need-to-shift-from-talking-about-depression-as-a-chemical-imbalance-to-power-imbalances-in-the-way-we-live.htm"
+  - 'www.statesofmind.org/quiz/how-long-is-the-average-episode-of-untreated-depression.html '
 - Template: six
   Title: 'Depression as a consequence of unmet human needs '
   Description: |-
