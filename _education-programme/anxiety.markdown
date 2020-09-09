@@ -445,6 +445,8 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+  Quiz:
+  - www.statesofmind.org/quiz/what-is-anxiety.htm
 - Template: sixteen
   Title: 'Anxiety and control '
   Image: "/uploads/Group%20131.svg"
