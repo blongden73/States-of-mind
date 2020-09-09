@@ -12,9 +12,9 @@ Set a timer for 3 minutes on your phone. Ask the person to speak for 3 minutes a
 
 2. Be a sounding board -- allow the speaker to bounce ideas and feelings off you while assuming a nonjudgmental, non-critical manner.
 
-3. Don't ask a lot of questions. They can give the impression you are "grilling" the speaker.
+3. Only ask 'clarifying questions'. These are questions that enable you to check that you understood what the speaker meant if you are unsure. 
 
-4. Act like a mirror -- reflect back what you hear the speaker is saying and what you sense the speaker is feeling.
+4. Act like a mirror -- reflect back what you hear the speaker saying when you feel they are a bit stuck and not sure what to say next. Reflect back both what they said and how you notice they are feeling as they speak. 
 
 5. Don't discount the speaker's feelings by using stock phrases like "It's not that bad," or "You'll feel better tomorrow."
 
