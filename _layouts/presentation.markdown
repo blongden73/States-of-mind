@@ -20,6 +20,7 @@
   {% assign quoteCred = slide.['Quote Credit'] %}
   {% assign slideColor = slide.['Slide Colour']%}
   {% assign links = slide.Links %}
+  {% assign quiz = slide.Quiz %}
     <div id="slide-{{ forloop.index }}" class="slide {{template}} {%if image %}white{% endif %}" {%if slideColor %}style="background:{{slideColor}};"{% endif %}>
       <div class="som-wrapper">
         {% if template == "five" %}
@@ -62,6 +63,27 @@
         {% endif %}
       </div>
     </div>
+    {% if quiz %}
+    <div id="slide-{{ forloop.index }}-1" class="slide quiz">
+      <div class="som-wrapper">
+        <div class="discussion-header">
+          <h1 class="slide-title">Quiz</h1>
+        </div>
+        <div class="slide-content">
+          <div class="slide-description">
+            <div class="quiz-launcher-wrapper">
+              {% for quizes in quiz %}
+                <div data-link="{{quizes}}" class="som-button quiz-launcher">Quiz {{ forloop.index }}</div>
+              {% endfor %}
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="quiz-pop">
+        <iframe src="https://www.statesofmind.org/quiz/self-awareness.html"></iframe>
+      </div>
+    </div>
+    {% endif %}
   {% endfor %}
   <div id="slide-end" class="slide four slide-cover slide-end">
     <div class="som-wrapper">

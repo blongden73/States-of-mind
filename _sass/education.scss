@@ -1,5 +1,7 @@
 body.education-programme {
-  overflow: hidden;
+  @include mq($from: desktop) {
+    overflow: hidden;
+  }
 }
 
 body.education {
@@ -33,14 +35,19 @@ body.handbook {
   position: relative;
   z-index: 1;
   color: #121212;
+
   .flex {
     border-bottom: 1px solid #121212;
     margin-bottom: 30px;
     padding-bottom: 60px;
   }
   .left {
-    width: 28%;
+    width: 100%;
     padding-top: 4px;
+
+    @include mq($from: desktop) {
+      width: 28%;
+    }
 
     span {
       font-size: 25px;
@@ -52,7 +59,11 @@ body.handbook {
 
   }
   .right {
-    width: 80%;
+    width: 100%;
+
+    @include mq($from: desktop) {
+      width: 80%;
+    }
 
     a {
       color: inherit;
@@ -60,9 +71,13 @@ body.handbook {
     }
 
     h1 {
-      font-size: 100px;
+      font-size: 50px;
       margin: 0;
       line-height:0.9;
+
+      @include mq($from: desktop) {
+        font-size: 100px;
+      }
     }
   }
 
@@ -111,9 +126,14 @@ body.handbook {
 }
 
 .slide {
-  height: 93vh;
+  min-height: 100vh;
   background-color: $nu-pink;
   position: relative;
+
+  @include mq($from: desktop) {
+    min-height: unset;
+    height: 93vh;
+  }
 
   ol {
     counter-reset: my-awesome-counter !important;
@@ -267,6 +287,11 @@ body.handbook {
   z-index: 1000;
   border-top: 1px solid #121212;
   padding-top: 20px;
+  display: none;
+
+  @include mq($from: desktop) {
+    display: block;
+  }
 }
 
 .slides-wrapper {
@@ -282,10 +307,15 @@ body.handbook {
 
 .slide-content {
   position: absolute;
-  top: 45%;
-  transform: translateY(-45%);
+  top: 10px;
   z-index: 10;
-  max-width: 45%;
+  max-width: 100%;
+
+  @include mq($from: desktop) {
+    top: 45%;
+    transform: translateY(-45%);
+    max-width: 45%;
+  }
 
   li {
     margin-bottom: 10px !important;
@@ -544,11 +574,18 @@ body.handbook {
 
   .one & {
     h2 {
-      font-size: 100px;
+      font-size: 50px;
       line-height: 1;
       letter-spacing: -2px;
       text-transform: capitalize;
       max-width: 80%;
+      font-weight: 100;
+
+      @include mq($from: desktop) {
+        font-size: 100px;
+        line-height: 1;
+        letter-spacing: -2px;
+      }
     }
   }
 
@@ -716,11 +753,16 @@ body.handbook {
 }
 
 .slide-image {
-  width: 50%;
+  width: 100%;
   position: absolute;
   right: 0px;
-  top: 0;
+  top: 50%;
   bottom: 0;
+
+  @include mq($from: desktop) {
+    width: 50%;
+    top: 0;
+  }
 
   .twenty & {
     position: absolute;
@@ -909,9 +951,13 @@ body.handbook {
 
 .page-centred {
   padding-top: 200px;
-  width: 660px;
+  width: 98%;
   margin-left: auto;
   margin-right: auto;
+
+  @include mq($from: desktop) {
+    width: 660px;
+  }
 
   p {
     font-size: 20px;
@@ -949,6 +995,16 @@ body.handbook {
       border: 1px solid #121212;
       background-color: #fff;
       height: 200px;
+      padding: 10px;
+      font-size: 20px;
+    }
+
+    input {
+      margin-bottom: 10px;
+      width: 100%;
+      font-family: 'circular';
+      border: 1px solid #121212;
+      background-color: #fff;
       padding: 10px;
       font-size: 20px;
     }
@@ -1219,5 +1275,54 @@ body.handbook {
   &.display {
     opacity: 1;
     height: auto;
+  }
+}
+
+.quiz-launcher {
+  border: 1px solid #121212;
+  font-size: 16px;
+  color: #121212;
+  width: max-content;
+  bottom: 60px;
+  z-index: 100;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.quiz-launcher-wrapper {
+  display: flex;
+  flex-direction: row;
+}
+
+.quiz-pop {
+  position: absolute;
+  top: -20px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0,0,0,0.5);
+  z-index: 2000;
+
+  iframe {
+    height: 80vh;
+    width: 740px;;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 0;
+    border-radius: 3%;
+  }
+}
+
+body.quiz {
+  .som-header {
+    display: none;
+  }
+  .page-centred {
+    padding-top: 0;
+  }
+  .som-footer-cta, .som-footer {
+    display: none;
   }
 }
