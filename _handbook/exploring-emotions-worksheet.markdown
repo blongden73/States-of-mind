@@ -6,6 +6,8 @@ layout: handbook
 
 # \*\*PART 1
 
+Choose an emotion to work with from the graphic on the previous page. 
+
 Describe this emotion in as many ways as you can:\*\*
 
 What does it look and feel like?
