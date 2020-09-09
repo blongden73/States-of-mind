@@ -291,6 +291,8 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+  Quiz:
+  - www.statesofmind.org/quiz/how-does-each-therapeutic-approach-work.html
 - Template: one
   Title: Feelings
   Image: "/uploads/BFM%20hands.jpg"
