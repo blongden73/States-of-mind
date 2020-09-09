@@ -718,6 +718,8 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+  Quiz:
+  - 'www.statesofmind.org/quiz/emotional-regulation.html '
 Cover Image: "/uploads/bfm.jpeg"
 Cover Colour: "#ffffff"
 layout: presentation
