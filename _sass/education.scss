@@ -36,6 +36,21 @@ body.handbook {
   z-index: 1;
   color: #121212;
 
+  .som-button {
+    border: 1px solid #121212;
+    font-size: 16px;
+    color: #121212;
+    width: max-content;
+    bottom: 60px;
+    z-index: 100;
+    padding: 10px;
+
+    &:hover {
+      background-color: #121212;
+      color: #fff;
+    }
+  }
+
   .flex {
     border-bottom: 1px solid #121212;
     margin-bottom: 30px;
@@ -78,6 +93,12 @@ body.handbook {
       @include mq($from: desktop) {
         font-size: 100px;
       }
+    }
+
+    p {
+      max-width: 500px;
+      margin-top: 30px;
+      margin-bottom: 30px;
     }
   }
 
