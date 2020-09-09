@@ -38,3 +38,5 @@ At the beginning of one session, the mood was clearly down as a student explaine
 > This instance alongside many others touched me deeply. I am so fortunate to have spent time working with these young people, and the lessons they have taught me are invaluable. 
 
 What States of Mind are offering and the platform they give young people is beginning of a movement to solve a huge problem – with care and consideration for what young people really need. It cannot be for much longer that education systems and the young people they aim to cater for are so disparate, and I am enthused to have been part of an organisation actively diminishing this gap.
+**
+You can read Yousif's research paper [here](www.statesofmind.org/journal/2020/09/07/yousif-research-paper.html). **
