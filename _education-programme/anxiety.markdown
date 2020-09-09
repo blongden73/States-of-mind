@@ -428,6 +428,8 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+  Quiz:
+  - 'www.statesofmind.org/quiz/what-types-of-feelings-do-people-experience-as-part-of-the-freeze-response.html '
 - Template: sixteen
   Title: 'Anxiety and avoidance  '
   Image: "/uploads/avoidant.jpg"
