@@ -227,6 +227,7 @@ Slides:
   Slide Colour: 
   Quiz:
   - www.statesofmind.org/quiz/identity-and-self-awareness.html
+  - " www.statesofmind.org/quiz/hidden.html"
 - Template: ten
   Title: "Who \nare \nyou?"
   Image: 
