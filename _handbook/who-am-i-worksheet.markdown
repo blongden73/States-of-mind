@@ -12,22 +12,26 @@ The purpose of this practice is to help you develop self-awareness and connect m
 Find a place where you can relax and be undisturbed while you complete the practice.
 With a piece of paper and a pen, write at the top of the page ‘Who am I?’. Take time to write down the associations that come to mind as you consider this question. Allow the answers to emerge freely and honestly. Take time to pause and consider the question to connect with as many associations as you can.
 
-
 When you feel you have completed the list, label each answer from a scale of 1-10 based on how you connected you feel with this part of your identity or personality, with 10 being the strongest connection and 1 being the least strong.
 
-
 Make some notes to the following questions:
-When can you remember first associating with this part of your identity?\
-What informed this part of your identity?\
+
+
+When can you remember first associating with this part of your identity?
+
+\
+What informed this part of your identity?
+
+\
 How does associating with this part of you serve you in your life?
+
+
 How does associating with this part of you limit you?
 
 \*\*Step 2: \*\*
 Take some time to breathe deeply and find a comfortable position. When you are ready, close your eyes and consider the question again. Allow an image to emerge in your mind in response to the question. Do not try to create an image for yourself but relax and allow it to emerge. When you have connected with this image, open your eyes and make notes about what you saw and the meaning that it had for you. How did you feel as you connected with this image? What was this image showing you?
 
-
 It is recommended that you continue to do this exercise over a period of time. Its impact deepens with repeated use.
-
 
 For use with two people / in groups.
 
@@ -57,7 +61,7 @@ Swap and repeat the exercise.
 
 4. Make a note of anything else that you noticed that felt significant to you.
 
-Invite the listener to swap roles with the reader and repeat the exercise again.
+If you are doing this activity with another person, Invite the listener to swap roles with the reader and repeat the exercise again.
 
 Group Discussion:
 
