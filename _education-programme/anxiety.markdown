@@ -852,6 +852,8 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+  Quiz:
+  - www.statesofmind.org/quiz/when-are-these-brain-networks-active.html
 Cover Image: "/uploads/DESIGN%20COVER-12fe9b.jpg"
 Cover Colour: "#ffffff"
 layout: presentation
