@@ -10,7 +10,7 @@ tags:
 Intro: '"This is the beginning of a movement to solve a huge problem – with care and
   considering for what young people need."'
 Byline: By Yousif  Davis
-Photo: "/uploads/IMG_4700-8dfe27.JPG"
+Image: "/uploads/IMG_4700-8dfe27.JPG"
 ---
 
 Yousif Davis is fascinated by the mechanics of the mind. This interest has led him to study an MSc in Health Psychology, and to complete a two-month work placement with us, experiencing and studying our mental health education programme for London high school and college students. “Mental health and wellbeing provisions in schools fall short of young people’s needs,” he says. “The response to States of Mind was exhilarating, the radiance from young people in sessions warped time and made an initially impenetrable problem seem simple. Give them their voice and resources and they will show you the solution.”
