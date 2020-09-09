@@ -1308,6 +1308,12 @@ body.handbook {
   z-index: 100;
   padding: 10px;
   margin-right: 10px;
+  cursor: pointer;
+
+  &:hover {
+    background-color: #121212;
+    color: #fff;
+  }
 }
 
 .quiz-launcher-wrapper {
