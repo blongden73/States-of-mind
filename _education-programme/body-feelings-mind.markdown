@@ -727,3 +727,4 @@ Cover Colour: "#ffffff"
 layout: presentation
 ---
 
+The neuroscience of attention and its relationship to mindfulness practice and emotional regulation. The seminar provides tools to develop self awareness and mindfulness in our everyday lives.
