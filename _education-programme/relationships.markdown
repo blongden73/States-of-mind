@@ -479,6 +479,7 @@ Slides:
   Slide Colour: 
   Quiz:
   - " www.statesofmind.org/quiz/relationships.html"
+  - www.statesofmind.org/quiz/secure.htm
 - Template: sixteen
   Title: 'I -it and I-Thou relationships '
   Image: "/uploads/FL37036004-715-537.jpg"
