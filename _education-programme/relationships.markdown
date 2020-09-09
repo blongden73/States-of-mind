@@ -473,10 +473,12 @@ Slides:
   Video Url: 
   Credit: 
   Links:
-  - Link Url: www.statesofmind.org/quiz/relationships.html
+  - Link Url: www.statesofmind.org/handbook/compassion-reflection
   Quote: 
   Quote Credit: 
   Slide Colour: 
+  Quiz:
+  - " www.statesofmind.org/quiz/relationships.html"
 - Template: sixteen
   Title: 'I -it and I-Thou relationships '
   Image: "/uploads/FL37036004-715-537.jpg"
