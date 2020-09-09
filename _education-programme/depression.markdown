@@ -905,6 +905,8 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: 
+  Quiz:
+  - www.statesofmind.org/quiz/how-long-did-durkeim-propose-that-the-link-between-depression-and-social-exclusion-has-been-evident.html
 Cover Image: "/uploads/depression_Cover.png"
 Cover Colour: "#eeeff3"
 layout: presentation
