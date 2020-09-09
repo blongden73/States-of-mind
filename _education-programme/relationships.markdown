@@ -473,7 +473,7 @@ Slides:
   Video Url: 
   Credit: 
   Links:
-  - Link Url: www.statesofmind.org/handbook/compassion-reflection
+  - Link Url: www.statesofmind.org/quiz/relationships.html
   Quote: 
   Quote Credit: 
   Slide Colour: 
