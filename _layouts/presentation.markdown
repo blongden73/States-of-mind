@@ -1,4 +1,11 @@
 {% include miniheader.html %}
+<div class="quiz-pop">
+  <div class="quiz-close">
+    Close
+  </div>
+  <div class="loading-circle"></div>
+  <iframe class="iframe-pop" src=""></iframe>
+</div>
 <div class="slides-wrapper">
   <div id="slide-0" class="slide slide-cover">
     <img src="{{page.['Cover Image']}}">
@@ -78,9 +85,6 @@
             </div>
           </div>
         </div>
-      </div>
-      <div class="quiz-pop">
-        <iframe src="https://www.statesofmind.org/quiz/self-awareness.html"></iframe>
       </div>
     </div>
     {% endif %}

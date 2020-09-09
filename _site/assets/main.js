@@ -405,6 +405,31 @@ function quiz() {
   }
 }
 
+function quizPop() {
+  var quizLauncher = document.querySelectorAll('.quiz-launcher');
+  var iframepop = document.querySelector('.iframe-pop');
+  var quizpop = document.querySelector('.quiz-pop');
+
+  if(quizLauncher) {
+    for(i=0; i<quizLauncher.length; i++) {
+      quizLauncher[i].addEventListener('click', function(){
+        console.log(quizpop);
+        console.log(this.dataset.link);
+        var link = this.dataset.link;
+        quizpop.classList.add('display');
+        iframepop.classList.add('display');
+        console.log(link);
+        var linkReset = 'https://'+link;
+        iframepop.setAttribute('src', linkReset);
+      });
+      quizpop.addEventListener('click', function(){
+        quizpop.classList.remove('display');
+        iframepop.classList.remove('display');
+      });
+    }
+  }
+}
+
 
 function init(){
   grid();
@@ -412,6 +437,7 @@ function init(){
   homePage();
   menu();
   headerScroll();
+  quizPop();
   if(document.querySelector('canvas')){
     animatedCircles();
   }
