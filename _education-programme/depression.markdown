@@ -919,3 +919,4 @@ Cover Colour: "#eeeff3"
 layout: presentation
 ---
 
+The psychological, emotional and physical manifestations of depression, while viewing the experience as occurring in the historical and interpersonal context of life. Exploring the loss of will, meaning and purpose, this seminar views depression as a challenging but potentially growth promoting experience.
