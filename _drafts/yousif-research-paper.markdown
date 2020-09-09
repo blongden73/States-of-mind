@@ -9,7 +9,7 @@ tags:
 - Community
 Intro: 'A MSc Health Psychology student works with us and reports his findings. '
 Byline: By Yousif Davis
-Photo: 
+Photo: "/uploads/_MG_4948.jpg"
 ---
 
 **At States of Mind, we believe in the power of research to create positive change. It's a big part of what we do, working with young people to develop research projects that aim to improve our society's approach to mental health and wellbeing. So when Yousif Davis asked to complete a research paper on our work as part of his MSc studies in Health Psychology, our answer was a resounding yes!
