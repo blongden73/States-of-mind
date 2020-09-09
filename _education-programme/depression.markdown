@@ -879,6 +879,7 @@ Slides:
   Image: 
   Quiz:
   - 'www.statesofmind.org/quiz/why-is-unconditional-positive-regard-beneficial-for-people-experiencing-depression.html '
+  - 'www.statesofmind.org/quiz/who-coined-the-term-unconditional-positive-regard.html '
 - Template: five
   Title: 'Finding a balance '
   Description: "Ultimately, our mood is influenced by many aspects of our lives. It
