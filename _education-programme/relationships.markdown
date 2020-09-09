@@ -941,6 +941,7 @@ Slides:
   Slide Colour: 
   Quiz:
   - " www.statesofmind.org/quiz/i-thou-relationship.htm"
+  - www.statesofmind.org/quiz/how-can-we-listen-well-pop-up-with-right-ones-and-wrong-ones.html
 - Template: list
   Title: 'Conflict, rupture and repair  '
   Image: 
