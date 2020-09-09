@@ -896,6 +896,8 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: 
+  Quiz:
+  - 'www.statesofmind.org/quiz/describe-each-of-the-needs-proposed-by-deci-and-ryan.html '
 - Template: twenty
   Title: 
   Description: 
