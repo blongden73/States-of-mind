@@ -856,6 +856,7 @@ Slides:
   Slide Colour: 
   Quiz:
   - www.statesofmind.org/quiz/when-are-these-brain-networks-active.html
+  - 'www.statesofmind.org/quiz/how-many-minutes-of-exercise-can-begin-to-reduce-your-anxiety-levels.html '
 Cover Image: "/uploads/DESIGN%20COVER-12fe9b.jpg"
 Cover Colour: "#ffffff"
 layout: presentation
