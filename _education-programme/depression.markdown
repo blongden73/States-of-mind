@@ -874,8 +874,7 @@ Slides:
   Quote Credit: 
   Image: 
   Quiz:
-  - www.statesofmind.org/quiz/why-is-unconditional-positive-regard-beneficial-for-people-experiencing-depression.html
-    edit
+  - 'www.statesofmind.org/quiz/why-is-unconditional-positive-regard-beneficial-for-people-experiencing-depression.html '
 - Template: five
   Title: 'Finding a balance '
   Description: "Ultimately, our mood is influenced by many aspects of our lives. It
