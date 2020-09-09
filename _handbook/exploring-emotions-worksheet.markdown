@@ -4,8 +4,9 @@ date: 2020-08-31 17:03:00 Z
 layout: handbook
 ---
 
-# **PART 1
-On paper Describe this emotion in as many ways as you can:**
+# \*\*PART 1
+
+Describe this emotion in as many ways as you can:\*\*
 
 What does it look and feel like?
 
