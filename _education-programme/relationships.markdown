@@ -939,6 +939,8 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+  Quiz:
+  - " www.statesofmind.org/quiz/i-thou-relationship.htm"
 - Template: list
   Title: 'Conflict, rupture and repair  '
   Image: 
