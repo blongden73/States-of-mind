@@ -861,3 +861,4 @@ Cover Colour: "#fefefe"
 layout: presentation
 ---
 
+Introducing the concept of mental health from a holistic perspective by exploring the significance of our personal history, current experiences and relationship with our body, feelings and mind. The seminar explores the concept of a unique self that through thoughts, feelings and sensations interprets and makes sense of the world around us .
