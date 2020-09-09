@@ -725,7 +725,7 @@ Slides:
   Quiz:
   - www.statesofmind.org/quiz/self-awareness.html
   - 'www.statesofmind.org/quiz/terms-psychologists-used-to-describe-personality.html '
-  - 
+  - www.statesofmind.org/quiz/psychologists.html
 - Template: fourteen
   Title: 
   Image: 
