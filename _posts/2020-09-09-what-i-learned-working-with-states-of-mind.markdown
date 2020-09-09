@@ -1,6 +1,6 @@
 ---
 title: What I learned working with young people and States of Mind
-date: 2020-09-07 14:21:00 Z
+date: 2020-09-09 08:21:00 Z
 categories:
 - journal
 tags:
