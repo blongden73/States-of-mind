@@ -442,6 +442,8 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: 
+  Quiz:
+  - www.statesofmind.org/quiz/how-many-people-remain-depressed-after-1-year-of-taking-antidepressant-medication.html
 - Template: six
   Title: 'Depression as a consequence of unmet human needs '
   Description: |-
