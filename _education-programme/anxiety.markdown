@@ -783,6 +783,8 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+  Quiz:
+  - www.statesofmind.org/quiz/what-part-of-the-brain-is-related-to-anxiety.html
 - Template: sixteen
   Title: 'Acceptance and Self Compassion  '
   Image: 
