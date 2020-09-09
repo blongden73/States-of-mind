@@ -7,16 +7,15 @@ tags:
 - mentalhealth
 - education
 - community
-Intro: '"It''s the beginnings of a movement to solve a huge problem – with care and
-  considering for what young people need."'
-Byline: 'By Yousif '
+Intro: '"This is the beginnings of a movement to solve a huge problem – with care
+  and considering for what young people need."'
+Byline: By Yousif  Davis
 Photo: "/uploads/IMG_4700.JPG"
 ---
 
-Yousif … is fascinated by the mechanics of the mind. This interest has led him to study an MSc in Health Psychology, and to complete a two-month work placement with us, experiencing and studying our mental health education programme for London high school and college students. “Mental health and wellbeing provisions in schools fall short of young people’s needs,” he says. “The response to States of Mind was exhilarating, the radiance from young people in sessions warped time and made an initially impenetrable problem seem simple. Give them their voice and resources and they will show you the solution.”
+Yousif Davis is fascinated by the mechanics of the mind. This interest has led him to study an MSc in Health Psychology, and to complete a two-month work placement with us, experiencing and studying our mental health education programme for London high school and college students. “Mental health and wellbeing provisions in schools fall short of young people’s needs,” he says. “The response to States of Mind was exhilarating, the radiance from young people in sessions warped time and made an initially impenetrable problem seem simple. Give them their voice and resources and they will show you the solution.”
 
-After the placement, Yousif documented his findings in a research paper that highlighted …
-Here he reflects on the experience of working with States of Mind.
+After the placement, Yousif documented his findings in a research paper which will soon be sharing on the blog. Here, Yousif reflects on the experience of working with States of Mind.
 
 > What States of Mind are offering and the platform they give young people is beginning of a movement to solve a huge problem – with care and consideration for what young people really need. 
 
