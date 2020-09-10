@@ -12,24 +12,24 @@ Form: |-
   <form id="test-form">
     <div>
       <label>How well do you know this part of you?</label>
-      <textarea type="text" name="mentalis_a" placeholder="Type your answer here"/></textarea>
+      <textarea type="text" name="subpersonal_a" placeholder="Type your answer here"/></textarea>
     </div>
       Now, bringing an empathetic and curious stance when considering the situation, consider the following questions.
     <div>
       <label>How do you feel about this part of you?</label>
-      <textarea type="text" name="mentalis_b" placeholder="Type your answer here"/></textarea>
+      <textarea type="text" name="subpersonal_b" placeholder="Type your answer here"/></textarea>
     </div>
     <div>
       <label>How do you feel when this part of you behaves the way it does in the world?</label>
-      <textarea type="text" name="mentalis_c" placeholder="Type your answer here"/></textarea>
+      <textarea type="text" name="subpersonal_c" placeholder="Type your answer here"/></textarea>
     </div>
     <div>
       <label>What does this part of you show to the world?</label>
-      <textarea type="text" name="mentalis_d" placeholder="Type your answer here"/></textarea>
+      <textarea type="text" name="subpersonal_d" placeholder="Type your answer here"/></textarea>
     </div>
     <div>
       <label>What does this part of you hide?</label>
-      <textarea type="text" name="mentalis_e" placeholder="Type your answer here"/></textarea>
+      <textarea type="text" name="subpersonal_e" placeholder="Type your answer here"/></textarea>
     </div>
     <div>
       <label>What is your username?</label>
