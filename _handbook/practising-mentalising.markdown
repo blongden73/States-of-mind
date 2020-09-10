@@ -11,7 +11,9 @@ Question:
 
 What assumptions have you made about the person in this scenario? 
 
-Now, bringing an empathetic and curious stance when considering the situation, consider the following questions?
+
+
+Now, bringing an empathetic and curious stance when considering the situation, consider the following questions.
 
 Question:
 
