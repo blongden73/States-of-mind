@@ -57,15 +57,3 @@ Form: |-
 layout: handbook
 ---
 
-
-Question:
-
-Question:
-
-1. 
-
-Question:
-
-\( box here)
-
-Question:(box here)
