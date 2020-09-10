@@ -1,7 +1,7 @@
 ---
 title: I-Thou relationship
 date: 2020-09-08 20:31:00 Z
-Quiz type: Multiple Choice
+Quiz type: Drag
 Question: Match the correct answers
 Answers:
 - Answer: I-Thou relationship
