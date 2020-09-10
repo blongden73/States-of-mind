@@ -16,4 +16,7 @@ Chose a partner to draw or set up your mirror so that you can see yourself clear
 
 Doing this exercise activates your Task Positive Network. Notice the difference between how your mind felt during this activity compared to worrying about your problems. You can activate this network doing several tasks like this, that you enjoy.
 
+
 Write down a list of activities that come to mind that you could do when you are stuck in a place of worry.
+
+Question: ( form here) 
