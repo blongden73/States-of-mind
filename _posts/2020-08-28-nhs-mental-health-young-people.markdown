@@ -13,6 +13,7 @@ Intro: 'The NHS'' mental health services aren''t helping young people effectivel
 Byline: By Ella Gregory
 Image: "/uploads/High-Contrast-pinterest.jpg"
 Section: Community
+layout: post
 ---
 
 **In our work, we speak with many young people about their experiences, perspectives and ideas on our society's approach to mental health care. Today, we hear from Ella Gregory, as she shares her journey and views on what needs to change so that young people have the support to grow, learn, be well and happy.**
