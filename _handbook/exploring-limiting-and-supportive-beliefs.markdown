@@ -5,16 +5,16 @@ Form: |-
   <form id="test-form">
     <div>
       <label>How has this belief helped you to understand yourself and your capabilities?</label>
-      <textarea type="text" name="who_am_i_a" placeholder="Type your answer here"/></textarea>
+      <textarea type="text" name="limiting_a" placeholder="Type your answer here"/></textarea>
     </div>
   Now we can do the same with limiting beliefs. Think of a situation where you had a belief that was connected with an uncomfortable emotion. You don’t need to name the belief exactly if it is difficult to do so but it is important that you get a sense of it and what it was like. Now replay the situation and remember how the situation unfolded.
     <div>
       <label>How did the belief affect how you thought about yourself, how you acted and how you approached the situation?</label>
-      <textarea type="text" name="who_am_i_b" placeholder="Type your answer here"/></textarea>
+      <textarea type="text" name="limiting_b" placeholder="Type your answer here"/></textarea>
     </div>
     <div>
       <label>How did this belief influence your perception of what you were capable of and who you are?</label>
-      <textarea type="text" name="who_am_i_c" placeholder="Type your answer here"/></textarea>
+      <textarea type="text" name="limiting_c" placeholder="Type your answer here"/></textarea>
     </div>
   <div>
       <label>What is your username?</label>
