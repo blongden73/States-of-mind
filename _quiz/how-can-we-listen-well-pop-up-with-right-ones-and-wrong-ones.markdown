@@ -3,6 +3,7 @@ title: How can we listen well? Pop up with right ones and wrong ones
 date: 2020-09-08 20:32:00 Z
 Quiz type: Multiple Choice
 Question: How can we listen well? Pop up with right ones and wrong ones
+Choice: 7
 Answers:
 - Answer: Pay attention
   True/False: 'True'
