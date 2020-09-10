@@ -12,7 +12,7 @@ collections:
     output: true
     permalink: "/:collection/:path"
   news:
-    title: News
+    title: News!
     output: true
   posts:
     title: Posts
