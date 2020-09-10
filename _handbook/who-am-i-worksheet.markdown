@@ -16,19 +16,19 @@ Form: |-
   <form id="test-form">
     <div>
       <label>When can you remember first associating with this part of your identity?</label>
-      <textarea type="text" name="mindset_serve_you" placeholder="Type your answer here"/></textarea>
+      <textarea type="text" name="who_am_i_a" placeholder="Type your answer here"/></textarea>
     </div>
     <div>
       <label>What informed this part of your identity?</label>
-      <textarea type="text" name="mindset_limit_you" placeholder="Type your answer here"/></textarea>
+      <textarea type="text" name="who_am_i_b" placeholder="Type your answer here"/></textarea>
     </div>
     <div>
       <label>How does associating with this part of you serve you in your life?</label>
-      <textarea type="text" name="detach_mindset" placeholder="Type your answer here"/></textarea>
+      <textarea type="text" name="who_am_i_c" placeholder="Type your answer here"/></textarea>
     </div>
   <div>
       <label>How does associating with this part of you limit you?</label>
-      <textarea type="text" name="detach_mindset" placeholder="Type your answer here"/></textarea>
+      <textarea type="text" name="who_am_i_d" placeholder="Type your answer here"/></textarea>
     </div>
   <div>
       <label>What is your username?</label>
