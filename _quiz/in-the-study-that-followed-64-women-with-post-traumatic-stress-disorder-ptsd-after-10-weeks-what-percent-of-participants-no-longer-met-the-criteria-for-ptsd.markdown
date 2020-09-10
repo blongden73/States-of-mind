@@ -6,7 +6,7 @@ Quiz type: Multiple Choice
 Question: In the study that followed 64 women with post-traumatic stress disorder
   (PTSD), after 10 weeks, what % of participants no longer met the criteria for PTSD
   ?
-Choice: "\n"
+Choice: 1
 Answers:
 - Answer: 10
   True/False: 'False'
