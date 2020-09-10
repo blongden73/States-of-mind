@@ -1,0 +1,23 @@
+I"'<form id="test-form">\
+  <div>\
+    <label>What relationship pattern feels most familiar to you?\
+</label>\
+    <textarea type="text" name="relationship_styles_a" placeholder="Type your answer here" />&lt;/textarea&gt;\
+  </div>\
+  <div>\
+    <label>What early experiences do you think may have contributed to this way of relating in your relationships?</label>\
+    <textarea type="text" name="relationship_styles_b" placeholder="Type your answer here" />&lt;/textarea&gt;\
+  </div>\
+  <div>\
+    <label>What relationship patterns do you notice yourself repeating that you feel are areas for growth? Eg. not feeling comfortable communicating your feelings honestly with others.</label>\
+    <textarea type="text" name="relationship_styles_c" placeholder="Type your answer here" />&lt;/textarea&gt;\
+  </div>\
+  <div>\
+    <label>What is your username?</label>\
+    <input type="text" name="username" placeholder="Type your answer here" />&lt;/input&gt;\
+  </div>\
+  <div>\
+    &lt;button type="submit"id="submit-form"&gt;Submit&lt;/button&gt;\
+  </div>\
+</form>
+:ET

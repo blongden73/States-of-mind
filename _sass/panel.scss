@@ -384,6 +384,12 @@
 
           .som-page-title-news {
             width: 100%;
+
+            svg {
+              @include mq($from: desktop) {
+                margin-left: 6%;
+              }
+            }
           }
         }
 

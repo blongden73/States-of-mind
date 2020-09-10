@@ -251,7 +251,7 @@ h1 {
 
   @include mq($from: desktop) {
     display: block;
-    margin-left: 33%;
+    margin-left: 30%;
   }
 
   @include mq($from: wide){

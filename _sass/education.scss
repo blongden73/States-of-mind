@@ -2,6 +2,10 @@ body.education-programme {
   @include mq($from: desktop) {
     overflow: hidden;
   }
+
+  h1, h2, h3, h4, p {
+    font-weight: normal;
+  }
 }
 
 body.education {
@@ -147,7 +151,7 @@ body.handbook {
 }
 
 .slide {
-  min-height: 100vh;
+  min-height: 88vh;
   background-color: $nu-pink;
   position: relative;
 
@@ -182,13 +186,17 @@ body.handbook {
       &:before {
         width: 15px;
         height: 15px;
-        margin-top: 0.6em;
+        margin-top: 0em;
         border-radius: 50%;
         margin-right: 10px;
         display: block;
         float: left;
         content: '';
         border: 1px solid #333;
+
+        @include mq($from: desktop) {
+          margin-top: 0.6em;
+        }
       }
     }
   }
@@ -274,14 +282,21 @@ body.handbook {
 
   small {
     font-family: 'prestige';
-    font-size: 0.8vw;
+    font-size: 3vw;
     line-height: 1.3;
     letter-spacing: 1px;
     margin-top: 10px;
     display: inline-block;
     position: absolute;
-    bottom: 40px;
-    max-width: 58%;
+    bottom: 10px;
+    max-width: 98%;
+
+    @include mq($from: desktop) {
+      max-width: 58%;
+      font-size: 0.8vw;
+      line-height: 1.3;
+      bottom: 40px;
+    }
   }
 }
 
@@ -331,12 +346,12 @@ body.handbook {
 }
 
 .slide-content {
-  position: absolute;
   top: 10px;
   z-index: 10;
   max-width: 100%;
 
   @include mq($from: desktop) {
+    position: absolute;
     top: 45%;
     transform: translateY(-45%);
     max-width: 45%;
@@ -351,20 +366,52 @@ body.handbook {
   }
 
   .five & {
-    max-width: 50%;
+    max-width: 90%;
+
+    @include mq($from: desktop) {
+      top: 50%;
+      transform: translateY(-50%);
+      max-width: 50%;
+    }
+
+    h1 {
+      font-size: 6vw;
+      line-height: 1.1;
+      text-align: left;
+
+      @include mq($from: desktop) {
+        font-size: 2.5vw;
+      }
+    }
 
     h2 {
-      font-size: 100px;
-      line-height: 1;
-      letter-spacing: -5px;
+      font-size: 6vw;
+      line-height: 1.1;
+      letter-spacing: -1px;
+      text-align: left;
+      padding-top: 20px;
+
+      @include mq($from: desktop) {
+        font-size: 100px;
+        letter-spacing: -5px;
+      }
     }
 
     p, li, small {
-      max-width: 82%;
+      max-width: 100%;
+      text-align: left;
+
+      @include mq($from: desktop) {
+        max-width: 82%;
+      }
     }
 
     p, li, h3 {
-      font-size: 1.4vw;
+      font-size: 4vw;
+
+      @include mq($from: desktop) {
+        font-size: 1.4vw;
+      }
     }
 
     ul {
@@ -389,7 +436,11 @@ body.handbook {
     overflow: hidden;
 
     p, li {
-      font-size: 1.5vw;
+      font-size: 4vw;
+
+      @include mq($from: desktop) {
+        font-size: 1.5vw;
+      }
     }
 
     h2 {
@@ -410,23 +461,50 @@ body.handbook {
   }
 
   .four & {
-    max-width: 50%;
+    max-width: 90%;
+
+    @include mq($from: desktop) {
+      top: 50%;
+      transform: translateY(-50%);
+      max-width: 50%;
+    }
+
+    h2 {
+      padding-top: 20px;
+
+      @include mq($from: desktop) {
+        padding-top: 0;
+      }
+    }
 
     p {
-      font-size: 2.5vw;
       line-height: 1.2;
       width: 100%;
+      font-size: 4vw;
+
+      @include mq($from: desktop) {
+        font-size: 2.5vw;
+      }
     }
   }
 
   .ten & {
-    max-width: 50%;
-    top: 50%;
+    max-width: 89%;
+    top: 100px;
+
+    @include mq($from: desktop) {
+      max-width: 50%;
+      top: 50%;
+    }
 
     p {
       font-size: 45px;
-      line-height: 1.2;
+      line-height: 1;
       width: 100%;
+
+      @include mq($from: desktop) {
+        line-height: 1.2;
+      }
     }
   }
 
@@ -443,17 +521,30 @@ body.handbook {
   }
 
   .two & {
-    max-width: 80%;
+    max-width: 100%;
     display: flex;
     justify-content: space-between;
-    flex-direction: row;
+    flex-direction: column;
     width: 100%;
 
+    @include mq($from: desktop) {
+      flex-direction: row;
+      max-width: 80%;
+    }
+
     h2 {
-      font-size: 7vw;
-      letter-spacing: -5px;
+      font-size: 12vw;
+      letter-spacing: -2px;
       line-height: 1;
-      max-width: 70%;
+      max-width: 90%;
+      padding-top: 20px;
+
+      @include mq($from: desktop) {
+        font-size: 7vw;
+        letter-spacing: -5px;
+        line-height: 1;
+        max-width: 70%;
+      }
     }
 
     .som-button {
@@ -495,8 +586,12 @@ body.handbook {
     }
 
     svg {
-      height: 60vh;
+      height: 45vh;
       width: auto;
+
+      @include mq($from: desktop) {
+        height: 60vh;
+      }
 
       path {
         &:nth-child(2) {
@@ -511,13 +606,23 @@ body.handbook {
   }
 
   .sixteen &, .list & {
+    padding-top: 20px;
+
+    @include mq($from: desktop) {
+      padding-top: 0;
+    }
 
     &.centred {
-      left: 50%;
-      transform: translate(-50%, -45%);
-      text-align: center;
-      max-width: 66%;
-      width: 53%;
+      width: 100%;
+      padding-top: 20px;
+
+      @include mq($from: desktop) {
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -45%);
+        max-width: 66%;
+        width: 53%;
+      }
 
       .slide-title {
         max-width: 100%;
@@ -537,8 +642,12 @@ body.handbook {
 
       p, ol, ul, li {
         max-width: 100%;
-        font-size: 1.5vw;
+        font-size: 4vw;
         line-height: 1.4;
+
+        @include mq($from: desktop) {
+          font-size: 1.5vw;
+        }
       }
       & + small {
         left: 50%;
@@ -558,16 +667,26 @@ body.handbook {
       }
     }
     h2 {
-      font-size: 4vw;
+      font-size: 6vw;
       text-transform: capitalize;
-      line-height: 1;
+      line-height: 1.1;
       max-width: 88%;
       margin-bottom: 2.5vw;
+
+      @include mq($from: desktop) {
+        font-size: 4vw;
+      }
     }
     p, ul, ol, li {
-      font-size: 1.3vw;
+      font-size: 4vw;
       line-height: 1.5;
-      max-width: 85%;
+      max-width: 100%;
+
+      @include mq($from: desktop) {
+        font-size: 1.3vw;
+        line-height: 1.5;
+        max-width: 85%;
+      }
     }
 
     li {
@@ -575,17 +694,30 @@ body.handbook {
     }
 
     & + small {
-      max-width: 38%;
+      max-width: 100%;
       display: inline-block;
+
+      @include mq($from: desktop) {
+        max-width: 38%;
+      }
     }
   }
 
   .list & {
-    max-width: 76%;
+    max-width: 100%;
+
+    @include mq($from: desktop) {
+      max-width: 76%;
+    }
 
     p, ul, ol, li {
-      font-size: 1.3vw;
-      max-width: 85%;
+      max-width: 95%;
+      font-size: 4vw;
+
+      @include mq($from: desktop) {
+        font-size: 1.3vw;
+        max-width: 85%;
+      }
     }
 
     h1 {
@@ -605,54 +737,88 @@ body.handbook {
       text-transform: capitalize;
       max-width: 80%;
       font-weight: 100;
+      padding-top: 20px;
 
       @include mq($from: desktop) {
         font-size: 100px;
         line-height: 1;
         letter-spacing: -2px;
+        padding-top: 0;
       }
     }
   }
 
   .fourteen & {
-    max-width: 90%;
+    max-width: 100%;
+    padding-top: 20px;
+
+    @include mq($from: desktop) {
+      max-width: 90%;
+      padding-top: 0;
+    }
 
     h2 {
       max-width: 90%;
       text-align: center;
       margin-left: auto;
       margin-right: auto;
-      font-size: 4.2vw;
+      font-size: 7vw;
+      line-height: 1.2;
+
+      @include mq($from: desktop) {
+        font-size: 4.2vw;
+      }
     }
 
     .slide-description {
       text-align: center;
-      font-size: 4.2vw;
+      font-size: 7vw;
       line-height: 0;
       margin: 0;
       -webkit-text-stroke-width: 1px;
       -webkit-text-stroke-color: black;
       color: transparent;
+
+      @include mq($from: desktop) {
+        font-size: 4.2vw;
+      }
     }
   }
 
   .nineteen & {
-    transform: translate(-50%, -45%);
-    left: 50%;
-    max-width: 50%;
-    min-width: 672px;
+    width: 90%;
+    padding-top: 20px;
+
+    @include mq($from: desktop) {
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -45%);
+      max-width: 50%;
+      min-width: 672px;
+      padding-top: 0;
+    }
 
     iframe {
-      width: 48vw;
-      height: 28vw;
       margin-bottom: 30px;
+      width: 100%;
+      height: 48vw;
+
+      @include mq($from: desktop) {
+        width: 48vw;
+        height: 28vw;
+      }
     }
 
     h2 {
       font-size: 35px;
-      line-height: 0.9;
+      line-height: 1;
       max-width: 85%;
       margin-bottom: 30px;
+
+      @include mq($from: desktop) {
+        line-height: 0.9;
+        font-size: 35px;
+      }
     }
     p, ul, ol, li {
       font-size: 1.3vw;
@@ -695,12 +861,17 @@ body.handbook {
   width: 100%;
 
   h1 {
-    font-size: 8vw;
+    font-size: 13vw;
     letter-spacing: -2px;
     line-height: 1;
     margin: 0;
-    padding-top: 62px;
+    padding-top: 20px;
     padding-bottom: 20px;
+
+    @include mq($from: desktop) {
+      font-size: 8vw;
+      padding-top: 62px;
+    }
   }
 }
 
@@ -735,21 +906,26 @@ body.handbook {
     top: 40%;
     transform: translateY(-60%);
     z-index: 10;
-    font-size: 8vw;
+    font-size: 15vw;
     letter-spacing: -2px;
     line-height: 1;
     text-transform: capitalize;
 
     @include mq($from: desktop) {
       max-width: 45%;
+      font-size: 8vw;
     }
   }
 
   &.slide-end {
     h1 {
-      font-size: 5vw;
       line-height: 1;
       margin: 0;
+      font-size: 12vw;
+
+      @include mq($from: desktop) {
+        font-size: 5vw;
+      }
       span {
         color: transparent;
         margin: 0;
@@ -779,14 +955,16 @@ body.handbook {
 
 .slide-image {
   width: 100%;
-  position: absolute;
   right: 0px;
   top: 50%;
   bottom: 0;
+  margin-bottom: 18px;
 
   @include mq($from: desktop) {
+    position: absolute;
     width: 50%;
     top: 0;
+    margin-bottom: 0;
   }
 
   .twenty & {
@@ -847,9 +1025,14 @@ body.handbook {
   }
 
   .slide-content {
-    right: 10%;
-    max-width: 36%;
-    width: 36%;
+    max-width: 100%;
+    width: 100%;
+
+    @include mq($from: desktop) {
+      width: 36%;
+      max-width: 36%;
+      right: 10%;
+    }
   }
 }
 
@@ -874,9 +1057,14 @@ body.handbook {
   }
 
   .slide-content:not(.centred) {
-    right: 10%;
-    max-width: 36%;
-    width: 36%;
+    max-width: 100%;
+    width: 100%;
+
+    @include mq($from: desktop) {
+      width: 36%;
+      max-width: 36%;
+      right: 10%;
+    }
   }
 }
 
@@ -887,9 +1075,14 @@ body.handbook {
   }
 
   .slide-content:not(.centred) {
-    right: 10%;
-    max-width: 36%;
-    width: 36%;
+    max-width: 100%;
+    width: 100%;
+
+    @include mq($from: desktop) {
+      width: 36%;
+      max-width: 36%;
+      right: 10%;
+    }
   }
 }
 
@@ -900,9 +1093,14 @@ body.handbook {
   }
 
   .slide-content {
-    right: 10%;
-    max-width: 36%;
-    width: 36%;
+    max-width: 100%;
+    width: 100%;
+
+    @include mq($from: desktop) {
+      width: 36%;
+      max-width: 36%;
+      right: 10%;
+    }
   }
 }
 
@@ -1314,6 +1512,7 @@ body.handbook {
   padding: 10px;
   margin-right: 10px;
   cursor: pointer;
+  margin-bottom: 10px;
 
   &:hover {
     background-color: #121212;
@@ -1323,7 +1522,13 @@ body.handbook {
 
 .quiz-launcher-wrapper {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
+  margin-top: 20px;
+
+  @include mq($from: desktop) {
+    margin-top: 20px;
+    flex-direction: row;
+  }
 }
 
 .quiz-pop {
@@ -1505,4 +1710,8 @@ body.quiz {
   background-color: pink;
   -webkit-animation: pulsate-bck 0.5s ease-in-out infinite both;
 	animation: pulsate-bck 0.5s ease-in-out infinite both;
+}
+
+.som-audio-player {
+  margin-bottom: 20px;
 }
