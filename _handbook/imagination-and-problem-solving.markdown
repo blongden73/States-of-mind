@@ -10,9 +10,15 @@ Visualise yourself in the situations allow a really clear image to come to mind 
 
 Imagine everything in the room, the way it smells, the way it look and the way it feels to be there. Zoom out so you are the observer.
 
-Now bring the problem to mind. What is the question you want to know the answer to or the part of the situation that you feel stuck about?
+Now bring the problem to mind. 
+
+Question:
+
+What is the question you want to know the answer to or the part of the situation that you feel stuck about?
 
 Ask yourself what you need in the situation and what would help your future self to feel better in that situation.
+
+Question:
 
 What would you need in that situation to feel supported, confident and able to do whatever you needed to do?
 
@@ -23,6 +29,8 @@ The things that you imagine your future self needing are the things that you can
 It allows us to create and access different possibilities to those things we are experiencing in the present moment and when we see there are alternatives, we are more likely to believe they are true.
 
 Problems are only problems because we think they can’t be fixed but possibilities provide us with different solutions and outcomes to a problem we are struggling with.
+
+Question:
 
 What are the outcomes you want from the situation? If you struggle with the visualisation exercise because you are feeling that your emotions are very strong.  
 
