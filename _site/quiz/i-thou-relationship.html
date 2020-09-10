@@ -462,31 +462,46 @@ function dragDropResetForm()
 window.onload = initDragDropScript;
 </script>
 <div class="education-background"></div>
-<div class="quiz-wrapper som-wrapper Multiple Choice">
+<div class="quiz-wrapper som-wrapper Drag">
   <div class="page-centred">
     
-      <h2>Match the correct answers</h2>
-      <p class="choose-option">Choose  answers</p>
-      <ul>
-      
-        <li data-type="">I-Thou relationship</li>
-      
-        <li data-type="">I-It relationship</li>
-      
-        <li data-type="">Splitting</li>
-      
-        <li data-type="">Mindreading</li>
-      
-        <li data-type="">Mentalising</li>
-      
-      </ul>
-      <div class="check-button">
-        Check answers
-      </div>
-      <div class="see-correct">
-        See correct
-      </div>
     
+    <h2>Match the correct answers</h2>
+    <div id="dragScriptContainer">
+      <div id="questionDiv">
+        
+          <div class="dragDropSmallBox" id="q1">The other person is seen for who they really are, not for what they represent or signify. In this relationships, there is a willingness to understand the other person on a deeper level than our immediate judgements, assumptions and stereotypes that we bring to the relationship.</div>
+          <div class="destinationBox"></div>
+        
+          <div class="dragDropSmallBox" id="q2">We view the other person more as a ‘thing’ than a human being with a story and individual needs. In and I-it relationship we assume we know the other person, without needing to take time to develop a close and mutual relationship with them.</div>
+          <div class="destinationBox"></div>
+        
+          <div class="dragDropSmallBox" id="q3">a psychological defence that young children develop to manage ambivalent feelings towards their parents.</div>
+          <div class="destinationBox"></div>
+        
+          <div class="dragDropSmallBox" id="q4">Assuming we know what another person is thinking or feeling</div>
+          <div class="destinationBox"></div>
+        
+          <div class="dragDropSmallBox" id="q5">our capacity to understand our own mental state and that of other people and how this affects our behaviour. </div>
+          <div class="destinationBox"></div>
+        
+      </div>
+      <div id="answerDiv">
+        
+          <div class="dragDropSmallBox" id="a1">I-Thou relationship</div>
+        
+          <div class="dragDropSmallBox" id="a2">I-It relationship</div>
+        
+          <div class="dragDropSmallBox" id="a3">Splitting</div>
+        
+          <div class="dragDropSmallBox" id="a4">Mindreading</div>
+        
+          <div class="dragDropSmallBox" id="a5">Mentalising</div>
+        
+      </div>
+      </div>
+      <div id="dragContent"></div>
+      <input class="som-button" type="button" onclick="dragDropResetForm();return false" value="Reset">
     
     
   </div>

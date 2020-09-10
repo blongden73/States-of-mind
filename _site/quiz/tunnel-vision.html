@@ -462,29 +462,41 @@ function dragDropResetForm()
 window.onload = initDragDropScript;
 </script>
 <div class="education-background"></div>
-<div class="quiz-wrapper som-wrapper Multiple Choice">
+<div class="quiz-wrapper som-wrapper Drag">
   <div class="page-centred">
     
-      <h2>Match the correct answers</h2>
-      <p class="choose-option">Choose  answers</p>
-      <ul>
-      
-        <li data-type="">Tunnel vision</li>
-      
-        <li data-type="">Catastrophizing</li>
-      
-        <li data-type="">Mind reading and fortune telling</li>
-      
-        <li data-type="">Emotional reasoning</li>
-      
-      </ul>
-      <div class="check-button">
-        Check answers
-      </div>
-      <div class="see-correct">
-        See correct
-      </div>
     
+    <h2>Match the correct answers</h2>
+    <div id="dragScriptContainer">
+      <div id="questionDiv">
+        
+          <div class="dragDropSmallBox" id="q1">Focusing only only the negative aspects of our experience and ignoring the positive.</div>
+          <div class="destinationBox"></div>
+        
+          <div class="dragDropSmallBox" id="q2">Expecting the worst case scenario to happen.</div>
+          <div class="destinationBox"></div>
+        
+          <div class="dragDropSmallBox" id="q3">Assuming you know what other people are thinking and often assuming other people’s perceptions of us are or will be negative.</div>
+          <div class="destinationBox"></div>
+        
+          <div class="dragDropSmallBox" id="q4">Assuming that because we feel strongly towards a situation it must be the only reality of how things are.</div>
+          <div class="destinationBox"></div>
+        
+      </div>
+      <div id="answerDiv">
+        
+          <div class="dragDropSmallBox" id="a1">Tunnel vision</div>
+        
+          <div class="dragDropSmallBox" id="a2">Catastrophizing</div>
+        
+          <div class="dragDropSmallBox" id="a3">Mind reading and fortune telling</div>
+        
+          <div class="dragDropSmallBox" id="a4">Emotional reasoning</div>
+        
+      </div>
+      </div>
+      <div id="dragContent"></div>
+      <input class="som-button" type="button" onclick="dragDropResetForm();return false" value="Reset">
     
     
   </div>
