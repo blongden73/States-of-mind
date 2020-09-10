@@ -1,5 +1,5 @@
 ---
-title: We are awarded the Bootstrap Enterpise Award
+title: We are awarded the Bootstrap Enterprise Award
 date: 2020-09-10 13:36:00 Z
 position: 1
 Video Url: |-
