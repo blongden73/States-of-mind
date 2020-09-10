@@ -415,7 +415,7 @@ function quizPop() {
       quizLauncher[i].addEventListener('click', function(){
         console.log(quizpop);
         console.log(this.dataset.link);
-        var link = this.dataset.link;
+        var link = this.dataset.link.trim();
         quizpop.classList.add('display');
         iframepop.classList.add('display');
         console.log(link);
