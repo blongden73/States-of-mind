@@ -9,9 +9,9 @@ Answers:
     that no parenting style can be completely perfect.
   True/False: 'True'
 - Answer: To describe how some parenting styles are better than others.
-  True/False: 
+  True/False: 'False'
 - Answer: To describe when parents meet our emotional needs in childhood.
-  True/False: 
+  True/False: 'False'
 Education programme: Relationships
 slide: 28
 layout: quiz

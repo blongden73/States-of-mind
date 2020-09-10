@@ -143,26 +143,6 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: four
-  Title: 
-  Image: 
-  Description: |-
-    If you are interested, you can explore these models too:
-
-    * Maslow’s hierarchy of needs
-
-    * Freud and the psychodynamic model of the personality
-
-    * Jung and the Five Factor model of the Personality.
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
 - Template: sixteen
   Title: 
   Image: "/uploads/Group%20111.svg"

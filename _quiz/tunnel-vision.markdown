@@ -1,7 +1,7 @@
 ---
 title: Tunnel vision
 date: 2020-09-08 19:59:00 Z
-Quiz type: Multiple Choice
+Quiz type: Drag
 Question: Match the correct answers
 Answers:
 - Answer: Tunnel vision

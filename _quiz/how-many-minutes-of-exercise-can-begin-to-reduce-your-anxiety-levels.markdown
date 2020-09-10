@@ -8,11 +8,11 @@ Answers:
 - Answer: 5
   True/False: 'True'
 - Answer: 30
-  True/False: 
+  True/False: 'False'
 - Answer: 45
-  True/False: 
+  True/False: 'False'
 - Answer: 60
-  True/False: 
+  True/False: 'False'
 Education programme: Anxiety
 slide: 53
 layout: quiz
