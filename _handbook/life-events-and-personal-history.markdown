@@ -5,31 +5,31 @@ Form: |-
   <form id="test-form">
     <div>
       <label>What were the most significant and distinct phases of your life from childhood to now?</label>
-      <textarea type="text" name="who_am_i_a" placeholder="Type your answer here"/></textarea>
+      <textarea type="text" name="life_events_a" placeholder="Type your answer here"/></textarea>
     </div>
     <div>
       <label>What parts of your life do you remember most vividly?</label>
-      <textarea type="text" name="who_am_i_b" placeholder="Type your answer here"/></textarea>
+      <textarea type="text" name="life_events_b" placeholder="Type your answer here"/></textarea>
     </div>
     <div>
       <label>What turning points/ transitions have you had that led from one phase of your life to another?</label>
-      <textarea type="text" name="who_am_i_c" placeholder="Type your answer here"/></textarea>
+      <textarea type="text" name="life_events_c" placeholder="Type your answer here"/></textarea>
     </div>
   <div>
       <label>What relationships have you had that had a significant impact on your life?</label>
-      <textarea type="text" name="who_am_i_d" placeholder="Type your answer here"/></textarea>
+      <textarea type="text" name="life_events_d" placeholder="Type your answer here"/></textarea>
     </div>
   <div>
       <label>When have you experienced setbacks or challenging periods in your life?</label>
-      <textarea type="text" name="who_am_i_d" placeholder="Type your answer here"/></textarea>
+      <textarea type="text" name="life_events_e" placeholder="Type your answer here"/></textarea>
     </div>
   <div>
       <label>What did you learn from these challenging experiences and how have they had an impact on your life?</label>
-      <textarea type="text" name="who_am_i_d" placeholder="Type your answer here"/></textarea>
+      <textarea type="text" name="life_events_f" placeholder="Type your answer here"/></textarea>
     </div>
   <div>
       <label>What relationships have you had that had a significant impact on your life?</label>
-      <textarea type="text" name="who_am_i_d" placeholder="Type your answer here"/></textarea>
+      <textarea type="text" name="life_events_g" placeholder="Type your answer here"/></textarea>
     </div>
   Notice what memories and associations naturally emerge as you begin to reflect. Your mind will naturally connect with certain images, memories, feelings and associations. If you have many memories come to mind, you may like to make a list of them so that you can come back to them later. If you can only think of a few, there’s no pressure, some may come later, as you progress with the activity and if they don’t it’s ok just to focus on a few.
 
@@ -41,31 +41,31 @@ Form: |-
   When you feel ready, consider the following questions:
   <div>
       <label>What parts of your life do you think have influenced your identity the most?</label>
-      <textarea type="text" name="who_am_i_d" placeholder="Type your answer here"/></textarea>
+      <textarea type="text" name="life_events_h" placeholder="Type your answer here"/></textarea>
   </div>
   <div>
       <label>How have these times in your life influenced your identity?</label>
-      <textarea type="text" name="who_am_i_d" placeholder="Type your answer here"/></textarea>
+      <textarea type="text" name="life_events_i" placeholder="Type your answer here"/></textarea>
   </div>
   <div>
       <label>What relationships have you had that had a significant impact on your life?</label>
-      <textarea type="text" name="who_am_i_d" placeholder="Type your answer here"/></textarea>
+      <textarea type="text" name="life_events_j" placeholder="Type your answer here"/></textarea>
   </div>
   <div>
       <label>How have the more difficult and challenging periods of your life influenced your sense of identity?</label>
-      <textarea type="text" name="who_am_i_d" placeholder="Type your answer here"/></textarea>
+      <textarea type="text" name="life_events_k" placeholder="Type your answer here"/></textarea>
   </div>
   <div>
       <label>How have the significant relationships in your life shaped your sense of self?</label>
-      <textarea type="text" name="who_am_i_d" placeholder="Type your answer here"/></textarea>
+      <textarea type="text" name="life_events_l" placeholder="Type your answer here"/></textarea>
   </div>
   <div>
       <label>What thoughts and feelings has this activity brought up for you?</label>
-      <textarea type="text" name="who_am_i_d" placeholder="Type your answer here"/></textarea>
+      <textarea type="text" name="life_events_m" placeholder="Type your answer here"/></textarea>
   </div>
   <div>
       <label>What insights have you gained from this activity? Make some notes on anything that felt significant for you</label>
-      <textarea type="text" name="who_am_i_d" placeholder="Type your answer here"/></textarea>
+      <textarea type="text" name="life_events_n" placeholder="Type your answer here"/></textarea>
   </div>
 
   <div>
