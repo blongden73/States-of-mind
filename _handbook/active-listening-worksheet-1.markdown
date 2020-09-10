@@ -6,9 +6,15 @@ layout: handbook
 
 Qualities of a good listener and a bad listener. 
 
-In pairs, think of a time when somebody listened really well to what you were sharing with them and another time when somebody listened very badly to what you were sharing with them. Without disclosing who they are, discuss these qualities and write them down on a piece of paper that is divided into two sections: 
+In pairs, think of a time when somebody listened really well to what you were sharing with them and another time when somebody listened very badly to what you were sharing with them. Without disclosing who they are, discuss these qualities make some notes about what you felt made them a good listener or bad listener. 
 
-Good listener 						Bad Listener  
+Question:
+
+Good listener 		
+				
+Question:
+
+Bad Listener  
 
 
 
