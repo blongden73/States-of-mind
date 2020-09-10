@@ -721,7 +721,11 @@ body.handbook {
     }
 
     h1 {
-      font-size: 1.7vw;
+      font-size: 6vw;
+
+      @include mq($from: desktop) {
+        font-size: 1.7vw;
+      }
     }
 
     li {
