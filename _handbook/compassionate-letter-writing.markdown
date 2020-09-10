@@ -1,6 +1,20 @@
 ---
 title: Compassionate letter writing
 date: 2020-08-31 16:55:00 Z
+Form: |-
+  <form id="test-form">
+    <div>
+      <label></label>
+      <textarea type="text" name="compassionate_letter_a" placeholder="Type your answer here"/></textarea>
+    </div>
+    <div>
+      <label>What is your username?</label>
+      <input type="text" name="username" placeholder="Type your answer here"/></input>
+    </div>
+    <div>
+      <button type="submit"id="submit-form">Submit</button>
+    </div>
+  </form>
 layout: handbook
 ---
 
