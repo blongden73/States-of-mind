@@ -41,9 +41,12 @@ Question:
 How did the listener feeding this information back to you make you feel about the experience that you shared? 
 
 
+
 Swap and repeat the activity, this time, the speaker acting as the mirror.
 
 When both people have completed the activity and taken notes, ask the pairs to feedback to the group:What was it like to feedback this information to somebody? What was it like to have this information fed back to you? 
+
+
 
 Question:
 
