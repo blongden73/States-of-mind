@@ -379,6 +379,14 @@
         min-height: 0;
         top: 0;
 
+        &.news {
+          background-color: $nu-blue;
+
+          .som-page-title-news {
+            width: 100%;
+          }
+        }
+
         &.our-team {
           min-height: 70vh;
 
@@ -441,7 +449,7 @@
 
           @include mq($from: desktop) {
             margin-top: 100px;
-            margin-bottom: 25vh;
+            margin-bottom: 50px;
             @include font-size(4, 3);
           }
 
