@@ -20,10 +20,10 @@ Question:
 How could you begin to let go of the need to control this?
 
 
-
+Question:
 
 What aspects of your behaviour or beliefs about yourself cause you anxiety?
 
-
+Question:
 
 What might help you to change these behaviours and beliefs to reduce your anxiety?
