@@ -22,6 +22,9 @@ Question:
 
 What would you need in that situation to feel supported, confident and able to do whatever you needed to do?
 
+
+
+
 Allow the ideas to come to mind from your future self and thank them for the answers that they give you.
 
 The things that you imagine your future self needing are the things that you can use to solve your problem and create a different outcome. This is the power of the imagination.
@@ -32,7 +35,13 @@ Problems are only problems because we think they can’t be fixed but possibilit
 
 Question:
 
-What are the outcomes you want from the situation? If you struggle with the visualisation exercise because you are feeling that your emotions are very strong.  
+What are the outcomes you want from the situation? 
+
+
+
+
+
+If you struggle with the visualisation exercise because you are feeling that your emotions are very strong.  
 
 You can solve the problem by thinking about the best outcome and asking yourself what you would need to do to help you get there.
 
