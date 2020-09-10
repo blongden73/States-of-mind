@@ -8,12 +8,12 @@ Form: |-
   In pairs, think of a time when somebody listened really well to what you were sharing with them and another time when somebody listened very badly to what you were sharing with them. Without disclosing who they are, discuss these qualities make some notes about what you felt made them a good listener or bad listener.
     <div>
       <label></label>
-      <textarea type="text" name="task_positive_a" placeholder="Type your answer here"/></textarea>
+      <textarea type="text" name="active_listening_a" placeholder="Type your answer here"/></textarea>
     </div>
     Good listener
     <div>
       <label></label>
-      <textarea type="text" name="task_positive_a" placeholder="Type your answer here"/></textarea>
+      <textarea type="text" name="active_listening_b" placeholder="Type your answer here"/></textarea>
     </div>
     Bad Listener
 
@@ -30,7 +30,7 @@ Form: |-
   How does this type of listening affect how you feel about sharing your difficulties?
     <div>
       <label></label>
-      <textarea type="text" name="task_positive_a" placeholder="Type your answer here"/></textarea>
+      <textarea type="text" name="active_listening_c" placeholder="Type your answer here"/></textarea>
     </div>
   Consider these questions too and write your thoughts in the box below:
 
@@ -43,7 +43,7 @@ Form: |-
   What might be going on in somebody’s life that makes it difficult for them to listen?
     <div>
       <label></label>
-      <textarea type="text" name="task_positive_a" placeholder="Type your answer here"/></textarea>
+      <textarea type="text" name="active_listening_d" placeholder="Type your answer here"/></textarea>
     </div>
 
     <div>
