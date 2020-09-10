@@ -615,6 +615,7 @@ body.handbook {
     &.centred {
       width: 100%;
       padding-top: 20px;
+      text-align: center;
 
       @include mq($from: desktop) {
         left: 50%;
@@ -1201,6 +1202,7 @@ body.handbook {
 
   h2 {
     font-size: 36px;
+    line-height: 1;
   }
 
   form {
@@ -1551,13 +1553,17 @@ body.handbook {
 
   iframe {
     height: 80vh;
-    width: 740px;;
+    width: 90%;
     position: fixed;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     border: 0;
     border-radius: 3%;
+
+    @include mq($from: desktop) {
+      width: 740px;
+    }
   }
 }
 
