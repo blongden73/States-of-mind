@@ -13,10 +13,25 @@ layout: handbook
 6. After you have identified and exhaustively described one sub-personality you can go on to the others. But take your time and work on each one alone until you feel finished. The process requires picking a few more of your prominent traits, attitudes or motives and going through steps 1 to 5 for each one. 
 
 Make some notes on the following questions: 
+
+Question:
+
 * How well do you know this part of you? 
+
+Question:
+
 * How do you feel about this part of you? 
+
+Question:
+
 * How do you feel when this part of you behaves the way it does in the world?  
+
+Question:
+
 * What does this part of you show to the world? 
+
+Question:
+
 * What does this part of you hide?  
 
 
