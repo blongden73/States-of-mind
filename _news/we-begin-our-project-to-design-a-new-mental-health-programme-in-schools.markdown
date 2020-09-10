@@ -1,5 +1,6 @@
 ---
-title: We begin our project to design a new mental health programme in schools
+title: 'January 2018: We begin our project to design a new mental health programme
+  in schools'
 date: 2020-09-10 16:07:00 Z
 ---
 
