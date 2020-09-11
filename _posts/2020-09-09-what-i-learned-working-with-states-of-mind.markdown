@@ -14,9 +14,9 @@ Image: "/uploads/1080x1080%20copy%2051.jpg"
 layout: post
 ---
 
-Yousif Davis is fascinated by the mechanics of the mind. This interest has led him to study an MSc in Health Psychology, and to complete a two-month work placement with us, experiencing and studying our mental health education programme for London high school and college students. “Mental health and wellbeing provisions in schools fall short of young people’s needs,” he says. “The response to States of Mind was exhilarating, the radiance from young people in sessions warped time and made an initially impenetrable problem seem simple. Give them their voice and resources and they will show you the solution.”
+Yousif Davis is fascinated by the mechanics of the mind. This interest has led him to study an MSc in Health Psychology, and to complete a two-month work placement with us, experiencing and studying our mental health education programme for London college students. “Mental health and wellbeing provisions in schools fall short of young people’s needs,” he says. “The response to States of Mind was exhilarating, the radiance from young people in sessions warped time and made an initially impenetrable problem seem simple. Give them their voice and resources and they will show you the solution.”
 
-After the placement, Yousif documented his findings in a research paper which will soon be sharing on the blog. Here, Yousif reflects on the experience of working with States of Mind.
+After the placement, Yousif documented his findings in a research paper which we will soon be sharing on the blog. Here, Yousif reflects on the experience of working with States of Mind.
 
 > What States of Mind are offering and the platform they give young people is beginning of a movement to solve a huge problem – with care and consideration for what young people really need. 
 
@@ -28,7 +28,7 @@ My first session began in School21, a school that has been working with States o
 
 Prior to joining the programme, it was difficult to remember what I was like at 17, and my grasp on myself and the world at that age. What inspired me in the sessions was the maturity and emotional intellect these young people possessed. During this time, I was writing reflections on the sessions I was doing, I was beginning to internalise the ethos of States of Mind more and more and becoming inspired by its potential. 
 
-> Excitement had ascended into something more urgent; I was realising the extent of how young people’s voices had been neglected and the opportunity that had been missed to take a different approach. States of Mind were reversing this process, but now I saw through their eyes, the problem seemed much larger.
+> Excitement had ascended into something more urgent; I was realising the extent of how young people’s voices had been neglected and the opportunity that had been missed to take a different approach. States of Mind was reversing this process, but now I saw through their eyes, the problem seemed much larger.
 
 In terms of my own personal growth, my empathy and open-mindedness were increased by the focus groups and interviews I did with the young people. The sessions were often semi-structured and aided by the relaxed atmosphere Bea’s presence naturally brought. Questions oriented around the programme design (as States of Mind co-produce all their programmes *with young people*) and how students wanted to pass on their learning and ideas to future year groups. What typically resonated in young people’s response was an acknowledgement of the creative liberty the States of Mind programme had given them in exploring sources of their distress, and how necessary it was for the education system to properly integrate such spaces. It was uncomfortable to see their frustration with the lack of these approaches elsewhere, but in capturing it I felt hopeful.
 
