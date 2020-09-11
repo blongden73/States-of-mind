@@ -5,3 +5,5 @@ position: 0
 ---
 
 We partnered with Talk for Health to co-design a new model of mental health support in Central Foundation Boys School. 
+
+![talk for health logo.jpeg](/uploads/talk%20for%20health%20logo.jpeg)
