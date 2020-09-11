@@ -7,6 +7,7 @@ Form: |-
       <label>Record your notes from the meditation here: </label>
       <textarea type="text" name="drive_sooth_a" placeholder="Type your answer here"/></textarea>
     </div>
+    </div>
   </form>
 ---
 
