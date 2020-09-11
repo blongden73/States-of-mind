@@ -10,7 +10,7 @@ tags:
 Intro: '"This is the beginning of a movement to solve a huge problem – with care and
   consideration for what young people need."'
 Byline: By Yousif  Davis
-Image: "/uploads/IMG_4700-8dfe27.JPG"
+Image: "/uploads/1080x1080%20copy%2051.jpg"
 layout: post
 ---
 
