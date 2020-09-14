@@ -287,7 +287,7 @@ Slides:
 
     <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=3001065912/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://statesofmind.bandcamp.com/track/subpersonality-visualisation">Subpersonality visualisation by States of Mind</a></iframe>
   Graphic Image: 
-  Audio url: https://statesofmind.bandcamp.com/track/name-meditation
+  Audio url: 
   Video Url: 
   Credit: 
   Links:
@@ -555,7 +555,7 @@ Slides:
 
     Your sub personalities all emerge from an unmet need. By identifying these needs you can develop more self awareness and understanding of where this part of you came from.
 
-    By bringing awareness to your different sub personalities you can integrate them and enable the different parts of your personality to work together as a harmonious whole.
+    <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=3001065912/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://statesofmind.bandcamp.com/track/subpersonality-visualisation">Subpersonality visualisation by States of Mind</a></iframe>
   Graphic Image: 
   Audio url: 
   Video Url: 
