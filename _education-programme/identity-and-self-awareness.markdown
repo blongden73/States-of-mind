@@ -841,4 +841,8 @@ Cover Colour: "#fefefe"
 layout: presentation
 ---
 
-At States of Mind we see identity as a gateway, as our identity can provide a deeper understanding of our self-image and how we make sense of the world. How do you see and understand your self? This module will help you to explore your personal identity and help you to cultivate a deeper of level of self awareness. 
+At States of Mind we see identity as a gateway, as our identity can provide a deeper understanding of our self-image and how we make sense of the world. 
+
+How do you see and understand your self? 
+
+This module will help you to explore your personal identity and help you to cultivate a deeper of level of self awareness. 
