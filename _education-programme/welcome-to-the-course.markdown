@@ -51,4 +51,3 @@ The purpose of this programme is not only to achieve new states of wellbeing, bu
 Please make sure to fill out the following survey before you start the course! Make sure to press 'Done' at the end to submit your answers. 
 
 <script>(function(t,e,s,n){var o,a,c;t.SMCX=t.SMCX||[],e.getElementById(n)||(o=e.getElementsByTagName(s),a=o[o.length-1],c=e.createElement(s),c.type="text/javascript",c.async=!0,c.id=n,c.src="https://widget.surveymonkey.com/collect/website/js/tRaiETqnLgj758hTBazgd9drLJnboGjIT22BjcFIstuz24wo7MFVA18l2Xcsxgha.js",a.parentNode.insertBefore(c,a))})(window,document,"script","smcx-sdk");</script>
-[https://www.surveymonkey.co.uk/r/courseintro](https://www.surveymonkey.co.uk/r/courseintro)
