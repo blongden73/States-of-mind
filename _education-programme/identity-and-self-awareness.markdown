@@ -546,30 +546,14 @@ Slides:
 - Template: list
   Title: How are sub-personalities related to mental health? 
   Image: 
-  Description: "Subpersonalities cause difficulties when you identify with this one
-    part of yourself and believe it to be all of you. \n\nFor example, if you are
-    identified with the ‘High achiever’ part of yourself, it may help you to get good
-    grades and maintain a motivation for developing your knowledge and experience.
-    However, if you become over identified with this part of yourself you may become
-    very distressed by setbacks, you may spend less time with our friends or you may
-    never be satisfied with what you have achieved. \n\nYour sub personalities all
-    emerge from an unmet need.By identifying these needs you can develop more self
-    awareness and understanding of your behaviour. \n\nBy bringing awareness to your
-    different sub personalities you can integrate them and enable the different parts
-    of your personality to work together as a harmonious whole."
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: one
-  Title: Exploring sub personalities
-  Image: "/uploads/identity%202.jpg"
-  Description: 
+  Description: |-
+    Subpersonalities cause difficulties when you identify with this one part of yourself and believe it to be all of you.
+
+    For example, if you are identified with the ‘High achiever’ part of yourself, it may help you to get good grades and maintain a motivation for developing your knowledge and experience. However, if you become over identified with this part of yourself you may become very distressed by setbacks, you may spend less time with our friends or you may never be satisfied with what you have achieved.
+
+    Your sub personalities all emerge from an unmet need. By identifying these needs you can develop more self awareness and understanding of where this part of you came from.
+
+    By bringing awareness to your different sub personalities you can integrate them and enable the different parts of your personality to work together as a harmonious whole.
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -603,8 +587,21 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: one
+  Title: Explore your sub personalities
+  Image: "/uploads/identity%202.jpg"
+  Description: 
+  Graphic Image: 
+  Audio url: https://statesofmind.bandcamp.com/track/subpersonality-visualisation
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: two
-  Title: 'Explore your subpersonalities '
+  Title: Reflect on your visualisation
   Image: 
   Description: 
   Graphic Image: 
@@ -616,6 +613,20 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: sixteen
+  Title: 'Some other sub-personalities for you to explore '
+  Image: "/uploads/Group%20113.svg"
+  Description: "* The clown\n* The critic\n* The people pleaser\n* The caretaker\n*
+    The rebel\n* The high achiever\n* The child "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: "#FFF8EA"
 - Template: list
   Title: What are the benefits of sub-personality work? 
   Image: 
@@ -639,20 +650,6 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
-  Title: 'Some other sub-personalities for you to explore '
-  Image: "/uploads/Group%20113.svg"
-  Description: "* The clown\n* The critic\n* The people pleaser\n* The caretaker\n*
-    The rebel\n* The high achiever\n* The child "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: "#FFF8EA"
 - Template: four
   Title: 'Stages of Integration '
   Image: 
@@ -840,8 +837,8 @@ Cover Colour: "#fefefe"
 layout: presentation
 ---
 
-At States of Mind we see identity as a gateway. Our identity is a reflection of our unique personal experience and by exploring our identity we can gain a deeper understanding of how we see ourselves and make sense of the world around us. 
+At States of Mind we see identity as a gateway to self-knowledge. Our identity is a reflection of our unique personal experience and by exploring our identity we can gain a deeper understanding of ourselves and our view of the world. 
 
-How do you see and understand your self? 
+How do you see and understand your self?
 
-This module will help you to explore your personal identity and allow you to cultivate a deeper level of self awareness. 
+This module will help you to explore your personal identity and allow you to cultivate a deeper level of self awareness.
