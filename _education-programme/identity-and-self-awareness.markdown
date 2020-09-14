@@ -554,8 +554,6 @@ Slides:
     For example, if you are identified with the ‘High achiever’ part of yourself, it may help you to get good grades and maintain a motivation for developing your knowledge and experience. However, if you become over identified with this part of yourself you may become very distressed by setbacks, you may spend less time with our friends or you may never be satisfied with what you have achieved.
 
     Your sub personalities all emerge from an unmet need. By identifying these needs you can develop more self awareness and understanding of where this part of you came from.
-
-    <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=3001065912/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://statesofmind.bandcamp.com/track/subpersonality-visualisation">Subpersonality visualisation by States of Mind</a></iframe>
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -589,12 +587,14 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: one
+- Template: sixteen
   Title: Explore your sub personalities
   Image: "/uploads/identity%202.jpg"
-  Description: 
+  Description: '<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=717709636/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/"
+    seamless><a href="https://statesofmind.bandcamp.com/track/name-meditation">Name
+    meditation by States of Mind</a></iframe>'
   Graphic Image: 
-  Audio url: https://statesofmind.bandcamp.com/track/subpersonality-visualisation
+  Audio url: 
   Video Url: 
   Credit: 
   Links:
