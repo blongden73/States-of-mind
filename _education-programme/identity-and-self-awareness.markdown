@@ -284,9 +284,12 @@ Slides:
     are very familiar with this part of their identity, yet they do not always pause
     to consider the meaning their name has for them. \n\nThe act of bringing conscious
     awareness to an aspect of yourself such as your name allows you to connect more
-    deeply with your sense of who you are and the meaning it holds for you. \n"
+    deeply with your sense of who you are and the meaning it holds for you. \n\n<iframe
+    style=\"border: 0; width: 100%; height: 42px;\" src=\"https://bandcamp.com/EmbeddedPlayer/track=717709636/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/\"
+    seamless><a href=\"https://statesofmind.bandcamp.com/track/name-meditation\">Name
+    meditation by States of Mind</a></iframe>\n"
   Graphic Image: 
-  Audio url: https://statesofmind.bandcamp.com/track/name-meditation
+  Audio url: 
   Video Url: 
   Credit: 
   Links:
