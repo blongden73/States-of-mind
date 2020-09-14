@@ -845,4 +845,4 @@ At States of Mind we see identity as a gateway, as our identity can provide a de
 
 How do you see and understand your self? 
 
-This module will help you to explore your personal identity and help you to cultivate a deeper of level of self awareness. 
+This module will help you to explore your personal identity and help you to cultivate a deeper level of self awareness. 
