@@ -6,7 +6,7 @@ Form: |2-
   Make some notes on the following questions:
   <form id="test-form">
     <div>
-      <label>How well do you know this part of you?When did it first show up in thee world?</label>
+      <label>How well do you know this part of you?When did it first show up in your life?</label>
       <textarea type="text" name="subpersonal_a" placeholder="Type your answer here"/></textarea>
     </div>
       Now, bringing an empathetic and curious stance when considering the situation, consider the following questions.
