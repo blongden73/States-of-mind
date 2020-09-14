@@ -269,7 +269,8 @@ Slides:
   Image: "/uploads/names.jpg"
   Description: 
   Graphic Image: 
-  Audio url: " https://statesofmind.bandcamp.com/track/name-meditation"
+  Audio url: "[bandcamp width=100% height=42 track=717709636 size=small bgcol=ffffff
+    linkcol=0687f5]"
   Video Url: 
   Credit: 
   Links:
