@@ -269,8 +269,7 @@ Slides:
   Image: "/uploads/names.jpg"
   Description: 
   Graphic Image: 
-  Audio url: "[bandcamp width=100% height=42 track=717709636 size=small bgcol=ffffff
-    linkcol=0687f5]"
+  Audio url: 
   Video Url: 
   Credit: 
   Links:
@@ -285,9 +284,9 @@ Slides:
     are very familiar with this part of their identity, yet they do not always pause
     to consider the meaning their name has for them. \n\nThe act of bringing conscious
     awareness to an aspect of yourself such as your name allows you to connect more
-    deeply with your sense of who you are and the meaning it holds for you. "
+    deeply with your sense of who you are and the meaning it holds for you. \n"
   Graphic Image: 
-  Audio url: 
+  Audio url: https://statesofmind.bandcamp.com/track/name-meditation
   Video Url: 
   Credit: 
   Links:
