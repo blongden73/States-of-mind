@@ -44,10 +44,10 @@ This programme has been designed to lead you through a process of self explorati
 
 Resistance and Procrastination
 
-Feelings of resistance and the desire to procrastinate are inevitable feelings that will emerge as part of this work. If you encounter these feelings, it is important that you begin to develop your ability to bring awareness, curiosity and an attitude of openness to them. They are an important aspect of the work and if you encourage the exploration of these states, your work will deepen and your development will be enhanced. The purpose of this programme is not only to achieve new states of wellbeing, but to develop your relationship with discomfort, uncertainty and resistance to change.  By working with discomfort, you will learn important personal patterns, mindsets and attitudes you have and relate to yourself with more openness and understanding.
+Feelings of resistance and the desire to procrastinate are inevitable feelings that will emerge as part of this work. If you encounter these feelings, it is important that you begin to develop your ability to bring awareness, curiosity and an attitude of openness to them. They are an important aspect of the work and if you encourage the exploration of these states, your work will deepen and your development will be enhanced. 
 
 The purpose of this programme is not only to achieve new states of wellbeing, but to develop your relationship with discomfort, uncertainty and resistance to change.  By working with discomfort, you will learn important personal patterns, mindsets and attitudes you have and relate to yourself with more openness and understanding.
 
 Please make sure to fill out the following survey before you start the course! 
 
-[https://www.surveymonkey.co.uk/r/Statesofmindcourse](https://www.surveymonkey.co.uk/r/Statesofmindcourse)
+[https://www.surveymonkey.co.uk/r/courseintro](https://www.surveymonkey.co.uk/r/courseintro)
