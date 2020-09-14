@@ -285,7 +285,7 @@ Slides:
 
     The act of bringing conscious awareness to an aspect of yourself such as your name allows you to connect more deeply with your sense of who you are and the meaning it holds for you.
 
-    <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=3001065912/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://statesofmind.bandcamp.com/track/subpersonality-visualisation">Subpersonality visualisation by States of Mind</a></iframe>
+    <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=717709636/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://statesofmind.bandcamp.com/track/name-meditation">Name meditation by States of Mind</a></iframe>
   Graphic Image: 
   Audio url: 
   Video Url: 
