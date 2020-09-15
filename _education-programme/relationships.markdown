@@ -1214,4 +1214,8 @@ Cover Colour: "#ffffff"
 layout: presentation
 ---
 
-How our mental health operates within the context of our interpersonal relationships. The seminar introduces key concepts from attachment theory and mentalisation therapy, while integrating exercises that develop skills in active listening, empathy and compassion for ourselves and others.
+Our relationships shape our understanding of ourselves and the world in which we live. The bonds we make and the bonds that break are one of the most influential factors affecting our sense of wellbeing in our everyday lives.
+
+This module will explore how our early relationships shape our ability to experience closeness and intimacy with others and influence our ability to express our needs and authentic experience with those around us.
+
+You will explore the significant relationships in your life and the meaning they have for you. You will develop skills that can enhance the quality of your relationships and help you develop deeper and more meaningful bonds in your everyday life.
