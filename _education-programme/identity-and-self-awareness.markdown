@@ -843,4 +843,4 @@ This introductory module explores how we develop and experience our sense of who
 
 At States of Mind, we view mental health as a consequence of living in alignment with our most authentic self, expressing ourselves freely and having a clear sense of self.
 
-Through guided visualisations, self reflection and group discussions you will gain a deeper understanding of how self awareness can deepen your understanding of who you are.
+Through guided visualisations, self reflection and group discussions you will gain a deeper understanding of how self awareness can enhance your understanding of who you are.
