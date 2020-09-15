@@ -824,7 +824,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: "/uploads/depression%202.jpeg"
-- Template: 
+- Template: four
   Title: 'Behavioural activation '
   Description: "The idea behind behavioural activation is to gradually change small
     aspects of how we live, so that we can slowly change our experience of ourselves
