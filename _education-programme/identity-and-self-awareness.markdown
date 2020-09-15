@@ -840,6 +840,19 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: two
+  Title: End of module reflection
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: www.statesofmind.org/handbook/end-of-module-reflective-practice
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 Cover Image: "/uploads/stocksy.jpg"
 Cover Colour: "#fefefe"
 layout: presentation
