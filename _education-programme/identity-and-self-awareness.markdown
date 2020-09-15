@@ -397,19 +397,10 @@ Slides:
 - Template: list
   Title: 'What is our authentic self ? '
   Image: 
-  Description: "Under the many layers of your identity and your personality is your
-    true self, this part of you never changes but exists throughout your life as your
-    innermost being. This part of yourself exists independently of your thoughts,
-    feelings and roles that you play in the world. \n\nWhen you are connected with
-    your authentic self, you are able to live freely, without feeling the need to
-    be anybody else. In this place, you accept your qualities, attributes and innate
-    gifts and can live according to who you most essentially are. \n\nThroughout your
-    life, you change and adapt parts of yourself to maintain your relationships with
-    others and to fit in to who you think other people want you to be. Everyone experiences
-    this conflict between wanting to be true to themselves and wanting to fit in with
-    the world around them. \n\nThis next part of the module will explore the authentic
-    self and how you develop the different ‘masks’ or sub-personalities that you show
-    to the world."
+  Description: |-
+    Under the many layers of your identity and your personality is your true self, this part of you never changes but exists throughout your life as your innermost being. This part of yourself exists independently of your thoughts, feelings and roles that you play in the world.
+
+    When you are connected with your authentic self, you are able to live freely, without feeling the need to be anybody else. In this place, you accept your qualities, attributes and innate gifts and can live according to who you most essentially are.
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -496,14 +487,14 @@ Slides:
 - Template: sixteen
   Title: 'Personality '
   Image: "/uploads/mask.jpg"
-  Description: "Personality comes from the greek word ‘persona’ which means mask.
-    \n\nYour personality refers to the different ways you express yourself in the
-    world and the many different ways you relate with other people. \n\nTogether with
-    your personality you have an unchanging part of who you you are that psychologists
-    call the 'Self'. This is the part of you that does not change over time or adapt
-    to different circumstances, but is your essential nature. \n\nYour Self is the
-    part of you that is spontaneous and loving, that seeks to be known and is the
-    experience of who you most fundamentally are.\n"
+  Description: |-
+    Personality comes from the greek word ‘persona’ which means mask.
+
+    Your personality refers to the different ways you express yourself in the world and the many different ways you relate with other people.
+
+    Throughout your life, you change and adapt parts of yourself to maintain your relationships with others and to fit in to who you think other people want you to be. Everyone experiences this conflict between wanting to be true to themselves and wanting to fit in with the world around them.
+
+    This next part of the module will explore this process and how you develop the different ‘masks’ or sub-personalities that you show to the world.
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -516,12 +507,15 @@ Slides:
 - Template: sixteen
   Title: 'The psychology of Sub-personalities '
   Image: 
-  Description: "Subpersonalities are habits or patterns of behaviour that you have
-    followed since childhood.\n\nWhen people fail to respond empathetically to your
-    true personality, you learn to hide your authentic nature and adapt to how your
-    parents or other people tell you that you should be. \n\nA psychotherapist called
-    Winnicott also called this process of adapting, the development of the False Self.
-    It has also been referred to as the Survival Personality or 'Character Armour'. \n "
+  Description: "A subpersonality is a response pattern that has distinct ways of behaving,
+    thinking and feeling. \n\nWhen people fail to respond empathetically to your true
+    personality, you learn to hide your authentic nature and adapt to how your parents
+    or other people tell you that you should be.\n\nFor example, if you found that
+    you got love and attention from your parents when you were helpful and didn't
+    express your concerns, you may develop a 'people-pleaser' part of yourself. \n\nA
+    psychotherapist called Winnicott also called this process of adapting, the development
+    of the False Self. It has also been referred to as the Survival Personality or
+    'Character Armour'."
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -534,19 +528,17 @@ Slides:
 - Template: six
   Title: 
   Image: 
-  Description: "They are distinct patterns of thoughts, feelings and behaviours that
-    you develop to adapt to various environments where you feel unable to be your
-    authentic self.\n\nIn neuroscience these are viewed as distinct neural networks
-    that function as ‘specialised selves’ or ‘self states’. \n\nSub-personality theory
-    explains personality development and helps to explain why parts of your personality
-    can feel conflicted and as if there are ‘multiple selves’ within you who have
-    different ways of being.\n\nFor example the feeling of ‘I want to do this but
-    another part of me wants to do that’, or ‘ I am angry right now but I think its
-    important I tell the truth’"
+  Description: "Sub-personality theory explains personality development and helps
+    to explain why parts of your personality can feel conflicted sometimes, as if
+    there are ‘multiple selves’ within you who have different ways of being. \n\nFor
+    example, you may have a part of you that is very rebellious and another part of
+    you that is very responsible. \n\nBy exploring the different aspects of our personality
+    we can develop a deeper understanding of the difference between our internal sense
+    of who we are and the different personas we show to others. "
   Graphic Image: 
   Audio url: 
   Video Url: 
-  Credit: Siegel 1993
+  Credit: 
   Links:
   - Link Url: 
   Quote: 
