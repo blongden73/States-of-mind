@@ -902,6 +902,20 @@ Slides:
   Image: 
   Quiz:
   - www.statesofmind.org/quiz/how-long-did-durkeim-propose-that-the-link-between-depression-and-social-exclusion-has-been-evident.html
+- Template: two
+  Title: end of module reflective practice
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: www.statesofmind.org/handbook/module-5
+  Quote: 
+  Quote Credit: 
+  Image: 
+  Quiz:
+  - 
 Cover Image: "/uploads/depression_Cover.png"
 Cover Colour: "#eeeff3"
 layout: presentation
