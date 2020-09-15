@@ -525,6 +525,21 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: fourteen
+  Title: 
+  Image: 
+  Description: " "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: '" The false self is set up to protect the true self - to respond to challenges
+    in the environment - the false self essentially takes up the role of social compliance.
+    " '
+  Quote Credit: Donald Winnicott
+  Slide Colour: 
 - Template: six
   Title: 
   Image: 
@@ -544,21 +559,6 @@ Slides:
   - Link Url: 
   Quote: 
   Quote Credit: 
-  Slide Colour: 
-- Template: fourteen
-  Title: 
-  Image: 
-  Description: " "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: '" The false self is set up to protect the true self - to respond to challenges
-    in the environment - the false self essentially takes up the role of social compliance.
-    " '
-  Quote Credit: Donald Winnicott
   Slide Colour: 
 - Template: list
   Title: How are sub-personalities related to mental health? 
