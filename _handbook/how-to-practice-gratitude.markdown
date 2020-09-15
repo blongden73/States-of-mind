@@ -1,6 +1,7 @@
 ---
 title: How to Practice Gratitude
 date: 2020-08-31 17:45:00 Z
+position: 14
 Form: |-
   <form id="test-form">
     <div>

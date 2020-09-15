@@ -1,6 +1,7 @@
 ---
 title: Practising Mirroring
 date: 2020-08-31 18:48:00 Z
+position: 19
 Form: |
   The key to mirroring is reflecting back what you see, feel and notice in the other person.
   Read the instructions before beginning the activity.

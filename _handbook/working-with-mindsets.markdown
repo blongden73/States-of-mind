@@ -2,6 +2,7 @@
 title: Working with mindsets
 date: 2020-08-26 14:46:00 Z
 permalink: "/handbook/working-with-mindsets.html"
+position: 9
 Form: |-
   <form id="test-form">
     <div>

@@ -1,6 +1,7 @@
 ---
 title: Inner child reflection
 date: 2020-09-15 12:16:00 Z
+position: 7
 Form: |-
   <form id="test-form">
     <div>

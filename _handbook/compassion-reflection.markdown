@@ -1,6 +1,7 @@
 ---
 title: Compassion reflection
 date: 2020-09-05 11:04:00 Z
+position: 39
 Form: |-
   <form id="test-form">
     <div>
