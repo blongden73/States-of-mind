@@ -101,26 +101,13 @@ Slides:
   Video Url: 
   Credit: 
   Links:
-  - Link Url: 
+  - Link Url: www.statesofmind.org/handbook/bfm-reflection
   Quote: 
   Quote Credit: 
   Slide Colour: 
 - Template: one
-  Title: 'Body '
+  Title: 'Body : Interoception '
   Image: "/uploads/body%20-%20feeelings.jpeg"
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: one
-  Title: 'Interoception '
-  Image: "/uploads/engin-akyurt-5e8SJhu-YEA-unsplash.jpg"
   Description: 
   Graphic Image: 
   Audio url: 
