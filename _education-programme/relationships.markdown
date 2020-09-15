@@ -173,7 +173,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: one
-  Title: 'Noticing attachment styles '
+  Title: 'Understanding attachment styles '
   Image: "/uploads/priscilla-du-preez-vDzeKnPBPLM-unsplash.jpg"
   Description: 
   Graphic Image: 
