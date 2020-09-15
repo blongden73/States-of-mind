@@ -869,4 +869,8 @@ Cover Colour: "#ffffff"
 layout: presentation
 ---
 
-The experience of anxiety from an evolutionary and psychosocial perspective. By exploring neuroscience, theories of emotional regulation and practical exercises of mindfulness and self compassion the seminar provides an understanding of the nature of anxiety and its meaning in our lives.
+Fear is an emotion that shapes the behaviour of humanity. As one of our most primal and influential emotions, our fear can manifest in anxiety and limit our sense of who we are.
+
+This module views anxiety from an evolutionary perspective and applies it into modern contexts, to explore how our fears and beliefs shape our self concept and view of the world.
+
+You will learn the neuroscience of anxiety and develop tools to help you understand and soothe feelings of anxiety in your life.
