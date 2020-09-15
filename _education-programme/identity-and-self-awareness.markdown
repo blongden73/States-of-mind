@@ -195,7 +195,10 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: one
+- Quiz:
+  - www.statesofmind.org/quiz/identity-and-self-awareness.html
+  - " www.statesofmind.org/quiz/hidden.html"
+  Template: one
   Title: 'Part 2: Identity '
   Image: "/uploads/identity.jpg"
   Description: 
@@ -208,9 +211,6 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-  Quiz:
-  - www.statesofmind.org/quiz/identity-and-self-awareness.html
-  - " www.statesofmind.org/quiz/hidden.html"
 - Template: ten
   Title: "Who \nare \nyou?"
   Image: 
