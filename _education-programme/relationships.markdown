@@ -7,28 +7,12 @@ Slides:
 - Template: six
   Title: 'Relationships and mental health '
   Image: 
-  Description: "Your behaviour in relationships is driven by your evolutionary needs
-    for safety, love and connection with others.\n\nEveryone has these needs for love,
-    connection and a sense of belonging. \n\nYour ability to have these needs met
-    in your relationships has a significant impact on your health and mental wellbeing."
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: sixteen
-  Title: 'Attunement in Relationships '
-  Image: "/uploads/attunement.jpg"
-  Description: "Your relationship with your caregiver/s provides you with your first
-    experiences of what relationships are like. \n\nIf your caregiver/s was present
-    and attuned to your emotional needs and reflected back to you a positive sense
-    of self, you will carry a sense of self worth and self-esteem into your adult
-    relationships and will feel able to communicate openly and honesty about your
-    emotional life.\n"
+  Description: |-
+    Your behaviour in relationships is driven by your evolutionary needs for safety, love and connection with others.
+
+    Everyone has these needs for love, acceptance and a sense of belonging.
+
+    Your ability to have these needs met in your relationships has a significant impact on your health and mental wellbeing.
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -58,16 +42,33 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
+  Title: 'Attunement in Relationships '
+  Image: "/uploads/attunement.jpg"
+  Description: "Your relationship with your caregiver/s provides you with your first
+    experiences of what relationships are like. Attunement is a shared relational
+    experience where we sense that we are witnessed and experienced clearly by others.
+    \n\nIf your caregiver/s was present and aware of  your emotional needs and reflected
+    back to you a positive sense of self, you will carry a sense of self worth and
+    self-esteem into your adult relationships and will feel able to communicate openly
+    and honesty about your emotional life."
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
   Title: 'What shapes our relationships? '
   Image: "/uploads/family.jpg"
-  Description: "Your early relationship with your parents is one of the biggest influences
-    on how you view relationships and interact with other people in your later life.\n\nIt
-    is common to internalise beliefs that you developed in your early childhood relationships,
-    such as positive beliefs of being able to depend on others for support or limiting
-    beliefs such as feeling as if you need to abandon your needs to remain in positive
-    relationships.\n\nBy understanding the different relationship styles and dynamics
-    that you can develop you can become aware of how and why you struggle in relationships
-    and learn how to change any behaviours that hold you back. "
+  Description: |-
+    Your early relationship with your caregivers are one of the biggest influences on how you view relationships and interact with other people in your later life.
+
+    It is common to internalise beliefs that you develop in your early childhood relationships. These may be  positive beliefs of being able to depend on others for support or limiting beliefs such as feeling as if you need to abandon your needs to remain in positive relationships.
+
+    By understanding the different relationship styles and dynamics that you can develop you can become aware of how and where you may you struggle in relationships and learn how to change any behaviours that hold you back.
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -93,32 +94,19 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: twenty
-  Title: 
-  Image: 
-  Description: 
-  Graphic Image: "/uploads/Group%20119%20(1).svg"
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
 - Template: sixteen
   Title: The ‘good enough parent’
-  Image: 
+  Image: "/uploads/Group%20119%20(1).svg"
   Description: "A Psychologist called Donald Winnicott coined this term to refer to
     the fact that no parent can meet your needs all of the time and that no parenting
     style can be completely perfect.\n\nYour parents are individuals with their own
     potentially unmet needs and relational patterns that have been played out from
-    their childhoods. \n\nAlthough no parent can meet all of your needs all of the
-    time, the amount of attunement that they were able to provide has been shown to
-    influence the quality of your relationships as an adult.\n\nIf your parents punished
-    you or were unavailable when you needed them emotionally, you may come to develop
-    a belief that it is unsafe or uncomfortable expressing your needs with others
-    as an adult. \n\n"
+    their childhoods.\n\nFor example, your parents may have struggled expressing their
+    emotions as a child and feel uncomfortable discussing emotions with you. These
+    patterns are passed down through families and can create patterns in how we learn
+    to relate emotionally with others. \n\nThis graphic represents how our family
+    relationship styles are passed down through generations and how our parents personal
+    history of relationships affects our experience as children. "
   Graphic Image: 
   Audio url: 
   Video Url: 
