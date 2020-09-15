@@ -696,6 +696,21 @@ Slides:
   Slide Colour: 
   Quiz:
   - 'www.statesofmind.org/quiz/emotional-regulation.html '
+- Template: two
+  Title: End of module reflection
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: www.statesofmind.org/handbook/end-of-module-2
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+  Quiz:
+  - 
 Cover Image: "/uploads/bfm.jpeg"
 Cover Colour: "#ffffff"
 layout: presentation
