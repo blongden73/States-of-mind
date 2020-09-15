@@ -196,8 +196,8 @@ Slides:
   Quote Credit: 
   Slide Colour: 
   Quiz:
-  - Self  Awareness
-  - Hidden
+  - www.statesofmind.org/quiz/identity-and-self-awareness.html
+  - 'www.statesofmind.org/quiz/hidden.html '
 - Quiz:
   - Self  Awareness
   - " www.statesofmind.org/quiz/hidden.html"
