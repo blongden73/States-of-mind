@@ -864,6 +864,24 @@ Slides:
   - 'www.statesofmind.org/quiz/how-many-minutes-of-exercise-can-begin-to-reduce-your-anxiety-levels.html '
   - " www.statesofmind.org/quiz/which-psychologist-presented-the-social-rank-theory-of-anxiety.html"
   - www.statesofmind.org/quiz/threat-system.html
+- Template: two
+  Title: End of module reflection
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: www.statesofmind.org/handbook/module-4
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+  Quiz:
+  - 
+  - 
+  - 
+  - 
 Cover Image: "/uploads/DESIGN%20COVER-12fe9b.jpg"
 Cover Colour: "#ffffff"
 layout: presentation
