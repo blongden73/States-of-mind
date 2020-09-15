@@ -91,11 +91,10 @@ Slides:
 - Template: sixteen
   Title: Self awareness is a tool that can help us to grow
   Image: 
-  Description: "\nThe **insights** that self awareness provides you with allow you
-    to feel more satisfied with your life because you become more aware of why you
-    feel and act the way you do. \n\nWhen cultivated fully, you no longer feel the
-    need to repress or hide your emotions or react unconsciously to your experiences
-    but will view yourself with a deeper level of understanding. \n"
+  Description: |-
+    The **insights** that self awareness provides you with allow you to feel more satisfied with your life because you develop your understanding of why you feel and act the way you do.
+
+    When cultivated fully, you no longer feel the need to repress or hide your emotions or react unconsciously to your experiences but will view yourself with a deeper level of understanding.
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -109,16 +108,20 @@ Slides:
 - Template: five
   Title: 
   Image: 
-  Description: "# Self awareness enables you to:\n\n# Take responsibility for your
-    problems.\n\nBy developing knowledge about yourself and understanding yourself
-    more fully, you can determine where your problems are coming from so that you
-    can begin to resolve them more easily. \n\n# Improve your relationships \n\nBy
-    being more aware of how you are acting towards yourself and in your relationships,
-    you can improve the quality of these relationships, which are so key for experiencing
-    a fulfilling life.  \n\n# Improve your confidence \n\nPeople with self awareness
-    have more clarity about who they are, what they believe in and what their personal
-    goals are. Without this clarity, it can be easy to lack self assurance and struggle
-    with your self esteem."
+  Description: |-
+    # Self awareness enables you to:
+
+    # Take responsibility for your problems.
+
+    By understanding yourself more fully, you can determine where your problems are coming from so that you can begin to resolve them more easily.
+
+    # Improve your relationships
+
+    By being more aware of how your feelings affect your behaviour,  you can improve your communication with others and express yourself more clearly in your close relationships.
+
+    # Improve your confidence
+
+    People with self awareness have more clarity about who they are, what they believe in and what their personal goals are. Without this clarity, it can be easy to lack self assurance and struggle with your self esteem.
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -250,11 +253,12 @@ Slides:
 - Template: sixteen
   Title: Identity
   Image: 
-  Description: "Your identity isn’t fixed but develops and changes over time. It is
-    subjective and personal and is influenced by your unique life experiences. \n\nAs
-    your life history and identity are so closely related, exploring and bringing
-    awareness to different aspects of your identity can provide an important foundation
-    for self-discovery, self awareness and personal growth. "
+  Description: "Our identity relates to our self - image: our perception of our self
+    and our role in the world. Our identity changes and evolves as we develop, reflecting
+    the dynamic inter-relationship between our life experience and sense of self.
+    \n\nAs our life history and identity are so closely related, exploring and bringing
+    awareness to different aspects of our identity can provide an important foundation
+    for self-discovery, self awareness and personal growth.\n\n\n"
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -280,12 +284,15 @@ Slides:
 - Template: sixteen
   Title: Your name
   Image: 
-  Description: |-
-    Your name is a personal and special aspect of your identity. People are very familiar with this part of their identity, yet they do not always pause to consider the meaning their name has for them.
-
-    The act of bringing conscious awareness to an aspect of yourself such as your name allows you to connect more deeply with your sense of who you are and the meaning it holds for you.
-
-    <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=717709636/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://statesofmind.bandcamp.com/track/name-meditation">Name meditation by States of Mind</a></iframe>
+  Description: "Your name is a personal and special aspect of your identity. People
+    are very familiar with this part of their identity, yet they do not always pause
+    to consider the meaning their name has for them.\n\nThe act of bringing conscious
+    awareness to an aspect of yourself such as your name allows you to connect more
+    deeply with your sense of who you are and the meaning it holds for you. \n\nListen
+    to the audio below to reflect on the meaning that your name holds for you:\n\n<iframe
+    style=\"border: 0; width: 100%; height: 42px;\" src=\"https://bandcamp.com/EmbeddedPlayer/track=717709636/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/\"
+    seamless><a href=\"https://statesofmind.bandcamp.com/track/name-meditation\">Name
+    meditation by States of Mind</a></iframe>"
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -336,6 +343,23 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: fourteen
+  Title: 
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: |-
+    “There is in the psyche a process that seeks its own goal no matter what the external factors may be….the almost irresistible compulsion and urge to become what one is.” 
+     
+  Quote Credit: 'Carl Jung 
+
+'
+  Slide Colour: 
 - Template: sixteen
   Title: Authenticity and mental health
   Image: "/uploads/Jung.jpg"
@@ -354,23 +378,6 @@ Slides:
   - Link Url: 
   Quote: 
   Quote Credit: 
-  Slide Colour: 
-- Template: fourteen
-  Title: 
-  Image: 
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: |-
-    “There is in the psyche a process that seeks its own goal no matter what the external factors may be….the almost irresistible compulsion and urge to become what one is.” 
-     
-  Quote Credit: 'Carl Jung 
-
-'
   Slide Colour: 
 - Template: nineteen
   Title: What is real?
@@ -411,6 +418,21 @@ Slides:
   - Link Url: 
   Quote: 
   Quote Credit: 
+  Slide Colour: 
+- Template: fourteen
+  Title: 
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: "“To be free is to be capable of thinking one’s own thoughts – not the thoughts
+    merely of the body, or of society, but thoughts generated by one’s deepest, most
+    original, most essential and spiritual self, one’s individuality.”"
+  Quote Credit: 'Rudolf Steiner '
   Slide Colour: 
 - Template: one
   Title: The Younger You
