@@ -1196,7 +1196,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: two
-  Title: 'End of module reflective practice '
+  Title: End of module reflection
   Image: 
   Description: 
   Graphic Image: 
@@ -1204,7 +1204,7 @@ Slides:
   Video Url: 
   Credit: 
   Links:
-  - Link Url: www.statesofmind.org/handbook/end-of-module-3
+  - Link Url: www.statesofmind.org/handbook/module3
   Quote: 
   Quote Credit: 
   Slide Colour: 
