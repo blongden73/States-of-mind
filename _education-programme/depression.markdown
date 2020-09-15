@@ -760,7 +760,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: "/uploads/gemma-chua-tran-mZQpsI1CoVQ-unsplash%20(1).jpg"
-- Template: sixteen
+- Template: four
   Title: 
   Description: |-
     * People who experience depression often feel confused, guilty and shameful around the experience of not meeting the expectations of themselves and others.
@@ -776,7 +776,7 @@ Slides:
   - Link Url: 
   Quote: 
   Quote Credit: 
-  Image: "/uploads/depression%202.jpeg"
+  Image: 
 - Template: sixteen
   Title: What is Unconditional Positive Regard?
   Description: |-
@@ -823,8 +823,8 @@ Slides:
   - Link Url: 
   Quote: 
   Quote Credit: 
-  Image: "/uploads/pexels-photo-1030940.jpg"
-- Template: five
+  Image: "/uploads/depression%202.jpeg"
+- Template: 
   Title: 'Behavioural activation '
   Description: "The idea behind behavioural activation is to gradually change small
     aspects of how we live, so that we can slowly change our experience of ourselves
