@@ -31,7 +31,7 @@ Form: |-
     </div>
     <div>
       <label>Would you recommend this module to a friend?</label>
-      <textarea type="text" name="module1_e" placeholder="Type your answer here"/></textarea>
+      <textarea type="text" name="module1_f" placeholder="Type your answer here"/></textarea>
     </div>
     <div>
       <label>What is your username?</label>
