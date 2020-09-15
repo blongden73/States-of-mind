@@ -717,11 +717,6 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-  Quiz:
-  - www.statesofmind.org/quiz/self-awareness.html
-  - 'www.statesofmind.org/quiz/terms-psychologists-used-to-describe-personality.html '
-  - www.statesofmind.org/quiz/psychologists.html
-  - 'www.statesofmind.org/quiz/innate-human-desire.html '
 - Template: fourteen
   Title: 
   Image: 
