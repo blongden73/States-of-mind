@@ -240,14 +240,12 @@ Slides:
 - Template: sixteen
   Title: Movement and emotions
   Image: "/uploads/melody-jacob-IJcdUTz7AyM-unsplash.jpg"
-  Description: "When you experience difficult thoughts and emotions, this becomes
-    reflected in your body as tension and discomfort. \n\nOne of the ways you manage
-    painful  emotional experiences is to escape into your mind. Often you don’t realise
-    this is happening at the time and that is why it is important to bring awareness
-    to yourself in the present moment and reconnect with your body as a way to calm
-    yourself and rebalance your mood. \n\nDance movement psychotherapy is effective
-    because it allows you to use our body to influence your mood and release trapped
-    and difficult emotions. \n"
+  Description: |-
+    When you experience difficult thoughts and emotions, this becomes reflected in your body as tension and discomfort.
+
+    One of the ways you may manage painful  emotional experiences is to escape into your mind. You probably don't realise this is happening at the time and that is why it is important to bring awareness to yourself in the present moment and reconnect with your body as a way to calm yourself and rebalance your mood.
+
+    By dancing, stretching, exercising or going for a walk, you can bring your awareness into your body, which will help your mind to slow down and relax.
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -296,13 +294,12 @@ Slides:
 - Template: sixteen
   Title: Feelings
   Image: "/uploads/aiony-haust-ftLZUqNRjTc-unsplash.jpg"
-  Description: "Your relationship with our feelings and emotions has a significant
-    impact on your wellbeing in your everyday life. \n\nLike the relationship with
-    your body and mind, everybody has a unique relationship with their feelings and
-    this relationship can change and evolve over time.\n\nBy becoming more accepting
-    and aware of your different feelings, it can help you to manage uncomfortable
-    feelings more easily, develop stronger relationships with others and overcome
-    challenging times in your life with more clarity and confidence. \n"
+  Description: |-
+    Your relationship with your feelings and emotions has a significant impact on your wellbeing in your everyday life.
+
+    Like the relationship with your body and mind, everybody has a unique relationship with their feelings and this relationship can change and evolve over time.
+
+    By becoming more accepting and aware of your different feelings, it can help you to manage uncomfortable feelings more easily, develop stronger relationships with others and overcome challenging times in your life with more clarity and confidence.
   Audio url: 
   Video Url: 
   Credit: 
@@ -327,11 +324,12 @@ Slides:
 - Template: sixteen
   Title: Emotional Awareness
   Image: "/uploads/emotions%202.jpg"
-  Description: "Emotional awareness is the ability to observe, name and express what
-    you are feeling. \n\nEmotional communication depends on this awareness and enables
-    you to share your experiences more richly and accurately with others. \n\nBy developing
-    this ability you can help yourself to resolve misunderstandings with others, understand
-    your reactions and find meaning in your experiences. "
+  Description: |-
+    Emotional awareness is the ability to observe, name and express what you are feeling.
+
+    Emotional communication depends on this awareness and enables you to share your experiences more richly and accurately with others.
+
+    By developing this ability to listen to what your feelings are telling you, you can help yourself to resolve misunderstandings with others, understand your reactions and your personal experience more clearly.
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -341,6 +339,24 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: five
+  Title: Emotional regulation
+  Image: 
+  Description: "Emotional Regulation is a term used to describe your ability to process
+    emotions and to tolerate uncomfortable emotions that you often avoid.  \n\nIf
+    you are able to regulate your emotions you can build your resilience and cope
+    with challenging situations more effectively.\n\nThe first step for regulating
+    emotions is to become aware of what the different emotions feel like and to explore
+    your relationship with them."
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: "#FFF8EA"
 - Template: sixteen
   Title: Exploring emotion
   Image: "/uploads/Group%20130.svg"
@@ -355,7 +371,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: two
-  Title: 'Explore some emotions '
+  Title: Explore some emotions!
   Image: 
   Description: 
   Graphic Image: 
@@ -367,35 +383,6 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: five
-  Title: Creativity and emotional expression
-  Image: 
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: five
-  Title: Emotional regulation
-  Image: 
-  Description: Emotional Regulation is a term used to describe your ability to process
-    emotions and to tolerate uncomfortable emotions that you often avoid. If you are
-    able to regulate your emotions you can build your resilience and cope with challenging
-    situations more effectively. 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: "#FFF8EA"
 - Template: one
   Title: 'The Mind '
   Image: "/uploads/mind.jpg"
