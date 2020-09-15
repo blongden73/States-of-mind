@@ -195,8 +195,11 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+  Quiz:
+  - Self  Awareness
+  - Hidden
 - Quiz:
-  - www.statesofmind.org/quiz/identity-and-self-awareness.html
+  - Self  Awareness
   - " www.statesofmind.org/quiz/hidden.html"
   Template: one
   Title: 'Part 2: Identity '
