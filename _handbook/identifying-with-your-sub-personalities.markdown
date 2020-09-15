@@ -1,7 +1,7 @@
 ---
 title: Identifying with your Sub- personalities
 date: 2020-08-31 18:01:00 Z
-position: 21
+position: 18
 Form: |2-
 
   Make some notes on the following questions:

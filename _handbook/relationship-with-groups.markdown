@@ -1,7 +1,7 @@
 ---
 title: Relationship with groups
 date: 2020-09-15 16:18:00 Z
-position: 3
+position: 2
 Form: |-
   <form id="test-form">
     <div>

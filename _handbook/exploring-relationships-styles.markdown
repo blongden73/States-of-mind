@@ -1,7 +1,7 @@
 ---
 title: Exploring relationships styles
 date: 2020-09-05 10:59:00 Z
-position: 24
+position: 21
 Form: 
 layout: handbook
 ---

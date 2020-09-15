@@ -1,7 +1,7 @@
 ---
 title: Post-traumatic Growth
 date: 2020-08-31 18:30:00 Z
-position: 12
+position: 9
 Form: |-
   <form id="test-form">
     <div>

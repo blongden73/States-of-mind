@@ -1,7 +1,7 @@
 ---
 title: Empathic Listening Instructions
 date: 2020-08-31 16:59:00 Z
-position: 33
+position: 30
 layout: handbook
 ---
 

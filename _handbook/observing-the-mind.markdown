@@ -1,7 +1,7 @@
 ---
 title: Observing the Mind
 date: 2020-08-31 18:28:00 Z
-position: 15
+position: 12
 Form: |-
   <form id="test-form">
     <div>

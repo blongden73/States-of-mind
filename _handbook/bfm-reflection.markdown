@@ -1,7 +1,7 @@
 ---
 title: BFM reflection
 date: 2020-09-15 12:43:00 Z
-position: 6
+position: 3
 Form: |-
   <form id="test-form">
     <div>

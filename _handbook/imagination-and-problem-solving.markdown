@@ -1,7 +1,7 @@
 ---
 title: Imagination and problem solving
 date: 2020-09-06 11:50:00 Z
-position: 23
+position: 20
 layout: handbook
 ---
 
