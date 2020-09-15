@@ -89,6 +89,6 @@ There is no need to share your work with others but it can be very beneficial to
 
 **Step 2:** You will need a pen and paper. You can coloured pens and other drawing materials if you have access to them and would like to develop your work creatively,
 
-\*\*Step 3: \*\* When you are ready, settle yourself into a comfortable position and take as many slow, deep breaths as you need to feel relaxed and focused on the present moment. It can be helpful to affirm to yourself that this activity is for your personal development and any distractions can wait until you have taken this time for yourself.
+\*\*Step 3:\*\* When you are ready, settle yourself into a comfortable position and take as many slow, deep breaths as you need to feel relaxed and focused on the present moment. It can be helpful to affirm to yourself that this activity is for your personal development and any distractions can wait until you have taken this time for yourself.
 
-\*\*Step 4: \*\* Take a few minutes to reflect on and visualise the significant times in your life from childhood through to the present. You may wish to use these prompts to help you as begin your reflection?
+\*\*Step 4:\*\* Take a few minutes to reflect on and visualise the significant times in your life from childhood through to the present. You may wish to use these prompts to help you as begin your reflection?
