@@ -841,8 +841,6 @@ layout: presentation
 
 This introductory module explores how we develop and experience our sense of who we are. You will explore different dimensions of your identity and learn how they relate to your personal history and life experiences.
 
-\
 At States of Mind, we view mental health as a consequence of living in alignment with our most authentic self, expressing ourselves freely and having a clear sense of self.
 
-\
 Through guided visualisations, self reflection and group discussions you will gain a deeper understanding of how self awareness can deepen your understanding of who you are.
