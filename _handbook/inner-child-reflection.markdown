@@ -16,6 +16,7 @@ Form: |-
       <button type="submit"id="submit-form">Submit</button>
     </div>
   </form>
+layout: handbook
 ---
 
  
