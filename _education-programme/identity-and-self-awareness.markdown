@@ -198,10 +198,7 @@ Slides:
   Quiz:
   - www.statesofmind.org/quiz/identity-and-self-awareness.html
   - 'www.statesofmind.org/quiz/hidden.html '
-- Quiz:
-  - Self  Awareness
-  - " www.statesofmind.org/quiz/hidden.html"
-  Template: one
+- Template: one
   Title: 'Part 2: Identity '
   Image: "/uploads/identity.jpg"
   Description: 
@@ -702,6 +699,11 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+  Quiz:
+  - www.statesofmind.org/quiz/self-awareness.html
+  - www.statesofmind.org/quiz/terms-psychologists-used-to-describe-personality.html
+  - 'www.statesofmind.org/quiz/psychologists.html '
+  - www.statesofmind.org/quiz/innate-human-desire.html
 - Template: one
   Title: 'Part 4: Society and Identity '
   Image: "/uploads/society.jpg"
