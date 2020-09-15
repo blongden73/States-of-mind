@@ -919,4 +919,8 @@ Cover Colour: "#eeeff3"
 layout: presentation
 ---
 
-The psychological, emotional and physical manifestations of depression, while viewing the experience as occurring in the historical and interpersonal context of life. Exploring the loss of will, meaning and purpose, this seminar views depression as a challenging but potentially growth promoting experience.
+Depression is one of the most common experiences of personal distress in the western world, yet it is an experience that is shrouded with mystery, myths and misunderstanding.
+
+This module debunks widely held beliefs about depression being caused by a chemical imbalance and opens up an exploration of how our life experiences and social world can cause us to feel hopeless, helpless and as if life has lost its meaning. 
+
+You will learn about evidence based approaches that help alleviate depression and reflect on the prevalence of depression in thee western world. 
