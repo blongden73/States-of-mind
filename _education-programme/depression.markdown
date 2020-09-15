@@ -760,7 +760,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: "/uploads/gemma-chua-tran-mZQpsI1CoVQ-unsplash%20(1).jpg"
-- Template: five
+- Template: sixteen
   Title: 
   Description: |-
     * People who experience depression often feel confused, guilty and shameful around the experience of not meeting the expectations of themselves and others.
@@ -776,7 +776,7 @@ Slides:
   - Link Url: 
   Quote: 
   Quote Credit: 
-  Image: 
+  Image: "/uploads/depression%202.jpeg"
 - Template: sixteen
   Title: What is Unconditional Positive Regard?
   Description: |-
