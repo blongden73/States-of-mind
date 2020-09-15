@@ -467,7 +467,7 @@ Slides:
   Video Url: 
   Credit: 
   Links:
-  - Link Url: 
+  - Link Url: 'www.statesofmind.org/handbook/inner-child-reflection-522c7e '
   Quote: 
   Quote Credit: 
   Slide Colour: 
@@ -507,15 +507,15 @@ Slides:
 - Template: sixteen
   Title: 'The psychology of Sub-personalities '
   Image: 
-  Description: "A subpersonality is a response pattern that has distinct ways of behaving,
-    thinking and feeling. \n\nWhen people fail to respond empathetically to your true
-    personality, you learn to hide your authentic nature and adapt to how your parents
-    or other people tell you that you should be.\n\nFor example, if you found that
-    you got love and attention from your parents when you were helpful and didn't
-    express your concerns, you may develop a 'people-pleaser' part of yourself. \n\nA
-    psychotherapist called Winnicott also called this process of adapting, the development
-    of the False Self. It has also been referred to as the Survival Personality or
-    'Character Armour'."
+  Description: "A subpersonality is a response pattern that causes us to act, feel
+    and think in distinct ways. \n\nWhen people fail to respond empathetically to
+    your true personality, or you feel uncomfortable being yourself, you learn to
+    hide your authentic nature and adapt to how you think you should be.\n\nFor example,
+    if you found that you got love and attention from your parents when you were helpful
+    and didn't express your concerns, you may develop a 'people-pleaser' part of yourself.
+    \n\nA psychotherapist called Winnicott also called this process of adapting, the
+    development of the False Self. It has also been referred to as the Survival Personality
+    or 'Character Armour'."
   Graphic Image: 
   Audio url: 
   Video Url: 
