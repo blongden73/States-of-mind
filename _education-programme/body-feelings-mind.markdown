@@ -399,13 +399,13 @@ Slides:
 - Template: sixteen
   Title: 'Observing the Tendency of the Mind to Distraction '
   Image: 
-  Description: "\nThe first lesson in using your mind more effectively is to observe
-    its tendency to become distracted by intruding thoughts. \n\nYour mind likes to
+  Description: "The first lesson in using your mind more effectively is to observe
+    its tendency to become distracted by intruding thoughts.\n\nYour mind likes to
     comment on our experiences. It comments on everything, from how you are feeling,
-    to what you think about other people and the experiences you have. \n\nThe mind
-    is always changing because your mood is always changing. You run into problems
-    with the mind when you begin to believe that everything you are thinking is the
-    only experience that is possible. "
+    what you are doing moment to moment as well as your past experiences and predications
+    about the future. \n\nThe mind is always changing because your mood is always
+    changing. You run into problems with the mind when you begin to believe that everything
+    you are thinking is the only experience that is possible."
   Graphic Image: 
   Audio url: 
   Video Url: 
