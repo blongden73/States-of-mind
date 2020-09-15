@@ -467,7 +467,7 @@ Slides:
   Video Url: 
   Credit: 
   Links:
-  - Link Url: 'www.statesofmind.org/handbook/inner-child-reflection-522c7e '
+  - Link Url: www.statesofmind.org/handbook/inner-child-reflection
   Quote: 
   Quote Credit: 
   Slide Colour: 
