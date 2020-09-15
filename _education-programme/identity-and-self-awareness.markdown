@@ -839,8 +839,10 @@ Cover Colour: "#fefefe"
 layout: presentation
 ---
 
-At States of Mind we see identity as a gateway to self-knowledge. Our identity is a reflection of our unique personal experience and by exploring our identity we can gain a deeper understanding of ourselves and our view of the world. 
+This introductory module explores how we develop and experience our sense of who we are. You will explore different dimensions of your identity and learn how they relate to your personal history and life experiences.
 
-How do you see and understand your self?
+\
+At States of Mind, we view mental health as a consequence of living in alignment with our most authentic self, expressing ourselves freely and having a clear sense of self.
 
-This module will help you to explore your personal identity and allow you to cultivate a deeper level of self awareness.
+\
+Through guided visualisations, self reflection and group discussions you will gain a deeper understanding of how self awareness can deepen your understanding of who you are.
