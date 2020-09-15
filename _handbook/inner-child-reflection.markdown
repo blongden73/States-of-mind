@@ -5,7 +5,7 @@ Form: |-
   <form id="test-form">
     <div>
       <label>Record your reflections from the meditation here</label>
-      <textarea type="text" name="detach_mindset" placeholder="Type your answer here"/></textarea>
+      <textarea type="text" name="inner_child" placeholder="Type your answer here"/></textarea>
     </div>
   <div>
       <label>What is your username?</label>
