@@ -5,11 +5,11 @@ Form: |-
   <form id="test-form">
     <div>
       <label>What was it like to connect with this younger part of you? </label>
-      <textarea type="text" name="exploring_fears_a" placeholder="Type your answer here"/></textarea>
+      <textarea type="text" name="innerchild_a" placeholder="Type your answer here"/></textarea>
     </div>
     <div>
       <label>What did you learn about yourself from doing this practice? </label>
-      <textarea type="text" name="exploring_fears_b" placeholder="Type your answer here"/></textarea>
+      <textarea type="text" name="innerchild_b" placeholder="Type your answer here"/></textarea>
     </div>
   <div>
       <label>What is your username?</label>
