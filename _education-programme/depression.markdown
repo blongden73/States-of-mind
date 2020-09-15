@@ -34,18 +34,6 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: 
-- Template: two
-  Title: Signs of depression
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Image: 
 - Template: five
   Title: 'Psychological signs '
   Description: |-
