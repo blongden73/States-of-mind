@@ -727,4 +727,9 @@ Cover Colour: "#ffffff"
 layout: presentation
 ---
 
-The neuroscience of attention and its relationship to mindfulness practice and emotional regulation. The seminar provides tools to develop self awareness and mindfulness in our everyday lives.
+Our mental health isn’t just about our minds. It is a complex and fascinating interplay between our physical, emotional and psychological states.
+
+ In this module you will learn about the mind-body connection and explore your relationship to the different states of self-awareness that are available to you.
+
+\
+By developing your understanding of the inter-relatedness of your body, feelings and mind, you will learn about mental health through a holistic lens and learn techniques that can enhance your wellbeing in your everyday life.
