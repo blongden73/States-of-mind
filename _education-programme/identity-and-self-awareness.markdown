@@ -532,9 +532,10 @@ Slides:
     to explain why parts of your personality can feel conflicted sometimes, as if
     there are ‘multiple selves’ within you who have different ways of being. \n\nFor
     example, you may have a part of you that is very rebellious and another part of
-    you that is very responsible. \n\nBy exploring the different aspects of our personality
-    we can develop a deeper understanding of the difference between our internal sense
-    of who we are and the different personas we show to others. "
+    you that is very responsible. \n\nBy exploring these different aspects of our
+    personality we can develop a deeper understanding of the difference between our
+    internal sense of who we are most essentially and the different ways we behave
+    in the world."
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -562,12 +563,16 @@ Slides:
 - Template: list
   Title: How are sub-personalities related to mental health? 
   Image: 
-  Description: |-
-    Subpersonalities cause difficulties when you identify with this one part of yourself and believe it to be all of you.
-
-    For example, if you are identified with the ‘High achiever’ part of yourself, it may help you to get good grades and maintain a motivation for developing your knowledge and experience. However, if you become over identified with this part of yourself you may become very distressed by setbacks, you may spend less time with our friends or you may never be satisfied with what you have achieved.
-
-    Your sub personalities all emerge from an unmet need. By identifying these needs you can develop more self awareness and understanding of where this part of you came from.
+  Description: "Subpersonalities cause difficulties when you identify with one part
+    of yourself and believe it to be all of you.\n\nFor example, if you are identified
+    with the ‘High achiever’ part of yourself, it may help you to get good grades
+    and maintain a motivation for developing your knowledge and feel respected for
+    your academic ability. However, if this part of you evolved from wanting love
+    and respect from others, you may become over identified with this part of yourself
+    and feel very distressed by setbacks or punish yourself for not meeting the expectations
+    of others. \n\nYour sub personalities all emerge from an unmet need. By identifying
+    these needs you can develop more self awareness and understanding of where this
+    part of you came from."
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -632,8 +637,20 @@ Slides:
 - Template: sixteen
   Title: 'Some other sub-personalities for you to explore '
   Image: "/uploads/Group%20113.svg"
-  Description: "* The clown\n* The critic\n* The people pleaser\n* The caretaker\n*
-    The rebel\n* The high achiever\n* The child "
+  Description: |-
+    * The clown
+
+    * The critic
+
+    * The people pleaser
+
+    * The caretaker
+
+    * The rebel
+
+    * The high achiever
+
+    * The victim
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -657,28 +674,6 @@ Slides:
     how they serve you.\n\n5. By identifying with your different sub-peronalities,
     it allows you to develop a greater awareness of what is your true self and what
     is a mask or persona."
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: four
-  Title: 'Stages of Integration '
-  Image: 
-  Description: |-
-    * Recognition
-
-    * Acceptance
-
-    * Coordination
-
-    * Integration
-
-    * Synthesis
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -756,17 +751,14 @@ Slides:
 - Template: list
   Title: 
   Image: 
-  Description: "You live in a social world and many aspects of your personality is
-    shaped by the social relationships and situations you encounter throughout your
-    life. \n\nAs it is impossible for your close relationships to be fully present
-    all the time and for you to be completely present to others, you fit your environments
-    by adapting your personality to defend yourself and meet your needs for connection.\n
-    \ \nAn example of this is noticing when somebody seems to have a different personality
-    depending on what group they are in, or when you notice you behave differently
-    depending on who you are with. \n\nThis is a completely normal process but understanding
-    the process behind it can help you develop an awareness of how parts of your identity
-    are shaped by your desire to fit in and be accepted in contrast to expressing
-    your authentic feelings and experince when you are with others. "
+  Description: |-
+    You live in a social world and many aspects of how you know yourself is shaped by the social relationships and situations you encounter throughout your life.
+
+    As it is impossible for your close relationships to be fully present all the time and for you to be completely present to others, you may sometimes fit your environments by adapting your personality to defend yourself and meet your needs for connection.
+
+    An example of this is noticing when somebody seems to have a different personality depending on what group they are in, or when you notice you behave differently depending on who you are with.
+
+    This is a completely normal process but understanding the process behind it can help you develop an awareness of how parts of your identity are shaped by your desire to fit in and be accepted in contrast to expressing your authentic feelings and experince when you are with others.
   Graphic Image: 
   Audio url: 
   Video Url: 
