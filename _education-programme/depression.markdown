@@ -923,4 +923,4 @@ Depression is one of the most common experiences of personal distress in the wes
 
 This module debunks widely held beliefs about depression being caused by a chemical imbalance and opens up an exploration of how our life experiences and social world can cause us to feel hopeless, helpless and as if life has lost its meaning. 
 
-You will learn about evidence based approaches that help alleviate depression and reflect on the prevalence of depression in thee western world. 
+You will learn about evidence based approaches that help alleviate depression and reflect on the prevalence of depression in the western world. 
