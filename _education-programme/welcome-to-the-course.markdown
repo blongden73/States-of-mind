@@ -40,11 +40,11 @@ Slides:
   Slide Colour: 
 ---
 
-**We wanted to make our work accessible to young people who may not have access to our in-person courses and who are interested in self-development and mental health.**
+**We wanted to make our work accessible for young people who may not have access to our in-person courses and who are interested in self-development and mental health.**
 
-This programme has been designed to lead you through a process of self exploration, a journey in which your connection to your identity, body, feelings and mind will be investigated in a compassionate and empathetic way. You will have access to a personal handbook that is intended to cultivate and enhance your self awareness. It will guide you through an inner journey that will, like all journeys, entail roadblocks, crossroads, moments of confusion, clarity and inspiration.
+The course has been designed to lead you through a process of self exploration, a journey in which your connection to your identity, body, feelings and mind will be investigated in a compassionate and empathetic way. You will have access to a personal handbook that is intended to cultivate and enhance your self awareness. It will guide you through an inner journey that will, like all journeys, entail roadblocks, crossroads, moments of confusion, clarity and inspiration.
 
-The purpose of this programme is not only to achieve new states of wellbeing, but to explore your relationship with discomfort, uncertainty and resistance to change.  By working with discomfort, you will learn important personal patterns, mindsets and attitudes you have and relate to yourself with more openness and understanding. 
+The purpose of this course is not only to achieve new states of wellbeing, but to explore your relationship with discomfort, uncertainty and resistance to change.  By working with discomfort, you will learn important personal patterns, mindsets and attitudes you have and relate to yourself with more openness and understanding.
 
 Please make sure to fill out the following survey before you start the course! Make sure to press 'Done' at the end to submit your answers.
 
