@@ -810,7 +810,7 @@ Slides:
   Video Url: 
   Credit: 
   Links:
-  - Link Url: 
+  - Link Url: www.statesofmind.org/handbook/relationship-with-groups
   Quote: 
   Quote Credit: 
   Slide Colour: 
