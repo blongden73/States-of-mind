@@ -39,17 +39,15 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: six
-  Title: 'Authenticity and Connection '
+  Title: 'Authenticity and Acceptance '
   Image: 
-  Description: |2-
-
-    **Authenticity**
-
-    One of your core needs is the ability to feel like you can bring your full self to your relationships.
-
-    **Connection**
-
-    We all have a need to feel like we are seen, understood and valued in our relationships.
+  Description: "**Authenticity**\n\nThis means being aware of your own feelings, as
+    far as possible, without presenting an outward facade of one attitude, while actually
+    holding another attitude at a deeper or unconscious level. \n\n**Acceptance**\n\nThis
+    is the sense that we are seen as a person of unconditional self worth and of value,
+    no matter what our condition, behaviour or feelings may be.  \n\nIt is only when
+    others experience us as we experience ourselves that we can feel free to explore
+    all of the different aspects of our inner and often buried experience. "
   Graphic Image: 
   Audio url: 
   Video Url: 
