@@ -29,7 +29,3 @@ What experiences have you had that meant a lot to you and what do you want to sa
 
 What would you like your past self to know, based on what you have learned from the last 3 years?  
 
-Question: 
-
-(Add form here) 
-
