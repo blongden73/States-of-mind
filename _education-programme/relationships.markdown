@@ -504,6 +504,20 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: ten
+  Title: Discussion
+  Image: 
+  Description: When you experienced an I-It relationship, how did you notice yourself
+    acting with the other person?
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: sixteen
   Title: Splitting
   Image: "/uploads/DTS_Identity_Alex_Tan_3666.jpg"
@@ -533,20 +547,6 @@ Slides:
     ‘mindreading’. \n\nMind Reading occurs when you project your own assumptions and
     feelings onto another person and it is often accompanied by a feeling of separateness
     and passivity."
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: ten
-  Title: Discussion
-  Image: 
-  Description: When you experienced an I-It relationship, how did you notice yourself
-    acting with the other person?
   Graphic Image: 
   Audio url: 
   Video Url: 
