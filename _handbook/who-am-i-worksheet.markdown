@@ -9,7 +9,8 @@ Form: "\nStep 1.\n\nFind a place where you can relax and be undisturbed while yo
   Take time to pause and consider the question and connect with as many associations
   as you can.\n\nWhen you feel you have completed the list, label each answer from
   a scale of 1-10 based on how you connected you feel with this part of your identity
-  or personality, with 10 being the strongest connection and 1 being the least strong.\n\nMake
+  or personality, with 10 being the strongest connection and 1 being the least strong.
+  Chose 1 part of your identity to work with for the following exercise: \n\nMake
   some notes to the following questions:\n<form id=\"test-form\">\n  <div>\n    <label>When
   can you remember first associating with this part of your identity?</label>\n    <textarea
   type=\"text\" name=\"who_am_i_a\" placeholder=\"Type your answer here\"/></textarea>\n
