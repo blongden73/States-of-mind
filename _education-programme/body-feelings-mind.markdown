@@ -233,7 +233,7 @@ Slides:
   Video Url: 
   Credit: 
   Links:
-  - Link Url: 'www.statesofmind.org/handbook/an-introduction-to-breathing-techniques '
+  - Link Url: https://www.statesofmind.org/handbook/an-introduction-to-breathing-techniques
   Quote: 
   Quote Credit: 
   Slide Colour: 
@@ -445,7 +445,7 @@ Slides:
   Video Url: 
   Credit: 
   Links:
-  - Link Url: 'www.statesofmind.org/handbook/observing-the-mind '
+  - Link Url: https://www.statesofmind.org/handbook/observing-the-mind
   Quote: 
   Quote Credit: 
   Slide Colour: 
@@ -552,67 +552,7 @@ Slides:
   Video Url: 
   Credit: 
   Links:
-  - Link Url: 'www.statesofmind.org/handbook/working-with-mindsets.html '
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: one
-  Title: 'The creative mind and problem solving '
-  Image: "/uploads/imagination.jpg"
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: sixteen
-  Title: 'The creative mind and problem solving '
-  Image: 
-  Description: "You can use our mind to come up with ideas and to create insights
-    that can help you to make decisions more easily. How do you enable this part of
-    the mind to work? \n\nOften, this is the part of the mind that you are not encouraged
-    to use as much, so it can take a bit of practice to remind yourself of what it
-    feels like to use this part of the mind.\n\nThis part of the mind is much softer
-    and it enjoys working in ways that are more imaginative, like storytelling. \n "
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: sixteen
-  Title: 'Imagination '
-  Image: "/uploads/imagine.jpg"
-  Description: |-
-    Whenever somebody comes up with an idea, they have an image of the idea that comes along with the thought of it. This is the visual part of the mind that helps you to imagine future possibilities. When you close our eyes and allow yourself to imagine something, it helps you to visualise all of the outcomes of that reality happening. 
-
-    When you get stuck with a decision, it’s because you feel like you don’t know what the outcome will be, so by visualising the different situations, problems or people you are having the problem with, you can also visualise other aspects that you can’t access when we are stuck in the thinking, judging mind that likes to get stuck on one belief or potential situation. 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: two
-  Title: Use your imagination to problem solve
-  Image: 
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: www.statesofmind.org/handbook/imagination-and-problem-solving
+  - Link Url: https://www.statesofmind.org/handbook/working-with-mindsets.html
   Quote: 
   Quote Credit: 
   Slide Colour: 
@@ -656,7 +596,7 @@ Slides:
   Video Url: 
   Credit: 
   Links:
-  - Link Url: 'www.statesofmind.org/handbook/free-drawing '
+  - Link Url: https://www.statesofmind.org/handbook/free-drawing
   Quote: 
   Quote Credit: 
   Slide Colour: 
@@ -718,6 +658,6 @@ layout: presentation
 
 Our mental health isn’t just about our minds. It is a complex and fascinating interplay between our physical, emotional and psychological states.
 
- In this module you will learn about the mind-body connection and explore your relationship to the different states of self-awareness that are available to you.
+In this module you will learn about the mind-body connection and explore your relationship to the different states of self-awareness that are available to you.
 
 By developing your understanding of the inter-relatedness of your body, feelings and mind, you will learn about mental health through a holistic lens and learn techniques that can enhance your wellbeing in your everyday life.
