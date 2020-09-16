@@ -96,6 +96,20 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: 
+  Title: 
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+Cover Image: "/uploads/1080x1080%20copy%2052.jpg"
 layout: presentation
 ---
 
