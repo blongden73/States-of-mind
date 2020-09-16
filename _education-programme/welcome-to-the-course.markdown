@@ -32,6 +32,24 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: sixteen
+  Title: What do other young people say about our work?
+  Image: "/uploads/01.jpg"
+  Description: "Young people who have taken part in our programme tell us that it
+    has improved their confidence and self-expression, improved their ability to relate
+    empathetically to themselves and others and that they have a more advanced understanding
+    of the landscape of mental health. \n\nThey have improved communication, critical
+    thinking and interpersonal skills and feel more able to relate to themselves in
+    more healthy ways. \n"
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: four
   Title: 
   Image: 
@@ -170,24 +188,6 @@ Slides:
   Image: "/uploads/I%20Pink%20Copy.jpg"
   Description: 'Let us know what you think at the end of each module, we will design
     all out future courses based on your feedback. '
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: sixteen
-  Title: What do other young people say about our work?
-  Image: "/uploads/01.jpg"
-  Description: "Young people who have taken part in our programme tell us that it
-    has improved their confidence and self-expression, improved their ability to relate
-    empathetically to themselves and others and that they have a more advanced understanding
-    of the landscape of mental health. \n\nThey have improved communication, critical
-    thinking and interpersonal skills and feel more able to relate to themselves in
-    more healthy ways. \n"
   Graphic Image: 
   Audio url: 
   Video Url: 
