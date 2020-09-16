@@ -492,7 +492,7 @@ Slides:
 
     Your personality refers to the different ways you express yourself in the world and the many different ways you relate with other people.
 
-    Throughout your life, you change and adapt parts of yourself to maintain your relationships with others and to fit in to who you think other people want you to be. Everyone experiences this conflict between wanting to be true to themselves and wanting to fit in with the world around them.
+    Throughout your life, you may change and adapt parts of yourself to maintain your relationships with others and to fit in to who you think other people want you to be. Everyone experiences this conflict between wanting to be true to themselves and wanting to fit in with the world around them.
 
     This next part of the module will explore this process and how you develop the different ‘masks’ or sub-personalities that you show to the world.
   Graphic Image: 
