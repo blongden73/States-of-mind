@@ -504,7 +504,7 @@ Slides:
   Video Url: 
   Credit: 
   Links:
-  - Link Url: https://www.statesofmind.org/handbook/social-anxiety
+  - Link Url: "/handbook/social-anxiety"
   Quote: 
   Quote Credit: 
   Slide Colour: 
