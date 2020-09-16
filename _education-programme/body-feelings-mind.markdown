@@ -600,42 +600,6 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: list
-  Title: Letter writing and emotional expression
-  Image: 
-  Description: "People often rely on relationships with other people to help regulate
-    their emotions but in the absence of these supportive environments it is important
-    to find healthy ways to cope with difficult emotions on our own.\n\nLetter writing,
-    or journaling has been found to be a really effective way to identify and process
-    your emotional world. \n\nThis letter writing exercise is focused on expressing
-    your emotions towards other people but you can also journal about your own thoughts
-    and feelings to help you make sense of them. \n\nThe process works in a similar
-    way to communicating with words, as you are externalising your distress which
-    allows you to view it in a new way."
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-- Template: two
-  Title: Write yourself a letter
-  Image: 
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: www.statesofmind.org/handbook/compassionate-letter-writing
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-  Quiz:
-  - 'www.statesofmind.org/quiz/emotional-regulation.html '
 - Template: two
   Title: End of module reflection
   Image: 
