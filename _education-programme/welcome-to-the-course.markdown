@@ -36,9 +36,10 @@ Slides:
   Title: What do young people say about our course?
   Image: "/uploads/01.jpg"
   Description: "Young people who have taken part in our programme tell us that it
-    has improved their confidence and self-expression, improved their ability to relate
-    empathetically to themselves and others and that they have a more advanced understanding
-    of the landscape of mental health.  \n"
+    has improved their confidence and ability to express their true self. They also
+    tell us it has improved their ability to relate empathetically to themselves and
+    others and that they have a more advanced understanding of the landscape of mental
+    health.  \n"
   Graphic Image: 
   Audio url: 
   Video Url: 
