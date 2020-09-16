@@ -103,7 +103,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: four
-  Title: Get in touch at any point!
+  Title: Get in touch!
   Image: 
   Description: "We want you to feel supported every step of the way. To get in touch
     at any point, you can email Bea, who designed the course, at: \n\nbea@statesofmind.org
