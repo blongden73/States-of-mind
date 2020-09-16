@@ -445,7 +445,7 @@ Slides:
   Video Url: 
   Credit: 
   Links:
-  - Link Url: https://www.statesofmind.org/handbook/observing-the-mind
+  - Link Url: www.statesofmind.org/handbook/observing-the-mind
   Quote: 
   Quote Credit: 
   Slide Colour: 
