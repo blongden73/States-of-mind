@@ -592,9 +592,9 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: four
+- Template: sixteen
   Title: 'Threat System '
-  Image: 
+  Image: "/uploads/threat.jpg"
   Description: "Our Threat system is the system that we have been exploring in this
     module. It is responsible for alerting us to danger or potential threats and causes
     us to react in a defensive way when we feel we cannot cope with a situation. \n\nThis
@@ -612,8 +612,8 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Title: 'Drive System '
-  Template: four
-  Image: 
+  Template: sixteen
+  Image: "/uploads/drive.jpg"
   Description: "Our Drive system enables us to feel motivation and a sense of purpose.
     It ‘drives’ us to achieve our goals, to focus on what we want and stimulates us
     to seek out pleasurable and rewarding experiences.  \n\nWhen this area is overstimulated,
@@ -636,9 +636,9 @@ Slides:
   - 
   - 
   - 
-- Template: four
+- Template: sixteen
   Title: Soothing System
-  Image: 
+  Image: "/uploads/soothe.jpg"
   Description: "Our soothing system allows our body to return to its optimal state
     of relaxation and comfort. When this state is activated we are able to think clearly
     and creatively, we feel safe and secure and we are able to experience a sense
