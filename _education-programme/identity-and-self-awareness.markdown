@@ -858,8 +858,8 @@ Cover Colour: "#fefefe"
 layout: presentation
 ---
 
-This introductory module explores how we develop and experience our sense of who we are. You will explore different dimensions of your identity and learn how they relate to your personal history and life experiences.
+At States of Mind, we believe that by supporting young people to develop self-knowledge, compassion and curiosity towards their inner life, we can help them to live in alignment with their most authentic self.
 
-At States of Mind, we view mental health as a consequence of living in alignment with our most authentic self, expressing ourselves freely and having a clear sense of self.
+This introductory module explores how we develop and experience our sense of who we are. You will explore different dimensions of your identity and learn how they relate to your personal history and life experiences.
 
 Through guided visualisations, self reflection and group discussions you will gain a deeper understanding of how self awareness can enhance your understanding of who you are.
