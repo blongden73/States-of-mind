@@ -38,8 +38,10 @@ Slides:
   Description: "The course has been designed to lead you through a process of self
     exploration, a journey in which your connection to your identity, body, feelings
     and mind will be explored in a compassionate and empathetic way. \n\nYou will
-    have access to a personal handbook that is intended to cultivate and enhance your
-    self awareness. \n"
+    have access to a personal digital handbook that is intended to cultivate and enhance
+    your self awareness. \n\nAnd don't worry, everything you write in your handbook
+    will be anonymous! We want you to think of it as a personal diary or self discovery
+    journal. \n"
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -53,8 +55,9 @@ Slides:
   Title: 
   Image: 
   Description: "**To save your work in your handbook, please create a username that
-    does not contain your name, and submit this username after you complete each activity.
-    This will save your work.** "
+    does not contain your name (so all your work is anonymous), and submit this username
+    after you complete each activity. This will save your work so you can come back
+    to it at any time.** "
   Graphic Image: 
   Audio url: 
   Video Url: 
