@@ -4,9 +4,25 @@ date: 2020-09-14 10:19:00 Z
 permalink: "/education-programme/welcome-to-the-course.html"
 Slides:
 - Template: one
-  Title: 'Welcome, from all of us at States of Mind. '
+  Title: 'Let us introduce ourselves '
   Image: "/uploads/1080x1080%20copy%2054-6ee1cd.jpg"
   Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: four
+  Title: 
+  Image: 
+  Description: "We are a mental health organisation who are on a mission to help young
+    people think differently about mental health. \n\nWe run education programmes
+    in schools. We wanted to make our work accessible to young people, so they can
+    learn, grow and understand themselves in new ways. "
   Graphic Image: 
   Audio url: 
   Video Url: 
