@@ -38,6 +38,7 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+layout: presentation
 ---
 
 The course has been designed to lead you through a process of self exploration, a journey in which your connection to your identity, body, feelings and mind will be explored in a compassionate and empathetic way. You will have access to a personal handbook that is intended to cultivate and enhance your self awareness. **To save your work in your handbook, please create a username that does not contain your name, so that all of your work remains anonymous.** 
