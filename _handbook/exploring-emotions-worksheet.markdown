@@ -20,10 +20,6 @@ Form: |-
       <label>What situations might cause this emotion?</label>
       <textarea type="text" name="emotions_worksheet_c" placeholder="Type your answer here"/></textarea>
     </div>
-   <div>
-      <label>How easy is it to communicate this emotion to others?</label>
-      <textarea type="text" name="emotions_worksheet_e" placeholder="Type your answer here"/></textarea>
-    </div>
   <div>
       <label>How easy is it to communicate this emotion to others?</label>
       <textarea type="text" name="emotions_worksheet_f" placeholder="Type your answer here"/></textarea>
