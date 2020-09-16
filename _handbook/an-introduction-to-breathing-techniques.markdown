@@ -25,25 +25,25 @@ Form: |-
     </div>
   </form>
 
-  Instructions for a breathing practice:
+  <p>Instructions for a breathing practice:</p>
 
-  Sit quietly, in a position that allows you to pay attention to the task. Eliminate distractions and anything that may steal away your attention, so that you can focus on your breath.
+  <p>Sit quietly, in a position that allows you to pay attention to the task. Eliminate distractions and anything that may steal away your attention, so that you can focus on your breath.</p>
 
-  Follow the breath as it travels down your nose, through your body down into your belly. Stay with the breath as it moves all the way down, deep into your belly and fills it with space. Experience the space that it creates and notice the obstacles that come in the way as your breath travels down through your body. Are there pains? Is there any discomfort? Are there feelings that arise that catch your mind as you follow the breath?
+  <p>Follow the breath as it travels down your nose, through your body down into your belly. Stay with the breath as it moves all the way down, deep into your belly and fills it with space. Experience the space that it creates and notice the obstacles that come in the way as your breath travels down through your body. Are there pains? Is there any discomfort? Are there feelings that arise that catch your mind as you follow the breath?.</p>
 
-  Just notice. Become aware as your breath brings awareness to the parts of you that need attention. Your breath will help to guide your inner awareness to those parts of you that need compassion and need to be soothed.
+  <p>Just notice. Become aware as your breath brings awareness to the parts of you that need attention. Your breath will help to guide your inner awareness to those parts of you that need compassion and need to be soothed.</p>
 
-  Gently breathe, without changing who you are.
+  <p>Gently breathe, without changing who you are.</p>
 
-  Allow your breath to connect you with that part of you that is the observer of your experience, not the mind, but the conscious observer of who you are in the moment.
+  <p>Allow your breath to connect you with that part of you that is the observer of your experience, not the mind, but the conscious observer of who you are in the moment.</p>
 
-  Allow your breath to travel up to your mind, filling it with space and light and allowing the nature of the mind to calm itself and release the need to control.
+  <p>Allow your breath to travel up to your mind, filling it with space and light and allowing the nature of the mind to calm itself and release the need to control..</p>
 
-  Release the tension with each outbreath you take, letting your body naturally let go of any tensions or feelings that it is holding. Sink into the experience of being just as you are. Sit with the experience of breathing space into your internal world. Gently trusting that there is nothing you need to do but keep your attention on your breathing , allowing it to fill you with space. This space is stillness and it will remind you of how peace is the ability for you to hold space within yourself.
+  <p>Release the tension with each outbreath you take, letting your body naturally let go of any tensions or feelings that it is holding. Sink into the experience of being just as you are. Sit with the experience of breathing space into your internal world. Gently trusting that there is nothing you need to do but keep your attention on your breathing , allowing it to fill you with space. This space is stillness and it will remind you of how peace is the ability for you to hold space within yourself.</p>
 
-  The way to heal is not to hold on, but to let go. Trust this is true and allow your body to become calm and soft. Allow the tensions and the things you are holding to gently fade away with the knowing that you are perfect just as you are, there is no need to change, just to let go of anything you have been holding.
+  <p>The way to heal is not to hold on, but to let go. Trust this is true and allow your body to become calm and soft. Allow the tensions and the things you are holding to gently fade away with the knowing that you are perfect just as you are, there is no need to change, just to let go of anything you have been holding.</p>
 
-  Enjoy the nourishing feeling of the breath. You do not need to control it, just allow it to flow to all those parts of you that need more space. Allow it to flow and allow yourself to be. Gently return yourself to the space you inhabit and bring that gentle pace back to how you live your day. The breath is always available, always free to help you return to a space of still and calm within yourself.
+  <p>Enjoy the nourishing feeling of the breath. You do not need to control it, just allow it to flow to all those parts of you that need more space. Allow it to flow and allow yourself to be. Gently return yourself to the space you inhabit and bring that gentle pace back to how you live your day. The breath is always available, always free to help you return to a space of still and calm within yourself.</p>
 layout: handbook
 ---
 
