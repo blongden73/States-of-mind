@@ -42,8 +42,6 @@ What are the outcomes you want from the situation?
 
 
 
-If you struggle with the visualisation exercise because you are feeling that your emotions are very strong.  
-
-You can solve the problem by thinking about the best outcome and asking yourself what you would need to do to help you get there.
+If you struggle with the visualisation exercise because you are feeling that your emotions are very strong, you can solve the problem by thinking about the best outcome and asking yourself what you would need to do to help you get there.
 
 Think of as many possibilities as you can and chose the possibility that feels most right for you.
