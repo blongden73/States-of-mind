@@ -7,28 +7,25 @@ Form: |-
   Qualities of a good listener and a bad listener.
 
   In pairs, think of a time when somebody listened really well to what you were sharing with them and another time when somebody listened very badly to what you were sharing with them. Without disclosing who they are, discuss these qualities make some notes about what you felt made them a good listener or bad listener.
+  <p>Good listener</p>
     <div>
       <label></label>
       <textarea type="text" name="active_listening_a" placeholder="Type your answer here"/></textarea>
     </div>
-    Good listener
+  <p>Bad Listener</p>
     <div>
       <label></label>
       <textarea type="text" name="active_listening_b" placeholder="Type your answer here"/></textarea>
     </div>
-    Bad Listener
+  <p>After you have completed the list, discuss and make a note of the impact that these two different types of listening have on your experience with that person.</p>
 
-  The impact of good and bad listening
+  <p>Useful prompts:</p>
 
-  After you have completed the list, discuss and make a note of the impact that these two different types of listening have on your experience with that person.
+  <p>How do you feel when somebody listens to you in this way?</p>
 
-  Useful prompts:
+  <p>How does this type of listening affect your relationship with the other person?</p>
 
-  How do you feel when somebody listens to you in this way?
-
-  How does this type of listening affect your relationship with the other person?
-
-  How does this type of listening affect how you feel about sharing your difficulties?
+  <p>How does this type of listening affect how you feel about sharing your difficulties?</p>
     <div>
       <label></label>
       <textarea type="text" name="active_listening_c" placeholder="Type your answer here"/></textarea>
