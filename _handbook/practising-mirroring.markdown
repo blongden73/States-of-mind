@@ -2,18 +2,8 @@
 title: Practising Mirroring
 date: 2020-08-31 18:48:00 Z
 position: 16
-Form: |
-  The key to mirroring is reflecting back what you see, feel and notice in the other person.
-  Read the instructions before beginning the activity.
-  In pairs, choose who will be the speaker and who will be ‘the mirror’. When you are ready, set a timer for 2 minutes. You can do the activity with more time after practising it once.
-  Ask the person to tell a story for 2 minutes about something that they enjoy doing.
-  As you listen to the story, notice how the person tells the story, through their words, emotional expressions and body language.
-  When the person has finished their story, thank them and begin to reflect back:
-  What you heard them say.
-  What you noticed emotionally in yourself when you heard the story
-  What you noticed in their body language
-  What you noticed in their emotional expression as they told their story
-  Allow the speaker to take a few minutes to make some notes with the following prompts:
+Form: |2
+
 
   <form id="test-form">
     <div>
@@ -55,3 +45,22 @@ Form: |
 layout: handbook
 ---
 
+The key to mirroring is reflecting back what you see, feel and notice in the other person.
+
+Read the instructions before beginning the activity:
+
+In pairs, choose who will be the speaker and who will be ‘the mirror’. 
+
+When you are ready, set a timer for 2 minutes. You can do the activity for longer after practising it once.
+
+Ask the person to tell a story for 2 minutes about something that they enjoy doing.
+
+As you listen to the story, notice how the person tells the story, through their words, emotional expressions and body language.
+When the person has finished their story, thank them and begin to reflect back:
+
+What you heard them say.
+What you noticed emotionally in yourself when you heard the story
+What you noticed in their body language
+What you noticed in their emotional expression as they told their story
+
+Allow the speaker to take a few minutes to make some notes with the following prompts:
