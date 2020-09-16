@@ -697,7 +697,7 @@ Slides:
   Video Url: 
   Credit: 
   Links:
-  - Link Url: 'www.statesofmind.org/handbook/exploring-limiting-and-supportive-beliefs '
+  - Link Url: www.statesofmind.org/handbook/exploring-limiting-and-supportive-beliefs
   Quote: 
   Quote Credit: 
   Slide Colour: 
