@@ -1,6 +1,7 @@
 ---
 title: Welcome to the Course!
 date: 2020-09-14 10:19:00 Z
+permalink: "/education-programme/welcome-to-the-course.html"
 Slides:
 - Template: one
   Title: 'Welcome, from the team at States of Mind '
