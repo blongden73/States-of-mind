@@ -312,7 +312,7 @@ Slides:
   Video Url: 
   Credit: 
   Links:
-  - Link Url: 'www.statesofmind.org/handbook/exploring-your-name '
+  - Link Url: "/handbook/exploring-your-name "
   Quote: 
   Quote Credit: 
   Slide Colour: 
