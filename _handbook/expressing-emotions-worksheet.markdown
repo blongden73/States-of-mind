@@ -5,19 +5,19 @@ position: 26
 Form: |-
   <form id="test-form">
     <div>
-      <label>Which emotions do I feel comfortable expressing?</label>
+      <label>Which emotions do you feel comfortable expressing?</label>
       <textarea type="text" name="expressing_emotions_a" placeholder="Type your answer here"/></textarea>
     </div>
     <div>
-      <label>Which emotions do I struggle to express?</label>
+      <label>Which emotions do you struggle to express?</label>
       <textarea type="text" name="expressing_emotions_b" placeholder="Type your answer here"/></textarea>
     </div>
     <div>
-      <label>How does this affect me?</label>
+      <label>How does this affect you?</label>
       <textarea type="text" name="expressing_emotions_c" placeholder="Type your answer here"/></textarea>
     </div>
   <div>
-      <label>How does this affect my relationships?</label>
+      <label>How does this affect your relationships?</label>
       <textarea type="text" name="expressing_emotions_d" placeholder="Type your answer here"/></textarea>
     </div>
   <div>
