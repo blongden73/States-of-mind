@@ -40,7 +40,7 @@ Slides:
   Slide Colour: 
 ---
 
-The course has been designed to lead you through a process of self exploration, a journey in which your connection to your identity, body, feelings and mind will be explored in a compassionate and empathetic way. You will have access to a personal handbook that is intended to cultivate and enhance your self awareness. It will guide you through an inner journey that will, like all journeys, entail roadblocks, crossroads, moments of confusion, clarity and inspiration.
+The course has been designed to lead you through a process of self exploration, a journey in which your connection to your identity, body, feelings and mind will be explored in a compassionate and empathetic way. You will have access to a personal handbook that is intended to cultivate and enhance your self awareness. **To save your work in your handbook, please create a username that does not contain your name, so that all of your work remains anonymous.** 
 
 The purpose of this course is not only to achieve new states of wellbeing, but to explore your relationship with discomfort, uncertainty and resistance to change.  By working with discomfort, you will learn important personal patterns, mindsets and attitudes you have and relate to yourself with more openness and understanding.
 
