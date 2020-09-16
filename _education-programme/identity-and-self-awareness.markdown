@@ -838,7 +838,7 @@ Cover Colour: "#fefefe"
 layout: presentation
 ---
 
-At States of Mind, we believe in supporting young people to develop self-knowledge, so they can live in alignment with their most authentic self. Mental health really is a journey, not a destination and we believe the best place to start is to explore the journey of your life so far. 
+At States of Mind, we believe in supporting young people to develop self-knowledge, so they can live in alignment with their most authentic self. Mental health really is a journey not a destination and we believe the best place to start is to explore the journey of your life so far. 
 
 This introductory module explores how we develop and experience our sense of who we are. You will explore different dimensions of your identity and learn how they relate to your personal history and life experiences.
 
