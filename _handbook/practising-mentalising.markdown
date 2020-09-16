@@ -2,8 +2,8 @@
 title: Practising Mentalising
 date: 2020-08-31 18:37:00 Z
 position: 34
-Form: |
-  Think of a scenario that currently exists in your life, where a friend, family member or somebody else that you know is acting in a way that is causing you frustration or a sense of disconnection. Think about how has it made you feel and what assumptions you have automatically made about why they are acting this way. This will help you mentalise yourself and bring awareness to the nature of your own feelings and reactions.
+Form: |2
+
   <form id="test-form">
     <div>
       <label>What assumptions have you made about the person in this scenario?</label>
@@ -66,3 +66,4 @@ Form: |
 layout: handbook
 ---
 
+Think of a scenario that currently exists in your life, where a friend, family member or somebody else that you know is acting in a way that is causing you frustration or a sense of disconnection. Think about how has it made you feel and what assumptions you have automatically made about why they are acting this way. This will help you mentalise yourself and bring awareness to the nature of your own feelings and reactions.
