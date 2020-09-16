@@ -748,26 +748,6 @@ Slides:
     our level of self-acceptance.”"
   Quote Credit: Brene Brown
   Slide Colour: 
-- Template: list
-  Title: 
-  Image: 
-  Description: |-
-    You live in a social world and many aspects of how you know yourself is shaped by the social relationships and situations you encounter throughout your life.
-
-    As it is impossible for your close relationships to be fully present all the time and for you to be completely present to others, you may sometimes fit your environments by adapting your personality to defend yourself and meet your needs for connection.
-
-    An example of this is noticing when somebody seems to have a different personality depending on what group they are in, or when you notice you behave differently depending on who you are with.
-
-    This is a completely normal process but understanding the process behind it can help you develop an awareness of how parts of your identity are shaped by your desire to fit in and be accepted in contrast to expressing your authentic feelings and experince when you are with others.
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
 - Template: four
   Title: 'Exploring our relationship with groups '
   Image: "/uploads/groups%203.jpg"
