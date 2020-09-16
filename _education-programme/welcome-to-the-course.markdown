@@ -33,7 +33,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
-  Title: What do other young people say about our work?
+  Title: What do young people say about our course?
   Image: "/uploads/01.jpg"
   Description: "Young people who have taken part in our programme tell us that it
     has improved their confidence and self-expression, improved their ability to relate
