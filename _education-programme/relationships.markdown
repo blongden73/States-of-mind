@@ -41,6 +41,21 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: nineteen
+  Title: 
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: <iframe width="560" height="315" src="https://www.youtube.com/embed/l3bynimi8HQ"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+    gyroscope; picture-in-picture" allowfullscreen></iframe>
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: sixteen
   Title: 'Attunement in Relationships '
   Image: "/uploads/attunement.jpg"
