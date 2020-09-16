@@ -4,7 +4,7 @@ date: 2020-09-14 10:19:00 Z
 permalink: "/education-programme/welcome-to-the-course.html"
 Slides:
 - Template: one
-  Title: 'Let us introduce ourselves '
+  Title: 'Let us introduce ourselves.. '
   Image: "/uploads/1080x1080%20copy%2054-6ee1cd.jpg"
   Description: 
   Graphic Image: 
@@ -21,8 +21,35 @@ Slides:
   Image: 
   Description: "We are a mental health organisation who are on a mission to help young
     people think differently about mental health. \n\nWe run education programmes
-    in schools. We wanted to make our work accessible to young people, so they can
-    learn, grow and understand themselves in new ways. "
+    in schools and wanted to make our work accessible to more young people, so they
+    can learn, grow and understand themselves in new ways. "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: four
+  Title: 
+  Image: 
+  Description: "You can find out more about our work by checking out our website \n\nwww.statesofmind.org
+    \n\nOr... find us on Instagram too. \n\n@statesofmindorg_ "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: 'So... about the course... '
+  Image: "/uploads/1080x1080%20copy%2023-975ac1.jpg"
+  Description: 
   Graphic Image: 
   Audio url: 
   Video Url: 
