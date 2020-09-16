@@ -49,15 +49,14 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
-  Title: 
+  Title: Resistance and Procrastination
   Image: 
-  Description: "\nResistance and Procrastination\n\nFeelings of resistance and the
-    desire to procrastinate are inevitable feelings that will emerge as part of this
-    work. If you encounter these feelings, it is important that you begin to develop
-    your ability to bring awareness, curiosity and an attitude of openness to them.
-    They are an important aspect of the work and if you encourage the exploration
-    of these states, your work will deepen and your development will be enhanced.
-    \n\n"
+  Description: "\nFeelings of resistance and the desire to procrastinate are inevitable
+    feelings that will emerge as part of this work. \n\nIf you encounter these feelings,
+    it is important that you begin to develop your ability to bring awareness, curiosity
+    and an attitude of openness to them. \n\nThey are an important aspect of the work
+    and if you encourage the exploration of these states, your work will deepen and
+    your development will be enhanced. \n\n"
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -69,12 +68,25 @@ Slides:
   Slide Colour: 
 - Template: sixteen
   Title: 
-  Image: 
+  Image: "/uploads/1080x1080%20copy%2014-5d061a.jpg"
   Description: The purpose of this programme is not only to achieve new states of
     wellbeing, but to develop your relationship with discomfort, uncertainty and resistance
     to change.  By working with discomfort, you will learn important personal patterns,
     mindsets and attitudes you have and relate to yourself with more openness and
     understanding.
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: 
+  Title: 
+  Image: 
+  Description: 
   Graphic Image: 
   Audio url: 
   Video Url: 
