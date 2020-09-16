@@ -2,6 +2,37 @@
 title: Welcome to the Course!
 date: 2020-09-14 10:19:00 Z
 Slides:
+- Template: one
+  Title: 'Welcome, from the team at States of Mind '
+  Image: "/uploads/1080x1080%20copy%2054.jpg"
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: four
+  Title: 
+  Image: 
+  Description: "The course has been designed to lead you through a process of self
+    exploration, a journey in which your connection to your identity, body, feelings
+    and mind will be explored in a compassionate and empathetic way. You will have
+    access to a personal handbook that is intended to cultivate and enhance your self
+    awareness. **To save your work in your handbook, please create a username that
+    does not contain your name, so that all of your work remains anonymous.** \n"
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 - Template: sixteen
   Title: 
   Image: 
@@ -41,9 +72,6 @@ Slides:
 layout: presentation
 ---
 
-The course has been designed to lead you through a process of self exploration, a journey in which your connection to your identity, body, feelings and mind will be explored in a compassionate and empathetic way. You will have access to a personal handbook that is intended to cultivate and enhance your self awareness. **To save your work in your handbook, please create a username that does not contain your name, so that all of your work remains anonymous.** 
-
-The purpose of this course is not only to achieve new states of wellbeing, but to explore your relationship with discomfort, uncertainty and resistance to change.  By working with discomfort, you will learn important personal patterns, mindsets and attitudes you have and relate to yourself with more openness and understanding.
 
 **Make sure to fill out the following survey before you start the course and press 'Done' at the end to submit your answers.**
 
