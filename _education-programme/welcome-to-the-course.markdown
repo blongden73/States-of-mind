@@ -38,9 +38,7 @@ Slides:
   Description: "Young people who have taken part in our programme tell us that it
     has improved their confidence and self-expression, improved their ability to relate
     empathetically to themselves and others and that they have a more advanced understanding
-    of the landscape of mental health. \n\nThey have improved communication, critical
-    thinking and interpersonal skills and feel more able to relate to themselves in
-    more healthy ways. \n"
+    of the landscape of mental health.  \n"
   Graphic Image: 
   Audio url: 
   Video Url: 
