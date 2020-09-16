@@ -4,9 +4,26 @@ date: 2020-09-14 10:19:00 Z
 permalink: "/education-programme/welcome-to-the-course.html"
 Slides:
 - Template: one
-  Title: 'Welcome, from the team at States of Mind '
-  Image: "/uploads/1080x1080%20copy%2054.jpg"
+  Title: 'Welcome, from all of us at States of Mind. '
+  Image: "/uploads/1080x1080%20copy%2054-6ee1cd.jpg"
   Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: 
+  Image: "/uploads/handbook.jpg"
+  Description: "The course has been designed to lead you through a process of self
+    exploration, a journey in which your connection to your identity, body, feelings
+    and mind will be explored in a compassionate and empathetic way. \n\nYou will
+    have access to a personal handbook that is intended to cultivate and enhance your
+    self awareness. \n"
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -19,12 +36,9 @@ Slides:
 - Template: four
   Title: 
   Image: 
-  Description: "The course has been designed to lead you through a process of self
-    exploration, a journey in which your connection to your identity, body, feelings
-    and mind will be explored in a compassionate and empathetic way. You will have
-    access to a personal handbook that is intended to cultivate and enhance your self
-    awareness. **To save your work in your handbook, please create a username that
-    does not contain your name, so that all of your work remains anonymous.** \n"
+  Description: "**To save your work in your handbook, please create a username that
+    does not contain your name, and submit this username after you complete each activity.
+    This will save your work.** "
   Graphic Image: 
   Audio url: 
   Video Url: 
