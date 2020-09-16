@@ -24,19 +24,6 @@ Form: |-
       <button type="submit"id="submit-form">Submit</button>
     </div>
   </form>
-  An introduction to breathing techniques
-
-  As you breathe, bring awareness to the feelings and sensations that it brings to your body. The sensations may be uncomfortable and you may feel resistance.
-
-  Simply allow yourself to breathe and follow the pathways your breath wants to flow.
-
-  Does it feel restricted or is there space?
-
-  The way to breathe is to allow as much space to form within you as possible, for the more space within you, the more stillness and peace you will feel.
-
-  It is like a room in your house. How do you feel when you remove the clutter and those things that take up space but do not bring you joy or pleasure?
-
-  When you remove those things, you feel a sense of clarity and you are able to use the room for the purpose you intend. Again, much of this refers to distraction and clearing space for those things that cause distraction, to be noticed, not judged or condemned, but removed so that you can experience a feeling within you, that allows you to enjoy the space and feel connected to who you are.
 
   Instructions for a breathing practice:
 
