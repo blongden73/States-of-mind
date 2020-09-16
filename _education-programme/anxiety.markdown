@@ -628,14 +628,6 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-  Quiz:
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
 - Template: sixteen
   Title: Soothing System
   Image: "/uploads/soothe.jpg"
