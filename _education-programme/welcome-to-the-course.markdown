@@ -119,14 +119,16 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: four
+- Template: sixteen
   Title: 'One more thing.... '
   Image: 
   Description: "Bea will be running online sessions to teach the course every Wednesday
-    from 3-5pm. You will be able to discuss the material, practice different exercises
-    and meet other young people your age who are on the same journey. \n\nIf you would
-    like to take part in these online sessions, please get in touch with the safeguarding
-    team at your college and they will provide you with more information. \n"
+    from 3-5pm, from the 30th September to the 28th October.\n\nYou will be able to
+    discuss the material, practice different exercises and meet other young people
+    your age who are on the same journey. \n\nIf you would like to take part in these
+    online sessions, please get in touch with the safeguarding team at your college
+    and they will provide you with more information. \n\n(You can always email us
+    too if you can't find them!) \n"
   Graphic Image: 
   Audio url: 
   Video Url: 
