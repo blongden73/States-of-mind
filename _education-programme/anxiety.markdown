@@ -565,7 +565,7 @@ Slides:
   Title: 'Emotional Regulation '
   Image: "/uploads/elsa-t-BlGFrdgpBqw-unsplash.jpg"
   Description: |-
-    Emotional regulation is a really important tool for getting unstuck a loop of fearful thoughts and feelings. By understanding how emotional regulation works you can develop your self awareness and gain more control over the different states of mind you experience. 
+    Emotional regulation is a really important tool for getting unstuck from a loop of fearful thoughts and feelings. By understanding how emotional regulation works you can develop your self awareness and gain more control over the different states of mind you experience. 
 
     Paul Gilbert described 3 main aspects of your emotional regulation system. You will always be experiencing at least one of these states and your wellbeing depends on you experiencing a healthy balance between all 3.
 
