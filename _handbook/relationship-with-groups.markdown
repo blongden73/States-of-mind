@@ -9,7 +9,7 @@ Form: |-
       <textarea type="text" name="groups_a" placeholder="Type your answer here"/></textarea>
     </div>
     <div>
-      <label>Make some notes about how you feel these different groups have influenced your values, beliefs and worldview </label>
+      <label>Make some notes about how you feel these different groups have influenced your experience in life </label>
       <textarea type="text" name="groups_b" placeholder="Type your answer here"/></textarea>
     </div>
   <div>
