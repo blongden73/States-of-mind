@@ -31,7 +31,7 @@ Form: |-
 layout: handbook
 ---
 
-\*\*Find a space where you can focus on the activity without becoming distracted. \*\*
+**Find a space where you can focus on the activity without becoming distracted.**
 
 Focus on your breathing and allow your emotions to become calm.
 
