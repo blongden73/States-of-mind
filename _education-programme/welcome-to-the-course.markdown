@@ -85,11 +85,11 @@ Slides:
 - Template: sixteen
   Title: 
   Image: "/uploads/1080x1080%20copy%2014-5d061a.jpg"
-  Description: The purpose of this programme is not only to achieve new states of
+  Description: "The purpose of this programme is not only to achieve new states of
     wellbeing, but to develop your relationship with discomfort, uncertainty and resistance
-    to change.  By working with discomfort, you will learn important personal patterns,
-    mindsets and attitudes you have and relate to yourself with more openness and
-    understanding.
+    to change.  \n\nBy working with discomfort, you will learn important personal
+    patterns, mindsets and attitudes you have and relate to yourself with more openness
+    and understanding."
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -99,10 +99,14 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: 
-  Title: 
+- Template: four
+  Title: Get in touch at any point!
   Image: 
-  Description: 
+  Description: "We want you to feel supported every step of the way. To get in touch
+    at any point, you can email Bea, who designed the course, at: \n\nbea@statesofmind.org
+    \n\nShe will answer any questions you have and if you feel you need more support
+    with your mental health she can get in touch with somebody in your college for
+    you. \n"
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -112,10 +116,28 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: 
-  Title: 
+- Template: four
+  Title: 'One more thing.... '
   Image: 
-  Description: 
+  Description: "Bea will be running online sessions to teach the course every Wednesday
+    from 3-5pm. You will be able to discuss the material, practice different exercises
+    and meet other young people your age who are on the same journey. \n\nIf you would
+    like to take part in these online sessions, please get in touch with the safeguarding
+    team at your college and they will provide you with more information. \n"
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: Enjoy the course!
+  Image: "/uploads/I%20Pink%20Copy.jpg"
+  Description: 'Let us know what you think at the end of each module, we will design
+    all out future courses based on your feedback. '
   Graphic Image: 
   Audio url: 
   Video Url: 
