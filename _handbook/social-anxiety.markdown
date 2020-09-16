@@ -5,15 +5,15 @@ position: 24
 Form: |-
   <form id="test-form">
     <div>
-      <label>How do you want others to view you?</label>
+      <label>What types of fears do you have in social situations?</label>
       <textarea type="text" name="social_anxiety_a" placeholder="Type your answer here"/></textarea>
     </div>
     <div>
-      <label>What parts of yourself do you hide from others?</label>
+      <label>What allows you to feel like you can be your true self around others?</label>
       <textarea type="text" name="social_anxiety_b" placeholder="Type your answer here"/></textarea>
     </div>
     <div>
-      <label>How do you feel if you make mistakes or ‘let your guard down’ with people you don’t know?</label>
+      <label>How do you notice yourself behaving when you are worried what other people will think of you?</label>
       <textarea type="text" name="social_anxiety_c" placeholder="Type your answer here"/></textarea>
     </div>
   <div>
