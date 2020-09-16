@@ -5,14 +5,6 @@ position: 3
 Form: |-
   <form id="test-form">
     <div>
-      <label>What parts of your life most trigger your need for control?</label>
-      <textarea type="text" name="BFM_a" placeholder="Type your answer here"/></textarea>
-    </div>
-    <div>
-      <label>What parts of life in Zone 2 do you find yourself worrying about?</label>
-      <textarea type="text" name="BFM_b" placeholder="Type your answer here"/></textarea>
-    </div>
-    <div>
       <label>How do you feel after this meditation?</label>
       <textarea type="text" name="BFM_c" placeholder="Type your answer here"/></textarea>
     </div>
