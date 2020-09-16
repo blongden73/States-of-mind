@@ -552,7 +552,7 @@ Slides:
   Video Url: 
   Credit: 
   Links:
-  - Link Url: https://www.statesofmind.org/handbook/working-with-mindsets.html
+  - Link Url: www.statesofmind.org/handbook/working-with-mindsets.html
   Quote: 
   Quote Credit: 
   Slide Colour: 
