@@ -233,7 +233,7 @@ Slides:
   Video Url: 
   Credit: 
   Links:
-  - Link Url: https://www.statesofmind.org/handbook/an-introduction-to-breathing-techniques
+  - Link Url: www.statesofmind.org/handbook/an-introduction-to-breathing-techniques
   Quote: 
   Quote Credit: 
   Slide Colour: 
