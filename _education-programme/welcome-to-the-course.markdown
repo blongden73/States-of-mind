@@ -179,6 +179,24 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: sixteen
+  Title: What do other young people say about our work?
+  Image: "/uploads/01.jpg"
+  Description: "Young people who have taken part in our programme tell us that it
+    has improved their confidence and self-expression, improved their ability to relate
+    empathetically to themselves and others and that they have a more advanced understanding
+    of the landscape of mental health. \n\nThey have improved communication, critical
+    thinking and interpersonal skills and feel more able to relate to themselves in
+    more healthy ways. \n"
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
 Cover Image: "/uploads/1080x1080%20copy%2052.jpg"
 layout: presentation
 ---
