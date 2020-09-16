@@ -47,7 +47,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: sixteen
-  Title: 'So... about the course... '
+  Title: 'So! about the course... '
   Image: "/uploads/1080x1080%20copy%2023-975ac1.jpg"
   Description: 
   Graphic Image: 
