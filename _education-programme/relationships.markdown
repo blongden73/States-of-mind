@@ -23,7 +23,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: six
-  Title: 'Authenticity and Acceptance '
+  Title: 
   Image: 
   Description: "**Authenticity**\n\nThis means being aware of your own feelings, as
     far as possible, without presenting an outward facade of one attitude, while actually
