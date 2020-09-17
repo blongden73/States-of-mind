@@ -80,4 +80,8 @@ All the focus in schools on making us get good grades stops us from actually pay
 
 The education system does not prepare young people for later life, as it does not recognise the importance of allowing young people to fail and experiment, which is the main way that human beings learn about ourselves and the world around us. A single letter ‘F’ could knock a student’s confidence to the ground and stain their records for a long time, if not forever, depending on whether it’s a final exam. Life is full of failure. It’s a normal and inevitable part of life. So why is there such a negative light shone upon it within education? So much shame and disappointment. We’re not taught how to deal with failure, how to bounce back. We’re just told we can do better or asked whether we revised enough. If the education system has made us believe that failing is such a bad thing, how will we go on to live our lives and be “good human beings” if we can’t even cope with one of life’s most common occurrences?
 
-Read more about the youth-led research project Breaking The Silence [here](https://www.statesofmind.org/journal/2020/09/16/breaking-the-silence.html). 
+**We are currently working with UCL Institute of Education to develop the students' research further. Watch this space as we share more about our findings in the coming weeks, and working with students to reimagine educational assessment. **
+
+**For now, you can read more about the project in a [blog](https://www.statesofmind.org/journal/2020/09/16/breaking-the-silence.html) by our founder, Bea, and watch a short film below.**
+
+<iframe src="https://anchor.fm/bea-herbert/embed/episodes/Breaking-The-Silence--Young-peoples-views-on-Education-and-Identity-eeb7ej" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
