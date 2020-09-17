@@ -1,5 +1,5 @@
 ---
-title: The education system is impacting our mental health, students tell Ofsted
+title: The education system is damaging our mental health, students tell Ofsted
 date: 2020-09-16 09:33:00 Z
 categories:
 - journal
@@ -14,6 +14,7 @@ Intro: 'Read an open letter by a group of London students, sharing how testing i
 Byline: By Breaking The Silence
 Image: "/uploads/MG_4973.jpg"
 Section: Projects
+Photo credit: 
 layout: post
 ---
 
