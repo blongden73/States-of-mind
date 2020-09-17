@@ -13,7 +13,7 @@ Intro: 'Young people share that testing is causing ''panic attacks, feelings of 
   stress and sadly, a loss of interest in learning''. '
 Byline: By Breaking The Silence
 Image: "/uploads/DTSxSSRIdentity9106-29e14b.jpg"
-Section: Research
+Section: Reimagining Education
 layout: post
 ---
 
