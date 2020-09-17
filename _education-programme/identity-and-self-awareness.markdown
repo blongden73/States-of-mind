@@ -38,7 +38,7 @@ Slides:
   Video Url: 
   Credit: 
   Links:
-  - Link Url: 
+  - Link Url: "/identity-&-self-awareness-discussion-1"
   Quote: 
   Quote Credit: 
   Slide Colour: 
