@@ -9,7 +9,7 @@ tags:
 Intro: 'We''re exploring how the education system is impacting young people''s mental
   health. '
 Byline: By Bea Herbert
-Image: "/uploads/MG_4973.jpg"
+Image: "/uploads/1080x1080%20copy%20group-dd0ff2.jpg"
 Section: Projects
 layout: post
 ---
