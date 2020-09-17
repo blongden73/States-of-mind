@@ -10,7 +10,7 @@ Form: |-
       <textarea type="text" name="relationship_styles_a" placeholder="Type your answer here"/></textarea>\
     </div>
     <div>
-      <label>What early experiences do you think may have contributed to this way of relating in your relationships?</label>
+      <label>How does the relationships pattern influence your relationships with others?</label>
       <textarea type="text" name="relationship_styles_b" placeholder="Type your answer here"/></textarea>\
     </div>
     <div>
