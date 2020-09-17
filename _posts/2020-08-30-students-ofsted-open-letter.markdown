@@ -12,7 +12,7 @@ Intro: 'Read an open letter by a group of London students, sharing how testing i
   causing ''panic attacks, feelings of anxiety, stress and sadly, a loss of interest
   in learning''. '
 Byline: By Breaking The Silence
-Image: "/uploads/_MG_4973.jpg"
+Image: "/uploads/MG_4973.jpg"
 Section: Projects
 layout: post
 ---
