@@ -1,7 +1,7 @@
 ---
 title: 'Open Letter, Breaking the Silence: students respond to the Ofsted Framework
   consultation'
-date: 2020-08-26 09:33:00 Z
+date: 2020-08-30 09:33:00 Z
 categories:
 - journal
 tags:
@@ -13,7 +13,6 @@ Intro:
 Key: 
 layout: post
 ---
-
 
 Dear Ms. Spielman, 
 
