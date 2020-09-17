@@ -14,7 +14,7 @@ Form: |-
       <textarea type="text" name="mindset_limit_you" placeholder="Type your answer here"/></textarea>
     </div>
     <div>
-      <label>If you detach from this mindset, what other ways of seeing yourself and others begin to emerge?</label>
+      <label>If you detach from this mindset, what other possibilities emerge for you?</label>
       <textarea type="text" name="detach_mindset" placeholder="Type your answer here"/></textarea>
     </div>
   <div>
@@ -32,7 +32,7 @@ layout: handbook
 
 Reflect on the mindsets you have around some of the following things:
 
-Education, romantic relationships, social media, politics, the future.
+Yourself, friendships, social media, politics, the future.
 
 **Choose one of the areas to focus on.**
 
