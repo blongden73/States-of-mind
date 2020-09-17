@@ -21,7 +21,7 @@ Form: |-
       <textarea type="text" name="anxiety_control_d" placeholder="Type your answer here"/></textarea>
     </div>
     <div>
-      <label>What might help you to change these behaviours and beliefs to reduce your anxiety?</label>
+      <label>What first step could you take to begin to change these behaviours or beliefs?</label>
       <textarea type="text" name="anxiety_control_e" placeholder="Type your answer here"/></textarea>
     </div>
     <div>
