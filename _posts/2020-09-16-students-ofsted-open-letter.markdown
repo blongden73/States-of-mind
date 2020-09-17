@@ -1,6 +1,6 @@
 ---
 title: The education system is impacting our mental health, students tell Ofsted
-date: 2020-08-30 09:33:00 Z
+date: 2020-09-16 09:33:00 Z
 categories:
 - journal
 tags:
