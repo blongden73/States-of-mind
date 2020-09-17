@@ -23,7 +23,7 @@ Form: |-
       <textarea type="text" name="boundries_d" placeholder="Type your answer here"/></textarea>
     </div>
     <div>
-      <label>What do you think prevents you from setting healthy boundaries in your relationships?
+      <label>What do you think sometimes prevents you from setting healthy boundaries in your relationships?
   </label>
       <textarea type="text" name="boundries_e" placeholder="Type your answer here"/></textarea>
     </div>
