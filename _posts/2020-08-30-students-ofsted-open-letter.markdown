@@ -8,8 +8,12 @@ tags:
 - mental health
 - identity
 - Ofsted
-Intro: 
-Key: 
+Intro: 'Read an open letter by a group of London students, sharing how testing is
+  causing ''panic attacks, feelings of anxiety, stress and sadly, a loss of interest
+  in learning''. '
+Byline: By Breaking The Silence
+Image: "/uploads/_MG_4973.jpg"
+Section: Projects
 layout: post
 ---
 
