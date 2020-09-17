@@ -1,5 +1,5 @@
 ---
-title: Welcome to States of mind
+title: Welcome to States of Mind
 date: 2020-05-15 12:12:00 Z
 categories:
 - journal
