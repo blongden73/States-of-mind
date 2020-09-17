@@ -820,8 +820,8 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: two
-  Title: Practice listening well
-  Image: 
+  Title: Reflect on listening skills
+  Key: 
   Description: 
   Graphic Image: 
   Audio url: 
