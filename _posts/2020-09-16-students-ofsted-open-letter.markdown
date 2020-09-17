@@ -1,6 +1,6 @@
 ---
-title: '"We''re not learning, we''re memorising": read London students'' powerful
-  open letter to Ofsted'
+title: '"We''re not learning, we''re memorising": Read London students'' powerful
+  letter to Ofsted'
 date: 2020-09-16 09:33:00 Z
 categories:
 - journal
@@ -14,7 +14,6 @@ Intro: 'Young people share that testing is causing ''panic attacks, feelings of 
 Byline: By Breaking The Silence
 Image: "/uploads/DTSxSSRIdentity9106-29e14b.jpg"
 Section: Projects
-Photo credit: 
 layout: post
 ---
 
