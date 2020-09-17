@@ -1,13 +1,13 @@
 ---
-title: Get to know our youth-led research project, Breaking the silence
+title: Our youth-led research project, Breaking the silence
 date: 2020-09-16 20:32:00 Z
 categories:
 - journal
 tags:
 - research
 - breaking the silence
-Intro: 'In one of our research projects, we’re exploring how the UK’s education system
-  is having an impact on student mental health. '
+Intro: 'In our current major research project, we’re exploring how the UK’s education
+  system is having an impact on student mental health. '
 Byline: By Bea Herbert
 Image: "/uploads/MG_4973.jpg"
 Section: Projects
@@ -22,7 +22,7 @@ The project was initiated in response to Ofsted’s consultation on their new In
 
 Over the period of the consultation, 80 students have shared their views around their experience in education, exploring Ofsted’s influence on the culture of schools and the subsequent impact this has on student’s mental health and identity. The results expose a complex account of how some aspects of the UK education system, under Ofsted’s current framework, is contributing to a decline in the mental health of students.  The working group have revealed an account, that provides a new context for understanding a factor contributing to the rising levels of mental health concerns experienced by young people. Student’s have summarised their findings in an open letter to Amanda Speilman, calling for their voices and experiences to be heard.
 
-A sharing from Julia, student working group member:
+Here is a sharing from Julia, student working group member:
 
 “I have been doing work experience with States of Mind for 10 weeks and I have learned a lot more not only about mental health but also how it fits in our society today.  States of Mind has allowed me to be able to see the bigger picture and feel like, for once, my opinion and the voices of other young people have been listened to and that they actually matter. I enjoyed every week and every activity that we did and I genuinely feel like all of it has a purpose and that it should become a much bigger deal and acknowledged by more people. I would recommend States of Mind to anyone who cares about the current system and who wants to learn more not just about the world but about themselves. The whole experience has been enjoyable and I have learnt skills that I will take with me for life.”
 
