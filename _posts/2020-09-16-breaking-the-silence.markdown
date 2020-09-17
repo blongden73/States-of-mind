@@ -6,8 +6,8 @@ categories:
 tags:
 - research
 - breaking the silence
-Intro: 'In our current major research project, we’re exploring how the UK’s education
-  system is having an impact on student mental health. '
+Intro: 'We''re exploring how the education system is impacting young people''s mental
+  health. '
 Byline: By Bea Herbert
 Image: "/uploads/MG_4973.jpg"
 Section: Projects
