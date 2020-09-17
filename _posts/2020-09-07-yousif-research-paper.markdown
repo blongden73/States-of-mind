@@ -10,6 +10,7 @@ tags:
 Intro: 'A MSc Health Psychology student works with us and reports his findings. '
 Byline: By Yousif Davis
 Image: "/uploads/MG_4899%20(1).jpg"
+Section: Research
 layout: post
 ---
 
