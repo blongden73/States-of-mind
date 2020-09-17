@@ -769,19 +769,6 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: two
-  Title: 'Practice a breathing exercise '
-  Image: 
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: www.statesofmind.org/handbook/an-introduction-to-breathing-techniques
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
 - Template: five
   Title: Mindfulness -Based Stress reduction
   Image: 
@@ -880,7 +867,7 @@ Slides:
   Quote Credit: 
   Slide Colour: 
 - Template: two
-  Title: Write yourself a letter
+  Title: reflect on your experience
   Image: 
   Description: 
   Graphic Image: 
@@ -888,7 +875,20 @@ Slides:
   Video Url: 
   Credit: 
   Links:
-  - Link Url: 
+  - Link Url: www.statesofmind.org/handbook/compassion-reflection
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: two
+  Title: Write yourself letter
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: www.statesofmind.org/handbook/compassionate-letter-writing
   Quote: 
   Quote Credit: 
   Slide Colour: 
@@ -931,14 +931,6 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-  Quiz:
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
 Cover Image: "/uploads/DESIGN%20COVER-12fe9b.jpg"
 Cover Colour: "#ffffff"
 layout: presentation
