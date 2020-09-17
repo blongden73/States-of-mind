@@ -10,7 +10,7 @@ Intro: 'We''re exploring how the education system is impacting young people''s m
   health. '
 Byline: By Bea Herbert
 Image: "/uploads/1080x1080%20copy%20group-dd0ff2.jpg"
-Section: Projects
+Section: Research Projects
 layout: post
 ---
 
