@@ -34,7 +34,7 @@ We would be grateful if you responded to our work and would be pleased to meet w
 
 Yours sincerely, 
 
-Julia, Afruza, Fatima, Sadia, Reya, Maheen, Iqra and Bea. 
+Julia, Afruza, Fatima, Sadia, Reya, Maheen, and Iqra 
 
 > “We are not learning, we are just memorising”
 
