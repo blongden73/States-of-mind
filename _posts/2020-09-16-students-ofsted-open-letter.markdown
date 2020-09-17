@@ -1,5 +1,6 @@
 ---
-title: '"We''re not learning, we''re memorising": Students'' powerful letter to Ofsted'
+title: '"We''re not learning, we''re memorising": Read London students'' powerful
+  open letter'
 date: 2020-09-16 09:33:00 Z
 categories:
 - journal
