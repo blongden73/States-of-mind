@@ -1,5 +1,5 @@
 ---
-title: Get to know our youth-led research project, Breaking the Silence
+title: Introducing our youth-led research project, Breaking the Silence
 date: 2020-09-16 20:32:00 Z
 categories:
 - journal
