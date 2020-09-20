@@ -237,6 +237,7 @@ Cover Image: "/uploads/1080x1080%20copy%2052.jpg"
 layout: presentation
 ---
 
+The following survey is used to help us to understand who is taking our programme so that we can continue to improve our user experience. 
 
 **Make sure to fill out the following survey before you start the course and press 'Done' at the end to submit your answers.**
 
