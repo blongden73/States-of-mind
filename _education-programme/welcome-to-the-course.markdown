@@ -110,35 +110,14 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: 'Confidentiality and Safeguarding '
-  Title: 'sixteen '
-  Image: 
-  Description: "Young people have told us that confidentiality is one of their top
-    concerns when seeking answers to private or personal questions or problems. Perceived
-    lack of confidentiality significantly deters young people from seeking support
-    and advice from teachers, peers, parents or support agencies.\n\nUpholding young
-    people’s right to confidentiality, except when they are at risk of serious harm,
-    is a crucial factor in supporting young people’s access to high quality confidential
-    services that can promote wellbeing. \n"
-  Graphic Image: 
-  Audio url: 
-  Video Url: 
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
 - Template: sixteen
   Title: 
-  Image: 
-  Description: "It encourages the development of a relationship of trust that enables
-    young people to talk freely and honestly about their situation. This enables them
-    to explore their experiences with openness and transparency and trust in the programmes
-    that we provide. \n\nConfidentiality at States of Mind means that no identifiable
-    information about any individual is disclosed or passed to anyone, or any agency
-    outside States of Mind, other than in the most exceptional circumstances. See
-    our Terms of Use and Privacy Policy for more information on how we use data."
+  Image: "/uploads/1080x1080%20copy%2014-5d061a.jpg"
+  Description: "The purpose of this programme is not only to achieve new states of
+    wellbeing, but to develop your relationship with discomfort, uncertainty and resistance
+    to change.  \n\nBy working with discomfort, you will learn important personal
+    patterns, mindsets and attitudes you have and relate to yourself with more openness
+    and understanding."
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -166,14 +145,14 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
-  Title: 
-  Image: "/uploads/1080x1080%20copy%2014-5d061a.jpg"
-  Description: "The purpose of this programme is not only to achieve new states of
-    wellbeing, but to develop your relationship with discomfort, uncertainty and resistance
-    to change.  \n\nBy working with discomfort, you will learn important personal
-    patterns, mindsets and attitudes you have and relate to yourself with more openness
-    and understanding."
+- Template: four
+  Title: Get in touch!
+  Image: 
+  Description: "We want you to feel supported every step of the way. To get in touch
+    at any point, you can email Bea, who designed the course, at: \n\nbea@statesofmind.org
+    \n\nShe will answer any questions you have and if you feel you need more support
+    with your mental health she can get in touch with somebody in your college for
+    you. \n"
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -183,14 +162,35 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: four
-  Title: Get in touch!
+- Template: sixteen
+  Title: 'Confidentiality '
   Image: 
-  Description: "We want you to feel supported every step of the way. To get in touch
-    at any point, you can email Bea, who designed the course, at: \n\nbea@statesofmind.org
-    \n\nShe will answer any questions you have and if you feel you need more support
-    with your mental health she can get in touch with somebody in your college for
-    you. \n"
+  Description: "Young people have told us that confidentiality is one of their top
+    concerns when seeking answers to private or personal questions or problems. Perceived
+    lack of confidentiality significantly deters young people from seeking support
+    and advice from teachers, peers, parents or support agencies.\n\nUpholding young
+    people’s right to confidentiality, except when they are at risk of serious harm,
+    is a crucial factor in supporting young people’s access to high quality confidential
+    services that can promote wellbeing. \n"
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: 
+  Image: 
+  Description: "It encourages the development of a relationship of trust that enables
+    young people to talk freely and honestly about their situation. This enables them
+    to explore their experiences with openness and transparency and trust in the programmes
+    that we provide. \n\nConfidentiality at States of Mind means that no identifiable
+    information about any individual is disclosed or passed to anyone, or any agency
+    outside States of Mind, other than in the most exceptional circumstances. See
+    our Terms of Use and Privacy Policy for more information on how we use data."
   Graphic Image: 
   Audio url: 
   Video Url: 
