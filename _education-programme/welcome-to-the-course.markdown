@@ -83,9 +83,8 @@ Slides:
     exploration, a journey in which your connection to your identity, body, feelings
     and mind will be explored in a compassionate and empathetic way. \n\nYou will
     have access to a personal digital handbook that is intended to cultivate and enhance
-    your self awareness. \n\nAnd don't worry, everything you write in your handbook
-    will be anonymous! We want you to think of it as a personal diary or self discovery
-    journal. \n"
+    your self awareness. \n\nWe want you to think of it as a personal diary or self
+    discovery journal. \n"
   Graphic Image: 
   Audio url: 
   Video Url: 
