@@ -98,10 +98,47 @@ Slides:
 - Template: four
   Title: 
   Image: 
-  Description: "**To save your work in your handbook, please create a username that
-    does not contain your name (so all your work is anonymous), and submit this username
-    after you complete each activity. This will save your work so you can come back
-    to it at any time.** "
+  Description: "**To save your work in your handbook, please create a username and
+    submit this username after you complete each activity. This will save your work
+    so you can come back to it at any time.** "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: 'Confidentiality and Safeguarding '
+  Title: 'sixteen '
+  Image: 
+  Description: "Young people have told us that confidentiality is one of their top
+    concerns when seeking answers to private or personal questions or problems. Perceived
+    lack of confidentiality significantly deters young people from seeking support
+    and advice from teachers, peers, parents or support agencies.\n\nUpholding young
+    people’s right to confidentiality, except when they are at risk of serious harm,
+    is a crucial factor in supporting young people’s access to high quality confidential
+    services that can promote wellbeing. \n"
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: 
+  Image: 
+  Description: "It encourages the development of a relationship of trust that enables
+    young people to talk freely and honestly about their situation. This enables them
+    to explore their experiences with openness and transparency and trust in the programmes
+    that we provide. \n\nConfidentiality at States of Mind means that no identifiable
+    information about any individual is disclosed or passed to anyone, or any agency
+    outside States of Mind, other than in the most exceptional circumstances. See
+    our Terms of Use and Privacy Policy for more information on how we use data."
   Graphic Image: 
   Audio url: 
   Video Url: 
