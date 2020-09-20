@@ -17,6 +17,21 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
+- Template: fourteen
+  Title: 
+  Image: 
+  Description: 
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: '" If you want to awaken all of humanity, then awaken all of yourself.  If
+    you want to eliminate suffering in the world, then eliminate all that is negative
+    in yourself. Truly, the greatest gift you have to give is that of your own self-transformation." '
+  Quote Credit: Lao Tsu
+  Slide Colour: 
 - Template: nineteen
   Title: Ella  (18)  - Young person from the States of Mind Team
   Image: 
