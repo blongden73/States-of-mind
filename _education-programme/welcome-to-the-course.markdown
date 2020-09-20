@@ -237,7 +237,7 @@ Cover Image: "/uploads/1080x1080%20copy%2052.jpg"
 layout: presentation
 ---
 
-As this course requires you to interact with our online platform, we require your consent to make sure you are happy with us to save your personal data. We use this to return your answers to you if you lose them and to help us to develop the programme. If you would like us to remove this from our secure database at any time please let us know by emailing info@statesofmind.org.
+As this course requires you to interact with our online platform, we require your consent to make sure you are happy with us to save your personal data. We save this so that we can return your answers to you if you lose them and to help us to develop the programme. If you would like us to remove this from our secure database at any time please let us know by emailing info@statesofmind.org.
 
 **Make sure to fill out the following survey before you start the course and press 'Done' at the end to submit your answers.**
 
