@@ -5,7 +5,7 @@ position: 5
 Form: |-
   <form id="test-form">
     <div>
-      <label>What parts of your life most trigger your need for control?</label>
+      <label>What areas of your life do you find yourself wanting to control? Eg, relationships or work</label>
       <textarea type="text" name="anxiety_control_a" placeholder="Type your answer here"/></textarea>
     </div>
     <div>
@@ -13,7 +13,7 @@ Form: |-
       <textarea type="text" name="anxiety_control_b" placeholder="Type your answer here"/></textarea>
     </div>
     <div>
-      <label>How could you begin to let go of the need to control this?</label>
+      <label>What would it feel like to begin to let go of your need to control this?</label>
       <textarea type="text" name="anxiety_control_c" placeholder="Type your answer here"/></textarea>
     </div>
     <div>
@@ -21,7 +21,7 @@ Form: |-
       <textarea type="text" name="anxiety_control_d" placeholder="Type your answer here"/></textarea>
     </div>
     <div>
-      <label>What might help you to change these behaviours and beliefs to reduce your anxiety?</label>
+      <label>What first step could you take to begin to change these behaviours or beliefs?</label>
       <textarea type="text" name="anxiety_control_e" placeholder="Type your answer here"/></textarea>
     </div>
     <div>

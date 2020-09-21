@@ -83,9 +83,8 @@ Slides:
     exploration, a journey in which your connection to your identity, body, feelings
     and mind will be explored in a compassionate and empathetic way. \n\nYou will
     have access to a personal digital handbook that is intended to cultivate and enhance
-    your self awareness. \n\nAnd don't worry, everything you write in your handbook
-    will be anonymous! We want you to think of it as a personal diary or self discovery
-    journal. \n"
+    your self awareness. \n\nWe want you to think of it as a personal diary or self
+    discovery journal. \n"
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -98,10 +97,26 @@ Slides:
 - Template: four
   Title: 
   Image: 
-  Description: "**To save your work in your handbook, please create a username that
-    does not contain your name (so all your work is anonymous), and submit this username
-    after you complete each activity. This will save your work so you can come back
-    to it at any time.** "
+  Description: "**To save your work in your handbook, please create a username and
+    submit this username after you complete each activity. This will save your work
+    so you can come back to it at any time.** "
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: 
+  Image: "/uploads/1080x1080%20copy%2014-5d061a.jpg"
+  Description: "The purpose of this programme is not only to achieve new states of
+    wellbeing, but to develop your relationship with discomfort, uncertainty and resistance
+    to change.  \n\nBy working with discomfort, you will learn important personal
+    patterns, mindsets and attitudes you have and relate to yourself with more openness
+    and understanding."
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -129,14 +144,14 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: sixteen
-  Title: 
-  Image: "/uploads/1080x1080%20copy%2014-5d061a.jpg"
-  Description: "The purpose of this programme is not only to achieve new states of
-    wellbeing, but to develop your relationship with discomfort, uncertainty and resistance
-    to change.  \n\nBy working with discomfort, you will learn important personal
-    patterns, mindsets and attitudes you have and relate to yourself with more openness
-    and understanding."
+- Template: four
+  Title: Get in touch!
+  Image: 
+  Description: "We want you to feel supported every step of the way. To get in touch
+    at any point, you can email Bea, who designed the course, at: \n\nbea@statesofmind.org
+    \n\nShe will answer any questions you have and if you feel you need more support
+    with your mental health she can get in touch with somebody in your college for
+    you. \n"
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -146,14 +161,35 @@ Slides:
   Quote: 
   Quote Credit: 
   Slide Colour: 
-- Template: four
-  Title: Get in touch!
+- Template: sixteen
+  Title: 'Confidentiality '
   Image: 
-  Description: "We want you to feel supported every step of the way. To get in touch
-    at any point, you can email Bea, who designed the course, at: \n\nbea@statesofmind.org
-    \n\nShe will answer any questions you have and if you feel you need more support
-    with your mental health she can get in touch with somebody in your college for
-    you. \n"
+  Description: "Young people have told us that confidentiality is one of their top
+    concerns when seeking answers to private or personal questions or problems. Perceived
+    lack of confidentiality significantly deters young people from seeking support
+    and advice from teachers, peers, parents or support agencies.\n\nUpholding young
+    people’s right to confidentiality, except when they are at risk of serious harm,
+    is a crucial factor in supporting young people’s access to high quality confidential
+    services that can promote wellbeing. \n"
+  Graphic Image: 
+  Audio url: 
+  Video Url: 
+  Credit: 
+  Links:
+  - Link Url: 
+  Quote: 
+  Quote Credit: 
+  Slide Colour: 
+- Template: sixteen
+  Title: 
+  Image: 
+  Description: "It encourages the development of a relationship of trust that enables
+    young people to talk freely and honestly about their situation. This enables them
+    to explore their experiences with openness and transparency and trust in the programmes
+    that we provide. \n\nConfidentiality at States of Mind means that no identifiable
+    information about any individual is disclosed or passed to anyone, or any agency
+    outside States of Mind, other than in the most exceptional circumstances. See
+    our Terms of Use and Privacy Policy for more information on how we use data."
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -186,7 +222,7 @@ Slides:
   Title: Enjoy the course!
   Image: "/uploads/I%20Pink%20Copy.jpg"
   Description: 'Let us know what you think at the end of each module, we will design
-    all out future courses based on your feedback. '
+    all our future courses based on your feedback. '
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -200,6 +236,7 @@ Cover Image: "/uploads/1080x1080%20copy%2052.jpg"
 layout: presentation
 ---
 
+As this course requires you to interact with our online platform, we require your consent to make sure you are happy with us to save your personal data. We save this so that we can return your answers to you if you lose them and to help us to develop the programme. If you would like us to remove this from our secure database at any time please let us know by emailing info@statesofmind.org
 
 **Make sure to fill out the following survey before you start the course and press 'Done' at the end to submit your answers.**
 

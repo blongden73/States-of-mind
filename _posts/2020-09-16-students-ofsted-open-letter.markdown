@@ -1,7 +1,7 @@
 ---
-title: 'Open Letter, Breaking the Silence: students respond to the Ofsted Framework
-  consultation'
-date: 2020-08-26 09:33:00 Z
+title: '"We''re not learning, we''re memorising": Read London students'' powerful
+  open letter'
+date: 2020-09-16 09:33:00 Z
 categories:
 - journal
 tags:
@@ -9,11 +9,21 @@ tags:
 - mental health
 - identity
 - Ofsted
-Intro: 
-Key: 
+Intro: 'Young people share that testing is causing ''panic attacks, feelings of anxiety,
+  stress and sadly, a loss of interest in learning''. '
+Byline: By Breaking The Silence
+Image: "/uploads/DTSxSSRIdentity9106-29e14b.jpg"
+Section: Reimagining Education
 layout: post
 ---
 
+At States of Mind, we run research and social change projects that enable young people’s voices to inform the way emotional and mental wellbeing is supported in society. As part of this work, last year we asked a group of London students about their experiences in education. The students explored the subject in a series of focus groups, and shared their findings in a letter to the Chief Inspector of Education, Amanda Spielman. 
+
+> The students' letter is a powerful account of how aspects of the education system are negatively impacting young people's mental health and personal development. 
+
+We're currently working the UCL Institute of Education to develop the project, and over the next few weeks will be sharing more as it unfolds. For now, you can read the students' letter – below. 
+
+### An Open Letter from London school students to Amanda Spielman, April 2019
 
 Dear Ms. Spielman, 
 
@@ -25,7 +35,7 @@ We would be grateful if you responded to our work and would be pleased to meet w
 
 Yours sincerely, 
 
-Julia, Afruza, Fatima, Sadia, Reya, Maheen, Iqra and Bea. 
+Julia, Afruza, Fatima, Sadia, Reya, Maheen, and Iqra 
 
 > “We are not learning, we are just memorising”
 
@@ -70,3 +80,9 @@ We’re told by teachers, parents and by society that we’re privileged to have
 All the focus in schools on making us get good grades stops us from actually paying attention to the other little things that can help us improve as individuals. We’re taught to be competitive, we’re taught to work hard, but when are we ever taught it is important to help others or to just simply take a step back and appreciate other aspects of the world around us. Thanks to schools, our general knowledge and our grades may be increasing but our sense of humanity is decreasing. What’s the point? We enter education as a child and we leave as adults. Does that mean that if I am an A* student when I leave that I am a good human being? What does a letter or a number on a paper have to do with someone’s true personality? Being human and being part of a society involves more than numbers on a paper. You need manners, you need sympathy, empathy, honesty. You need to feel good about yourself so that you can make others feel good about themselves. That is not what we’re getting. We’re learning how to try and be better than everyone else, no matter how it affects you. We often come out of school feeling worse than we did when we entered. We’re stuck in a constant loop of “I just need to get through this week…” But every week.
 
 The education system does not prepare young people for later life, as it does not recognise the importance of allowing young people to fail and experiment, which is the main way that human beings learn about ourselves and the world around us. A single letter ‘F’ could knock a student’s confidence to the ground and stain their records for a long time, if not forever, depending on whether it’s a final exam. Life is full of failure. It’s a normal and inevitable part of life. So why is there such a negative light shone upon it within education? So much shame and disappointment. We’re not taught how to deal with failure, how to bounce back. We’re just told we can do better or asked whether we revised enough. If the education system has made us believe that failing is such a bad thing, how will we go on to live our lives and be “good human beings” if we can’t even cope with one of life’s most common occurrences?
+
+**We are currently working with UCL Institute of Education to develop the students' research further. Watch this space as we share more about our findings in the coming weeks, and working with students to reimagine educational assessment. **
+
+**For now, you can read more about the project in a [blog](https://www.statesofmind.org/journal/2020/09/16/breaking-the-silence.html) by our founder, Bea, and watch a short film below.**
+
+<iframe src="https://anchor.fm/bea-herbert/embed/episodes/Breaking-The-Silence--Young-peoples-views-on-Education-and-Identity-eeb7ej" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

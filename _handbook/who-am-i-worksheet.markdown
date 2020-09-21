@@ -6,7 +6,7 @@ Form: "\nStep 1.\n\nFind a place where you can relax and be undisturbed while yo
   complete the practice.\nWith a piece of paper and a pen, write at the top of the
   page ‘Who am I?’. \n\nTake time to write down the associations that come to mind
   as you consider this question. \n\nAllow the answers to emerge freely and honestly.
-  Take time to pause and consider the question and connect with as many associations
+  Take times to pause and consider the question and connect with as many associations
   as you can.\n\nWhen you feel you have completed the list, label each answer from
   a scale of 1-10 based on how you connected you feel with this part of your identity
   or personality, with 10 being the strongest connection and 1 being the least strong.

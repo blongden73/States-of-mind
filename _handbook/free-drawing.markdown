@@ -17,8 +17,8 @@ Free drawings display, with richness and often precision, the energies and feeli
 
 4. When you feel you have finished, study your drawing. Is it really finished or does it lack a final touch? If so, complete it in any way you like.
 
-Instead of judging it in an intellectual way, we should listen to the drawing’s story. This drawing may represent something new and different to what our surface mind feels like. We seek to resonate with it and intuitively capture the message it gives us about ourselves.
+Instead of judging it in an intellectual way, you should listen to the drawing’s story. This drawing may represent something new and different to what your surface mind feels like.  Seek to resonate with it and intuitively capture the message it gives you about yourself.
 
-After a while, we turn the drawing over and write what comes to mind.
+After a while, turn the drawing over and write what comes to mind.
 
-Even if our drawings remain meaningless, we will have still partially satisfied a vital need - the need for expression. Many people find a new, childlike delight in playing with pencils or pens, in bypassing the control of the intellect and experiencing the pure fun of creativity.
+Even if our drawings remain meaningless, you will have still partially satisfied a vital need - the need for expression. Many people find a new, childlike delight in playing with pencils or pens, in bypassing the control of the intellect and experiencing the pure fun of creativity.

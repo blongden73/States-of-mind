@@ -19,4 +19,4 @@ If you feel like it is difficult to identify people who represent healthy relati
 
 At the beginning of this module, you learned how the quality of our relationships is one of the strongest indicators of somebody’s mental, emotional and physical wellbeing. As you progressed through this module, you may have developed insights about your relationships and ways of relating to people that you didn't have before. Take the time to capture these insights. We recommend journaling as a method to capture the insights, so that you can reflect back on the notes later and keep them as a resource for your future learning. 
 
-If you would like to have some support with the process of journaling, you can access our resource called ‘How to develop a reflective practice’ that is accessible on the state of mind website.
+If you would like to have some support with the process of journaling, you can access our resource called ‘How to develop a reflective practice’ that is accessible on the states of mind website.

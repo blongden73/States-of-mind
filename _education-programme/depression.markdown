@@ -316,8 +316,9 @@ Slides:
   Quote: 
   Quote Credit: 
   Image: 
-- Template: two
+- Template: sixteen
   Title: Depression as a Stress Response
+  Image: "/uploads/stress%20response.jpg"
   Description: 
   Graphic Image: 
   Audio url: 
@@ -327,7 +328,6 @@ Slides:
   - Link Url: 
   Quote: 
   Quote Credit: 
-  Image: 
 - Template: sixteen
   Title: 'Fight, Flight and “Fright” '
   Description: "* Researchers have described a stage of the stress response called
