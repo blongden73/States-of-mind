@@ -95,7 +95,7 @@ body.handbook {
       line-height:0.9;
 
       @include mq($from: desktop) {
-        font-size: 100px;
+        font-size: 5.5vw;
       }
     }
 
@@ -246,8 +246,14 @@ body.handbook {
     background-color: $nu-beige;
 
     #test-form {
-      position: absolute;
-      bottom: 60px;
+      width: 100%;
+
+      @include mq($from: desktop) {
+        position: absolute;
+        bottom: 22%;
+        right: 5%;
+        width: 540px;
+      }
 
       label {
         display: block;
@@ -291,8 +297,12 @@ body.handbook {
         display: block;
         margin-top: 10px;
         margin-bottom: 10px;
-        width: 540px;
+        width: 94%;
         height: 110px;
+
+        @include mq($from: desktop) {
+          width: 540px;
+        }
       }
     }
   }
@@ -346,7 +356,7 @@ body.handbook {
       max-width: 58%;
       font-size: 0.8vw;
       line-height: 1.3;
-      bottom: 40px;
+      bottom: 10px;
     }
   }
 }
@@ -403,7 +413,7 @@ body.handbook {
 
   @include mq($from: desktop) {
     position: absolute;
-    top: 45%;
+    top: 50%;
     transform: translateY(-45%);
     max-width: 45%;
   }
@@ -426,25 +436,25 @@ body.handbook {
     }
 
     h1 {
-      font-size: 6vw;
+      font-size: 5.5vw;
       line-height: 1.1;
       text-align: left;
 
       @include mq($from: desktop) {
-        font-size: 2.5vw;
+        font-size: 2vw;
       }
     }
 
     h2 {
-      font-size: 6vw;
-      line-height: 1.1;
+      font-size: 6.5vw;
+      line-height: 1.3;
       letter-spacing: -1px;
       text-align: left;
       padding-top: 20px;
 
       @include mq($from: desktop) {
-        font-size: 100px;
-        letter-spacing: -5px;
+        font-size: 3.5vw;
+        letter-spacing: -2px;
       }
     }
 
@@ -461,7 +471,7 @@ body.handbook {
       font-size: 4vw;
 
       @include mq($from: desktop) {
-        font-size: 1.4vw;
+        font-size: 1.2vw;
       }
     }
 
@@ -529,12 +539,12 @@ body.handbook {
     }
 
     p {
-      line-height: 1.2;
+      line-height: 1.3;
       width: 100%;
       font-size: 4vw;
 
       @include mq($from: desktop) {
-        font-size: 2.5vw;
+        font-size: 2vw;
       }
     }
   }
@@ -549,12 +559,13 @@ body.handbook {
     }
 
     p {
-      font-size: 45px;
-      line-height: 1;
+      font-size: 5vw;
+      line-height: 1.2;
       width: 100%;
 
       @include mq($from: desktop) {
-        line-height: 1.2;
+        line-height: 1.1;
+        font-size: 3vw;
       }
     }
   }
@@ -591,8 +602,8 @@ body.handbook {
       padding-top: 20px;
 
       @include mq($from: desktop) {
-        font-size: 7vw;
-        letter-spacing: -5px;
+        font-size: 5.5vw;
+        letter-spacing: -3px;
         line-height: 1;
         max-width: 70%;
       }
@@ -694,11 +705,11 @@ body.handbook {
 
       p, ol, ul, li {
         max-width: 100%;
-        font-size: 4vw;
+        font-size: 4.2vw;
         line-height: 1.4;
 
         @include mq($from: desktop) {
-          font-size: 1.5vw;
+          font-size: 1.2vw;
         }
       }
       & + small {
@@ -719,14 +730,14 @@ body.handbook {
       }
     }
     h2 {
-      font-size: 6vw;
+      font-size: 5.5vw;
       text-transform: capitalize;
       line-height: 1.1;
       max-width: 88%;
       margin-bottom: 2.5vw;
 
       @include mq($from: desktop) {
-        font-size: 4vw;
+        font-size: 2.8vw;
       }
     }
     p, ul, ol, li {
@@ -735,7 +746,7 @@ body.handbook {
       max-width: 100%;
 
       @include mq($from: desktop) {
-        font-size: 1.3vw;
+        font-size: 1.2vw;
         line-height: 1.5;
         max-width: 85%;
       }
@@ -767,13 +778,13 @@ body.handbook {
       font-size: 4vw;
 
       @include mq($from: desktop) {
-        font-size: 1.3vw;
+        font-size: 1.2vw;
         max-width: 85%;
       }
     }
 
     h1 {
-      font-size: 6vw;
+      font-size: 5.5vw;
 
       @include mq($from: desktop) {
         font-size: 1.7vw;
@@ -796,7 +807,7 @@ body.handbook {
       padding-top: 20px;
 
       @include mq($from: desktop) {
-        font-size: 100px;
+        font-size: 5.5vw;
         line-height: 1;
         letter-spacing: -2px;
         padding-top: 0;
@@ -822,7 +833,7 @@ body.handbook {
       line-height: 1.2;
 
       @include mq($from: desktop) {
-        font-size: 4.2vw;
+        font-size: 3.5vw;
       }
     }
 
@@ -836,7 +847,7 @@ body.handbook {
       color: transparent;
 
       @include mq($from: desktop) {
-        font-size: 4.2vw;
+        font-size: 3.5vw;
       }
     }
   }
@@ -866,14 +877,14 @@ body.handbook {
     }
 
     h2 {
-      font-size: 35px;
-      line-height: 1;
+      font-size: 5vw;
+      line-height: 1.2;
       max-width: 85%;
       margin-bottom: 30px;
 
       @include mq($from: desktop) {
         line-height: 0.9;
-        font-size: 35px;
+        font-size: 1.7vw;
       }
     }
     p, ul, ol, li {
@@ -925,7 +936,7 @@ body.handbook {
     padding-bottom: 20px;
 
     @include mq($from: desktop) {
-      font-size: 8vw;
+      font-size: 5.5vw;
       padding-top: 62px;
     }
   }
@@ -969,7 +980,7 @@ body.handbook {
 
     @include mq($from: desktop) {
       max-width: 45%;
-      font-size: 8vw;
+      font-size: 5.5vw;
     }
   }
 
@@ -1138,6 +1149,10 @@ body.handbook {
       width: 36%;
       max-width: 36%;
       right: 10%;
+    }
+
+    ul, li, p {
+      max-width: 100%;
     }
   }
 }
