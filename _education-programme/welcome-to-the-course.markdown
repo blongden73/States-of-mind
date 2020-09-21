@@ -222,7 +222,7 @@ Slides:
   Title: Enjoy the course!
   Image: "/uploads/I%20Pink%20Copy.jpg"
   Description: 'Let us know what you think at the end of each module, we will design
-    all out future courses based on your feedback. '
+    all our future courses based on your feedback. '
   Graphic Image: 
   Audio url: 
   Video Url: 
