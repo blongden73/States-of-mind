@@ -309,6 +309,12 @@ function presentation(){
   }
 }
 
+function saved(el){
+  console.log(el);
+  el.currentTarget.innerHTML = 'Saved!';
+  console.log('form saved');
+}
+
 var $form = $('form#test-form'),
     url = 'https://script.google.com/macros/s/AKfycby1lB9as0jKusRMwgCGs9iqgCGgJAD6ezzZ5vvAjyt6WByYP1k/exec'
 
@@ -324,8 +330,7 @@ $('#submit-form').on('click', function(e) {
     data: $form.serializeObject()
   }).success(
     // do something
-
-  );
+    saved(e));
 })
 
 var quizCheck = document.querySelector('.quiz-wrapper');
@@ -430,8 +435,10 @@ function quizPop() {
   }
 }
 
+var userAnswers = [];
+
 function googleSheet(){
-  var sheet = 'https://spreadsheets.google.com/feeds/cells/1Bt3kMlaWT3TyacDK3QTYeQgXNCNYN_qDfXQ2b8rKnkk/1/public/full?alt=json';
+  var sheet = 'https://spreadsheets.google.com/feeds/list/1Bt3kMlaWT3TyacDK3QTYeQgXNCNYN_qDfXQ2b8rKnkk/1/public/full?alt=json';
   fetch(sheet)
   .then(
     function(response) {
@@ -440,10 +447,39 @@ function googleSheet(){
           response.status);
         return;
       }
-
       // Examine the text in the response
       response.json().then(function(data) {
-        console.log(data);
+        // console.log(data.feed.entry);
+        function callAnswers($user) {
+          var formEntries = document.querySelector('.form-entries');
+          for(i = 0; i < data.feed.entry.length; i++) {
+            var username = data.feed.entry[i].gsx$username.$t;
+            if($user == username) {
+              console.log(data.feed.entry[i].gsx$username.$t);
+              // console.log(data.feed.entry[i].content.$t);
+              var entry = data.feed.entry[i].content.$t;
+              var splitEntry = entry.split(',');
+              // console.log(splitEntry.length);
+              for(j = 0; j < splitEntry.length; j++) {
+                // console.log(splitEntry[j].trim())
+                var answerSplit = splitEntry[j].trim().split(':');
+                var answer = answerSplit[1];
+                var question = answerSplit[0];
+                userAnswers.push('<li class="question">' + '<span class="question">' + question + '</span>' + '<span class="answer">' + answer + '</span>' + '</li>');
+                console.log(userAnswers);
+                formEntries.innerHTML = userAnswers.join('');
+              }
+            } 
+          }
+        }
+
+        var ask = document.querySelector('.ask-answers');
+        ask.addEventListener('click', function(e){
+          e.preventDefault();
+          var userNameAsk = document.querySelector('.username-ask').value;
+          console.log(userNameAsk);
+          callAnswers(userNameAsk);
+        });
       });
     }
   )

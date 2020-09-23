@@ -1791,3 +1791,27 @@ body.quiz {
 .som-audio-player {
   margin-bottom: 20px;
 }
+
+ul.form-entries {
+  list-style: none;
+  margin-bottom: 30px;
+
+  li {
+    list-style: none;
+    padding-bottom: 20px;
+    border: 1px solid #121212;
+    border-bottom: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    margin-right: 0 !important;
+
+    span {
+      display: block;
+
+      &.question {
+        font-weight: 900;
+      }
+    }
+  }
+}
