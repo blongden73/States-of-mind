@@ -12,6 +12,7 @@ Intro: 'Our Director of Research shares how listening to young people can not on
   improve education, but enhance the life outcomes of future generations. '
 Byline: By Chris Bagley
 Image: "/uploads/imagination.jpg"
+Section: Reimagining Education
 ---
 
 ## Over the next few weeks, we're spreading the word about our youth-led research project, Breaking The Silence. Today our Director of Research, Chris Bagley, shares how listening to young people can not only improve education, but enhance the life outcomes of future generations. 
