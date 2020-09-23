@@ -430,6 +430,29 @@ function quizPop() {
   }
 }
 
+function googleSheet(){
+  var sheet = 'https://spreadsheets.google.com/feeds/cells/1Bt3kMlaWT3TyacDK3QTYeQgXNCNYN_qDfXQ2b8rKnkk/1/public/full?alt=json';
+  fetch(sheet)
+  .then(
+    function(response) {
+      if (response.status !== 200) {
+        console.log('Looks like there was a problem. Status Code: ' +
+          response.status);
+        return;
+      }
+
+      // Examine the text in the response
+      response.json().then(function(data) {
+        console.log(data);
+      });
+    }
+  )
+  .catch(function(err) {
+    console.log('Fetch Error :-S', err);
+  });
+}
+googleSheet();
+
 
 function init(){
   grid();
