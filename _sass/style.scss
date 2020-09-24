@@ -1058,6 +1058,19 @@ ul {
       font-size: 32px;
     }
   }
+
+  ul {
+    display: flex;
+    flex-direction: column;
+
+    @include mq($from: desktop) {
+      flex-direction: row;
+    }
+
+    li {
+      margin-right: 10px;
+    }
+  }
 }
 .som-footer-right {
   @include size(2.8);

@@ -11,6 +11,7 @@
 {% assign quoteCred = slide.['Quote Credit'] %}
 {% assign links = slide.Links %}
 -->
+{% assign Discussiontitle = page.title | split: ' ' %}
 <div class="discussion-header">
   <h1 class="slide-title">Discussion</h1>
 </div>
@@ -22,10 +23,10 @@
     </div>
   {% endif %}
 </div>
-<form id="test-form">
+<form id="discussion-form" class="discussion-form">
   <div>
     <label>Join the discussion</label>
-    <textarea type="text" name="BFM_c" placeholder="Type your answer here"/></textarea>
+    <textarea type="text" name="{{Discussiontitle | first }}_{{ forloop.index }}" placeholder="Type your answer here"></textarea>
   </div>
   <div>
     <button type="submit"id="submit-form">Join!</button>

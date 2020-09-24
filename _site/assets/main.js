@@ -312,7 +312,7 @@ function presentation(){
 function saved(el){
   console.log(el);
   el.currentTarget.innerHTML = 'Saved!';
-  console.log('form saved');
+  console.log('form saved', el);
 }
 
 var $form = $('form#test-form'),
@@ -333,8 +333,65 @@ $('#submit-form').on('click', function(e) {
     saved(e));
 })
 
-var quizCheck = document.querySelector('.quiz-wrapper');
+function discussionForms(){
+  var form = document.querySelectorAll('.discussion-form');
+  if(form){
+    for(i=0; i < form.length; i++) {
+      var moduleTitle = document.querySelector('.module_title').innerText.replace(/ /g, '-');
+      console.log(moduleTitle);
+      var discussionFormTextArea = form[i].querySelector('textarea');
+      var formButtonSubmit = form[i].querySelector('button');
+      var discussionNum = i + 1;
+      var formName = moduleTitle.toLowerCase() + '-' + discussionNum;
+      formButtonSubmit.setAttribute('id', 'submit-form' + '-' + discussionNum);
+      // discussionFormTextArea.setAttribute('name', formName);
 
+      $(formButtonSubmit).on('click', function(e) {
+        var formtoSubmit = $(this).context.form;
+        console.log(formtoSubmit);
+        e.preventDefault();
+        var jqxhr = $.ajax({
+          url: url,
+          method: "GET",
+          dataType: "json",
+          data: $(formtoSubmit).serializeObject()
+        }).success(
+          // do something
+          saved(e));
+      })
+    }
+  }
+}
+discussionForms();
+
+// var testform = document.querySelector('#test-form-1');
+// console.log(testform, 'test');
+
+// $('#submit-form-2').on('click', function(e) {
+//   e.preventDefault();
+//   var jqxhr = $.ajax({
+//     url: url,
+//     method: "GET",
+//     dataType: "json",
+//     data: $form.serializeObject()
+//   }).success(
+//     // do something
+//     saved(e));
+// })
+//
+// $('#submit-form-3').on('click', function(e) {
+//   e.preventDefault();
+//   var jqxhr = $.ajax({
+//     url: url,
+//     method: "GET",
+//     dataType: "json",
+//     data: $form.serializeObject()
+//   }).success(
+//     // do something
+//     saved(e));
+// })
+
+var quizCheck = document.querySelector('.quiz-wrapper');
 function quiz() {
   var quizWrapper = document.querySelector('.quiz-wrapper');
   var answers = document.querySelectorAll('.quiz-wrapper li');
@@ -469,7 +526,7 @@ function googleSheet(){
                 console.log(userAnswers);
                 formEntries.innerHTML = userAnswers.join('');
               }
-            } 
+            }
           }
         }
 
@@ -487,8 +544,9 @@ function googleSheet(){
     console.log('Fetch Error :-S', err);
   });
 }
-googleSheet();
-
+if(document.querySelector('.ask-answers')) {
+  googleSheet();
+}
 
 function init(){
   grid();

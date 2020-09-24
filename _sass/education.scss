@@ -151,7 +151,7 @@ body.handbook {
 }
 
 .slide {
-  min-height: 88vh;
+  min-height: auto;
   background-color: $nu-pink;
   position: relative;
 
@@ -245,7 +245,7 @@ body.handbook {
   &.ten {
     background-color: $nu-beige;
 
-    #test-form {
+    #test-form, .discussion-form {
       width: 100%;
 
       @include mq($from: desktop) {
@@ -348,7 +348,7 @@ body.handbook {
     letter-spacing: 1px;
     margin-top: 10px;
     display: inline-block;
-    position: absolute;
+    position: relative;
     bottom: 10px;
     max-width: 98%;
 
@@ -357,6 +357,7 @@ body.handbook {
       font-size: 0.8vw;
       line-height: 1.3;
       bottom: 10px;
+      position: absolute;
     }
   }
 }
@@ -615,14 +616,19 @@ body.handbook {
       color:#fff;
       display: block;
       width: max-content;
-      bottom: -60px;
       z-index: 100;
       padding: 20px;
       text-decoration: none;
       letter-spacing: 0;
-      margin-top: 60px;
-      position: absolute;
       background-color: rgb(21, 101, 131);
+      margin-bottom: 20px;
+
+      @include mq($from: desktop) {
+        bottom: -60px;
+        position: absolute;
+        margin-top: 60px;
+        margin-bottom: 0;
+      }
 
       &:hover {
         background-color: #fff;
@@ -713,9 +719,14 @@ body.handbook {
         }
       }
       & + small {
-        left: 50%;
-        transform: translate(-50%, -45%);
+        left: 0;
+        transform: translate(0,0);
         text-align: center;
+
+        @include mq($from: desktop) {
+          left: 50%;
+          transform: translate(-50%, -45%);
+        }
       }
     }
 
@@ -840,14 +851,16 @@ body.handbook {
     .slide-description {
       text-align: center;
       font-size: 7vw;
-      line-height: 0;
+      line-height: 1;
       margin: 0;
       -webkit-text-stroke-width: 1px;
       -webkit-text-stroke-color: black;
       color: transparent;
+      margin-bottom: 20px;
 
       @include mq($from: desktop) {
         font-size: 3.5vw;
+        line-height: 0;
       }
     }
   }
@@ -959,6 +972,9 @@ body.handbook {
 }
 
 .slide-cover {
+  @include mq($until: tablet) {
+    height: 100vh;
+  }
   img {
     position: absolute;
     width: 100%;
