@@ -95,6 +95,7 @@
         <span>End of module</span>
         {{page.title}}
       </h1>
+      <a href="/education-programme"><div class="som-button">Back to modules</div></a>
     </div>
   </div>
 </div>
