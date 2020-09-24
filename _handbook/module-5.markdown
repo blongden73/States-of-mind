@@ -1,6 +1,7 @@
 ---
 title: Reflective practice 5
 date: 2020-09-15 16:52:00 Z
+permalink: "/handbook/module-5"
 position: 43
 Form: |-
   <form id="test-form">
