@@ -17,7 +17,7 @@ Section: Reimagining Education
 
 *Over the next few weeks, we're spreading the word about our youth-led research project, Breaking The Silence. Today our Director of Research, Chris Bagley, shares how listening to young people can not only improve education, but enhance the life outcomes of future generations.* 
 
-What is education? This is one of the most contested questions in human history. Debate has raged since at least the 4th century BC, when Plato’s dialogues pit his version of education against his nemeses, Isocrates and the Sophists. 
+**What is education?** This is one of the most contested questions in human history. Debate has raged since at least the 4th century BC, when Plato’s dialogues pit his version of education against his nemeses, Isocrates and the Sophists. 
 
 Fast-forward 2400 years and you’d be forgiven for thinking that it’s all been settled. The English education system hinges around a drive for students to attain pre-defined ‘standards’. 
 
@@ -29,7 +29,7 @@ Education research is often founded on the assumption that these values are appr
 
 A classic example might be a ‘Literacy Intervention Study’: 
 
-*What impact does literacy intervention X have on the GCSE attainment of group Y ‘low attaining students’, compared with control group Z who did not receive an intervention. *
+*What impact does literacy intervention X have on the GCSE attainment of group Y ‘low attaining students’, compared with control group Z who did not receive an intervention.*
 
 Of course, this research has some value. It can precipitate modified teaching practices in an evidence-led way and can help some students to raise their attainment. However, it tinkers around the edges of more prominent issues and uncritically accepts the education system’s core values, regardless of the consequences. There are numerous hidden, unacknowledged questions here. For example, are the tools used to track progress (examinations) valid measures of a child’s intelligence and worth? What is the emotional impact on a child of being labelled ‘low attaining’ based on measures over which they have absolutely no control? 
 
