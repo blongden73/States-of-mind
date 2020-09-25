@@ -40,4 +40,4 @@ The response we received from Ofsted is certainly a step in the right direction.
 
 The key point here is not to find new ways to assess individuals. It's to make sure that – alongside the mainstream education purposes we already receive – students feel safe and comfortable, know that their feelings and thoughts are valid, and understand where to go when they need extra help, no matter what the circumstances." 
 
-**We are currently working with UCL Institute of Education to further develop Julia and her peers' research into the education system's impact on young people. Watch this space as we share more about our findings in the coming weeks, and work with students to reimagine educational assessment.**
+**We are currently working with UCL Institute of Education to further develop Julia and her peers' research. Watch this space as we share more about our findings in the coming weeks.**
