@@ -15,7 +15,7 @@ Image: "/uploads/imagination.jpg"
 Section: Reimagining Education
 ---
 
-## Over the next few weeks, we're spreading the word about our youth-led research project, Breaking The Silence. Today our Director of Research, Chris Bagley, shares how listening to young people can not only improve education, but enhance the life outcomes of future generations. 
+*Over the next few weeks, we're spreading the word about our youth-led research project, Breaking The Silence. Today our Director of Research, Chris Bagley, shares how listening to young people can not only improve education, but enhance the life outcomes of future generations.* 
 
 What is education? This is one of the most contested questions in human history. Debate has raged since at least the 4th century BC, when Plato’s dialogues pit his version of education against his nemeses, Isocrates and the Sophists. 
 
@@ -37,7 +37,7 @@ Of course, this research has some value. It can precipitate modified teaching pr
 
 As Biesta asserts, the ‘Literacy Intervention Study’ and similar research drive complexity reduction. That is, research often adopts, unquestioningly, the values inherent in the education system and narrows its purpose to mean absorbing standardised content, following top-down regimes of assessment and producing outcomes via examination. In sum, most research accepts the status quo without considering the impact of the dominant educational values on the psychological wellbeing of children. 
 
-This is hugely problematic, particularly given abundant evidence from consecutive Good Childhood Reports that children in the UK are unhappy with their school experiences. Studies around wellbeing have consistently shown that our children experience poor wellbeing compared with similar nations. In their Overview of child wellbeing in rich countries, Unicef placed the UK last - 21st out of 21 - across various dimensions of wellbeing. Schooling is a significant source of distress for many young people, as identified by YoungMinds and numerous others. 
+This is hugely problematic, particularly given abundant evidence from consecutive Good Childhood Reports that children in the UK are unhappy with their school experiences. Studies around wellbeing have consistently shown that UK children experience poor wellbeing compared with similar nations. In their Overview of child wellbeing in rich countries, Unicef placed the UK last - 21st out of 21 - across various dimensions of wellbeing. Schooling is a significant source of distress for many young people, as identified by YoungMinds and numerous others. 
 
 > In my work as a psychologist, I have encountered many young people, of all academic abilities, whose mental health has been severely compromised as a consequence of education practices. 
 
