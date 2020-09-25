@@ -21,7 +21,9 @@ Section: Reimagining Education
 
 It was great to read within the response how much of what we spoke about is supported by research carried out by Ofsted themselves and it’s amazing to hear they are aware of the issues and trying to implement a new framework to improve the system. 
 
-However, as great as all of that sounds, we are still left wondering exactly how these changes are going to be made. A quote taken directly from their response said that “the new framework will encourage schools to teach a broad, rich and well-sequenced curriculum that ensures students will receive high quality education to put them on a path to future success.” As a student I think that is great – because after all, that’s the reason we go to school and study – but I must question how is that different from the current system. Are schools not already teaching a broad and well rounded curriculum?
+### But as great as all of that sounds, we are still left wondering exactly how these changes are going to be made.
+
+A quote taken directly from their response said that “the new framework will encourage schools to teach a broad, rich and well-sequenced curriculum that ensures students will receive high quality education to put them on a path to future success.” As a student I think that is great – because after all, that’s the reason we go to school and study – but I must question how is that different from the current system. Are schools not already teaching a broad and well rounded curriculum?
 
 Although it truly is great that our education system wants to help young people achieve success, we must keep in mind that success is subjective. 
 
