@@ -25,9 +25,9 @@ It was great to read within the response how much of what we spoke about is supp
 
 A quote taken directly from their response said that “the new framework will encourage schools to teach a broad, rich and well-sequenced curriculum that ensures students will receive high quality education to put them on a path to future success.” As a student I think that is great – because after all, that’s the reason we go to school and study – but I must question how is that different from the current system. Are schools not already teaching a broad and well rounded curriculum?
 
-Although it truly is great that our education system wants to help young people achieve success, we must keep in mind that success is subjective. 
+> Although it truly is great that our education system wants to help young people achieve success, we must keep in mind that success is subjective.
 
-> Being successful can mean very different things for different people. While one person could aim to be a successful business person, another could aim to have a stable career, a stable state of mind and good mental health. 
+Being successful can mean very different things for different people. While one person could aim to be a successful business person, another could aim to have a stable career, a stable state of mind and good mental health. 
 
 Another topic we had brought attention to in our letter is how a few grades does not define a person. In response to that, Ofsted mentioned that they are introducing two new methods to judge students: ‘personal development’ and ‘behaviour and attitude’. 
 As important as those sound, I feel like there is a lack of clarity to this: saying we are going to be judged by our personal development and behaviour and attitude does not explain what this involves – what is personal development, and how can it be measured? 
