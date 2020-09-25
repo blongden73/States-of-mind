@@ -6,6 +6,7 @@ categories:
 tags:
 - education
 - innovation
+- research
 Intro: '"We are still left wondering exactly how these changes are going to be made."'
 Byline: Julia ?
 Image: "/uploads/tim-mossholder-KZcWygxZ_J4-unsplash.jpg"
