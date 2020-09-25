@@ -17,7 +17,7 @@ Section: Reimagining Education
 
 *Julia is one of the school students who led the group, and wrote down her thoughts on what they heard back. Below, she explains why she had mixed feelings over the response, and was “left wondering” how exactly Ofsted plans to to improve education for young people.* 
 
-Having been one of the students to write the letter to Ofsted back in 2019, I was very happy when we received a response from them and we were all very grateful for the time they took to read about the issues we identified within the education system and about all of our ideas.
+"Having been one of the students to write the letter to Ofsted back in 2019, I was very happy when we received a response from them and we were all very grateful for the time they took to read about the issues we identified within the education system and about all of our ideas.
 
 It was great to read within the response how much of what we spoke about is supported by research carried out by Ofsted themselves and it’s amazing to hear they are aware of the issues and trying to implement a new framework to improve the system. 
 
@@ -36,6 +36,6 @@ I can speak from experience when I say having amazing grades and perfect behavio
 
 The response we received from Ofsted is certainly a step in the right direction. However, for me it feels very generic and focuses more on making the education system seem better in terms of delivering extra knowledge, while straying from the main point of our letter: how mental health can be linked to the education system, and how all of the "methods” created to judge students do not support mental health in any way. 
 
-The key point here is not to find new ways to assess individuals. It's to make sure that – alongside the mainstream education purposes we already receive – students feel safe and comfortable, know that their feelings and thoughts are valid, and understand where to go when they need extra help, no matter what the circumstances. 
+The key point here is not to find new ways to assess individuals. It's to make sure that – alongside the mainstream education purposes we already receive – students feel safe and comfortable, know that their feelings and thoughts are valid, and understand where to go when they need extra help, no matter what the circumstances." 
 
 **We are currently working with UCL Institute of Education to further develop Julia and her peers' research into the education system's impact on young people. Watch this space as we share more about our findings in the coming weeks, and work with students to reimagine educational assessment. **
