@@ -3,17 +3,17 @@ title: Safeguarding
 date: 2020-09-24 13:51:00 Z
 ---
 
+Safeguarding Policy
+
 Safeguarding the wellbeing of young people is fundamental to our approach. We aim to both protect users from harm and ensure that their right to confidentiality is properly upheld, in keeping with the law and good practice guidance.
 
 Our approach
 
 While most of our users simply need a little extra advice or support, some are more vulnerable. We have procedures in place to safeguard the welfare of all our users in line with our commitment to enabling young people to be curious, open and reflect honestly about their experiences without harm or fear of reprisal.
 
-The States of Mind Online education programme incorporates a sophisticated system for monitoring and tracking potential safeguarding risks. 
+The States of Mind Online education programme incorporates a secure database of young people’s personal information. If information that is submitted to us indicates that you may be at risk of harm to yourself or others we will contact you to offer further support and will refer you to a safeguarding officer in your school or college.
 
-The system is based on best practices used in other confidential helplines.
-
-This enables us to spot patterns of concern as well as issues that must be dealt with immediately.
+We will use the contact information that you provide us with when signing up to the online education programme to contact you. 
 
 Our commitment to confidentiality
 
@@ -25,4 +25,6 @@ Confidentiality at States of Mind means that no identifiable information about a
 
 States of Mind recognises legal restrictions such as the age of consent or the use of alcohol, tobacco or drugs and where appropriate we will offer guidance and support on health and safety. However, in line with our confidentiality policy, we would not necessarily refer young people to the authorities unless we felt that they were at risk of harming themselves or others.
 
-States of Mind is not a crisis or emergency service. If your post suggests that you might be at risk of harm or harming others, in accordance with our safeguarding policy, we will send you a message with guidance on how you can get help and may notify a safeguarding officer in your school or college.
+States of Mind is not a crisis or emergency service. If your post suggests that you might be at risk of harm or harming others, in accordance with our safeguarding policy, we will send you a message with guidance on how you can get help and may notify a safeguarding officer in your school or college. 
+
+
