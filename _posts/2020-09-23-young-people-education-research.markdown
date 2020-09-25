@@ -51,7 +51,7 @@ Acknowledging this, States of Mind use a Participatory Action Research (PAR) app
 
 PAR encourages information sharing between researchers and participants, affording both an opportunity to share and learn together. At States of Mind, we launch our research projects with everything ‘on the table’. In traditional research, adults formulate research questions and position children as experimental subjects. Contrastingly, in PAR, young people design their own research questions, collect data, evaluate their findings, choose how to present these and what are the next steps. They are encouraged to undertake forms of collective challenge based on the knowledge garnered through their critical inquiries.
 
-## Breaking The Silence
+## In the driving seat
 
 Supported by the Institute of Education, University College London, we have recently rolled out our youth-led research project, [Breaking the Silence](https://www.statesofmind.org/journal/2020/09/16/breaking-the-silence.html). Using a PAR approach, this ever-evolving project explores the impact of the current school inspection framework, designed and implemented by Ofsted, impacts on young peoples’ experience of education. It also investigates how school supports their mental health, personal development and preparation for real life. 
 
