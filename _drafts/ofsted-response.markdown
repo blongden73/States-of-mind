@@ -1,5 +1,6 @@
 ---
-title: Ofsted response
+title: Here's what Ofsted wrote in reply to the Breaking The Silence students' open
+  letter
 date: 2020-09-23 10:41:00 Z
 ---
 
