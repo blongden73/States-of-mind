@@ -42,7 +42,7 @@ Students feel that sometimes, the role of teachers seems to be to teach to the t
 
 Ofsted inspections focus school’s targets on academic performance, rather than their ability to provide a holistic and student focused culture of general wellbeing and self determination. Student's can be left feelings as if there is a stigma around non academic pathways and alternative routes to employment which limits their choices and sense of autonomy within education. 
 
-**We are currently working with UCL Institute of Education to further develop the students' research into the education system's impact on young people. Watch this space as we share more about our findings in the coming weeks.**
+**We are currently working with UCL Institute of Education to further develop the students' research. Watch this space as we share more about our findings in the coming weeks.**
 
 **For now, listen to our podcast episode on the Breaking the Silence project, below.**
 
