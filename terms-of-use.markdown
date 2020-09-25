@@ -71,6 +71,7 @@ Monitor content for safeguarding concerns
 
 By using our website and our Online education programme, you acknowledge and consent to our monitoring as described in these Terms of Use. You expressly agree to waive any rights of confidentiality that you may have in, and to, your communications (if any) when using our site and our online education programme and you agree that you have no expectation of privacy in any of those communications.
 
+
 Communication
 
 In accordance with our Privacy Policy, we may contact you via email regarding administrative issues, including improvements to our site and our app. In addition, States of Mind may send you emails with content from the States of Mind community, such as our newsletters or with suggestions for specific support services that we think might be useful for you. In general, by using States of Mind and agreeing to these terms, you are agreeing to be contacted by States of Mind via email with general communications. We won't abuse this right and will endeavour to provide you with valuable information, however, in accordance with our Privacy Policy you may opt out of receiving such communications at any point by clicking on the “unsubscribe” links in any of our emails.
@@ -83,6 +84,7 @@ By using our services you are agreeing to permit your data to be used by us or a
 
 Users have, under Part II of the Data Protection Act 1998, a right of access to personal data concerning them, and to its rectification, opposition and deletion, which you can exercise by writing to us by email at info@statesofmind.org
 
+
 Copyright and Trade Mark Ownership
 
 You own all the content you submit on our website and on our Online education programme and give us a perpetual, royalty-free, right to a licence and sub-licence throughout the world to collect, reproduce, publish, distribute, display, transmit, modify and otherwise use your posted content on our site and our online education programme, and for our own internal purposes. 
@@ -90,8 +92,6 @@ You own all the content you submit on our website and on our Online education pr
 Ownership of any materials that you submit directly to us for use on the website or the Online education programme, for example images for our educational resources, will transfer to us on acceptance of the material. We are under no obligation to pay you for submitted materials without prior agreement.
 
 Aggregated and compiled content available through our website or our online education programme is the property of STATES OF MIND or its licensors and may be protected by English and/or international copyright laws. The collection, arrangement and assembly of all content is the exclusive property of STATES OF MiND CIC and protected by English and/or international copyright laws. We grant you permission to share this information via provided utilities (i.e. Facebook), electronically copy, and print copies of content for personal use only. Any other use, including the reproduction, modification, distribution, transmission, republication, or display of the content is strictly prohibited. If you use material other than as permitted by the terms of this Agreement, you may be liable for infringement, misappropriation or other causes of action to the fullest extent of the law.
-
-Do not post media (images, text, video, audio, or other) on our site or our online education programme unless you have full ownership/rights in such media or are otherwise legally permitted to do so.
 
 Other than the personal use licensed above, you may not reproduce any content in any form without first obtaining written permission.
 
@@ -105,13 +105,13 @@ Disclaimer, Warranties and Liability
 
 You acknowledge and agree that your use of our website and our online education programme are at your sole risk. To the fullest extent permitted by law, neither STATES OF MIND CIC nor its officers, directors, employees, agents, successors or affiliates will be liable to any user of our site or our app or any other person or entity for any:
 
-\(a)           indirect, special, incidental, punitive, consequential or exemplary damages;
+(a)           indirect, special, incidental, punitive, consequential or exemplary damages;
 
-\(b)           loss of profits;  
+(b)           loss of profits;  
 
-\(c)           loss of data; or
+(c)           loss of data; or
 
-\(d)           loss of use,
+(d)           loss of use,
 
 in each case, arising out of the use or inability to use our site or our app, even if we have been advised of the possibility of such damages, except where liability cannot be excluded in accordance with applicable law.
 
@@ -123,7 +123,7 @@ STATES OF MIND CIC will accept no liability for advice provided by any medical p
 
 We cannot always foresee or anticipate technical or other difficulties. These difficulties may result in loss of data, settings, or other service interruptions. For this reason, you agree that States of Mind services, including the services of our third-party service providers, are provided "as-is" and we do not guarantee the availability of the States of Mind services or that any of the features or services will not be interrupted or will be error free.
 
-Law\
+Law
 The States of Mind service was designed for Users resident in the United Kingdom. English law governs these general conditions. Foreign (including Scottish) Users expressly accept that by using the website and the App English law shall apply and any dispute arising from their use shall be litigated only in England and Wales. Accordingly, Users acknowledge that generally any information that is disseminated to, and / or exchanged via the States of Mind services may not be appropriate outside England and Wales.
 
 Notices
