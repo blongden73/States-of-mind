@@ -12,8 +12,6 @@ We may collect and process information that you enter on our website.
 
 By submitting your data to us you are agreeing to the terms in this Privacy Policy.
 
-We may use other companies to store your data, these are always within Europe. 
-
 We ensure that your data is treated securely and follows this Privacy Policy. 
 
 Personal data such as emails or telephone numbers are encrypted.
