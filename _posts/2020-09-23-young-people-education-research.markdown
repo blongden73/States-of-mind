@@ -59,4 +59,4 @@ The students involved appreciate the uniqueness of the PAR experience in the con
 
 States of Mind are exploring the purpose of education and proposing solutions to this age-old conundrum. PAR ensures that young people are at the centre of the debate and in the driving seat, in charge of their future.   
 
-**We are currently working with UCL Institute of Education to develop the Breaking The Silence research project. Watch this space as we share more about our findings in the coming weeks, and work with students to reimagine educational assessment. **
+**We are currently working with UCL Institute of Education to develop the Breaking The Silence research project. Watch this space as we share more about our findings in the coming weeks, and work with students to reimagine educational assessment.**
