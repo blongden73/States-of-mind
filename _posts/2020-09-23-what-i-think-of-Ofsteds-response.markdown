@@ -14,7 +14,7 @@ Section: Reimagining Education
 
 *In 2019, a group of students from London colleges wrote [a powerful open letter](https://www.statesofmind.org/journal/2020/09/16/students-ofsted-open-letter.html) to Ofsted about the impact of school experiences on mental health and personal development. You can read Ofsted's reply to the students here. 
 
-Julia is one of the school students who led the group, and wrote down her thoughts on what they heard back. Below, she explains why she has mixed feelings over the response, “left wondering” what changes are actually going to be made in order to improve outcomes for young people.* 
+Julia is one of the school students who led the group, and wrote down her thoughts on what they heard back. Below, she explains why she has mixed feelings over the response, “left wondering” how exactly Ofsted plans to to improve education for young people.* 
 
 Having been one of the students to write the letter to Ofsted back in 2019, I was very happy when we received a response from them and we were all very grateful for the time they took to read about the issues we identified within the education system and about all of our ideas.
 
