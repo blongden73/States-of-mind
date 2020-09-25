@@ -47,6 +47,8 @@ We know from years of research around Self-Determination that without ‘autonom
 
 Acknowledging this, States of Mind use a Participatory Action Research (PAR) approach to co-develop [psychologically healthy education alternatives](https://www.statesofmind.org/what-we-do). In PAR, participants are not the ‘subjects’ of research, they are ‘active contributors’. Collective inquiry builds ownership and the PAR process is empowering, liberating, and consciousness-raising for individuals. 
 
+> In PAR, participants are not the ‘subjects’ of research, they are ‘active contributors’. 
+
 PAR encourages information sharing between researchers and participants, affording both an opportunity to share and learn together. At States of Mind, we launch our research projects with everything ‘on the table’. In traditional research, adults formulate research questions and position children as experimental subjects. Contrastingly, in PAR, young people design their own research questions, collect data, evaluate their findings, choose how to present these and what are the next steps. They are encouraged to undertake forms of collective challenge based on the knowledge garnered through their critical inquiries.
 
 ## Breaking The Silence
