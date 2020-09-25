@@ -1,6 +1,11 @@
 ---
 title: I'm one of the students who wrote to Ofsted, here's what I think of their response
 date: 2020-09-23 09:00:00 Z
+categories:
+- journal
+tags:
+- education
+- innovation
 Intro: '"We are still left wondering exactly how these changes are going to be made."'
 Byline: Julia ?
 Image: "/uploads/tim-mossholder-KZcWygxZ_J4-unsplash.jpg"
