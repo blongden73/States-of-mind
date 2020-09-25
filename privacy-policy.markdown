@@ -4,6 +4,8 @@ date: 2020-09-24 13:47:00 Z
 layout: handbook
 ---
 
+Privacy Policy
+
 At STATES OF MIND CIC we are committed to protecting and respecting your privacy. This policy explains how any personal data we collect from you, or that you provide to us, will be used by us.
 
 Policy Summary
@@ -28,14 +30,14 @@ Questions, comments, and feedback regarding this privacy policy are welcomed and
 
 The policy in full
 
-The data controller\
+The data controller
 For the purpose of the General Data Protection Regulation, the data controller is STATES OF MIND CIC, 166 Dalston Lane, E8 1NG
 
 Any data protection issues or queries should be addressed to our Data Protection Officer at bea@statesofmind.org 
 
 What personal information do we collect from the people that visit our website?
 
-We may collect and process information that you enter on our website www.meetwo.co.uk, and our online education programme. This includes the information you provide when registering for and completing our online education programme. We may also ask you for information when you report a problem with one of our services. 
+We may collect and process information that you enter on our website www.statesofmind.org, and our online education programme. This includes the information you provide when registering for and completing our online education programme. We may also ask you for information when you report a problem with one of our services. 
 
 The information which you provide us may include your:
 
@@ -70,8 +72,6 @@ What is the legal basis for processing the data?
 We are only allowed to use your personal information when certain conditions apply. We typically rely on the following conditions:
 
 You have taken out a Contract with us. 
-
-This mainly applies to our staff, our business partners or someone who has chosen to order or buy something from our website. 
 
 We have a Legitimate Interest. 
 
@@ -125,7 +125,8 @@ We may also release information when required by law or when it is necessary to 
 
 We may disclose data obtained from our website to academic institutions and research bodies for research purposes. However, we ensure that any such data is anonymised before it is transferred and that any recipients of this data adhere to adequate standards of ethics, data security and privacy. Anonymised visitor information may also be provided to other parties for marketing, advertising, or other uses.
 
-Access to information\
+
+Access to information
 Data Protection law gives you the right to access information held about you. Please contact info@statesofmind for more information.
 
 Our Policies Concerning Children
@@ -140,5 +141,5 @@ Changes to our privacy policy
 
 We will occasionally update this Privacy Policy to reflect changes in our practices and services. When we post changes to this Privacy Policy, we will revise the "Last Updated" date at the top of this Privacy Policy and the revised Privacy Policy will come into effect on the date it was posted to our site or our app or as otherwise notified by us. If we make any material changes in the way we collect, use, and/or share your personal information, we will notify you by prominently posting notice of the changes on our website and, where appropriate, notifying you by email. We recommend that you check this page from time to time to inform yourself of any changes in this Privacy Policy. By continuing to use our site or our app after we have posted a revised Privacy Policy you acknowledge that you have consented to the revised Privacy Policy.
 
-Contacting Us\
-Questions, comments and feedback regarding this privacy policy are welcomed and should be addressed to info@statesofmind.org
+Contacting Us
+Questions, comments and feedback regarding this privacy policy are welcomed and should be addressed to info@statesofmind.org 
