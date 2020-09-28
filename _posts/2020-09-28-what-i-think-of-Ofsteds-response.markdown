@@ -8,14 +8,14 @@ tags:
 - innovation
 - research
 Intro: '"We are still left wondering exactly how these changes are going to be made."'
-Byline: Julia
+Byline: Julia Stefany
 Image: "/uploads/tim-mossholder-KZcWygxZ_J4-unsplash.jpg"
 Section: Reimagining Education
 ---
 
 *In 2019, a group of students from London colleges wrote [a powerful open letter](https://www.statesofmind.org/journal/2020/09/16/students-ofsted-open-letter.html) to Ofsted about the impact of school experiences on mental health and personal development. You can read Ofsted's reply to the students [here](http://www.statesofmind.org/2020/09/23/ofsted-response.html).*
 
-*Julia is one of the school students who led the group, and wrote down her thoughts on what they heard back. Below, she explains why she had mixed feelings over the response, and was “left wondering” how exactly Ofsted plans to to improve education for young people.* 
+*Julia Stefany is one of the school students who led the group, and wrote down her thoughts on what they heard back. Below, she explains why she had mixed feelings over the response, and was “left wondering” how exactly Ofsted plans to to improve education for young people.* 
 
 "Having been one of the students to write the letter to Ofsted back in 2019, I was very happy when we received a response from them and we were all very grateful for the time they took to read about the issues we identified within the education system and about all of our ideas.
 
