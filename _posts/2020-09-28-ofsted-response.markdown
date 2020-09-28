@@ -33,10 +33,10 @@ In 2019, a group of students from London colleges wrote [a powerful open letter]
 
 *Thank you so much for taking the time to write in and engage with important changes to our education system. Keep making your voices heard.*
 
-> Yours sincerely,
+*Yours sincerely,
 Matthew Purves Deputy Director, Schools
-(Ofsted)
+(Ofsted)*
 
-***Ends***
+***
 
 **States of Mind is working with UCL Institute of Education to further develop the Breaking The Silence group of London students' research on the impact the education system has on young people's mental health and personal development. Watch this space as we share more about our findings in the coming weeks.**
