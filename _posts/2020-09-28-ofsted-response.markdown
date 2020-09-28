@@ -9,11 +9,12 @@ tags:
 Intro: 'The UK''s Office for Standards in Education, Children''s Services and Skills
   replies to students who voiced their concerns over our education system. '
 Image: "/uploads/kupono-kuwamura-LzgK6IMoSZM-unsplash.jpg"
+Section: Reimagining Education
 ---
 
 In 2019, a group of students from London colleges wrote [a powerful open letter](https://www.statesofmind.org/journal/2020/09/16/students-ofsted-open-letter.html) to Ofsted about the impact of school experiences on mental health and personal development. Ofsted sent a reply to the students, which we're sharing here today.
 
-*Dear Julia, Afruza, Fatima, Sadia, Reya, Maheen, Iqra, and Bea*
+> Dear Julia, Afruza, Fatima, Sadia, Reya, Maheen, Iqra, and Bea
 
 *Thank you for your letter to Her Majesty’s Chief Inspector, Amanda Spielman. Amanda has asked me to respond because, as Deputy Director for Schools, I led the development of the new framework and the consultation. It’s great to see students responding to our consultation. As you say, the views of students aren’t always given the prominence they deserve, so I value having your unique insight into the education system.*
 
@@ -29,7 +30,8 @@ In 2019, a group of students from London colleges wrote [a powerful open letter]
 
 *Thank you so much for taking the time to write in and engage with important changes to our education system. Keep making your voices heard.*
 
-*Yours sincerely,
-Matthew Purves Deputy Director, Schools*
+> Yours sincerely,
+Matthew Purves Deputy Director, Schools
+(Ofsted)
 
 **States of Mind is working with UCL Institute of Education to further develop the Breaking The Silence group of London students' research on the impact the education system has on young people's mental health and personal development. Watch this space as we share more about our findings in the coming weeks.**
