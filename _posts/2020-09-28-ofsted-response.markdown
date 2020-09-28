@@ -1,6 +1,5 @@
 ---
-title: Here's what Ofsted wrote in reply to the Breaking The Silence students' open
-  letter
+title: Read Ofsted's reply to London students' open letter
 date: 2020-09-28 10:30:00 Z
 categories:
 - journal
