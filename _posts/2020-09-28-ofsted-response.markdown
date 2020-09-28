@@ -6,6 +6,9 @@ categories:
 tags:
 - education
 - young people
+Intro: 'The UK''s Office for Standards in Education, Children''s Services and Skills
+  replies to students who voiced their concerns over our education system. '
+Image: "/uploads/kupono-kuwamura-LzgK6IMoSZM-unsplash.jpg"
 ---
 
 In 2019, a group of students from London colleges wrote [a powerful open letter](https://www.statesofmind.org/journal/2020/09/16/students-ofsted-open-letter.html) to Ofsted about the impact of school experiences on mental health and personal development. Ofsted sent a reply to the students, which we're sharing here today.
