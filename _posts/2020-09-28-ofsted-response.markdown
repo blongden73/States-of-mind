@@ -39,4 +39,4 @@ Matthew Purves Deputy Director, Schools
 
 ***
 
-**States of Mind is working with UCL Institute of Education to further develop the Breaking The Silence group of London students' research on the impact the education system has on young people's mental health and personal development. Watch this space as we share more about our findings in the coming weeks.**
+**States of Mind is working with UCL Institute of Education to develop our youth-led research project, Breaking The Silence, exploring the impact the education system has on young people's mental health and personal development. Read more about it [here](https://www.statesofmind.org/journal/2020/09/16/breaking-the-silence.html), and watch this space as we share more about our findings in the coming weeks.**
