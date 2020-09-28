@@ -1,6 +1,6 @@
 ---
 title: It’s time to put young people at the centre of education research
-date: 2020-09-23 09:36:00 Z
+date: 2020-09-28 10:40:00 Z
 categories:
 - journal
 tags:
