@@ -1,7 +1,7 @@
 ---
 title: Here's what Ofsted wrote in reply to the Breaking The Silence students' open
   letter
-date: 2020-09-23 10:41:00 Z
+date: 2020-09-28 10:30:00 Z
 categories:
 - journal
 tags:
@@ -30,3 +30,4 @@ Thank you so much for taking the time to write in and engage with important chan
 Yours sincerely,
 Matthew Purves Deputy Director, Schools*
 
+**States of Mind is working with UCL Institute of Education to further develop the Breaking The Silence group of London students' research on the impact the education system has on young people's mental health and personal development. Watch this space as we share more about our findings in the coming weeks.**
