@@ -8,7 +8,7 @@ tags:
 - young people
 Intro: 'The UK''s Office for Standards in Education, Children''s Services and Skills
   replies to students who voiced their concerns over our education system. '
-Image: "/uploads/kupono-kuwamura-LzgK6IMoSZM-unsplash.jpg"
+Image: "/uploads/robin-schreiner-7y4858E8PfA-unsplash.jpg"
 Section: Reimagining Education
 ---
 
