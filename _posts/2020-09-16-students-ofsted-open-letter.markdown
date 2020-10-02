@@ -85,4 +85,4 @@ The education system does not prepare young people for later life, as it does no
 
 **For now, you can read more about the project in a [blog](https://www.statesofmind.org/journal/2020/09/16/breaking-the-silence.html) by our founder, Bea, and watch a short film below.**
 
-<iframe src="https://anchor.fm/bea-herbert/embed/episodes/Breaking-The-Silence--Young-peoples-views-on-Education-and-Identity-eeb7ej" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://player.vimeo.com/video/456503837" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
