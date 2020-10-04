@@ -264,7 +264,7 @@ Please copy this link into your browser to access your handbook:
 
 https://www.statesofmind.org/user
 
-For more information on this course and how we maintain your confidentiality, while upholding our duty to safeguard you from any harm, please read the content in our introductory module below. 
+You can find more information on this course and how we maintain your confidentiality, while upholding our duty to safeguard you from any harm by pressing 'Start Class' below. 
 
 **Make sure to fill out the following survey before you start the course and press 'Done' at the end to submit your answers.**
 
