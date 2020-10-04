@@ -101,7 +101,7 @@ Slides:
     submit this username after you complete each activity. This will save your work
     so you can come back to it at any time.** \n\nTo access your personal handbook,
     copy this link into your browser and submit your username to access all of your
-    previous submissions. \n\nhttps://www.statesofmind.org/user"
+    previous submissions: \n\nhttps://www.statesofmind.org/user"
   Graphic Image: 
   Audio url: 
   Video Url: 
