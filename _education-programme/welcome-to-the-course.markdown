@@ -193,9 +193,9 @@ Slides:
     outside States of Mind, other than in the most exceptional circumstances. \n\nThe
     only people who can view your submissions to your handbook are the States of Mind
     Team. We will only disclose information provided if we believe you are at risk
-    of harm and you will be contacted by Bea Herbert who will discuss this with you,
-    alongside a safeguarding lead at your college. \n\nSee our Terms of Use and Privacy
-    Policy for more information on how we use data."
+    of harm. In these rare cases, you will be contacted by Bea Herbert who will discuss
+    this with you, alongside a safeguarding lead at your college. \n\nSee our Terms
+    of Use and Privacy Policy for more information on how we use data."
   Graphic Image: 
   Audio url: 
   Video Url: 
