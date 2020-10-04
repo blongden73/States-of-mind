@@ -264,6 +264,8 @@ Please copy this link into your browser to access your handbook:
 
 https://www.statesofmind.org/user
 
+For more information on this course and how we maintain your confidentiality, while upholding our duty to safeguard you from any harm, please read the content in our introductory module below. 
+
 **Make sure to fill out the following survey before you start the course and press 'Done' at the end to submit your answers.**
 
 <script>(function(t,e,s,n){var o,a,c;t.SMCX=t.SMCX||[],e.getElementById(n)||(o=e.getElementsByTagName(s),a=o[o.length-1],c=e.createElement(s),c.type="text/javascript",c.async=!0,c.id=n,c.src="https://widget.surveymonkey.com/collect/website/js/tRaiETqnLgj758hTBazgd9drLJnboGjIT22BjcFIstuz24wo7MFVA18l2Xcsxgha.js",a.parentNode.insertBefore(c,a))})(window,document,"script","smcx-sdk");</script>
