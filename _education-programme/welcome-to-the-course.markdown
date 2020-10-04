@@ -99,7 +99,9 @@ Slides:
   Image: 
   Description: "**To save your work in your handbook, please create a username and
     submit this username after you complete each activity. This will save your work
-    so you can come back to it at any time.** "
+    so you can come back to it at any time.** \n\nTo access your personal handbook,
+    copy this link into your browser and submit your username to access all of your
+    previous submissions. \n\nhttps://www.statesofmind.org/user"
   Graphic Image: 
   Audio url: 
   Video Url: 
@@ -188,8 +190,12 @@ Slides:
     to explore their experiences with openness and transparency and trust in the programmes
     that we provide. \n\nConfidentiality at States of Mind means that no identifiable
     information about any individual is disclosed or passed to anyone, or any agency
-    outside States of Mind, other than in the most exceptional circumstances. See
-    our Terms of Use and Privacy Policy for more information on how we use data."
+    outside States of Mind, other than in the most exceptional circumstances. \n\nThe
+    only people who can view your submissions to your handbook are the States of Mind
+    Team. We will only disclose information provided if we believe you are at risk
+    of harm and you will be contacted by Bea Herbert who will discuss this with you,
+    alongside a safeguarding lead at your college. \n\nSee our Terms of Use and Privacy
+    Policy for more information on how we use data."
   Graphic Image: 
   Audio url: 
   Video Url: 
