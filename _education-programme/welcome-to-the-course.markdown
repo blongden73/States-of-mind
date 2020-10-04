@@ -121,8 +121,8 @@ Slides:
     out if we feel you need further support.\n\nWe will only disclose information
     provided to the handbook if we believe you are at risk of harm. In these rare
     cases, you will be contacted by Bea Herbert who will discuss this with you, alongside
-    a safeguarding lead at your college. \n\nSee our Terms of Use and Privacy Policy
-    for more information on how we use data."
+    a safeguarding lead at your college. See our Terms of Use and Privacy Policy for
+    more information on how we use data."
   Graphic Image: 
   Audio url: 
   Video Url: 
