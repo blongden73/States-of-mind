@@ -10,7 +10,7 @@ tags:
 Intro: 'A London college student poetically reflects on how the education system put
   much more than her knowledge to the test. '
 Byline: By Christevie
-Image: "/uploads/4b77ee005971f5ceda72a627e2a933ad.jpg"
+Image: "/uploads/liam-simpson-G-eFM1PynOo-unsplash.jpg"
 ---
 
 *Growing numbers of young people in the UK are seeking help for their mental health. Research shows that in the UK, 20% of adolescents may experience a mental health problem in any given year. Meanwhile, 50% of mental health problems are established by age 14 and 75% by age 24. We believe our education system can do better to support student mental health and wellbeing, and in order to enact effective and sustainable change, we need to hear young people's voices.* 
