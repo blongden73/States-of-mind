@@ -7,6 +7,9 @@ tags:
 - identity
 - education
 - youth
+Intro: 
+Byline: By Reegan (Woodhouse College)
+Image: 
 ---
 
 Growing up as young people, we are constantly exposed to environments that demand we establish a sense of who we are. Yet in educational environments, people show little interest in helping us to make sense of this process. The majority of the first eighteen years of our life is spent in the educational institutions, from primary to secondary to sixth form or college, with most people being encouraged to spend another three-eight years in university. In this time, each person is expected to discover and establish a strong sense of an independent and individual identity so that we feel confident and prepared to engage with our society in a meaningful way. We are told that committing our life to education is the best way to support our personal growth and development.
