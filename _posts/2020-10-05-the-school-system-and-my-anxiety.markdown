@@ -17,6 +17,8 @@ Image: "/uploads/4b77ee005971f5ceda72a627e2a933ad.jpg"
 
 *Today we hear from Woodhouse College student Christevie, who is co-leading the working group for Breaking The Silence, our youth-led research project exploring the impact of the UK Education system on young people's mental health and identity. She candidly shares her experience of school and the culture of high-stakes exams in the following poem.*
 
+*****
+
 The alarm rings, buzzes and beeps.
 Thinking about last night and how I cried myself to sleep.
 
@@ -76,5 +78,7 @@ praying for my struggles to go away.
 
 I then cry myself to sleep
 And wake up for the day to repeat.
+
+*****
 
 **We are currently working with UCL Institute of Education to further develop Christevie and her peers' research. Watch this space as we share more about our findings in the coming weeks.**
