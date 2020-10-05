@@ -38,7 +38,7 @@ wondering if it is all just a scam
 One thought turns to two and two to three,
 here comes a wave of anxiety.
 
-The thoughts crash and slam in my brain,
+> The thoughts crash and slam in my brain,
 I begin to think that I’m going insane.
 
 I don’t understand how this is humane,
@@ -61,7 +61,6 @@ as I can’t let anyone see me in this state.
 
 My legs start to wither, this goes on for what feels like forever.
 Unable to believe that is something I have to endeavour.
-
 
 I integrate myself back into society with a smile.
 constantly thinking if the stress is worthwhile 
