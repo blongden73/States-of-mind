@@ -278,23 +278,6 @@ Slides:
   Slide Colour: 
   Quiz:
   - www.statesofmind.org/quiz/how-does-each-therapeutic-approach-work.html
-- Template: fourteen
-  Title: Yoga with Adrien
-  Image: 
-  Description: 
-  Graphic Image: 
-  Audio url: 
-  Video Url: <iframe width="560" height="315" src="https://www.youtube.com/embed/bJJWArRfKa0"
-    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-    gyroscope; picture-in-picture" allowfullscreen></iframe>
-  Credit: 
-  Links:
-  - Link Url: 
-  Quote: 
-  Quote Credit: 
-  Slide Colour: 
-  Quiz:
-  - 
 - Template: one
   Title: Feelings
   Image: "/uploads/BFM%20hands.jpg"
