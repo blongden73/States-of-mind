@@ -53,7 +53,7 @@ PAR encourages information sharing between researchers and participants, affordi
 
 ## In the driving seat
 
-Supported by the Institute of Education, University College London, we have recently rolled out our youth-led research project, [Breaking the Silence](https://www.statesofmind.org/journal/2020/09/16/breaking-the-silence.html). Using a PAR approach, this ever-evolving project explores the impact of the current school inspection framework, designed and implemented by Ofsted, impacts on young peoples’ experience of education. It also investigates how school supports their mental health, personal development and preparation for real life. 
+Supported by the Institute of Education, University College London, we have recently rolled out our youth-led research project, [Breaking the Silence](https://www.statesofmind.org/journal/2020/09/16/breaking-the-silence.html). Using a PAR approach, this ever-evolving project explores how the impact of the current school inspection framework, designed and implemented by Ofsted, impacts on young peoples’ experience of education. It also investigates how school supports their mental health, personal development and preparation for real life. 
 
 The students involved appreciate the uniqueness of the PAR experience in the context of their educational experiences and report feeling empowered with increased self-awareness and understanding of the systems that impinge upon them. Most importantly, their voice matters. They develop a sense of autonomy and competence which emboldens them to promote positive change in their own and others lives. The PAR process promotes the emergence of an ever-expanding group of young educational innovators, instilled with the knowledge and confidence to shape their world.  
 
