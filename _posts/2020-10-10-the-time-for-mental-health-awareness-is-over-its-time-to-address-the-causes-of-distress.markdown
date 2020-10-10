@@ -7,7 +7,7 @@ categories:
 Intro: On World Mental Health Day, our Founder Bea reflects on her learning around
   what young people need and are capable of.
 Byline: 'by Bea Herbert '
-Image: "/uploads/ravi-roshan-_AdUs32i0jc-unsplash.jpg"
+Image: "/uploads/jorge-reyna-GPxRb8s1z7I-unsplash.jpg"
 layout: post
 ---
 
