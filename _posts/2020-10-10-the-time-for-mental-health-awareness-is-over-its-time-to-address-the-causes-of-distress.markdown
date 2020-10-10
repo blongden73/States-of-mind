@@ -4,8 +4,8 @@ title: The time for mental health awareness is over, it’s time to address the 
 date: 2020-10-10 13:25:00 Z
 categories:
 - journal
-Intro: On World Mental Health Day, our Founder Bea reflects on her learning around
-  what young people need and are capable of.
+Intro: On World Mental Health Day, our Founder Bea reflects on her work with young
+  people.
 Byline: 'by Bea Herbert '
 Image: "/uploads/pinakeen-bhatt-7URiS9J_Rh8-unsplash.jpg"
 layout: post
