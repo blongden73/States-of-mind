@@ -55,4 +55,4 @@ There's much more I could say, but one thing I am sure of is that there exists a
 
 There’s hope to be found in many places but it requires that we lay down ideas about ‘experts’ having the solutions, and find ways to make space for the people in need to show us the way forward.
 
-**You can learn more about our work, from mental health education to youth-led research projects, [here](https://www.statesofmind.org/what-we-do), and keep up to date at our [Instagram](https://www.instagram.com/statesofmindorg_/). (https://www.statesofmind.org/what-we-do).**
+**You can learn more about our work, from mental health education to youth-led research projects, [here](https://www.statesofmind.org/what-we-do), and keep up to date at our [Instagram](https://www.instagram.com/statesofmindorg_/)and [Twitter](https://twitter.com/statesofmind_20).**
