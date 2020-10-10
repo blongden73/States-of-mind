@@ -39,7 +39,7 @@ Sometimes they will tell me they finally have words to describe something they h
 
 ## Mental health innovation
 
-> Perhaps the greatest misconception that I feel compelled to challenge is that young people are less able to contribute to systems change because of their age. 
+> Perhaps the greatest misconception that I feel compelled to challenge is that young people are less able to contribute to systems change because of their age.
 
 They have incredibly creative, intuitive and fast minds. They work at a speed I sometimes find difficult to keep up with. They clearly see what the problems are and can prototype effective solutions to complex issues in two hours. Their teams function as highly efficient think tanks around young people’s mental health. I’ll give you an example:
 
@@ -51,7 +51,7 @@ He had tapped into a psychological truth: we are more likely to behave pro-socia
 
 Last year, students across six colleges came up with more than 70 ideas like this of how to solve issues affecting their mental health. Their challenge is to focus on addressing the causes of problems, not the symptoms. We only have time for them to focus on three projects per team and that often feels like a lot due to the time limitations within schools. But they are incredibly focused, driven and reflective. Each week they think about how they can improve their idea, they iterate it, evaluate it, try again. Just like social entrepreneurs.
 
-There's much more I could say, but one thing I am sure of is that there exists a huge amount of hope and potential for changing the landscape of mental health education in schools. I have found three ingredients to be essential to this: space, time, and reducing the power imbalance between young people and professionals. These are resources schools are lacking and need help to create, but they *are* being created. Young people hold enormous power, and we must be careful not to restrict them, or misunderstand them. Because in many ways, they are leading the charge and inspiring the change we so often talk about needing. 
+There's much more I could say, but one thing I am sure of is that there exists a huge amount of hope and potential for changing the landscape of mental health education in schools. I have found three ingredients to be essential to this: space, time, and reducing the power imbalance between young people and professionals. These are resources schools are lacking and need help to create, but they *are* being created. Young people hold enormous power, and we must be careful not to restrict them, or misunderstand them. Because in many ways, they are leading the charge and inspiring the change we so often talk about needing.
 
 There’s hope to be found in many places but it requires that we lay down ideas about ‘experts’ having the solutions, and find ways to make space for the people in need to show us the way forward.
 
