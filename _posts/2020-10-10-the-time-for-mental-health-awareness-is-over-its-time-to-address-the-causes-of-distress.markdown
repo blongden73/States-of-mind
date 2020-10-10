@@ -1,6 +1,5 @@
 ---
-title: The time for mental health awareness is over, it’s time to address the causes
-  of distress.
+title: The time for mental health awareness is over.
 date: 2020-10-10 13:25:00 Z
 categories:
 - journal
