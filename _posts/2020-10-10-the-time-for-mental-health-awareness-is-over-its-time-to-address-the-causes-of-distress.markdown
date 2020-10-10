@@ -12,7 +12,7 @@ Image: "/uploads/pinakeen-bhatt-7URiS9J_Rh8-unsplash.jpg"
 
 *On World Mental Health Day, our Founder Bea reflects on her learning around what young people need and are capable of.* 
 
-6 years ago, as a young person and a trainee psychologist, I realised that we didn’t need more mental health awareness, we needed viable and sustainable ways of addressing the causes of young people’s distress and we needed to involve them in finding the solutions. There’s a big difference between talking about change that is needed and taking action to make our demands a reality. But how do we get there? I definitely don’t have all the answers but I have some ideas and insights into how progress can be made. I’ve learned by watching, listening and working alongside young people and realising how much they are capable of when they are trusted to take part in the quest for solutions. 
+6 years ago, as a young person and a trainee psychologist, I realised that we didn’t need more mental health awareness, we needed viable and sustainable ways of addressing the causes of young people’s distress. There’s a big difference between talking about change that is needed and taking action to make our demands a reality. But how do we get there? I definitely don’t have all the answers but I have some ideas and insights into how progress can be made. I’ve learned by watching, listening and working alongside young people and realising how much they are capable of when they are trusted to take part in the quest for solutions. 
 
 ## Mental health education 
 
