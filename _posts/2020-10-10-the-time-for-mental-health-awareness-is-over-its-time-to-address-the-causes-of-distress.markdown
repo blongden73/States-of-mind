@@ -7,15 +7,15 @@ tags:
 - mental health
 - young people
 - innovation
-Intro: On World Mental Health Day, our founder, Bea, shares what she's learned about
-  what young people need and are capable of.
+Intro: On World Mental Health Day, our founder Bea reflects on how it's time to take
+  action in new ways.
 Byline: 'By Bea Herbert '
 Image: "/uploads/jorge-reyna-GPxRb8s1z7I-unsplash.jpg"
 Section: Community
 layout: post
 ---
 
-*On World Mental Health Day, our founder Bea reflects on her learning around what young people need and are capable of.*
+*On World Mental Health Day, our founder Bea reflects on how it's time to take action in new ways.*
 
 Six years ago, as a young person and a trainee psychologist, I realised that we didn’t need more mental health awareness, we needed viable and sustainable ways of addressing the causes of young people’s distress. There’s a big difference between talking about change that is needed and taking action to make our demands a reality. But how do we get there? I definitely don’t have all the answers but I have some ideas and insights into how progress can be made. I’ve learned by watching, listening and working alongside young people and realising how much they are capable of when they are trusted to take part in the quest for solutions.
 
