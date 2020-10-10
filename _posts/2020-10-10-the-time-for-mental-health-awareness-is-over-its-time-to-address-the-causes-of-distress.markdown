@@ -3,7 +3,7 @@ title: The time for mental health awareness is over, it’s time to address the 
   of distress.
 date: 2020-10-10 13:25:00 Z
 categories:
-- "#journal"
+- journal
 Intro: On World Mental Health Day, our Founder Bea reflects on her learning around
   what young people need and are capable of.
 Byline: 'by Bea Herbert '
