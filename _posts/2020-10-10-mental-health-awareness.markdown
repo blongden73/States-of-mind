@@ -7,8 +7,8 @@ tags:
 - mental health
 - young people
 - innovation
-Intro: On World Mental Health Day, our founder, Bea, shares what she's learned about
-  what young people need and are capable of.
+Intro: On World Mental Health Day, our founder Bea reflects on how it's time to take
+  action in new ways.
 Byline: 'By Bea Herbert '
 Image: "/uploads/jorge-reyna-GPxRb8s1z7I-unsplash.jpg"
 Section: Community
