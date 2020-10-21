@@ -1,6 +1,6 @@
 ---
 title: When it comes to developing as a person, the school system is failing us
-date: 2020-10-05 13:43:00 Z
+date: 2020-10-21 13:43:00 Z
 categories:
 - journal
 tags:
@@ -26,7 +26,9 @@ In the eyes of Ofsted and educational institutions, a successful student is some
 Personal development should be the ability to feel confident in the life choices we make, knowing we’ve had the support in the educational system to support ourselves once leaving it.
 Yet, without clarity on what personal development means to academic institutions, we are left in a grey area of uncertainty. If no one at Ofsted cares enough to define it or explore ways of measuring whether students feel it is being achieved, young people are forced to conform to their limited and inadequate measure of exam performance.
 
-The Department of Education has taken it upon themselves, without consulting young people, to focus on increasing the amount of A*-C grades rather than exploring how to support the personal development of students within education. In the absence of an adequate framework or methodology for supporting students' personal development, young people often experience education as a suffocating environment that limits our individuality and autonomy and in many cases, actively harms our sense of identity and personal development.
+The Department of Education has taken it upon themselves, [without consulting young people](https://www.statesofmind.org/journal/2020/09/16/breaking-the-silence.html), to focus on increasing the amount of A*-C grades rather than exploring how to support the personal development of students within education. 
+
+> In the absence of an adequate framework for supporting students' personal development, young people often experience education as a suffocating environment that limits our individuality and autonomy and in many cases, actively harms our sense of identity.
 
 This can leave students feeling lost, isolated and disengaged from the world after being released back into it. People, who were previously nothing more than students, have no purpose - what was once ‘studying to get an A*’ is now nothing, what was once ‘getting into a good college, sixth form or university’ is no longer of importance. 
 
