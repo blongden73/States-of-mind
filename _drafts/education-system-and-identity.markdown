@@ -1,5 +1,5 @@
 ---
-title: Identity, ‘the fact of being who or what a person or thing is’
+title: When it comes to developing as a person, the school system is failing us
 date: 2020-10-05 13:43:00 Z
 categories:
 - journal
@@ -7,8 +7,8 @@ tags:
 - identity
 - education
 - youth
-Intro: 'Identity is what unifies us and what makes us different, why should we be
-  denied the opportunity to find and explore it? '
+Intro: 'A London college student shares: "Identity is what unifies us and what makes
+  us different, why should we be denied the opportunity to find and explore it?"'
 Byline: By Reegan
 Image: "/uploads/identity%20and%20self%20awareness-0906a5.jpeg"
 Section: Reimagining Education
@@ -16,13 +16,12 @@ Section: Reimagining Education
 
 Growing up as young people, we are constantly exposed to environments that demand we establish a sense of who we are. Yet in educational environments, people show little interest in helping us to make sense of this process. The majority of the first eighteen years of our life is spent in the educational institutions, from primary to secondary to sixth form or college, with most people being encouraged to spend another three-eight years in university. In this time, each person is expected to discover and establish a strong sense of an independent and individual identity so that we feel confident and prepared to engage with our society in a meaningful way. We are told that committing our life to education is the best way to support our personal growth and development.
 						
-But if people listened to the experiences of young people, it would soon become clear that the education system is failing us. After removing other aspects of our identity such as ‘a sibling’, ‘relative’, or ‘a friend’, we find ourselves identified only as ‘students’.
-						
-Nothing more, nothing less. We are pressured to abandon our passions and the things we love as we are forced to sacrifice our hobbies and interests, like sports, arts or reading, in order to be a ‘successful’ student.
+> But if people listened to the experiences of young people, it would soon become clear that the education system is failing us. 
+After removing other aspects of our identity such as ‘a sibling’, ‘relative’, or ‘a friend’, we find ourselves identified only as ‘students’. Nothing more, nothing less. We are pressured to abandon our passions and the things we love as we are forced to sacrifice our hobbies and interests, like sports, arts or reading, in order to be a ‘successful’ student.
 
 In the eyes of Ofsted and educational institutions, a successful student is someone who achieves the top grades. By measuring success through grades, the education system fails to consider what true personal development means to young people. Personal development does not equate to perfect grades as they do not capture the multidimensional nature of intelligent or personal capability. Personal development can never truly be a priority when the focus is on preparing for exams. The term, 'personal development', as used by Ofsted, is not even given a workable definition. 
 
-> Personal development should be our preparation for adult life, our ability to master skills such as team work, leadership, resilience, independence, creativity - crucial attributes that are required for later life.
+> Personal development should be our preparation for adult life, our ability to master skills such as teamwork, leadership, resilience, independence, creativity - crucial attributes that are required for later life.
 						
 Personal development should be the ability to feel confident in the life choices we make, knowing we’ve had the support in the educational system to support ourselves once leaving it.
 Yet, without clarity on what personal development means to academic institutions, we are left in a grey area of uncertainty. If no one at Ofsted cares enough to define it or explore ways of measuring whether students feel it is being achieved, young people are forced to conform to their limited and inadequate measure of exam performance.
