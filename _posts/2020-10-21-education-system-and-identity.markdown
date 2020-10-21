@@ -14,6 +14,8 @@ Image: "/uploads/identity%20and%20self%20awareness-0906a5.jpeg"
 Section: Reimagining Education
 ---
 
+*Today, London college student Reegan speaks out about how the education system’s focus on testing is detracting from young peoples’ ability to develop a strong sense of self.*
+
 Growing up as young people, we are constantly exposed to environments that demand we establish a sense of who we are. Yet in educational environments, people show little interest in helping us to make sense of this process. The majority of the first eighteen years of our life is spent in the educational institutions, from primary to secondary to sixth form or college, with most people being encouraged to spend another three-eight years in university. In this time, each person is expected to discover and establish a strong sense of an independent and individual identity so that we feel confident and prepared to engage with our society in a meaningful way. We are told that committing our life to education is the best way to support our personal growth and development.
 						
 > But if people listened to the experiences of young people, it would soon become clear that the education system is failing us. 
@@ -26,7 +28,7 @@ In the eyes of Ofsted and educational institutions, a successful student is some
 Personal development should be the ability to feel confident in the life choices we make, knowing we’ve had the support in the educational system to support ourselves once leaving it.
 Yet, without clarity on what personal development means to academic institutions, we are left in a grey area of uncertainty. If no one at Ofsted cares enough to define it or explore ways of measuring whether students feel it is being achieved, young people are forced to conform to their limited and inadequate measure of exam performance.
 
-The Department of Education has taken it upon themselves, [without consulting young people](https://www.statesofmind.org/journal/2020/09/16/breaking-the-silence.html), to focus on increasing the amount of A*-C grades rather than exploring how to support the personal development of students within education. 
+The Department of Education has [taken it upon themselves](https://www.statesofmind.org/journal/2020/09/16/breaking-the-silence.html), without consulting young people, to focus on increasing the amount of A*-C grades rather than exploring how to support the personal development of students within education. 
 
 > In the absence of an adequate framework for supporting students' personal development, young people often experience education as a suffocating environment that limits our individuality and autonomy and in many cases, actively harms our sense of identity.
 
@@ -43,3 +45,5 @@ This is by no means to say the education system should be abandoned. Education i
 Students will choose subjects because they know they will have the opportunity to explore their passions and not have to sacrifice them instead. There should be a strong focus on skills the world will look for once we have left the education system, exercises that require teamwork, leadership, that help practice for interviews and conferences, skills that teach how to do taxes and about the economy, voting and banking. These small changes and adjustments mean young people will leave their educational institutions prepared, there will be less sense of confusion, loneliness and disconnect from society, young people will feel able to make life choices, knowing the education system prepared them for what it would be like once leaving it.	
 
 Identity is what unifies us and what makes us different. Why should we be denied the opportunity to find and explore it? 
+
+*As part of our youth-led project Breaking The Silence, Reegan has been working with other young people to explore the education system’s impact on students – and propose tangible changes for a better future. Read more about the ongoing project [here](https://www.statesofmind.org/journal/2020/09/16/breaking-the-silence.html).*
