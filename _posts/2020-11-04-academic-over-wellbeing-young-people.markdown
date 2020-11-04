@@ -52,7 +52,7 @@ The exam system was said to be “biased to certain students” and “doesn't r
 
 The students pointed out that “panic attacks”, “feeling depressed” and “eating disorders” were common experiences. 
 
-> One student commented: “Whether or not [mental health problems] are directly caused by school… it’s made worse by the education system.”
+> “Whether or not [mental health problems] are directly caused by school… it’s made worse by the education system,” commented a student. 
 
 They asserted that the way mental health is discussed in schools is “outdated” and “cringy”, and a lack of support and understanding means that young people are often “acting as counsellors” for one another. Young people talked about feeling emotionally vulnerable and raised concerns that mental health problems are “normalised” amongst their peer group. They felt that this should not be the case for teenagers. 
 
