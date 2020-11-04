@@ -7,9 +7,7 @@ categories:
 tags:
 - education
 - mental health
-Intro: 'Jasper walks through the findings of our collaborative research project with
-  UCL Institute of Education, and highlights the need for young people to be involved
-  in the process of change. '
+Intro: "“Higher stress levels, anxiety, depression, fear, isolation”"
 Byline: Jasper
 Image: 
 Section: Reimagining Education
