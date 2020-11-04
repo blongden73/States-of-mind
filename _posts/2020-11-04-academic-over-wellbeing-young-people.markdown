@@ -37,11 +37,9 @@ Once again, we used a [Participatory Action Research (PAR)](https://www.statesof
 
 ## What did we find?
 
-This thematic map highlights the topics that were discussed during the focus groups. 
+This thematic map to the left highlights the topics that were discussed during the focus groups. 
 
 ![Findings 1.jpg](/uploads/Findings%201.jpg)
-
-*Key: Number of comments made about a topic influences its size and colour on the page. Orange= 1-5 comments, Green= 6-10 comments, Red= 11-20 comments, Purple= 21+ comments*
 
 We conducted a thematic analysis to analyse the core themes discussed in the focus groups. The student researchers supported the analysis and decided which quotes should be used to communicate the themes. Some of the key findings are below.
 
