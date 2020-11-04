@@ -1,5 +1,6 @@
 ---
-title: The impact of school on students’ mental health
+title: 'The impact of school on young people''s mental health: UCL doctoral student
+  Jasper shares our findings'
 date: 2020-11-04 09:19:00 Z
 categories:
 - journal
