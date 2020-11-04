@@ -1,13 +1,14 @@
 ---
-title: 'The impact of school on students’ mental health: part one'
+title: The impact of school on students’ mental health
 date: 2020-11-04 09:19:00 Z
 categories:
 - journal
 tags:
 - education
 - mental health
-Intro: 'UCL Institute of Education doctoral student Jasper walks us through the findings
-  of his research project in collaboration with States of Mind. '
+Intro: 'UCL Institute of Education doctoral student Jasper walks through the findings
+  of our collaborative research project, and highlights the need for young people
+  to be involved in the process of change. '
 Byline: Jasper
 Image: 
 Section: Reimagining Education
