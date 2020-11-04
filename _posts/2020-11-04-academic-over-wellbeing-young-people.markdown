@@ -26,16 +26,19 @@ What struck me most, during the focus groups with young people was how clearly t
 
 Once again, we used a [Participatory Action Research (PAR)](https://www.statesofmind.org/journal/2020/09/28/young-people-education-research.html) approach in which student researchers, alongside State of Mind practitioners, devised the methodology and analysed the data. I conducted four online focus groups after student researchers identified relevant questions. Eleven young people from four different London schools volunteered to take part in the research, responding to adverts sent out by their colleges. Our research questions were:
 
-* What impact do school examinations have on young people throughout their time in education?
-* What impact does the education system have on young people’s mental wellbeing?
-* What does personal development mean to you during adolescence?
-* How do young people think their educational experiences could be improved?
+**- What impact do school examinations have on young people throughout their time in education?**
+
+**- What impact does the education system have on young people’s mental wellbeing?**
+
+**- What does personal development mean to you during adolescence?**
+
+**- How do young people think their educational experiences could be improved?**
 
 ## What did we find?
 
-This thematic map highlights the topics that were discussed during the focus groups
+This thematic map highlights the topics that were discussed during the focus groups. 
 
-
+![Findings 1.jpg](/uploads/Findings%201.jpg)
 
 *Key: Number of comments made about a topic influences its size and colour on the page. Orange= 1-5 comments, Green= 6-10 comments, Red= 11-20 comments, Purple= 21+ comments*
 
