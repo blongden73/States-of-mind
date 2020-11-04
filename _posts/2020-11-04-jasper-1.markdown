@@ -1,6 +1,17 @@
 ---
-title: Jasper 2
+title: 'The impact of school on students’ mental health: part 2'
 date: 2020-11-04 09:18:00 Z
+categories:
+- journal
+tags:
+- education
+- mental health
+Intro: 'In the second piece of his blog series, UCL Institute of Education doctoral
+  student Jasper takes us further into the study he has been collaborating on with
+  States of Mind. '
+Byline: Jasper
+Image: 
+Section: Reimagining Education
 ---
 
 In our previous study, student researchers produced a two-part questionnaire which was answered by 247 young people in a London college. The student respondents asserted that the education system directly contributes to the deterioration of the mental health of many young people. 
