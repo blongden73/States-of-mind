@@ -8,7 +8,8 @@ tags:
 - education
 - mental health
 Intro: 'In the second part of his blog series, UCL Institute of Education doctoral
-  student Jasper reflects further on our study on the school system and young people. '
+  student Jasper shares more eye-opening findings from our study on the school system
+  and young people. '
 Byline: Jasper
 Image: "/uploads/gemma-chua-tran-6tHTXiSRUi8-unsplash.jpg"
 Section: Reimagining Education
@@ -64,13 +65,13 @@ Students reflected that personal development was closely tied to an individual�
 
 The students expressed that the underlying message always seems to be, you still need to prioritise your studies above all else. They felt that the school system does not “value your mental health as much as they value your academic success”. The competitive nature of the education system was generally said to have a negative impacts as: 
 
-> “you always end up feeling like you're not doing enough in comparison to other people”... “if you're not doing as well as everyone else, then you're going to be a failure.”
+> “You always end up feeling like you're not doing enough in comparison to other people”... “If you're not doing as well as everyone else, then you're going to be a failure.”
 
 ### Theme 5: The importance of relationships
 
 The young people discussed how the education system should provide them with the opportunity “to be introduced to different types of people” and learn from others. They also described the impact of “amazing teachers” who push them to be better, not just academically but “as a person.” Although this can be really positive, the students felt there needs to be increased “emphasis on a mutual connection or mutual trust between teachers and students”, and:
 
-“teachers should be trained a little bit more on how to build a connection with their students”... “giving guidance on not just lessons but life as well”.
+“Teachers should be trained a little bit more on how to build a connection with their students”... “giving guidance on not just lessons but life as well”.
 
 ### Theme 6: Suggested changes to the education system 
 
@@ -78,7 +79,7 @@ Participants offered a range of improvements to the exam system, such as having 
 
 The young people questioned assumptions about the purpose of education system that many have come to accept: 
 
-> “school doesn't only have to be for learning... it doesn't only have to be a space for academic achievement. I feel like it can be so many other things. Because I feel like part of developing and growing up is a lot more than just your grades”. 
+> “School doesn't only have to be for learning... it doesn't only have to be a space for academic achievement. I feel like it can be so many other things. Because I feel like part of developing and growing up is a lot more than just your grades”. 
 
 ## What does this mean?
  
@@ -86,4 +87,4 @@ In this study young people questioned the overwhelming focus of the education sy
 
 The research shows that young people are able to offer eloquent critique of the education system based on their experiences and have a range of thoughts on improvements. Their views must be placed at the centre of all decisions made in regards to the purpose of their education provision.  
 
-**We are continuing to develop the Breaking The Silence project in collaboration with UCL Institute of Education. The next stage will see us work with a group of students to reimagine educational assessment. Stay tuned.**
+**We are continuing to develop the [Breaking The Silence](https://www.statesofmind.org/journal/2020/09/16/breaking-the-silence.html) project in collaboration with UCL Institute of Education. The next stage will see us work with a group of students to reimagine educational assessment. Stay tuned.**
