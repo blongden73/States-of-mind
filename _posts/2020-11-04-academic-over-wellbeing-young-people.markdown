@@ -8,14 +8,14 @@ tags:
 - education
 - mental health
 Intro: 'In the second part of his blog series, UCL Institute of Education doctoral
-  student Jasper shares more eye-opening findings from our study on the school system
+  student Jaspar shares more eye-opening findings from our study on the school system
   and young people. '
-Byline: Jasper
+Byline: Jaspar Khawaja
 Image: "/uploads/gemma-chua-tran-6tHTXiSRUi8-unsplash.jpg"
 Section: Reimagining Education
 ---
 
-*With our youth-led research project, Breaking The Silence, we're exploring the impact of the UK's educational system on young people's mental health and wellbeing. Today we hear from Jasper, a doctoral student at the UCL Institute of Education, who has been collaborating with us in recent months to develop the research.* 
+*With our youth-led research project, Breaking The Silence, we're exploring the impact of the UK's educational system on young people's mental health and wellbeing. Today we hear from Jaspar Khawaja, a doctoral student at the UCL Institute of Education, who has been collaborating with us in recent months to develop the research.* 
 
 In our previous study, student researchers produced a two-part questionnaire which was answered by 247 young people in a London college. The student respondents asserted that the education system directly contributes to the deterioration of the mental health of many young people. 
 
