@@ -1,15 +1,15 @@
 ---
-title: 'The impact of school on young people''s mental health: UCL doctoral student
-  Jasper shares our findings'
+title: 'The impact of school on young people''s mental health: a UCL doctoral student
+  shares his findings'
 date: 2020-11-04 09:19:00 Z
 categories:
 - journal
 tags:
 - education
 - mental health
-Intro: 'UCL Institute of Education doctoral student Jasper walks through the findings
-  of our collaborative research project, and highlights the need for young people
-  to be involved in the process of change. '
+Intro: 'Jasper walks through the findings of our collaborative research project with
+  UCL Institute of Education, and highlights the need for young people to be involved
+  in the process of change. '
 Byline: Jasper
 Image: 
 Section: Reimagining Education
