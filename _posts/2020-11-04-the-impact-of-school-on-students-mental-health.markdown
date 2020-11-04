@@ -9,7 +9,7 @@ tags:
 - mental health
 Intro: "“Higher stress levels, anxiety, depression, fear, isolation”"
 Byline: Jasper
-Image: 
+Image: "/uploads/DESIGN%20COVER.jpg"
 Section: Reimagining Education
 ---
 
