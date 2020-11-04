@@ -7,8 +7,8 @@ categories:
 tags:
 - education
 - mental health
-Intro: 'In the second piece of his blog series, UCL Institute of Education doctoral
-  student Jasper takes us further into our study on the school system and young people. '
+Intro: 'In the second part of his blog series, UCL Institute of Education doctoral
+  student Jasper reflects further on our study on the school system and young people. '
 Byline: Jasper
 Image: 
 Section: Reimagining Education
