@@ -8,12 +8,12 @@ tags:
 - education
 - mental health
 Intro: "“Higher stress levels, anxiety, depression, fear, isolation”"
-Byline: Jasper
+Byline: Jaspar Khawaja
 Image: "/uploads/DESIGN%20COVER.jpg"
 Section: Reimagining Education
 ---
 
-*With our youth-led research project, Breaking The Silence, we're exploring the impact of the UK's educational system on young people's mental health and wellbeing. Today we hear from Jasper, a doctoral student at the UCL Institute of Education, who has been collaborating with us in recent months to develop the research.* 
+*With our youth-led research project, Breaking The Silence, we're exploring the impact of the UK's educational system on young people's mental health and wellbeing. Today we hear from Jaspar Khawaja, a doctoral student at the UCL Institute of Education, who has been collaborating with us in recent months to develop the research.* 
 
 Asked about the impact of school on students’ mental health, a school student responded, “Higher stress levels, anxiety, depression, fear, isolation." This is just one of many eye-opening responses from our recent student-led study, which gathered young peoples’ views about the impact of the education system on their mental health and wellbeing. 
 
