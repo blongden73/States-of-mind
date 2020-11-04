@@ -33,24 +33,21 @@ At States of Mind, we believe that understanding the causes of psychological dis
 
 ## Breaking the Silence 
 
-Previously, using a Participatory Action Research (PAR) approach, nine students at a London school analysed the themes gathered in a previous student project, which resulted in a letter being written to Ofsted. The students considered ways these themes could be further explored. In the current study, a different group of student researchers designed a two-part questionnaire to gather a wider sample of students’ views, containing both closed and open questions. The questionnaire aimed to explore students’ views on exams and mental well-being in the education system. Additionally, after it was introduced to the Ofsted inspection handbook, the student researchers wanted to ask other young people how they would define “personal development”. The questionnaire was answered by 247 students at a different London school aged 16-18.
+Previously, using a Participatory Action Research (PAR) approach, nine students at a London school analysed the themes gathered in a previous student project, which resulted in a [letter](https://www.statesofmind.org/journal/2020/09/16/students-ofsted-open-letter.html) being written to Ofsted. The students considered ways these themes could be further explored. In the current study, a different group of student researchers designed a two-part questionnaire to gather a wider sample of students’ views, containing both closed and open questions. The questionnaire aimed to explore students’ views on exams and mental well-being in the education system. Additionally, after it was introduced to the [Ofsted inspection handbook](https://www.gov.uk/government/publications/education-inspection-framework), the student researchers wanted to ask other young people how they would define “personal development”. The questionnaire was answered by 247 students at a different London school aged 16-18.
 
 ## What did we find?  
 
 Only 12.96% of participants responded that their mental health was supported by the education system, raising massive questions about the impact of the education system on the wellbeing of young people. 38.06% disagreed with the statement, while 15.38% strongly disagreed.  
 
-
-
-
-
+![Mental Health 1.jpg](/uploads/Mental%20Health%201.jpg)
 
 We also found as little as 17.41% thought exams prepare students well for life. 53.16% of students either disagreed or strongly disagreed with the statement, while 19.43% said they were not sure. This brings into question what the purpose of exams actually is, if not to prepare young people for future life.
 
-
+![Mental health 2.jpg](/uploads/Mental%20health%202.jpg)
 
 Just 18.29% of students thought the education system supported the individual needs of students with the majority (59.75%) agreeing or strongly agreeing with the statement.
 
-
+![Mental health 3.jpg](/uploads/Mental%20health%203.jpg)
 
 We also reviewed the open question answers. Here, students were able to elaborate more as to their thoughts in response to the questions above. 
 
@@ -66,6 +63,6 @@ The students discussed the importance of “developing into the person that you 
 
 ## What does this mean?
 
-Whilst of course limited by sample size, this research provides some insight into why many English children repeatedly state that they are unhappy with their school experiences. The exam system was particularly highlighted as an issue which should not be ignored by policy makers. Despite young peoples’ mental health gaining more attention in recent times the government continues to ignore the idea that the education system is contributing towards this. The UN Convention on human rights explicitly states that children have the right to participate in decision-making about their lives. At States of Mind we acknowledge that educational practices have a large impact on children and young peoples’ health and wellbeing. They have the right to contribute to the policies that shape their lives. 
+Whilst of course limited by sample size, this research provides some insight into why many English children repeatedly state that they are [unhappy with their school experiences](https://www.childrenssociety.org.uk/good-childhood). The exam system was particularly highlighted as an issue which should not be ignored by policy makers. Despite young peoples’ mental health gaining more attention in recent times the government continues to ignore the idea that the education system is contributing towards this. The [UN Convention on human rights](https://downloads.unicef.org.uk/wp-content/uploads/2010/05/UNCRC_PRESS200910web.pdf?_adal_sd=www.unicef.org.uk.1602242406487&_adal_ca=so%3DGoogle%26me%3Dorganic%26ca%3D(not%2520set)%26co%3D(not%2520set)%26ke%3D(not%2520set).1602242406487&_adal_cw=1602242382854.1602242406487&_adal_id=38e16028-7f98-4596-8b7d-81341ed86373.1602242383.2.1602242383.1602242383.b3c3714c-a331-41a4-848e-b6604ddfd52a.1602242406487&_ga=2.82479382.1005391929.1602242383-1858952650.1602242383) explicitly states that children have the right to participate in decision-making about their lives. At States of Mind we acknowledge that educational practices have a large impact on children and young peoples’ health and wellbeing. They have the right to contribute to the policies that shape their lives. 
 
 **We are continuing to develop the Breaking The Silence project in collaboration with UCL Institute of Education. The next stage will see us work with a group of students to reimagine educational assessment. Stay tuned.**
