@@ -10,7 +10,7 @@ tags:
 Intro: 'In the second part of his blog series, UCL Institute of Education doctoral
   student Jasper reflects further on our study on the school system and young people. '
 Byline: Jasper
-Image: 
+Image: "/uploads/gemma-chua-tran-6tHTXiSRUi8-unsplash.jpg"
 Section: Reimagining Education
 ---
 
