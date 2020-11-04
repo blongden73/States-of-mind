@@ -15,11 +15,7 @@ Section: Reimagining Education
 
 *With our youth-led research project, Breaking The Silence, we're exploring the impact of the UK's educational system on young people's mental health and wellbeing. Today we hear from Jasper, a doctoral student at the UCL Institute of Education, who has been collaborating with us in recent months to develop the research.* 
 
-What is the impact of school on students’ mental health? 
-
-**“Higher stress levels, anxiety, depression, fear, isolation”**
-
-This is just one of many eye-opening responses from our recent student-led study, which gathered young peoples’ views about the impact of the education system on their mental health and wellbeing. 
+Asked about the impact of school on students’ mental health, a school student responded, “Higher stress levels, anxiety, depression, fear, isolation." This is just one of many eye-opening responses from our recent student-led study, which gathered young peoples’ views about the impact of the education system on their mental health and wellbeing. 
 
 In my first year as a doctoral student at the Institute of Education, UCL, I undertook a research project in collaboration with States of Mind. I had previously worked in a secondary school with young people who had experienced trauma, and observed how the education and health services attempted to support them. Often, this involved diagnosing them with Attention Deficit Hyperactivity Disorder (ADHD) and prescribing medication, with less focus on trying to understand their perspectives and experiences. I also worked in a Child and Adolescent Mental Health Service (CAMHS) inpatient unit for adolescents with mental health problems. Over time I began to notice how many of the young people would be considered ‘well enough’ to leave the unit but would be readmitted to the unit after a few months as their problems worsened again. This indicated to me that something bigger must be going on in the lives of young people that is currently being missed, particularly in education and mental health services, and that the current approaches are potentially too limited or just not working.
 
