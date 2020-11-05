@@ -41,8 +41,6 @@ We also found as little as 17.41% thought exams prepare students well for life. 
 
 Just 18.29% of students thought the education system supported the individual needs of students with the majority (59.75%) disagreeing or strongly disagreeing with the statement.
 
-![Chart_Q6_2011052.png](/uploads/Chart_Q6_2011052.png)
-
 We also reviewed the open question answers. Here, students were able to elaborate more as to their thoughts in response to the questions above. 
 
 > The core themes that emerged are best summarised as follows: ‘Exams cause overwhelming and unnecessary amounts of stress’ and ‘Exams are a poor measure of students ability’.
