@@ -35,15 +35,13 @@ Previously, using a Participatory Action Research (PAR) approach (https://www.st
 
 Only 12.96% of participants responded that their mental health was supported by the education system, raising massive questions about the impact of the education system on the wellbeing of young people. 38.06% disagreed with the statement, while 15.38% strongly disagreed.  
 
-![Mental Health 1.jpg](/uploads/Mental%20Health%201.jpg)
+[Chart_Q3_201105..png](/uploads/Chart_Q3_201105/png)
 
 We also found as little as 17.41% thought exams prepare students well for life. 53.16% of students either disagreed or strongly disagreed with the statement, while 19.43% said they were not sure. This brings into question what the purpose of exams actually is, if not to prepare young people for future life.
 
-![Mental health 2.jpg](/uploads/Mental%20health%202.jpg)
-
 Just 18.29% of students thought the education system supported the individual needs of students with the majority (59.75%) disagreeing or strongly disagreeing with the statement.
 
-![Mental health 3.jpg](/uploads/Mental%20health%203.jpg)
+![Chart_Q6_2011052.png](/uploads/Chart_Q6_2011052.png)
 
 We also reviewed the open question answers. Here, students were able to elaborate more as to their thoughts in response to the questions above. 
 
