@@ -5,6 +5,7 @@ date: 2020-11-09 17:57:00 Z
 Intro: 
 Byline: 
 Image: "/uploads/Screenshot%202020-11-09%20at%2017.54.35.png"
+layout: blog
 ---
 
 I am in a very unique position when it comes to discussing this course as I had the privilege of creating it with Bea and then completing it on my own. Although I was very familiar with the course's content, I learnt so much from completing it and gained a greater understanding of myself and others around me. I now apply the theories and ideas I have learned in my everyday life, and perhaps most importantly,  the insights I have gained through reflecting on the material in the handbook have greatly influenced how I relate to myself and those around me.
