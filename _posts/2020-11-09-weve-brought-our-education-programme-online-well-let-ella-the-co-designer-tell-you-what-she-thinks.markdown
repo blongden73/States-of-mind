@@ -1,6 +1,6 @@
 ---
-title: We've brought our education programme online. We'll let Ella, the co-designer
-  tell you what she thinks.
+title: Our online education programme has been tried and tested. Ella gives her views
+  as the co-designer and participant.
 date: 2020-11-09 17:57:00 Z
 Intro: 
 Byline: 
