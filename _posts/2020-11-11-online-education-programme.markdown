@@ -11,7 +11,7 @@ Intro: 'We''ve been very busy designing and piloting mental health education cou
   for young people. Here, team member Ella shares what it was like to co-design the
   programme, and then to work through the content as a learner. '
 Byline: By Ella Gregory
-Image: "/uploads/Screenshot%202020-11-09%20at%2017.54.35.png"
+Image: "/uploads/elia-pellegrini--l9EuUW3Ifw-unsplash%20(1).jpg"
 Section: Education
 layout: blog
 ---
