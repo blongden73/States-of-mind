@@ -15,9 +15,9 @@ Image: "/uploads/Screenshot%202020-11-09%20at%2017.54.35.png"
 layout: blog
 ---
 
-Our education work to date has involved working in London colleges and schools, providing mental health education to young people and supporting them to address challenges affecting individual and peer wellbeing. With the huge changes our world has experienced this year, we decided it was time to make our mental health education programme accessible to even more young people. So... we're going online! 
+**Our education work to date has involved working in London colleges and schools, providing mental health education to young people and supporting them to address challenges affecting individual and peer wellbeing. With the huge changes our world has experienced this year, we decided it was time to make our mental health education programme accessible to even more young people. So... we're going online!** 
 
-Using our existing education model as the foundation, we've designed and piloted our first online course in mental health. Right now we're making final changes and aim to launch it fully in early 2021. Here, team member Ella shares what it was like to co-design the programme, and then to work through the content as a learner. 
+**Using our existing education model as the foundation, we've designed and piloted our first online course, which unites knowledge, theory and self reflection to support more understanding about mental health, ourselves, others, and our world. Right now we're making final changes to the course and aim to launch it fully in early 2021. Here, team member Ella shares what it was like to co-design the programme, and then to work through the content as a learner.**
 
 I am in a very unique position when it comes to discussing this course as I had the privilege of creating it with Bea, and then completing it as a participant. As co-designer I was already very familiar with the course's content, yet I learnt so much from working through the content and gained a greater understanding of myself and others around me. I now apply the theories and ideas I have learned in my everyday life, and perhaps most importantly,  the insights I have gained through reflecting on the material in the handbook have greatly influenced how I relate to myself and those around me.
 
