@@ -1,6 +1,6 @@
 ---
-title: I co-designed and tested States of Mind's new online mental health education
-  programme. Here's what I discovered...
+title: I co-designed and tested States of Mind's new online mental health course.
+  Here's what I learned...
 date: 2020-11-09 17:57:00 Z
 categories:
 - journal
