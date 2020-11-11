@@ -1,14 +1,25 @@
 ---
-title: Our online education programme has been tried and tested. Ella gives her views
-  as the co-designer and participant.
+title: I co-designed and tested States of Mind's new online mental health education
+  programme. Here's what I discovered...
 date: 2020-11-09 17:57:00 Z
-Intro: 
-Byline: 
+categories:
+- journal
+tags:
+- education
+- mental health
+Intro: 'We''ve been very busy designing and piloting mental health education course
+  for young people. Here, team member Ella shares what it was like to co-design the
+  programme, and then to work through the content as a learner. '
+Byline: By Ella Gregory
 Image: "/uploads/Screenshot%202020-11-09%20at%2017.54.35.png"
 layout: blog
 ---
 
-I am in a very unique position when it comes to discussing this course as I had the privilege of creating it with Bea and then completing it on my own. Although I was very familiar with the course's content, I learnt so much from completing it and gained a greater understanding of myself and others around me. I now apply the theories and ideas I have learned in my everyday life, and perhaps most importantly,  the insights I have gained through reflecting on the material in the handbook have greatly influenced how I relate to myself and those around me.
+Our education work to date has involved working in London colleges and schools, providing mental health education to young people and supporting them to address challenges affecting individual and peer wellbeing. With the huge changes our world has experienced this year, we decided it was time to make our mental health education programme accessible to even more young people. So... we're going online! 
+
+Using our existing education model as the foundation, we've designed and piloted our first online course in mental health. Right now we're making final changes and aim to launch it fully in early 2021. Here, team member Ella shares what it was like to co-design the programme, and then to work through the content as a learner. 
+
+I am in a very unique position when it comes to discussing this course as I had the privilege of creating it with Bea, and then completing it as a participant. As co-designer I was already very familiar with the course's content, yet I learnt so much from working through the content and gained a greater understanding of myself and others around me. I now apply the theories and ideas I have learned in my everyday life, and perhaps most importantly,  the insights I have gained through reflecting on the material in the handbook have greatly influenced how I relate to myself and those around me.
 
 This course is not only helpful for those struggling with life,  who may feel like the mental health system isn't supporting them enough, but also for anyone, young or old, who is searching for greater understanding of who they are and why they feel or act in the ways they do.
 
