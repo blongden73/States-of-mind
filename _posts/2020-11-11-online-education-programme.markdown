@@ -7,7 +7,7 @@ categories:
 tags:
 - education
 - mental health
-Intro: 'We''ve been very busy designing and piloting mental health education course
+Intro: 'We''ve been very busy designing and piloting a mental health education course
   for young people. Here, team member Ella shares what it was like to co-design the
   programme, and then to work through the content as a learner. '
 Byline: By Ella Gregory
