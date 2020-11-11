@@ -1,6 +1,6 @@
 ---
 title: I co-designed and tested States of Mind's new online mental health course.
-  Here's what I learned...
+  Here's what I found...
 date: 2020-11-11 17:57:00 Z
 categories:
 - journal
