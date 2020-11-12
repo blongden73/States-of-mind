@@ -7,9 +7,7 @@ categories:
 tags:
 - mental health
 - education
-Intro: 'We''ve been very busy creating a mental health education course for young
-  people. Here, team member Ella shares what it was like to co-design it, and then
-  to work through the content as a learner. '
+Intro: Team member Ella gives a sneak peek of our new education platform, coming soon...
 Byline: Ella Gregory
 Image: "/uploads/elia-pellegrini--l9EuUW3Ifw-unsplash%20(1).jpg"
 Section: Education
