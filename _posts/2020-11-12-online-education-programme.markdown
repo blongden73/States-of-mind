@@ -7,7 +7,8 @@ categories:
 tags:
 - mental health
 - education
-Intro: Team member Ella gives a sneak peek of our new education platform, coming soon...
+Intro: 'Team member Ella gives a sneak peek of our new education platform, coming
+  soon. '
 Byline: Ella Gregory
 Image: "/uploads/elia-pellegrini--l9EuUW3Ifw-unsplash%20(1).jpg"
 Section: Education
