@@ -1,6 +1,6 @@
 ---
-title: What would an education inspection look like if students were inspecting? We're
-  finding out.
+title: What would an education inspection look like if students did the inspecting?
+  We're finding out.
 date: 2020-11-18 09:22:00 Z
 categories:
 - journal
@@ -11,7 +11,7 @@ tags:
 Intro: 'It''s time for change, and we''re supporting young people to envision and
   create it – from the ground up. '
 Byline: By States of Mind
-Image: 
+Image: "/uploads/DTS_Identity_Alex_Tan_3666.jpg"
 Section: Reimagining Education
 ---
 
