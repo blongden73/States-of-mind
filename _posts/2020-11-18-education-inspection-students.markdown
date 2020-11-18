@@ -34,9 +34,9 @@ Fascinating questions arise such as:
 
 **‘If young people were to evaluate the education that ostensibly supports them, what would they measure and how?’**
 
-**‘What might young people perceive to be appropriate “success criteria” for an education inspection?’ **
+**‘What might young people perceive to be appropriate “success criteria” for an education inspection?’**
 
-‘Given that “what is treasured, is measured”, what values and beliefs will underpin a student-led education inspection?”**
+**‘Given that “what is treasured, is measured”, what values and beliefs will underpin a student-led education inspection?”**
 
 > Our previous work has shown that young people possess profound insights into how the system can be adapted to better meet their needs. This project will draw on young people's lived experience and empower participants to create change.
 
