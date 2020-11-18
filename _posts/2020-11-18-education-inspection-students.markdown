@@ -38,7 +38,7 @@ Fascinating questions arise such as:
 
 **‘Given that “what is treasured, is measured”, what values and beliefs will underpin a student-led education inspection?”**
 
-> Our previous work has shown that young people possess profound insights into how the system can be adapted to better meet their needs. This project will draw on their lived experience and empower participants to create change.
+> Our previous work has shown that young people possess profound insights into how the system can be adapted to better meet their needs. This project will draw on young people's lived experience and empower them to create change.
 
 Participants will formulate research questions and gather data from a range of stakeholders which might include young people, teachers, parents, professionals and Ofsted inspectors. IOE doctorate students, alongside the States of Mind team will support the young people in developing research skills in regards to collating and evaluating their findings. They will work together to formulate the values underpinning a new inspection framework, alongside measurements of success. Later in the academic year, the young people will implement their alternative education inspection framework and reflect upon the process. 
 
