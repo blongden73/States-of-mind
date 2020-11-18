@@ -8,11 +8,10 @@ tags:
 - education
 - innovation
 - change
-Intro: Drawing on students' lived experience of the education system, our new project
-  is supporting young people to design an alternative schools inspection framework.
+Intro: We're supporting young people to design an alternative schools inspection framework.
 Byline: By Bea Herbert and Chris Bagley
 Image: "/uploads/DTS_Identity_Alex_Tan_3666.jpg"
-Section: Reimagining Education
+Section: News
 ---
 
 **We’re excited to announce our new project! States of Mind are supporting young people to design an alternative inspection framework for schools. Here, we share why we are doing this, and how we’ll be going about it.** 
