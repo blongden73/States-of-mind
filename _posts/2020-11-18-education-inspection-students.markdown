@@ -8,9 +8,9 @@ tags:
 - education
 - innovation
 - change
-Intro: 'It''s time for change, and we''re supporting young people to envision and
-  create it – from the ground up. '
-Byline: By States of Mind
+Intro: 'Drawing on students'' lived experience of the education system, our new project
+  is empowering young people to create change they know they need. '
+Byline: By Bea Herbert and Chris Bagley
 Image: "/uploads/DTS_Identity_Alex_Tan_3666.jpg"
 Section: Reimagining Education
 ---
