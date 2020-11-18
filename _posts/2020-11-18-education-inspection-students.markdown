@@ -44,7 +44,7 @@ Participants will formulate research questions and gather data from a range of s
 
 38 students applied and 12 students have been chosen to lead the project. The project will adopt a dynamic and innovative approach to solving a complex issue that demands alternatives be considered. It brings together students and researchers, two worlds that rarely cooperate in traditional academic study. [Young people are often viewed as experimental subjects](https://www.statesofmind.org/journal/2020/09/28/young-people-education-research.html); here, they are active participants in all aspects of research that directly affects their experience. 
 
-The research findings and insights gained from implementing the new framework will be presented at a public event in July, hosted by the IOE. We welcome schools, psychologists and anybody interested in educational reform to attend. To express your interest, join our mailing list here for termly updates and news on the project: [](http://eepurl.com/hiMQMb) . Stay tuned for announcements about the event and how to register.
+The research findings and insights gained from implementing the new framework will be presented at a public event in July, hosted by the IOE. We welcome schools, psychologists and anybody interested in educational reform to attend. To express your interest, join our mailing list here for termly updates and news on the project. [](http://eepurl.com/hiMQMb). Stay tuned for announcements about the event and how to register.
 
 We are looking forward to co-developing something new, valuable and inspiring, with the potential to challenge the taken-for-granted values underpinning our education system. We’ll be sharing the journey with you as it unfolds. 
 
