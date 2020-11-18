@@ -8,14 +8,14 @@ tags:
 - education
 - innovation
 - change
-Intro: 'Drawing on students'' lived experience of the education system, our new project
-  is empowering young people to create change they know they need. '
+Intro: Drawing on students' lived experience of the education system, our new project
+  is supporting young people to design an alternative schools inspection framework.
 Byline: By Bea Herbert and Chris Bagley
 Image: "/uploads/DTS_Identity_Alex_Tan_3666.jpg"
 Section: Reimagining Education
 ---
 
-We’re excited to publicly announce our new project! States of Mind are supporting young people to design an alternative inspection framework for schools. Here, we share why we are doing this, and how we’ll be going about it. 
+**We’re excited to announce our new project! States of Mind are supporting young people to design an alternative inspection framework for schools. Here, we share why we are doing this, and how we’ll be going about it.** 
 
 Over the last few years, we have been working alongside young people in educational contexts to develop an understanding of the issues affecting their wellbeing. This has included listening to the views of hundreds of young people across London and exploring their feelings and reflections about their education experiences. Our student-led project, [‘Breaking the Silence’](https://www.statesofmind.org/journal/2020/09/16/breaking-the-silence.html), has evolved and is now a research partnership with the Institute of Education, UCL. Students lead the research and doctorate students support them to capture, interpret and disseminate their findings. 
 
