@@ -48,4 +48,4 @@ The research findings and insights gained from implementing the new framework wi
 
 We are looking forward to co-developing something new, valuable and inspiring, with the potential to challenge the taken-for-granted values underpinning our education system. We’ll be sharing the journey with you as it unfolds. 
 
-**Stay tuned here, and on our [Instagram](https://www.instagram.com/statesofmindorg_/) and [Twitter](https://twitter.com/statesofmind_20).**
+**Stay tuned on the [blog](https://www.statesofmind.org/news-and-events), and on our [Instagram](https://www.instagram.com/statesofmindorg_/) and [Twitter](https://twitter.com/statesofmind_20).**
