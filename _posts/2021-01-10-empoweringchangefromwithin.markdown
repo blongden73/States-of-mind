@@ -38,9 +38,9 @@ Unfortunately these resources are often reserved for when young people access th
 As a society, we often view therapeutic practice as something that is reserved for when there is something ‘wrong with us’, when we are alone and don’t feel good. But by integrating these skills into our everyday lives, we can have more of an ability to thrive in the world by living in closer alignment with a sense of who we are and what we need.
 
 If we were provided with ways to be with our discomfort, to explore our limiting beliefs, internal fears and understand our coping mechanisms and relationship patterns early in life, we would have an inner navigation system that we could count on when we needed a sense of internal guidance. We could communicate more honestly, understand others more closely and understand how to support them when they needed a space to explore their own inner reality. Our bonds between each other would be stronger and we would have more confidence in our ability to make sense of our pain. 
-Crucially, it’s important to remember that for all human beings, deep social connection is a fundamental need. Relationships *are* therapy as they reflect back to us who we are. As John Macmurray beautifully summarised, ‘We don’t exist without each other.’
+> For all human beings, deep social connection is a fundamental need. Relationships *are* therapy as they reflect back to us who we are. As John Macmurray beautifully summarised, ‘We don’t exist without each other.’
 
-> As these young people intuitively understood, when we feel connected with our true nature and are aware of ourselves, it has significant consequences for how we live our lives.
+As these young people intuitively understood, when we feel connected with our true nature and are aware of ourselves, it has significant consequences for how we live our lives.
 
 
 In a society that values productivity, outcomes and external measures of worth, we need to flip the coin. We need to not only acknowledge that psychological health is the foundation of individual flourishing and a healthy society but we need to embed these skills into the systems in which young people develop so that it becomes a part of how they learn about themselves.
