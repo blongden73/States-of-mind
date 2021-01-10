@@ -9,7 +9,7 @@ tags:
 Intro: 
 Byline: By Bea Herbert
 Image: "/uploads/jamie-street-LAwK8x7eQqI-unsplash-cd8b4f.jpg"
-layout: default
+layout: news
 ---
 
 
