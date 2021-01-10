@@ -2,7 +2,6 @@
 title: 'Empowering change from within: can the power of therapeutic practice create
   a shift in the landscape of young people’s mental health?'
 date: 2021-01-10 16:59:00 Z
-permalink: 2021/01/10/empowering-change-from-within-can-the-power-of-therapeutic-practice-create-a-shift-in-the-landscape-of-young-peoples-mental-health.html
 categories:
 - journal
 tags:
