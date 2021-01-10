@@ -2,6 +2,8 @@
 title: 'Empowering change from within: can the power of therapeutic practice create
   a shift in the landscape of young people’s mental health?'
 date: 2021-01-10 17:35:00 Z
+categories:
+- journal
 Byline: By Bea Herbert
 Image: "/uploads/jamie-street-LAwK8x7eQqI-unsplash-9481cd.jpg"
 ---
