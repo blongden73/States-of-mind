@@ -1,6 +1,6 @@
 ---
-title: 'Empowering change from within: how therapeutic practice can prepare young
-  people for the modern world'
+title: 'Empowering change from within: why we need to harness the power of therapeutic
+  practice to prepare young for the modern world'
 date: 2021-01-10 17:35:00 Z
 categories:
 - journal
