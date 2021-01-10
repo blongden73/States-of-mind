@@ -12,6 +12,7 @@ Image: "/uploads/jamie-street-LAwK8x7eQqI-unsplash-cd8b4f.jpg"
 layout: default
 ---
 
+**As the new year begins our Founder Bea reflects on the potential for therapeutic practice to change young people's experience of themselves and the world.** 
 
 A few months ago I asked a few groups of 17 year olds what they thought the world would be like if people were more self aware. There were common themes that emerged. People would be kinder to each other, there would be less conflict, people would be more forgiving. Some suggested there would be less cruelty in the world, less war, a healthier planet and integration between communities with ideological differences.
 
