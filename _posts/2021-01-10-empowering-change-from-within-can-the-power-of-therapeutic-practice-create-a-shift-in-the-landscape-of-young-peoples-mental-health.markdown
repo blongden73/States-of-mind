@@ -2,12 +2,15 @@
 title: 'Empowering change from within: can the power of therapeutic practice create
   a shift in the landscape of young people’s mental health?'
 date: 2021-01-10 16:59:00 Z
+categories:
+- journal
 Intro: 
 Byline: By Bea Herbert
 Image: "/uploads/jamie-street-LAwK8x7eQqI-unsplash-cd8b4f.jpg"
+layout: blog
 ---
 
- 
+
 A few months ago I asked a few groups of 17 year olds what they thought the world would be like if people were more self aware. There were common themes that emerged. People would be kinder to each other, there would be less conflict, people would be more forgiving. Some suggested there would be less cruelty in the world, less war, a healthier planet and integration between communities with ideological differences.
 
 As I listened to them feedback their reflections, I felt such a sense of hope. They recognised with such clarity, the importance of our relationship with ourselves and could visualise a future where psychological health could affect change not just for individuals and societies, but for the world.
