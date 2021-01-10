@@ -6,7 +6,8 @@ categories:
 - journal
 tags:
 - self awareness
-Intro: 
+Intro: "**As the new year begins, our Founder Bea reflects on the potential for therapeutic
+  practice to change young people's experience of themselves and the world.** "
 Byline: By Bea Herbert
 Image: "/uploads/jamie-street-LAwK8x7eQqI-unsplash-9481cd.jpg"
 ---
