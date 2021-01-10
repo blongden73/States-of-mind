@@ -6,6 +6,7 @@ categories:
 - journal
 tags:
 - self awareness
+Intro: 
 Byline: By Bea Herbert
 Image: "/uploads/jamie-street-LAwK8x7eQqI-unsplash-9481cd.jpg"
 ---
