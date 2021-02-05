@@ -52,9 +52,10 @@ If there is any doubt about the willingness of young people to engage in worldly
 
 Nowadays, a plethora of youth organisations exists globally, influencing governments and NGOs across the world. Focusing on issues from [climate change](https://youthfornature.uk/nature-nearby/) to [period poverty](https://period.org/), young people are working together to create a more equal society that promotes tolerance and respect. Adults must support us in this fight for a more peaceful, safe world and do so in a way that enables young people to lead the way. We must continue the conversation on how we can make the world a better place by listening, not only to experts, but to young people too.
 
-If you're interested in reading more about this topic, jump over to these links: 
-https://theconversation.com/climate-change-children-are-carving-out-a-place-in-politics-now-adults-must-listen-and-act-123704
-https://theconversation.com/what-we-dont-understand-about-young-peoples-motivations-129058
-https://www.globalcitizen.org/en/content/2020-youth-activism/
-https://medium.com/change-maker/seizing-the-future-why-empowering-young-people-will-build-a-better-world-b4496b52e607
-https://www.tbd.community/en/a/youth-untapped-resource
+**If you're interested in reading more about this topic, jump over to these links:**
+
+[The Conversation: Children are Carving Out a Place in Politics, Adults Must Listen and Act](https://theconversation.com/climate-change-children-are-carving-out-a-place-in-politics-now-adults-must-listen-and-act-123704)
+[The Conversation: What We Don't Understand About Young People's Motivations](https://theconversation.com/what-we-dont-understand-about-young-peoples-motivations-129058)
+[Global Citizen: 2020 Youth Activism](https://www.globalcitizen.org/en/content/2020-youth-activism/) 
+[Medium: Why Empowering Young People Will Build A Better World](https://medium.com/change-maker/seizing-the-future-why-empowering-young-people-will-build-a-better-world-b4496b52e607)
+[TBD: Youth – An Untapped Resource](https://www.tbd.community/en/a/youth-untapped-resource)
