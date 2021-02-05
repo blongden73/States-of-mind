@@ -6,7 +6,7 @@ categories:
 tags:
 - youth
 - social action
-Intro: The (too-often) hidden value of listening – and not just to the experts.
+Intro: The massive value of listening – and not just to the experts.
 Byline: Ella Gregory
 Image: "/uploads/MG_4951.jpg"
 Section: Futures
