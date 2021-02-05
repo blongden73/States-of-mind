@@ -54,8 +54,8 @@ Nowadays, a plethora of youth organisations exists globally, influencing governm
 
 **If you're interested in reading more about this topic, jump over to these links:**
 
-[The Conversation: Children are Carving Out a Place in Politics, Adults Must Listen and Act](https://theconversation.com/climate-change-children-are-carving-out-a-place-in-politics-now-adults-must-listen-and-act-123704)
-[The Conversation: What We Don't Understand About Young People's Motivations](https://theconversation.com/what-we-dont-understand-about-young-peoples-motivations-129058)
-[Global Citizen: 2020 Youth Activism](https://www.globalcitizen.org/en/content/2020-youth-activism/) 
-[Medium: Why Empowering Young People Will Build A Better World](https://medium.com/change-maker/seizing-the-future-why-empowering-young-people-will-build-a-better-world-b4496b52e607)
-[TBD: Youth – An Untapped Resource](https://www.tbd.community/en/a/youth-untapped-resource)
+* [The Conversation: Children are Carving Out a Place in Politics, Adults Must Listen and Act](https://theconversation.com/climate-change-children-are-carving-out-a-place-in-politics-now-adults-must-listen-and-act-123704)
+* [The Conversation: What We Don't Understand About Young People's Motivations](https://theconversation.com/what-we-dont-understand-about-young-peoples-motivations-129058)
+* [Global Citizen: 2020 Youth Activism](https://www.globalcitizen.org/en/content/2020-youth-activism/) 
+* [Medium: Why Empowering Young People Will Build A Better World](https://medium.com/change-maker/seizing-the-future-why-empowering-young-people-will-build-a-better-world-b4496b52e607)
+*[TBD: Youth – An Untapped Resource](https://www.tbd.community/en/a/youth-untapped-resource)
