@@ -1,5 +1,5 @@
 ---
-title: How involving young people in big decisions will make the world a better place
+title: How giving young people a voice will make the world a better place
 date: 2021-02-05 13:42:00 Z
 categories:
 - journal
