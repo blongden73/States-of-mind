@@ -51,3 +51,10 @@ Respect is key to this view, in order to move past the hierarchy of power. We kn
 If there is any doubt about the willingness of young people to engage in worldly affairs, I would encourage people to look at the “wealth of evidence” that shows young people “have both the desire and the ability to influence decisions that affect them in their everyday lives. For example, [a survey of 663 young people](https://www.scie.org.uk/publications/guides/guide11/context.asp) (Park et al., 2004) found that the majority of young people thought that they should have, at the very least, 'quite a bit of a say' in making decisions about issues that affect them.” In 2020, [a CIRCLE poll](https://circle.tufts.edu/latest-research/poll-young-people-believe-they-can-lead-change-unprecedented-election-cycle) of more than 2,000 18-29 year-olds showed that 83% believe that young people have the power to change the world.
 
 Nowadays, a plethora of youth organisations exists globally, influencing governments and NGOs across the world. Focusing on issues from [climate change](https://youthfornature.uk/nature-nearby/) to [period poverty](https://period.org/), young people are working together to create a more equal society that promotes tolerance and respect. Adults must support us in this fight for a more peaceful, safe world and do so in a way that enables young people to lead the way. We must continue the conversation on how we can make the world a better place by listening, not only to experts, but to young people too.
+
+If you're interested in reading more about this topic, jump over to these links: 
+https://theconversation.com/climate-change-children-are-carving-out-a-place-in-politics-now-adults-must-listen-and-act-123704
+https://theconversation.com/what-we-dont-understand-about-young-peoples-motivations-129058
+https://www.globalcitizen.org/en/content/2020-youth-activism/
+https://medium.com/change-maker/seizing-the-future-why-empowering-young-people-will-build-a-better-world-b4496b52e607
+https://www.tbd.community/en/a/youth-untapped-resource
