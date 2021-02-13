@@ -4,7 +4,7 @@ date: 2020-02-13 22:41:00 Z
 Intro text: "# ...to really be heard?\n\nWe provide young people with the psychological
   skills, knowledge and self awareness that is required for them to thrive in the
   world. \n\nOur work also focuses on understanding and addressing the social causes
-  of young people's distress. \n\nWe work alongside young people, to develop new approaches
+  of young people's distress. \n\nWe work alongside young people to develop new approaches
   that support their psychological health. "
 Carousel:
 - Image: "/uploads/1-9db443.jpg"
