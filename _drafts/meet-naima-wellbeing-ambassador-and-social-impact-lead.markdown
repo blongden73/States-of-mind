@@ -1,6 +1,6 @@
 ---
 title: 'Meet Naima: "We''re not just spreading mental health awareness, we''re developing
-  as people."'
+  as people"'
 date: 2021-03-03 12:48:00 Z
 categories:
 - journal
