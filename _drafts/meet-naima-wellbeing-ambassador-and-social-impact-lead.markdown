@@ -1,13 +1,14 @@
 ---
-title: Meet States of Mind Wellbeing Ambassador and Social Impact Lead, Naima
+title: 'Meet Naima: "We''re not just spreading mental health awareness, we''re developing
+  as people."'
 date: 2021-03-03 12:48:00 Z
 categories:
 - journal
 tags:
 - Community
 - Wellbeing Ambassadors
-Intro: '"We are not just spreading awareness about mental health, we are developing
-  as our own people."'
+Intro: A London-based student shares her experience of being a Wellbeing Ambassador
+  with States of Mind.
 Byline: Introduction by Tempe Nakiska
 Image: "/uploads/Naima.jpg"
 Section: Community
