@@ -5,7 +5,7 @@ categories:
 - journal
 tags:
 - Community
-- Wellbeing Ambassador
+- Wellbeing Ambassadors
 Intro: 'Wellbeing Ambassador and London-based student, Ibithal, reflects on taking
   part in our mental health education programme. '
 Byline: Introduction by Tempe Nakiska
