@@ -1,5 +1,5 @@
 ---
-title: 'Meet Naima: Wellbeing Ambassador and Social Impact Lead'
+title: Meet States of Mind Wellbeing Ambassador, Naima
 date: 2021-03-04 12:48:00 Z
 categories:
 - journal
