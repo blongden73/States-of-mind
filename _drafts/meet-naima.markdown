@@ -9,7 +9,7 @@ tags:
 Intro: 'London-based student Naima shares about being a Wellbeing Ambassador with
   States of Mind. '
 Byline: Introduction by Tempe Nakiska
-Image: "/uploads/Naima.jpg"
+Image: "/uploads/Mentoring%20Programme.jpg"
 Section: Community
 ---
 
