@@ -10,7 +10,7 @@ Intro: '"Away from everything I thrive on, I am faced with myself, someone I hav
   sat with for a while." A community member reflects on the discomfort of pandemic
   loneliness. '
 Byline: By  Sarah Herbert
-Image: "/uploads/DTS_Warp_Nick_Fancher_4232.jpg"
+Image: "/uploads/edu-grande-JVpFGt8A520-unsplash%20(1).jpg"
 Section: Reflections
 ---
 
