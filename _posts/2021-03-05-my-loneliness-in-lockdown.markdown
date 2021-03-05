@@ -10,7 +10,7 @@ Intro: '"Away from everything I thrive on, I am faced with myself, someone I hav
   sat with for a while."'
 Byline: 'By '
 Image: "/uploads/DTS_Warp_Nick_Fancher_4232.jpg"
-Section: Community
+Section: Reflections
 ---
 
 As the hours, days and weeks keep moving on during this lockdown period, I have found myself stuck in a state of limbo between 'bettering' practices and an internal paralysis.  
