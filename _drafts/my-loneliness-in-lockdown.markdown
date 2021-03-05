@@ -25,7 +25,7 @@ Now? Alone? Really? I live with someone I love who nurtures and creates any spac
 
 The obvious looked at me right in the face. Coronavirus has sent us all into this extreme pause. I am away from everything I thrive on, everything that fills me –  my everyday activeness, my training as an actress, connections to my community, even connections to strangers. Instead, I am faced with myself, someone I haven’t sat with for a while. 
 
-> I did some googling and found loneliness to be defined as “a gap between the connections that you need and the connections that you have.” 
+**I did some googling and found loneliness to be defined as “a gap between the connections that you need and the connections that you have.”** 
 
 Dr Vivek Murthy defines three dimensions of loneliness as: intimate – longing for partner who you share an intimacy with; relational or social – quality friendships, social companionship and support; and thirdly a collective loneliness – a hunger for a network or community of people who share your interests. The lack of relationships in any of these dimensions can make us feel lonely.
 
