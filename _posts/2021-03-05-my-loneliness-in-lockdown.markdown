@@ -7,7 +7,8 @@ tags:
 - Community
 - Connection
 Intro: '"Away from everything I thrive on, I am faced with myself, someone I haven’t
-  sat with for a while."'
+  sat with for a while." A community member reflects on the discomfort of pandemic
+  loneliness. '
 Byline: By  Sarah Herbert
 Image: "/uploads/DTS_Warp_Nick_Fancher_4232.jpg"
 Section: Reflections
