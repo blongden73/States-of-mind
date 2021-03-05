@@ -17,7 +17,7 @@ As the hours, days and weeks keep moving on during this lockdown period, I have 
 
 A certain pressure loomed over me to take this time of pause as a once in a lifetime opportunity to build up the person I ought to be. Though navigating that person became a maze in which I often found myself lost. 
 
-Creating space for myself, I returned to my practices in meditation, writing, I focussed on my acting and even found a new love for painting. Going into everyday with a sense of hope and a high spirit for the future. Yet something did not feel right. I was still having irrational and irritable outbreaks at my partner, conversations made me exhausted, I was searching but not sure what I was searching for. I could feel a deeply uncomfortable place within me.
+Creating space for myself, I returned to my practices in meditation, writing, I focussed on my acting and even found a new love for painting. Going into every day with a sense of hope and a high spirit for the future. Yet something did not feel right. I was still having irrational and irritable outbreaks at my partner, conversations made me exhausted, I was searching but not sure what I was searching for. I could feel a deeply uncomfortable place within me.
 
 > I didn’t feel good enough, I felt almost invisible at times. I felt alone. 
 
