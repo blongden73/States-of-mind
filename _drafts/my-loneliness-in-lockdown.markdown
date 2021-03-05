@@ -1,5 +1,5 @@
 ---
-title: My loneliness in lockdown
+title: My experience of loneliness in lockdown
 date: 2021-03-05 09:13:00 Z
 categories:
 - journal
