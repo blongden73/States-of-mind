@@ -35,7 +35,7 @@ Our values description: |-
 
   No matter how chaotic and uncertain life gets, opportunity can be found. We work to create spaces where meaning can rise from difficulty. So that we can bring hope to the lives of young people in our society, creating a future that values the beauty and complexity of the human experience.
 Team:
-- image: "/uploads/bea.png"
+- image: "/uploads/BeaH.jpg"
   name: Bea Herbert
   description: "**Founder and Director** Bea founded States of Mind in 2017, driven
     by a desire to create change in how our society speaks about and supports experiences
