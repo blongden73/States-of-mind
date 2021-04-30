@@ -19,5 +19,6 @@ Form: "Reflect on the last time you experienced one of these defence mechanisms 
   \   <input type=\"text\" name=\"username\" placeholder=\"Type your answer here\"></input>\n
   \ </div>\n  <div>\n    <button type=\"submit\"id=\"submit-form\">Submit</button>\n
   \ </div>\n</form>\n\n\n"
+layout: handbook
 ---
 
