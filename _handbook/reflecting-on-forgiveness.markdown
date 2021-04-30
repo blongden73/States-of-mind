@@ -1,5 +1,5 @@
 ---
-title: Reflecting on Forgiveness
+title: Practicing Forgiveness
 date: 2021-04-30 18:43:00 Z
 Form: |+
   Think of a situation that you feel requires forgiveness.
