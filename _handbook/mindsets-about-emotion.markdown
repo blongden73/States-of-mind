@@ -28,5 +28,6 @@ Form: |+
     </div>
   </form>
 
+layout: handbook
 ---
 
