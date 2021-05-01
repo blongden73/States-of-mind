@@ -1,5 +1,5 @@
 ---
-title: Mindsets about Emotion
+title: Family and emotion
 date: 2021-04-30 18:46:00 Z
 Form: |+
   <form id="test-form">
