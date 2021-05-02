@@ -14,7 +14,7 @@ Form: |-
       <textarea type="text" name="module1_b" placeholder="Type your answer here"/></textarea>
     </div>
     <div>
-      <label>What did you least enjoy about this module?
+      <label>What learning and insights from this module would you like to try to apply in your life?
 
     </label>
       <textarea type="text" name="module1_c" placeholder="Type your answer here"/></textarea>
