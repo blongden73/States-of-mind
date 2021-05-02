@@ -10,17 +10,17 @@ Form: |-
       <textarea type="text" name="module4_a" placeholder="Type your answer here"/></textarea>
     </div>
     <div>
-      <label>What did you enjoy most about this module?</label>
+      <label>What did you most enjoy about this module and what felt more difficult or challenging to understand or apply?</label>
       <textarea type="text" name="module4_b" placeholder="Type your answer here"/></textarea>
     </div>
     <div>
-      <label>What did you least enjoy about this module?
+      <label>What parts of the module felt more difficult and challenging to understand or apply?
 
     </label>
       <textarea type="text" name="module4_c" placeholder="Type your answer here"/></textarea>
     </div>
     <div>
-      <label>What insights, skills or learning has felt most significant to you and why?
+      <label>What insights, skills or learning has felt most significant to you and why? How might you begin to integrate these into your life?
 
   </label>
       <textarea type="text" name="module4_d" placeholder="Type your answer here"/></textarea>
