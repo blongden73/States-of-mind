@@ -22,6 +22,18 @@ body.handbook {
   }
 }
 
+.handbook {
+  .som-header {
+    display: none;
+  }
+  .som-footer-cta {
+    display: none;
+  }
+  .som-footer {
+    display: none;
+  }
+}
+
 .education-background {
   position: fixed;
   z-index: -1;
