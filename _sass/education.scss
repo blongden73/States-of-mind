@@ -1,3 +1,27 @@
+@font-face {
+    font-family: 'recoleta_altbold';
+    src: url('https://cdn.shopify.com/s/files/1/0557/8375/1867/t/1/assets/recoleta_alt_bold-webfont.woff2') format('woff2'),
+         url('https://cdn.shopify.com/s/files/1/0557/8375/1867/t/1/assets/recoleta_alt_bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'recoleta_altmedium';
+    src: url('https://cdn.shopify.com/s/files/1/0557/8375/1867/t/1/assets/recoleta_alt_medium_1-webfont.woff2') format('woff2'),
+         url('https://cdn.shopify.com/s/files/1/0557/8375/1867/t/1/assets/recoleta_alt_medium_1-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'recoletaregular';
+    src: url('https://cdn.shopify.com/s/files/1/0557/8375/1867/t/1/assets/recoleta-regular-webfont.woff2') format('woff2'),
+         url('https://cdn.shopify.com/s/files/1/0557/8375/1867/t/1/assets/recoleta-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 body.education-programme {
   @include mq($from: desktop) {
     overflow: hidden;
@@ -38,11 +62,7 @@ body.handbook {
   position: fixed;
   z-index: -1;
   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f7e3e7+0,ffffff+49,d0eef4+100 */
-  background: #f7e3e7; /* Old browsers */
-  background: -moz-linear-gradient(-45deg,  #f7e3e7 0%, #ffffff 49%, #d0eef4 100%); /* FF3.6-15 */
-  background: -webkit-linear-gradient(-45deg,  #f7e3e7 0%,#ffffff 49%,#d0eef4 100%); /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(135deg,  #f7e3e7 0%,#ffffff 49%,#d0eef4 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f7e3e7', endColorstr='#d0eef4',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+  background-color: #FBDEDD;
   height: 100vh;
   width: 100%;
 }
