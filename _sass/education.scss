@@ -1,23 +1,23 @@
 @font-face {
     font-family: 'recoleta_altbold';
-    src: url('https://cdn.shopify.com/s/files/1/0557/8375/1867/t/1/assets/recoleta_alt_bold-webfont.woff2') format('woff2'),
-         url('https://cdn.shopify.com/s/files/1/0557/8375/1867/t/1/assets/recoleta_alt_bold-webfont.woff') format('woff');
+    src: url('recoleta_alt_bold-webfont.woff2') format('woff2'),
+         url('recoleta_alt_bold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'recoleta_altmedium';
-    src: url('https://cdn.shopify.com/s/files/1/0557/8375/1867/t/1/assets/recoleta_alt_medium_1-webfont.woff2') format('woff2'),
-         url('https://cdn.shopify.com/s/files/1/0557/8375/1867/t/1/assets/recoleta_alt_medium_1-webfont.woff') format('woff');
+    src: url('recoleta_alt_medium_1-webfont.woff2') format('woff2'),
+         url('recoleta_alt_medium_1-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'recoletaregular';
-    src: url('https://cdn.shopify.com/s/files/1/0557/8375/1867/t/1/assets/recoleta-regular-webfont.woff2') format('woff2'),
-         url('https://cdn.shopify.com/s/files/1/0557/8375/1867/t/1/assets/recoleta-regular-webfont.woff') format('woff');
+    src: url('recoleta-regular-webfont.woff2') format('woff2'),
+         url('recoleta-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
@@ -55,6 +55,12 @@ body.handbook {
   }
   .som-footer {
     display: none;
+  }
+  h1 {
+    font-family: 'recoleta_altmedium';
+  }
+  label, p, textarea, input {
+    font-family: 'recoletaregular' !important;
   }
 }
 
