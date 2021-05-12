@@ -21,4 +21,4 @@ Instead of judging it in an intellectual way, you should listen to the drawingâ€
 
 After a while, turn the drawing over and write what comes to mind.
 
-Even if our drawings remain meaningless, you will have still partially satisfied a vital need - the need for expression. Many people find a new, childlike delight in playing with pencils or pens, in bypassing the control of the intellect and experiencing the pure fun of creativity.
+Even if our drawings remain meaningless, you will have still partially satisfied a vital need - the need for expression. Many people find a new, childlike delight in playing with pencils or pens, in bypassing the control of the intellect and experiencing the natural flow of creativity.
