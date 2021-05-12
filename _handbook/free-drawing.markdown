@@ -9,7 +9,7 @@ layout: handbook
 
 Free drawings display, with richness and often precision, the energies and feelings that motivate our lives, tendencies that no words can describe.
 
-1. take several coloured pens and some pieces of paper. Before beginning to draw. Allow yourself a few moments of relaxed, calm awareness.
+1. Take several coloured pens and some pieces of paper. Before beginning to draw. Allow yourself a few moments of relaxed, calm awareness.
 
 2. Now let your hand draw, and watch with mild curiosity what is taking shape on the paper.
 
