@@ -16,7 +16,7 @@ Form: |+
       <textarea type="text" name="Reflecting_on_balance_c" placeholder="Type your answer here"></textarea>
     </div>
     <div>
-      <label>What parts of yourself and your life would you like to bring more conscious attention to?</label>
+      <label>What parts of yourself and your life would you like to bring more conscious awareness and attention to?</label>
       <textarea type="text" name="Reflecting_on_balance_d" placeholder="Type your answer here"></textarea>
     </div>
     <div>
