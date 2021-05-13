@@ -4,16 +4,18 @@ date: 2021-04-30 18:46:00 Z
 Form: "Take some time to think about the different belief systems you have developed
   throughout your life based on your experiences in relationships. Reflect on what
   beliefs you hold about the following relationships: \n<form id=\"test-form\">\n
-  \ <div>\n    <label>What Mindsets/ beliefs do you have about your family?</label>\n
-  \   <textarea type=\"text\" name=\"Mindsets_about_Relationships\" placeholder=\"Type
-  your answer here\"></textarea>\n  </div>\n  <div>\n    <label>What Mindsets/beliefs
-  do you have about your friendships? </label>\n    <textarea type=\"text\" name=\"Mindsets_about_Relationships_b\"
+  \ <div>\n    <label>What Mindsets do you have about the levels of connection you
+  are able to feel with others?</label>\n    <textarea type=\"text\" name=\"Mindsets_about_Relationships\"
   placeholder=\"Type your answer here\"></textarea>\n  </div>\n  <div>\n    <label>What
-  Mindsets/beliefs do you have about your experiences in romantic relationships?</label>\n
-  \   <textarea type=\"text\" name=\"Mindsets_about_Relationships_c\" placeholder=\"Type
-  your answer here\"></textarea>\n  </div>\n  <div>\n    <label>What is your username?</label>\n
-  \   <input type=\"text\" name=\"username\" placeholder=\"Type your answer here\"></input>\n
-  \ </div>\n  <div>\n    <button type=\"submit\"id=\"submit-form\">Submit</button>\n
+  mindsets do you have about the relationships in your life in general? </label>\n
+  \   <textarea type=\"text\" name=\"Mindsets_about_Relationships_b\" placeholder=\"Type
+  your answer here\"></textarea>\n  </div>\n  <div>\n    <label>Choose on relationship
+  to focus on, describe your relationship with this person and what mindsets you have
+  about your relationship with them. How do these mindsets influence your feelings
+  and behaviour in the relationship?</label>\n    <textarea type=\"text\" name=\"Mindsets_about_Relationships_c\"
+  placeholder=\"Type your answer here\"></textarea>\n  </div>\n  <div>\n    <label>What
+  is your username?</label>\n    <input type=\"text\" name=\"username\" placeholder=\"Type
+  your answer here\"></input>\n  </div>\n  <div>\n    <button type=\"submit\"id=\"submit-form\">Submit</button>\n
   \ </div>\n</form>\n\n\n"
 layout: handbook
 ---
