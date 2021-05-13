@@ -1,5 +1,5 @@
 ---
-title: Limiting Beliefs V1
+title: Limiting Beliefs
 date: 2021-05-13 19:29:00 Z
 Form: |-
   <form id="test-form">
