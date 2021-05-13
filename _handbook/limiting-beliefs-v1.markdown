@@ -25,6 +25,7 @@ Form: |-
   </form>
 
   Beliefs are ways of managing difficult situations. When we don’t know the answer to something, we create a belief to help us feel like we know the outcome of the situation. People have beliefs about lots of different things. They have beliefs about who they are, they have beliefs about the things they can do and they have beliefs about other people, other groups and other situations that are happening.
+layout: handbook
 ---
 
 
