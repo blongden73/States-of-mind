@@ -4,7 +4,7 @@ date: 2021-05-13 19:29:00 Z
 Form: |-
   <form id="test-form">
     <div>
-      <label>Do you feel feelings of fear when you think about doing these things?</label>
+      <label>What internal beliefs do you have about yourself when you think about doing these things?</label>
       <textarea type="text" name="limiting_a" placeholder="Type your answer here"/></textarea>
     </div>
     <div>
