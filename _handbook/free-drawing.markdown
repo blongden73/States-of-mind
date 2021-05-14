@@ -5,11 +5,11 @@ position: 7
 layout: handbook
 ---
 
-**Free drawing
-**
+**Free drawing**
+
 Free drawings display, with richness and often precision, the energies and feelings that motivate our lives, tendencies that no words can describe.
 
-1. take several coloured pens and some pieces of paper. Before beginning to draw. Allow yourself a few moments of relaxed, calm awareness.
+1. Take several coloured pens and some pieces of paper. Before beginning to draw. Allow yourself a few moments of relaxed, calm awareness.
 
 2. Now let your hand draw, and watch with mild curiosity what is taking shape on the paper.
 
@@ -21,4 +21,4 @@ Instead of judging it in an intellectual way, you should listen to the drawingâ€
 
 After a while, turn the drawing over and write what comes to mind.
 
-Even if our drawings remain meaningless, you will have still partially satisfied a vital need - the need for expression. Many people find a new, childlike delight in playing with pencils or pens, in bypassing the control of the intellect and experiencing the pure fun of creativity.
+Even if our drawings remain meaningless, you will have still partially satisfied a vital need - the need for expression. Many people find a new, childlike delight in playing with pencils or pens, in bypassing the control of the intellect and experiencing the natural flow of creativity.

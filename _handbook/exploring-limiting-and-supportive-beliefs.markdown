@@ -32,42 +32,6 @@ layout: handbook
 ---
 
 
-Think about the last time you were afraid or had a feeling that was fearful and uncomfortable. Can you notice how there is a belief that exists alongside this feeling?
-
-See if you can notice what this belief is and where it came from.
-
-Was it the situation or did you create the belief yourself?
-
-**Where do limiting beliefs come from?**
-
-Sometimes, our beliefs come from other people after they tell us something that makes us feel we cannot do something or cannot overcome our difficulties. Most often our beliefs come from ourselves because we find that beliefs make us feel more comfortable and secure but actually beliefs often keep us stuck when they cause us to think In certain ways about who we are.
-
-Fears and beliefs come hand in hand, so by exploring our beliefs about ourselves we can understand and calm our fears.
-
-\*\*So how do you explore your beliefs? \*\*
-
-Our beliefs exist within us and they influence the way that we speak to ourselves and think about other people and situations. Let’s do an activity that allows you to explore your beliefs.
-
-\*\*What are the things that you believe you cannot do? \*\*
-
-Write a list of the things that you believe you cannot do, or struggle with doing.
-
-Now, answer the following questions:
-
-Q. Do you feel feelings of fear when you think about doing these things?
-
-A.
-
-Q. What feelings do you have that are attached to your beliefs about the things that you cannot do?
-
-A.
-
-Q. How do these beliefs affect your ability to do the task?
-
-A.
-
-Beliefs are ways of managing difficult situations. When we don’t know the answer to something, we create a belief to help us feel like we know the outcome of the situation. People have beliefs about lots of different things. They have beliefs about who they are, they have beliefs about the things they can do and they have beliefs about other people, other groups and other situations that are happening.
-
 **Limiting beliefs and supportive beliefs**
 
 Some beliefs are attached to positive emotions and some beliefs have uncomfortable emotions attached to them. When a belief has an uncomfortable emotion attached to it, we call it a limiting belief. When a belief has a positive emotion attached to it we call it a supportive belief.

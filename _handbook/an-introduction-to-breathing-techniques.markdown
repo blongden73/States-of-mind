@@ -39,7 +39,7 @@ Form: |-
 
   <p>Allow your breath to travel up to your mind, filling it with space and light and allowing the nature of the mind to calm itself and release the need to control..</p>
 
-  <p>Release the tension with each outbreath you take, letting your body naturally let go of any tensions or feelings that it is holding. Sink into the experience of being just as you are. Sit with the experience of breathing space into your internal world. Gently trusting that there is nothing you need to do but keep your attention on your breathing , allowing it to fill you with space. This space is stillness and it will remind you of how peace is the ability for you to hold space within yourself.</p>
+  <p>Imagine your tension releasing with each out-breath you take, trusting your body to naturally let go of any tensions or feelings that it is holding. Sink into the experience of being just as you are. Sit with the experience of breathing space into your internal world. Gently trusting that there is nothing you need to do but keep your attention on your breathing , allowing it to fill you with space. This space is stillness and it will remind you of how peace is the ability for you to hold space within yourself.</p>
 
   <p>The way to heal is not to hold on, but to let go. Trust this is true and allow your body to become calm and soft. Allow the tensions and the things you are holding to gently fade away with the knowing that you are perfect just as you are, there is no need to change, just to let go of anything you have been holding.</p>
 
@@ -47,4 +47,4 @@ Form: |-
 layout: handbook
 ---
 
-Please answer the following questions to help you reflect on your current relationship with your breathing and how able you are, at present to use your breathing as a tool to regulate your emotional and physical health.
+Before beginning your breathing practice, it can be helpful to take a moment to reflect on your current relationship with your breathing and how able you are, at present to use your breathing as a tool to calm your emotions and physical tension.

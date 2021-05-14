@@ -32,9 +32,9 @@ layout: handbook
 
 Reflect on the mindsets you have around some of the following things:
 
-Yourself, friendships, social media, politics, the future.
+Yourself, money, social media, politics, the future.
 
-**Choose one of the areas to focus on.**
+**You can choose one of these areas to focus on, or you can choose your own.**
 
 * Write down whatever views and mindsets you have around this topic.
 
