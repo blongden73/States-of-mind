@@ -1,5 +1,5 @@
 ---
-title: Exploring Emotions Worksheet
+title: Exploring Emotions
 date: 2020-08-31 17:03:00 Z
 position: 32
 Form: |2-
