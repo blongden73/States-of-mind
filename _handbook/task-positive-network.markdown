@@ -33,4 +33,3 @@ Doing this exercise activates your Task Positive Network. Notice the difference 
 
 Write down a list of activities that come to mind that you could do when you are stuck in a place of worry.
 
-Question: ( form here)
