@@ -13,7 +13,7 @@ Form: |-
       <textarea type="text" name="BFM_d" placeholder="Type your answer here"/></textarea>
     </div>
     <div>
-      <label>What feelings did you notice in yourself during this meditation</label>
+      <label>What feelings did you notice in yourself during this meditation?</label>
       <textarea type="text" name="BFM_e" placeholder="Type your answer here"/></textarea>
     </div>
     <div>
