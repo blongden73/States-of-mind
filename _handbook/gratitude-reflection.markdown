@@ -1,8 +1,8 @@
 ---
 title: Gratitude Reflection
 date: 2021-04-30 18:47:00 Z
-Form: |
-  When we take time to feel grateful, initially it can feel very tricky. As we practice it gets easier to identify the things in life we feel lucky for. We are able to appreciate what we have and studies have shown that this has a notable impact on our wellbeing.
+Form: |2
+
   <form id="test-form">
     <div>
       <label>What are you grateful for? List at least five things.</label>
@@ -26,3 +26,4 @@ Form: |
 layout: handbook
 ---
 
+When we take time to feel grateful, initially it can feel very tricky. As we practice it gets easier to identify the things in life we feel lucky for. We are able to appreciate what we have and studies have shown that this has a notable impact on our wellbeing.
