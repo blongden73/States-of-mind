@@ -1,8 +1,8 @@
 ---
 title: Attunement in close relationships
 date: 2021-04-30 20:27:00 Z
-Form: |+
-  Think about a relationship or a time in a relationship, where you felt someone was attuned to the reality of your experience. A time when somebody really got you.
+Form: |2+
+
   <form id="test-form">
     <div>
       <label>Who was this person and what was the situation?</label>
@@ -37,3 +37,4 @@ Form: |+
 layout: handbook
 ---
 
+Think about a relationship or a time in a relationship, where you felt someone was attuned to the reality of your experience. A time when somebody really got you.
