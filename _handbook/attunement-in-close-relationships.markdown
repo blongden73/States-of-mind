@@ -37,4 +37,4 @@ Form: |2+
 layout: handbook
 ---
 
-Think about a relationship or a time in a relationship, where you felt someone was attuned to the reality of your experience. A time when somebody really got you.
+Think about a relationship or a time in a relationship, where you felt someone was attuned to the reality of your experience. A time when you felt like somebody really tuned into the deeper reality of your experience.
