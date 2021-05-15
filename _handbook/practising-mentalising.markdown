@@ -68,7 +68,6 @@ layout: handbook
 
 Think of a scenario that currently exists in your life, where a friend, family member or somebody else that you know is acting in a way that is causing you frustration or a sense of disconnection. 
 
-
 Think about how has it made you feel and what assumptions you have automatically made about why they are acting this way. 
 
 This will help you mentalise yourself and bring awareness to the nature of your own feelings and reactions.
