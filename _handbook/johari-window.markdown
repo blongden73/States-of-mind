@@ -1,5 +1,5 @@
 ---
-title: Johari Window
+title: Johari Window Reflection
 date: 2020-09-06 12:21:00 Z
 position: 17
 Form: |-
