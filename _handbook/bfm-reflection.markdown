@@ -1,5 +1,5 @@
 ---
-title: BFM reflection
+title: Body, Feelings, Mind Reflection
 date: 2020-09-15 12:43:00 Z
 position: 3
 Form: |-
