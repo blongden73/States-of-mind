@@ -30,7 +30,7 @@ Form: |2-
     </div>
   </form>
 
-  <p>**Step 2: **
+  **Step 2: **
 
   For use with two people / in groups.
 
@@ -72,7 +72,7 @@ Form: |2-
 
   What has this activity taught you about how you see yourself?
 
-  What has this activity taught you about what identity means?<p>
+  What has this activity taught you about what identity means?
 layout: handbook
 ---
 
