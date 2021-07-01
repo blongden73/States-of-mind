@@ -7,7 +7,7 @@ Intro: A London Student reflects on her experience of States of Mind's new Selfo
   curriculum.
 Byline: By Aliyah Abdullahi
 Image: "/uploads/DTS_First_Date_Marlen_Stahlhuth_4793.jpeg"
-layout: default
+layout: post
 ---
 
 Aliyah, a 17 year old student from a London college, reflects on her experience of being part of States of Mind's Selfology programme and becoming one of States of Mind's first student facilitators.
