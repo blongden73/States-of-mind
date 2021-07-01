@@ -1,6 +1,10 @@
 ---
 title: 'Selfology: A new Wellbeing curriculum for the UK education system'
 date: 2021-07-01 18:47:00 Z
+Intro: A London Student reflects on her experience of States of Mind's new Selfology
+  curriculum.
+Byline: By Aliyah Abdullahi
+Image: "/uploads/LogoSelfology.svg"
 ---
 
 Aliyah, a 17 year old student from a London college, reflects on her experience of being part of States of Mind's Selfology programme and becoming one of States of Mind's first student facilitators.
