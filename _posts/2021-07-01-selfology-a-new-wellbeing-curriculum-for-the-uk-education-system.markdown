@@ -6,7 +6,7 @@ categories:
 Intro: A London Student reflects on her experience of States of Mind's new Selfology
   curriculum.
 Byline: By Aliyah Abdullahi
-Image: "/uploads/LogoSelfology.svg"
+Image: "/uploads/DTS_First_Date_Marlen_Stahlhuth_4793.jpeg"
 layout: blog
 ---
 
