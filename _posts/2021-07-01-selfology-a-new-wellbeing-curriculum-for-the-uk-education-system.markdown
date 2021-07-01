@@ -11,7 +11,7 @@ Image: "/uploads/DTS_First_Date_Marlen_Stahlhuth_4793.jpeg"
 layout: blog
 ---
 
-Aliyah, a 17 year old student from a London college, reflects on her experience of being part of States of Mind's Selfology programme and becoming one of States of Mind's first student facilitators.
+*Aliyah, a 17 year old student from a London college, reflects on her experience of being part of States of Mind's Selfology programme and becoming one of States of Mind's first student facilitators.*
 
 My name is Aliyah Abdullahi and I’m a current year 12 student. I am greatly honoured to have had the chance to both be a student in the States of Mind Selfology course and then take on the role of an independent facilitator. It was the first course I had ever entered in that there was some sort of fluidity, where the learner had an opportunity to contribute and had the chance to be heard.
 
