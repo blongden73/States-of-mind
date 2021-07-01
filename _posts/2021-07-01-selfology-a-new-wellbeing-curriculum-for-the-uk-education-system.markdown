@@ -21,7 +21,7 @@ Wellbeing can seem like a quite redundant topic to learn about, but it’s more 
 
 The UK curriculum aims to teach us many things but the education we need (self-development and emotion/mental literacy) is what this system deprives us of most. Teens often aren’t often taken as seriously as they should, and this can be extremely detrimental when we are finally responsible for our own decisions. A lot of us seek validation in others but rarely ever have trust in ourselves.
 
-≥ To grow up into our ideal selves we first need to be self-aware and this requires you to detach from the expectations made for us and redefine it to fit in your true persona, not the version of yourself that is manufactured by the education system.
+To grow up into our ideal selves we first need to be self-aware and this requires you to detach from the expectations made for us and redefine it to fit in your true persona, not the version of yourself that is manufactured by the education system.
 
 Adulthood isn’t something we just grow up into, it is a conscious process that can begin as early as childhood. This is one thing the education system time and time again fails to acknowledge. To compensate for this, we need spaces where we can fill in these gaps and the States of Mind program perfectly provides this.
 
