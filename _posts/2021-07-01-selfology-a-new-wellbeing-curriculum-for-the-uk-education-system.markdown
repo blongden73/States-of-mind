@@ -46,3 +46,5 @@ Running the wellbeing sessions is a very different to being taught it. In one wa
 One of the key responses I had heard from a classmate in one the earlier wellbeing sessions is that ‘we don’t have time for self-reflection’ and that this is partly because ‘we don’t make time for it’. Because of moments such as this I strongly advocate for mental health and wellbeing education. We should not shy away to from discussing these aspects and start using the knowledge of mental health to benefit others.
 
 Everyone has role in planting seeds of necessary change, which may seem small at first, but can grow big and beautiful with the little nurture of confidence and time. Taking part in the states of mind education programme is an important example of planting change for the future. It’s may seem be small and inconsequential at first, but the positive impact it could have is endless.
+
+**To find out more about Selfology, visit Selfology.io** 
