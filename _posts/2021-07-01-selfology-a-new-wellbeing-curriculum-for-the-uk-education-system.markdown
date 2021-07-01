@@ -1,6 +1,7 @@
 ---
 title: 'Selfology: A new Wellbeing curriculum for the UK education system'
 date: 2021-07-01 18:47:00 Z
+permalink: "/selfology"
 categories:
 - journal
 Intro: A London Student reflects on her experience of States of Mind's new Selfology
