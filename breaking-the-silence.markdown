@@ -31,6 +31,54 @@ Ambassador description: |-
   ‘discover their strengths and weaknesses... while allowing them to start distinguishing their unique values and preferences for the future’.
 
   The students received a response from Ofsted which did not address the problems raised, nor propose any solutions to the complex issues raised by the students.
+text-block-three description: "# Phase two \n\n2019/20 - What is the impact of schooling
+  on the identity, psychological health and personal development of young people?
+  \n\nThe following year, a new cohort of students considered the outcomes of phase
+  one and decided to take the project in a different direction. They constructed questionnaires
+  and co-facilitated focus groups and interviews with the support of an IOE doctorate
+  student. Check out the summary of findings from the questionnaire and focus groups.
+  A disturbing picture emerged of an education system that values results above human
+  flourishing, stifles creativity, identity, personal development and often negatively
+  impacts the mental health of young people. They asserted many ideas for educational
+  evolution, including increased “personal input” to curricula, “different ways of
+  assessing” and valuing mental health and individuality. Two podcasts were also put
+  together by States of Mind alongside student participants, to further bring the
+  findings to life. One of the student leaders, Reegan Mason, wrote a piece outlining
+  the emerging issues and ideas for innovation. "
+text-block-four description: "# Phase 3\n\n2020/21 - Designing an alternative education
+  evaluation framework\n\nIn this phase, a new cohort of young people studied the
+  current Ofsted framework, alongside national and international research around education
+  evaluation. Subsequently, they co-interviewed Headteachers, former Ofsted inspectors,
+  academics and others alongside a doctorate researcher who fully documented the process.
+  The group then drafted an evaluation framework called the ‘Review for Progress and
+  Development’ (RPD). For a fuller summary of the direction of phases three and four,
+  see here. The RPD differs hugely from Ofsted’s external accountability, focussing
+  instead on school self-evaluation and collaborative evaluation across school networks.
+  The final draft is a work in progress and a documentary is currently being edited
+  that followed the project over the course of the year. It will be shared very soon!
+  \n\nAt our Education Futures in Action conference in July 2021, co-organised alongside
+  UCL, young innovators from States of Mind presented their evidence-based ideas around
+  educational transformation with candour and eloquence. Three leaders of the Breaking
+  the Silence project have presented their ideas at various national conferences and
+  to the Education Select Committee."
+text-block-five description: "# Phase 4\n\n2021/22 - Refining & implementing the Review
+  of Progress and Development\n\nA new cohort of students are coming together from
+  late September. Again, a PAR approach will be employed. They will work with States
+  of Mind practitioners, students from previous phases and an IOE doctorate student
+  to develop an understanding of phases one-three, then refine the RPD. This will
+  be followed by implementation of the RPD and evaluation of the process alongside
+  students and educators across a number of schools, including School 21 and London
+  Academy of Excellence in Newham borough and (hopefully) other schools. \n\nThe students
+  involved in this exciting phase are beginning to formulate their aims for the year.
+  It will be fascinating to see how the RPD develops and the response of school leaders
+  and teachers when taking part in this alternative evaluation approach. We hope that
+  as phase 4 comes to fruition, Breaking the Silence will:\n\npromote conversation
+  about how education is evaluated, show how young people can work together to create
+  actionable, psychologically healthy alternatives to current education systems, prompt
+  people to consider the positioning of young people in the big decisions that affect
+  their lives and the extent to which they are currently disempowered, present an
+  actionable education evaluation tool that meets the needs of diverse young people
+  and can be applied across education provisions.  \n"
 layout: breaking
 ---
 
