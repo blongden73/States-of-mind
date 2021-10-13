@@ -87,4 +87,3 @@ image-five: "/uploads/Group%20127.jpg"
 layout: breaking
 ---
 
-This is the blog
