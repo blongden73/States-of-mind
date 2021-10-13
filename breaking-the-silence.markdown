@@ -22,18 +22,14 @@ Intro text: "# The story so far\n\nBreaking the Silence started in January 2019.
   of young people who are in year 12 and attending sixth form colleges in the London
   borough of Newham. Young people apply to take part and commit to weekly sessions
   throughout the academic year. "
-Ambassador description: "# Phase one - 2019 - What do young people think about Ofsted
-  and its impact on their education? \n\nFocus groups were initiated with young people
-  from a number of London colleges. Some volunteered to analyse the data, supported
-  by States of Mind. They wrote a letter to Amanda Spielman outlining their findings.
-  In particular, they highlighted major flaws around how education is measured and
-  how this leads to ‘memorisation’ instead of learning, negatively impacts on the
-  mental health and wellbeing of students and the lack of real world value of much
-  of their schooling. They aspire for more autonomy and for education to provide opportunities
-  to: \n‘discover their strengths and weaknesses... while allowing them to start distinguishing
-  their unique values and preferences for the future’.\n\nThe students received a
-  response from Ofsted which did not address the problems raised, nor propose any
-  solutions to the complex issues raised by the students. "
+Ambassador description: |-
+  # Phase one
+
+  **2019 - What do young people think about Ofsted and its impact on their education?**
+  Focus groups were initiated with young people from a number of London colleges. Some volunteered to analyse the data, supported by States of Mind. They wrote a letter to Amanda Spielman outlining their findings. In particular, they highlighted major flaws around how education is measured and how this leads to ‘memorisation’ instead of learning, negatively impacts on the mental health and wellbeing of students and the lack of real world value of much of their schooling. They aspire for more autonomy and for education to provide opportunities to:
+  ‘discover their strengths and weaknesses... while allowing them to start distinguishing their unique values and preferences for the future’.
+
+  The students received a response from Ofsted which did not address the problems raised, nor propose any solutions to the complex issues raised by the students.
 layout: breaking
 ---
 
