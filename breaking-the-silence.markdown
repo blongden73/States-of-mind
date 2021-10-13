@@ -26,6 +26,7 @@ Ambassador description: |-
   # Phase one
 
   **2019 - What do young people think about Ofsted and its impact on their education?**
+
   Focus groups were initiated with young people from a number of London colleges. Some volunteered to analyse the data, supported by States of Mind. They wrote a letter to Amanda Spielman outlining their findings. In particular, they highlighted major flaws around how education is measured and how this leads to ‘memorisation’ instead of learning, negatively impacts on the mental health and wellbeing of students and the lack of real world value of much of their schooling. They aspire for more autonomy and for education to provide opportunities to:
   ‘discover their strengths and weaknesses... while allowing them to start distinguishing their unique values and preferences for the future’.
 
