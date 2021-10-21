@@ -656,10 +656,10 @@ function cookies(){
     console.log($textarea);
     for(j=0; j < textareas.length; j++) {
 
-      if(!Cookies.get(textareas[j].name)){
-        Cookies.set(textareas[j].name, false, { expires: 100 });
+      if(!localStorage.getItem(textareas[j].name)){
+        localStorage.setItem(textareas[j].name, false);
       }else {
-        $textarea[j].textContent = Cookies.get(textareas[j].name);
+        $textarea[j].textContent = localStorage.getItem(textareas[j].name);
       }
     }
 
@@ -668,7 +668,7 @@ function cookies(){
       this.innerText = "Saved!";
       for(k=0; k < textareas.length; k++) {
         console.log(textareas[k].value);
-        Cookies.set(textareas[k].name, textareas[k].value, { expires: 999999 });
+        localStorage.setItem(textareas[k].name, textareas[k].value);
       }
     });
   }
@@ -677,7 +677,6 @@ function cookies(){
 function killusername(){
   var handbookCheck = document.querySelector('.handbook');
   if(handbookCheck) {
-    localStorage.setItem('myCat', 'Tom');
     var labels = document.querySelectorAll('label');
     for(i=0; i< labels.length; i++){
       if(labels[i].innerText === "What is your username?") {
