@@ -495,7 +495,7 @@ function quizPop() {
 var userAnswers = [];
 
 function googleSheet(){
-  var sheet = 'https://spreadsheets.google.com/feeds/list/1Bt3kMlaWT3TyacDK3QTYeQgXNCNYN_qDfXQ2b8rKnkk/1/public/full?alt=json';
+  var sheet = 'https://sheetdb.io/api/v1/1a9a8ct6w98sl';
   fetch(sheet)
   .then(
     function(response) {
@@ -506,26 +506,23 @@ function googleSheet(){
       }
       // Examine the text in the response
       response.json().then(function(data) {
-        // console.log(data.feed.entry);
+        console.log(data);
         function callAnswers($user) {
           var formEntries = document.querySelector('.form-entries');
-          for(i = 0; i < data.feed.entry.length; i++) {
-            var username = data.feed.entry[i].gsx$username.$t;
+          for(i = 0; i < data.length; i++) {
+            var username = data[i].username;
             if($user == username) {
-              console.log(data.feed.entry[i].gsx$username.$t);
-              // console.log(data.feed.entry[i].content.$t);
-              var entry = data.feed.entry[i].content.$t;
-              var splitEntry = entry.split(',');
-              // console.log(splitEntry.length);
-              for(j = 0; j < splitEntry.length; j++) {
-                // console.log(splitEntry[j].trim())
-                var answerSplit = splitEntry[j].trim().split(':');
-                var answer = answerSplit[1];
-                var question = answerSplit[0];
-                userAnswers.push('<li class="question">' + '<span class="question">' + question + '</span>' + '<span class="answer">' + answer + '</span>' + '</li>');
+              console.log(data[i].username);
+              console.log(data[i]);
+              var entry = data[i];
+              for(j = 0; j < entry.length; j++) {
+                userAnswers.push(entry);
+                // userAnswers.push('<li class="question">' + '<span class="question">' + question + '</span>' + '<span class="answer">' + answer + '</span>' + '</li>');
                 console.log(userAnswers);
                 formEntries.innerHTML = userAnswers.join('');
               }
+            } else {
+              console.log('no user found');
             }
           }
         }
@@ -534,7 +531,7 @@ function googleSheet(){
         ask.addEventListener('click', function(e){
           e.preventDefault();
           var userNameAsk = document.querySelector('.username-ask').value;
-          console.log(userNameAsk);
+          // console.log(userNameAsk);
           callAnswers(userNameAsk);
         });
       });
@@ -647,8 +644,48 @@ function parseQueryString(url) {
     }
 
     return queryStringValues;
-
 }
+
+function cookies(){
+  var handbookCheck = document.querySelector('.handbook');
+  if(handbookCheck) {
+    console.log('handbook cookies');
+    var textareas = document.querySelectorAll('textarea');
+    var $textarea = $('textarea');
+    console.log(textareas);
+    console.log($textarea);
+    for(j=0; j < textareas.length; j++) {
+
+      if(!Cookies.get(textareas[j].name)){
+        Cookies.set(textareas[j].name, false, { expires: 100 });
+      }else {
+        $textarea[j].textContent = Cookies.get(textareas[j].name);
+      }
+    }
+
+    var save = document.querySelector('.save-button');
+    save.addEventListener('click', function(){
+      this.innerText = "Saved!";
+      for(k=0; k < textareas.length; k++) {
+        console.log(textareas[k].value);
+        Cookies.set(textareas[k].name, textareas[k].value, { expires: 999999 });
+      }
+    });
+  }
+}
+
+function killusername(){
+  var handbookCheck = document.querySelector('.handbook');
+  if(handbookCheck) {
+    var labels = document.querySelectorAll('label');
+    for(i=0; i< labels.length; i++){
+      if(labels[i].innerText === "What is your username?") {
+        labels[i].classList.add('hide');
+      }
+    }
+    console.log(labels);
+  }
+}killusername();
 
 function init(){
   grid();
@@ -667,5 +704,7 @@ function init(){
   if(quizCheck) {
     quiz();
   }
+  cookies();
+  killusername();
 }
 init();
