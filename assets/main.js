@@ -677,6 +677,7 @@ function cookies(){
 function killusername(){
   var handbookCheck = document.querySelector('.handbook');
   if(handbookCheck) {
+    localStorage.setItem('myCat', 'Tom');
     var labels = document.querySelectorAll('label');
     for(i=0; i< labels.length; i++){
       if(labels[i].innerText === "What is your username?") {
