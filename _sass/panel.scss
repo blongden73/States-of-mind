@@ -479,9 +479,9 @@
         }
 
         a {
-          font-family: 'Prestige';
+          font-family: 'Circular';
           font-style: normal;
-          @include font-size(1,1);
+          // @include font-size(1,1);
         }
       }
     }
@@ -596,11 +596,11 @@
         }
       }
       a {
-        padding: 20px;
-        border: 1px solid #121212;
-        display: block;
-        width: max-content;
-        margin-top: 30px;
+        // padding: 20px;
+        // border: 1px solid #121212;
+        // display: block;
+        // width: max-content;
+        // margin-top: 30px;
       }
     }
   }
