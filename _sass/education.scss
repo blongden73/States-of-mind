@@ -39,6 +39,21 @@ body.education {
   }
 }
 
+body.breaking .som-scroll-text {
+  p {
+    font-size: 16px !important;
+    line-height: 28px !important;
+  }
+
+  ul {
+    li {
+      list-style: circle !important;
+      color: #000;
+      margin-left: 40px;
+    }
+  }
+}
+
 body.handbook {
   .som-header {
     background-color: #fff;
