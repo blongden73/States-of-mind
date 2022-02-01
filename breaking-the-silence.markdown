@@ -33,24 +33,22 @@ text-block-four description: |-
   In this phase, a new cohort of young people studied the current Ofsted framework, alongside national and international research around education evaluation. Subsequently, they co-interviewed Headteachers, former Ofsted inspectors, academics and others alongside a doctorate researcher who fully documented the process. The group then drafted an evaluation framework called the ‘Review for Progress and Development’ (RPD). For a fuller summary of the direction of phases three and four, see [here](https://www.statesofmind.org/journal/2020/11/18/education-inspection-students.html). The RPD differs hugely from Ofsted’s external accountability, focussing instead on school self-evaluation and collaborative evaluation across school networks. The final draft is a work in progress and a documentary is currently being edited that followed the project over the course of the year. It will be shared very soon!
 
   At our [Education Futures in Action](https://www.educationfuturesinaction.com/schedule-1) conference in July 2021, co-organised alongside UCL, young innovators from States of Mind presented their evidence-based ideas around educational transformation with candour and eloquence. Three leaders of the Breaking the Silence project have presented their ideas at various national conferences and to the Education Select Committee.
-text-block-five description: "# Phase 4\n\n2021/22 - Refining & implementing the Review
-  of Progress and Development\n\nA new cohort of students are coming together from
-  late September. Again, a PAR approach will be employed. They will work with States
-  of Mind practitioners, students from previous phases and an IOE doctorate student
-  to develop an understanding of phases one-three, then refine the RPD. This will
-  be followed by implementation of the RPD and evaluation of the process alongside
-  students and educators across a number of schools, including School 21 and London
-  Academy of Excellence in Newham borough and (hopefully) other schools. \n\nThe students
-  involved in this exciting phase are beginning to formulate their aims for the year.
-  It will be fascinating to see how the RPD develops and the response of school leaders
-  and teachers when taking part in this alternative evaluation approach. We hope that
-  as phase 4 comes to fruition, Breaking the Silence will:\n\npromote conversation
-  about how education is evaluated, show how young people can work together to create
-  actionable, psychologically healthy alternatives to current education systems, prompt
-  people to consider the positioning of young people in the big decisions that affect
-  their lives and the extent to which they are currently disempowered, present an
-  actionable education evaluation tool that meets the needs of diverse young people
-  and can be applied across education provisions.  \n"
+text-block-five description: |-
+  # Phase 4
+
+  2021/22 - Refining & implementing the Review of Progress and Development
+
+  A new cohort of students are coming together from late September. Again, a PAR approach will be employed. They will work with States of Mind practitioners, students from previous phases and an IOE doctorate student to develop an understanding of phases one-three, then refine the RPD. This will be followed by implementation of the RPD and evaluation of the process alongside students and educators across a number of schools, including School 21 and London Academy of Excellence in Newham borough and (hopefully) other schools.
+
+  The students involved in this exciting phase are beginning to formulate their aims for the year. It will be fascinating to see how the RPD develops and the response of school leaders and teachers when taking part in this alternative evaluation approach. We hope that as phase 4 comes to fruition, Breaking the Silence will:
+
+  * promote conversation about how education is evaluated, show how young people can work together to create actionable
+
+  * psychologically healthy alternatives to current education systems
+
+  * prompt people to consider the positioning of young people in the big decisions that affect their lives and the extent to which they are currently disempowered
+
+  * present an actionable education evaluation tool that meets the needs of diverse young people and can be applied across education provisions
 image-one: "/uploads/Group%20123.jpg"
 image-two: "/uploads/Group%20124.jpg"
 image-three: "/uploads/1080x1080%20copy%2044.jpg"
