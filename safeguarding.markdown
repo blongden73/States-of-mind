@@ -1,5 +1,5 @@
 ---
-title: Safeguarding
+title: Safeguarding + Complaints
 date: 2020-09-24 13:51:00 Z
 ---
 
@@ -235,5 +235,202 @@ Signed: Beatrice Caroline Herbert
 Position: Founder and Director of States of Mind CIC
 
 Date: 1st September 2018 
+
+
+States of Mind CIC Complaints Policy and Procedure
+
+1.  	Purpose
+
+States of Mind CIC believes that in order for us to provide high quality services which meet the needs of our customers – i.e. the people who use our services - we must listen and respond to their comments and complaints.
+
+It is our policy as an organisation to actively seek feedback on our services.  By taking this approach it is hoped that dissatisfactions can be resolved at the earliest possible stage and positive organisational learning and development can take place.
+
+We want to ensure complaints are dealt with in a transparent and efficient way. Anyone wishing to complain should be able to do so easily and understand the process, including how decisions are reached.
+
+The aim of this policy and procedure is to help us take a service-oriented attitude, to resolve complaints quickly and effectively, and ensure we learn from mistakes.
+
+2. 	Policy Scope
+
+For the purpose of this policy, employees, associates, volunteers and members of our Advisory Board are referred to as ‘staff’.  
+
+The policy covers complaints made by our customers to the Company or its staff, arising out of the Company’s delivery of psycho-educational and social action programmes, primarily our Selfology and Wellbeing Ambassadors programme.
+
+3.	Definition of a complaint
+
+The Citizen’s Charter Complaints Task Force has defined a complaint as “an expression of dissatisfaction requiring a response”. 
+
+3.1 General Principles
+
+Complaints and concerns are part of everyday life and provide a valuable insight for an organisation to monitor its performance and give attention to areas, which require improvement. Although they are not the only way to show how it is performing, complaints and concerns do offer a unique opportunity to view the services provided from the patient/relatives’ perspective. When used in conjunction with other performance indicators they can help to maintain and ultimately improve the quality of service provided. 
+
+In a perfect world, our services would meet all expectations -but realistically we cannot hope to meet the needs or desires of everyone all of the time. However, the manner in which a concern or complaint is processed, from the first point of contact to the completion of an investigation, does make a difference to how we are viewed. It is therefore essential to have an effective, efficient and sensitive system to respond to complaints and concerns; a well-handled complaint can enhance an organisation's reputation
+
+
+4.	Complaints Processes and Procedure
+
+4.1	Actively seeking feedback
+
+We actively seek feedback on our services.  In the case of our programmes, we obtain formal feedback from participants after each programme.  This explicitly invites participants to comment on likes and dislikes about the programme, and to make suggestions for improvement. 
+
+The programme itself explicitly teaches participants to make ‘complaints with recommendations’, and participants are encouraged to articulate complaints they may have in relation to the Programme Leader or other programme participants.
+
+States of Mind CIC;s programmes are updated annually to reflect consistent themes in participant feedback.  
+
+
+4.2 Raising awareness
+
+People need to know how to use our complaints procedure.  We raise awareness through:
+
+1.	staff informing new customers about the process
+2.	written introductory information given to participants as part of their introduction to States of Mind CIC’s programmes
+3.	a copy of this policy is made available free of charge to any person on request
+
+4.3 	Channels for receiving complaints
+
+STATES OF MIND CIC will accept complaints made in the following ways:
+
+4.	in person
+5.	by letter
+6.	by phone
+7.	by email
+
+4.4 	Responding to complaints
+
+The procedure for responding to complaints involves the following stages:
+
+Stage 1:  Informal complaints
+Stage 2:  Formal complaints
+Stage 3:  Advisory Board reviews
+
+Our time limit for receiving complaints is within 6 months of the incident giving rise to the complaint.
+
+
+
+4.5 	Informal complaints
+
+An informal complaint refers to any comment of dissatisfaction, whether verbal or in writing, and may be dealt with by any member of staff.  In most cases informal complaints will be resolved through active listening, acknowledging the complainant’s dissatisfaction, apologizing, and negotiating appropriate solutions.
+
+Staff should not be defensive in their attitude to complaints but accept that the issues are important to the complainant. Comments and complaints should be used by all staff to enable us to see things from our customers’ point of view.
+
+It is recognised that staff are dealing with queries and issues all the time, and it is therefore left to the discretion of the staff member as to whether to record the issue in the Register of Complaints.  Typically, it would be worthwhile recording if the member of staff feels that the issue may not be fully resolved and the customer may raise it again or make a formal complaint.
+
+
+4.6 Formal complaints
+
+Any complaint that cannot be resolved informally will be subject to a formal procedure.  At this point the complaint will be recorded in the Register of Complaints, as will the subsequent actions taken.
+
+Where possible, the complaint should be put in writing to the Founder of STATES OF MIND CIC– either by email or post.  
+
+If the complainant wishes not to engage with the Founder (because, for example, the complaint is about her, it should be addressed to the Director with special responsibility for Risk, Complaints and Incidents. 
+
+If the complainant is unable to put their complaint in writing, a member of staff should record the complaint in writing and check its accuracy with the complainant either by reading it out or showing it to the complainant.
+
+All complaints will be treated within the STATES OF MIND CIC Confidentiality and Data Protection policies.
+
+Once the formal complaint has been put in writing an investigation will be carried out by either the Founder or by the Director with responsibility for Complaints and will ascertain:
+
+8.	What was expected by the complainant?
+9.	What actually happened?
+10.	What is the difference between the above?
+11.	What should be done to put things right?
+12.	What should be done to prevent a recurrence?
+
+When the investigation is complete the investigator will decide whether or not there are grounds for the complaint and will recommend what action(s) need to be taken to put things right and prevent recurrences.  These actions will then be taken.
+
+The investigator will write to the complainant with the outcomes of the investigation in terms of actions taken or organisational changes made as a result.  Our target for completing investigations and writing to complainants is 28 days.
+
+4.7 Service User Suggestions and Compliments
+
+From time to time, service users will feedback verbal/written suggestions directly to staff/volunteers and/or compliments. Any communications should be fed back to the relevant staff member/volunteer. Managers should also be made aware of any feedback, regardless of whether it constitutes an informal complaint/comment.
+
+As with complaints, staff should acknowledge suggestions and comments, make a note, where necessary, and also assure the service user that the information will be processed in line with their wishes, where practical.
+
+4.8 Appeals to Advisory Board
+
+If the complainant is dissatisfied with this outcome, they can request that it be reviewed by the States of Mind Advisory Board and it will be discussed at the next Advisory Board meeting.  These happen three times a year.   The complainant will be informed of timescale.  The Advisory Board will look at whether the informal/formal complaints procedures were correctly followed; not the detail of the complaint.  If the procedure was followed then this group will re-consider the original complaint.
+
+The decision of the Advisory Board, and any actions to be taken, will be made in writing to the complainant within 5 days of the meeting.
+
+The internal complaints procedure has now been completed.  However, if the complainant wishes to take up the issue with bodies outside the organisation, appropriate information on how to access these will be given.  
+
+4.9 Outcomes/recommendations
+
+Staff responding to or investigating complaints, whether informal or formal can, if appropriate, the following actions to States of Mind CIC as a consequence of a complaint:
+1.	changes in organisational policy
+2.	changes in organisational practice
+3.	changes in an individual staff members’ practice
+4.	additional staff training
+5.	disciplinary procedures
+
+
+5.	Training
+
+All States of Mind CIC staff will be given this policy and guidance on handling complaints.
+
+6.	Monitoring and Compliance
+
+The Founder will be responsible for the administration of the complaint procedure, ensuring appropriate records are kept, meetings organised, and information given to the Advisory Board and to funders.  Where the Founder is the subject of the complaint and it cannot be resolved through informal means, the complainant will be referred to the Director with special responsibility for Risk, Complaints and Incidents.
+
+
+7.	Equality and Diversity
+
+States of Mind CIC is committed to ensuring that, as far as is reasonably practicable, the way we provide services to the public and the way we treat our staff reflects their individual needs and does not discriminate against individuals or groups on any grounds.  This policy has been appropriately assessed.
+
+
+8.	Consultation and Review
+
+This policy will be reviewed every two years from the effective date.
+
+Appendix 1: Complaints Investigation and Action Plan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+APPENDIX 2: Complaints Information
+
+
+
+Complaints
+
+States of Mind CIC aims to give high standards of service to everyone but acknowledges that complaints do happen.
+
+We are committed to investigating complaints fully and fairly.
+
+Complaints are a valuable and important part of user feedback which can aid our service improvement.
+
+Making a Complaint
+
+You may make a complaint to any member of staff:
+
+6.	In person (verbally)
+7.	By letter
+8.	By telephone
+9.	By email
+
+Please notify us of:
+
+10.	your name and contact details
+11.	the details of your complaint
+
+
+How your complaint will be dealt with
+
+There are three ways that your complaint may be resolved:
+
+Informally:  where staff members can resolve the issue for you
+Formally: which will involve a formal investigation by a Director of States of Mind CIC
+By review:  if you are dissatisfied with the outcome of the formal investigation, our Advisory Board will review the complaint and take a final decision.
+
 
 
