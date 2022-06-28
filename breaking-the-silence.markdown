@@ -2,11 +2,10 @@
 title: Breaking
 date: 2021-09-09 14:44:00 Z
 permalink: breaking-the-silence
-Case Study Video: <iframe src="https://player.vimeo.com/video/456503837?h=ba1686a909&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
-  frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen
-  style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Breaking the
-  Silence"></iframe>
+Case Study Video: 
 Intro text: |-
+  <iframe src="https://player.vimeo.com/video/456503837?h=ba1686a909&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Breaking the Silence"></iframe>
+
   # The story so far
 
   Breaking the Silence started in January 2019. With an upcoming government consultation about Ofsted’s new education evaluation framework, we wondered what young people thought about how their schools were assessed. Recognising that students are rarely asked about their knowledge and experience of education, States of Mind launched the project to capture their perspectives. The core aims of Breaking the Silence are to challenge the educational status quo and present actionable alternatives that meet the needs of young people and support them to flourish.
