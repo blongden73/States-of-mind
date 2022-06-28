@@ -5,6 +5,7 @@ permalink: breaking-the-silence
 Case Study Video: 
 Intro text: |-
   # The Breaking the Silence Documentary will be released at 10am
+  Watch the previous stage of the project here.
 
   <iframe src="https://player.vimeo.com/video/456503837?h=ba1686a909&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="aspect-ratio: 16/9;width:100%;height:100%;" title="Breaking the Silence"></iframe>
 
