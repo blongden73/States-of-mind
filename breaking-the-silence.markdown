@@ -4,7 +4,7 @@ date: 2021-09-09 14:44:00 Z
 permalink: breaking-the-silence
 Case Study Video: 
 Intro text: "# The Breaking the Silence Documentary will be released here at 1pm!
-  \nWatch the previous stage of the project below.\n\n<iframe src=\"https://player.vimeo.com/video/456503837?h=ba1686a909&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\"
+  \nWatch the previous stage of the project below.\n\n<iframe src=\"https://player.vimeo.com/video/725222856?h=301573cb7c&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\"
   frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen
   style=\"aspect-ratio: 16/9;width:100%;height:100%;\" title=\"Breaking the Silence\"></iframe>\n\n#
   The story so far\n\nBreaking the Silence started in January 2019. With an upcoming
