@@ -59,7 +59,7 @@ Team:
     within the confines of our inflexible education system. Chris believes in promoting
     reform by listening to young people, parents, professionals and academic research.
     Chris leads on States of Mind’s research projects."
-- image: "/uploads/Screenshot%202022-07-08%20at%2009.22.16.png"
+- image: "/uploads/Bio%20pic.png"
   name: Jaspar Khawaja
   description: "Participatory Action Research Lead \n\nJaspar is currently training
     to become an Educational Psychologist, completing a Doctorate\nin Professional
