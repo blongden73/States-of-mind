@@ -59,13 +59,16 @@ Team:
     within the confines of our inflexible education system. Chris believes in promoting
     reform by listening to young people, parents, professionals and academic research.
     Chris leads on States of Mind’s research projects."
-- image: "/uploads/Tempe.jpg"
-  name: 'Tempe Nakiska '
-  description: "Creative Director \n\nTempe is an editor and creative consultant who
-    lives between London and Melbourne. Formerly the Editor at HERO and HEROINE magazines
-    and Brand Manager at The Collective, she has applied her background in lifestyle
-    journalism to her passion for new ways of living and supporting wellbeing. Tempe
-    guides our brand storytelling, as we share our mission and work with the world."
+- image: "/uploads/Screenshot%202022-07-08%20at%2009.22.16.png"
+  name: Jaspar Khawaja
+  description: "Participatory Action Research Lead \n\nJaspar is currently training
+    to become an Educational Psychologist, completing a Doctorate\nin Professional
+    Educational Child and Adolescent Psychology at UCL's Institute of Education.\nPrior
+    to this, Jaspar worked in a secondary school with young people who had experienced\ntrauma,
+    and in a CAMHS inpatient unit for adolescents with mental health problems. Jaspar\nbelieves
+    in promoting educational reform to meet the psychological needs of children and\nyoung
+    people. He has undertaken university research in collaboration with States of
+    Mind as\npart of the Breaking the Silence project, in order to do just that."
 - image: "/uploads/Ella%20photo-2de983.jpg"
   name: 'Ella Gregory '
   description: |-
