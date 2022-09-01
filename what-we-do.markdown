@@ -44,7 +44,7 @@ Ambassador image: "/uploads/ambassador-c73089.jpg"
 Ambassador description: |-
   # Wellbeing Ambassadors Programme
 
-  For the last few years we have been learning about what young people want mental health support to look like in education. We have designed our  Wellbeing Ambassadors Programme with young people across London. We work with students weekly, supporting them to design and lead a targeted intervention to improve wellbeing in their college.
+  For the last few years we have been learning about what young people want mental health support to look like in education. We have designed our  Wellbeing Ambassadors Programme with young people across London. We work with students weekly, supporting them to design and lead innovations that improve school wellbeing culture.
 
   We provide facilitation, support and psychological thinking throughout the process. We want to create a completely new approach to supporting young people throughout their time in education.
 
