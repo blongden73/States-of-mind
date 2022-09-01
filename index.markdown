@@ -12,18 +12,24 @@ Quote text: |-
   [Listen](/what-we-do#carousel)
 Quote image: "/uploads/quote_image.jpg"
 Why we are here image: "/uploads/scroller1.jpg"
-Why we are here description: |-
-  # <img src="/uploads/connected_icon.svg">Choice
-
-  Growing numbers of young people in the UK are seeking help for their mental health, but many aren’t getting the support they want or need. With the NHS unable to meet the rising demand, we believe it's time for a new approach, one that is co-created with young people outside of clinical settings.
-
-  # <img src="/uploads/space_icon.svg">Autonomy
-
-  By supporting young people to develop self-knowledge, compassion and curiosity towards their inner life, we can help them find meaning in suffering. We run trauma-informed mental health education programmes in schools, providing young people with an understanding of mental health that functions without the use of diagnostic labels.
-
-  # <img src="/uploads/change_icon.svg">Collaboration
-
-  If young people are to thrive and live their potential, we need to make sure our society's approach to mental health is working. We work alongside young people and psychologists to create social impact and research projects that enable young people's experiences, views and ideas to be a driving force for change.
+Why we are here description: "# <img src=\"/uploads/connected_icon.svg\">Choice\n\nTherapy
+  is unavailable, inaccessible and isolated from the community spaces where people
+  make sense of the world. Therapeutic spaces are a catalyst for generating meaning
+  and sense making. This should be available to everybody to support a deeper level
+  of insight into ourselves, others and the world in which we live. \n\nWe believe
+  healthy relational spaces can liberate young people from the traumatic impact of
+  coercive systems and support them to think for themselves, make their own decisions
+  and take ownership of their lives. \n\nWe believe it's time for a new approach,
+  one that is co-created with young people outside of clinical settings.\n\n# <img
+  src=\"/uploads/space_icon.svg\">Autonomy\n\nBy supporting young people to develop
+  self-knowledge, compassion and curiosity towards their inner life, we can help them
+  find meaning in suffering. We run trauma-informed mental health education programmes
+  in schools, providing young people with an understanding of mental health that functions
+  without the use of diagnostic labels.\n\n# <img src=\"/uploads/change_icon.svg\">Collaboration\n\nIf
+  young people are to thrive and live their potential, we need to make sure our society's
+  approach to mental health is working. We work alongside young people and psychologists
+  to create social impact and research projects that enable young people's experiences,
+  views and ideas to be a driving force for change."
 What We Are Doing description: "# Education\n\nOur vision is for a world where mental
   health support is embedded within systems, not separate from them. Where times of
   suffering don't disconnect us, but help us learn about ourselves and eachother,
