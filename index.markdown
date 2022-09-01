@@ -1,8 +1,8 @@
 ---
 title: Home
 permalink: "/"
-Intro text: "We harness the power of therapeutic practices to transform young people’s
-  sense of self. \n"
+Intro text: "We co-create new realities for education and mental health care through
+  intergenerational dialogue, participatory action research and social action. \n"
 Intro image: "/uploads/intro_image.jpg"
 Quote text: |-
   # "I feel like, for once, my opinion and the voices of other young people have been listened to and that they actually matter."
