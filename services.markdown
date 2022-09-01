@@ -37,11 +37,12 @@ Our values description: |-
 Team:
 - image: "/uploads/BeaH.jpg"
   name: Bea Herbert
-  description: "**Founder and Director** Bea founded States of Mind in 2017, driven
-    by a desire to create change in how our society speaks about and supports experiences
-    of emotional distress. She specialises in co-designing initiatives that promote
-    young people's wellbeing. Drawing on her training in Psychosynthesis Psychotherapy,
-    Bea is the Project Manager and Lead Facilitator at States of Mind. "
+  description: "**Founder and Director**  Bea has spent her professional career working
+    alongside young people in schools and communities to develop more person-centred
+    and systemic models of support. Her most recent work has involved co-designing
+    an early intervention programme with 6 colleges in Newham Borough and developing
+    Selfology, an educational programme that places the power of psychology in young
+    people’s hands to promote growth, self awareness and healing."
 - image: "/uploads/norton.jpg"
   name: 'Michael Norton '
   description: "**Director** Michael has dedicated his life to enhancing society and
