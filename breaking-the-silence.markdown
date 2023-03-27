@@ -6,7 +6,7 @@ Case Study Video:
 Intro text: |-
   # The Review for Progress and Development - an Education evaluation framework
 
-  [https://docs.google.com/file/d/1hEL-zxtfMxke_AqBYXuRmGMZMHiE-0WQ/edit?usp=docslist_api&filetype=msword]
+  [Click here to View the RPD]([https://docs.google.com/file/d/1hEL-zxtfMxke_AqBYXuRmGMZMHiE-0WQ/edit?usp=docslist_api&filetype=msword])
 
   # Documentary - "The Framework"
 
