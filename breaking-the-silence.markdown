@@ -8,7 +8,7 @@ Intro text: |-
 
   [https://docs.google.com/file/d/1hEL-zxtfMxke_AqBYXuRmGMZMHiE-0WQ/edit?usp=docslist_api&filetype=msword]
 
-  # Breaking the Silence Documentary - "The Framework"
+  # Documentary - "The Framework"
 
   <iframe src="https://player.vimeo.com/video/725602882?h=5cdf963b5d&badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="aspect-ratio: 16/9;width:100%;height:100%;" title="Breaking the Silence"></iframe>
 
