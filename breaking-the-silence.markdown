@@ -3,24 +3,33 @@ title: Breaking
 date: 2021-09-09 14:44:00 Z
 permalink: breaking-the-silence
 Case Study Video: 
-Intro text: |-
-  # The Review for Progress and Development - an Education evaluation framework
-
-  [Click here to View the RPD](https://docs.google.com/document/d/1hEL-zxtfMxke_AqBYXuRmGMZMHiE-0WQ/edit?usp=sharing&ouid=109973647937469079548&rtpof=true&sd=true)
-
-  View the RPD student survey [here](https://docs.google.com/forms/d/e/1FAIpQLSddg1WR9JXxG1TXS2m_my7gBOwsKNrZAUvLaW2m3sYXpn8-Bw/viewform)
-
-  # Documentary - "The Framework"
-
-  <iframe src="https://player.vimeo.com/video/725602882?h=5cdf963b5d&badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="aspect-ratio: 16/9;width:100%;height:100%;" title="Breaking the Silence"></iframe>
-
-  # The story so far
-
-  Breaking the Silence started in January 2019. With an upcoming government consultation about Ofsted’s new education evaluation framework, we wondered what young people thought about how their schools were assessed. Recognising that students are rarely asked about their knowledge and experience of education, States of Mind launched the project to capture their perspectives. The core aims of Breaking the Silence are to challenge the educational status quo and present actionable alternatives that meet the needs of young people and support them to flourish.
-
-  At the core of our work is the belief that, (i) young peoples’ views should be centred in all decisions around their education and, (ii) they are capable of conceptualising, defining and actioning meaningful change. Breaking the Silence is a constantly evolving research endeavour and is currently entering its fourth phase. Read more [here](https://www.statesofmind.org/journal/2020/09/16/breaking-the-silence.html).
-
-  Throughout the Breaking the Silence project, a [participatory action research ](https://www.statesofmind.org/journal/2020/09/28/young-people-education-research.html)approach has been used to ensure that young people are active participants, not passive subjects. Students co-develop our projects; they shape the research questions, conduct their own surveys, focus groups and interviews, analyse the data and decide how this is to be disseminated, supported by States of Mind and our partner organisation, the Institute of Education, UCL. Each year, we work with a new cohort of young people who are in year 12 and attending sixth form colleges in the London borough of Newham. Young people apply to take part and commit to weekly sessions throughout the academic year.
+Intro text: "# The Review for Progress and Development - an Education evaluation framework\n\n[Click
+  here to View the RPD](https://docs.google.com/document/d/1hEL-zxtfMxke_AqBYXuRmGMZMHiE-0WQ/edit?usp=sharing&ouid=109973647937469079548&rtpof=true&sd=true)\n\nView
+  the RPD student survey [here](https://docs.google.com/forms/d/e/1FAIpQLSddg1WR9JXxG1TXS2m_my7gBOwsKNrZAUvLaW2m3sYXpn8-Bw/viewform)\n\n[Inspecting
+  the Inspectors: students assess Ofsted regime’s toll on wellbeing - Guardian Article](https://www.theguardian.com/education/2022/jun/29/inspecting-the-inspectors-students-assess-ofsted-regimes-toll-on-wellbeing)
+  \n\n\n# Documentary - \"The Framework\"\n\n<iframe src=\"https://player.vimeo.com/video/725602882?h=5cdf963b5d&badge=0&autopause=0&player_id=0&app_id=58479\"
+  frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen
+  style=\"aspect-ratio: 16/9;width:100%;height:100%;\" title=\"Breaking the Silence\"></iframe>\n\n#
+  The story so far\n\nBreaking the Silence started in January 2019. With an upcoming
+  government consultation about Ofsted’s new education evaluation framework, we wondered
+  what young people thought about how their schools were assessed. Recognising that
+  students are rarely asked about their knowledge and experience of education, States
+  of Mind launched the project to capture their perspectives. The core aims of Breaking
+  the Silence are to challenge the educational status quo and present actionable alternatives
+  that meet the needs of young people and support them to flourish.\n\nAt the core
+  of our work is the belief that, (i) young peoples’ views should be centred in all
+  decisions around their education and, (ii) they are capable of conceptualising,
+  defining and actioning meaningful change. Breaking the Silence is a constantly evolving
+  research endeavour and is currently entering its fourth phase. Read more [here](https://www.statesofmind.org/journal/2020/09/16/breaking-the-silence.html).\n\nThroughout
+  the Breaking the Silence project, a [participatory action research ](https://www.statesofmind.org/journal/2020/09/28/young-people-education-research.html)approach
+  has been used to ensure that young people are active participants, not passive subjects.
+  Students co-develop our projects; they shape the research questions, conduct their
+  own surveys, focus groups and interviews, analyse the data and decide how this is
+  to be disseminated, supported by States of Mind and our partner organisation, the
+  Institute of Education, UCL. Each year, we work with a new cohort of young people
+  who are in year 12 and attending sixth form colleges in the London borough of Newham.
+  Young people apply to take part and commit to weekly sessions throughout the academic
+  year."
 Ambassador description: |-
   # Phase one
 
