@@ -76,21 +76,24 @@ text-block-five description: |-
   We are proud to share [the RPD](https://docs.google.com/document/d/1hEL-zxtfMxke_AqBYXuRmGMZMHiE-0WQ/edit?rtpof=true&sd=true) in draft form. This document includes the structure of the evaluation framework, rationale as to why the approach and measures have been chosen, all composed by student participants in their own words. The key evidence drawn upon is to shape the RPD is also included. States of Mind are currently working with the Institute of Education to publish a paper that captures the survey, focus group and interview data in more depth.
 
   Please also view a copy of the survey for students [here](https://docs.google.com/forms/d/e/1FAIpQLSddg1WR9JXxG1TXS2m_my7gBOwsKNrZAUvLaW2m3sYXpn8-Bw/viewform) and a public engagement form [here](https://www.surveymonkey.co.uk/r/RGGFXX7). Do let us know your thoughts on the RPD as this will inform the next phases of the project.
-text-block-six description: |-
-  # Phase 5 & 6
-
-  2022/23 – Collaboration
-
-  A core group of 8 young people who took part in various phases of Breaking the Silence continued to collaborate and co-produce ways of communicating their findings and insights to a wider audience. They took part in the National Education Union’s Beyond Ofsted project alongside teachers and an academic team based at the Institute of Education, UCL.
-
-  In November 2023, States of Mind will attend the launch of Beyond Ofsted alongside MPs, parents and colleagues from the teaching and academic professions.
-
-  As a contribution to Beyond Ofsted, two of our young leaders composed an excellent article, Hungry for Change, outlining the findings of Breaking the Silence and making a case for what the evolution of school evaluation could look like framed around the Review for Progress and Development.
-
-  The young people have also been invited to form part of the Advisory Board for another
-  organisation, Rethinking Accountability, who are also hoping to promote change in relation to school evaluation.
-
-  Phase 6 is about to begin. A new cohort of students attending a London Sixth Form college have taken up the baton and are poised to take Breaking the Silence forward. We aim to implement the Review for Progress and Development in a school, with students and teachers working in partnership to evaluate their school community in an authentic and flexible way. Watch this space!
+text-block-six description: "# Phase 5 & 6\n\n2022/23 – Collaboration\n\nA core group
+  of 8 young people who took part in various phases of Breaking the Silence continued
+  to collaborate and co-produce ways of communicating their findings and insights
+  to a wider audience. They took part in the National Education Union’s Beyond Ofsted
+  project alongside teachers and an academic team based at the Institute of Education,
+  UCL.\n\nIn November 2023, States of Mind will attend the launch of Beyond Ofsted
+  alongside MPs, parents and colleagues from the teaching and academic professions.\n\nAs
+  a contribution to Beyond Ofsted, two of our young leaders composed an excellent
+  article, Hungry for Change, outlining the findings of Breaking the Silence and making
+  a case for what the evolution of school evaluation could look like framed around
+  the Review for Progress and Development.\n\nThe young people have also been invited
+  to form part of the Advisory Board for another\norganisation, Rethinking Accountability,
+  who are also hoping to promote change in relation to school evaluation.\n\nPhase
+  6 is about to begin. A new cohort of students attending a London Sixth Form college
+  have taken up the baton and are poised to take Breaking the Silence forward. We
+  aim to implement the Review for Progress and Development in a school, with students
+  and teachers working in partnership to evaluate their school community in an authentic
+  and flexible way. Watch this space… "
 image-one: "/uploads/Group%20123.jpg"
 image-two: "/uploads/Group%20124.jpg"
 image-three: "/uploads/1080x1080%20copy%2044.jpg"
