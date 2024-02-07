@@ -2,6 +2,7 @@
 title: Breaking
 date: 2021-09-09 14:44:00 Z
 permalink: breaking-the-silence
+published: false
 Case Study Video: 
 Intro text: "# The Review for Progress and Development - an Education evaluation framework\n\n[Click
   here to View the RPD](https://docs.google.com/document/d/1hEL-zxtfMxke_AqBYXuRmGMZMHiE-0WQ/edit?usp=sharing&ouid=109973647937469079548&rtpof=true&sd=true)\n\nView
@@ -53,36 +54,49 @@ text-block-four description: |-
   In this phase, a new cohort of young people studied the current Ofsted framework, alongside national and international research around education evaluation. Subsequently, they co-interviewed Headteachers, former Ofsted inspectors, academics and others alongside a doctorate researcher who fully documented the process. The group then drafted an evaluation framework called the ‘Review for Progress and Development’ (RPD). For a fuller summary of the direction of phases three and four, see [here](https://www.statesofmind.org/journal/2020/11/18/education-inspection-students.html). The RPD differs hugely from Ofsted’s external accountability, focussing instead on school self-evaluation and collaborative evaluation across school networks. The final draft is a work in progress and a documentary is currently being edited that followed the project over the course of the year. It will be shared very soon!
 
   At our [Education Futures in Action](https://www.educationfuturesinaction.com/schedule-1) conference in July 2021, co-organised alongside UCL, young innovators from States of Mind presented their evidence-based ideas around educational transformation with candour and eloquence. Three leaders of the Breaking the Silence project have presented their ideas at various national conferences and to the Education Select Committee.
-text-block-five description: "# Phase 4\n\n2021/22 - Refining & implementing the Review
-  of Progress and Development\n\nA new group of students came together in late September
-  2021. They worked with States of Mind practitioners and students to develop an understanding
-  of phases one-three. Subsequently, they built on the work conducted by previous
-  students to build upon the work of previous cohorts and refine the Review for Progress
-  and Development (RPD). \n\nBased on their own research involving reading numerous
-  studies and conducting focus groups with students and teachers, six evaluative areas
-  emerged: \n\n1 Student mental health\n2 Student - teacher relationships\n3 Student
-  interactions\n4 Teacher autonomy \n5 Student satisfaction\n6 Life skills\n7 Personal
-  development\n\nThe RPD involves continuous school self-evaluation in partnership
-  with local schools. The aim is for the seven evaluation areas to be measured yearly,
-  with young people and teachers working collaboratively, drawing upon data emerging
-  from surveys and focus groups completed by students and staff. It is an interactive
-  process where those subject to education work together to evaluate their school
-  community and co-produce the learning environment that responds flexibly and authentically
-  to the young people. \n\nWe are proud to share [the RPD](https://docs.google.com/document/d/1hEL-zxtfMxke_AqBYXuRmGMZMHiE-0WQ/edit?rtpof=true&sd=true)
-  in draft form. This document includes the structure of the evaluation framework,
-  rationale as to why the approach and measures have been chosen, all composed by
-  student participants in their own words. The key evidence drawn upon is to shape
-  the RPD is also included. States of Mind are currently working with the Institute
-  of Education to publish a paper that captures the survey, focus group and interview
-  data in more depth. \n\nPlease also view a copy of the survey for students [here](https://docs.google.com/forms/d/e/1FAIpQLSddg1WR9JXxG1TXS2m_my7gBOwsKNrZAUvLaW2m3sYXpn8-Bw/viewform)
-  and a public engagement form [here](https://www.surveymonkey.co.uk/r/RGGFXX7). Do
-  let us know your thoughts on the RPD as this will inform the next phases of the
-  project. \n"
+text-block-five description: |-
+  # Phase 4
+
+  2021/22 - Refining & implementing the Review of Progress and Development
+
+  A new group of students came together in late September 2021. They worked with States of Mind practitioners and students to develop an understanding of phases one-three. Subsequently, they built on the work conducted by previous students to build upon the work of previous cohorts and refine the Review for Progress and Development (RPD).
+
+  Based on their own research involving reading numerous studies and conducting focus groups with students and teachers, six evaluative areas emerged:
+
+  1 Student mental health
+  2 Student - teacher relationships
+  3 Student interactions
+  4 Teacher autonomy
+  5 Student satisfaction
+  6 Life skills
+  7 Personal development
+
+  The RPD involves continuous school self-evaluation in partnership with local schools. The aim is for the seven evaluation areas to be measured yearly, with young people and teachers working collaboratively, drawing upon data emerging from surveys and focus groups completed by students and staff. It is an interactive process where those subject to education work together to evaluate their school community and co-produce the learning environment that responds flexibly and authentically to the young people.
+
+  We are proud to share [the RPD](https://docs.google.com/document/d/1hEL-zxtfMxke_AqBYXuRmGMZMHiE-0WQ/edit?rtpof=true&sd=true) in draft form. This document includes the structure of the evaluation framework, rationale as to why the approach and measures have been chosen, all composed by student participants in their own words. The key evidence drawn upon is to shape the RPD is also included. States of Mind are currently working with the Institute of Education to publish a paper that captures the survey, focus group and interview data in more depth.
+
+  Please also view a copy of the survey for students [here](https://docs.google.com/forms/d/e/1FAIpQLSddg1WR9JXxG1TXS2m_my7gBOwsKNrZAUvLaW2m3sYXpn8-Bw/viewform) and a public engagement form [here](https://www.surveymonkey.co.uk/r/RGGFXX7). Do let us know your thoughts on the RPD as this will inform the next phases of the project.
+text-block-six description: |-
+  # Phase 5 & 6
+
+  2022/23 – Collaboration
+
+  A core group of 8 young people who took part in various phases of Breaking the Silence continued to collaborate and co-produce ways of communicating their findings and insights to a wider audience. They took part in the National Education Union’s Beyond Ofsted project alongside teachers and an academic team based at the Institute of Education, UCL.
+
+  In November 2023, States of Mind will attend the launch of Beyond Ofsted alongside MPs, parents and colleagues from the teaching and academic professions.
+
+  As a contribution to Beyond Ofsted, two of our young leaders composed an excellent article, Hungry for Change, outlining the findings of Breaking the Silence and making a case for what the evolution of school evaluation could look like framed around the Review for Progress and Development.
+
+  The young people have also been invited to form part of the Advisory Board for another
+  organisation, Rethinking Accountability, who are also hoping to promote change in relation to school evaluation.
+
+  Phase 6 is about to begin. A new cohort of students attending a London Sixth Form college have taken up the baton and are poised to take Breaking the Silence forward. We aim to implement the Review for Progress and Development in a school, with students and teachers working in partnership to evaluate their school community in an authentic and flexible way. Watch this space!
 image-one: "/uploads/Group%20123.jpg"
 image-two: "/uploads/Group%20124.jpg"
 image-three: "/uploads/1080x1080%20copy%2044.jpg"
 image-four: "/uploads/Group%20126.jpg"
 image-five: "/uploads/Group%20127.jpg"
+image-six: 
 layout: breaking
 ---
 
