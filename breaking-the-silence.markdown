@@ -75,7 +75,7 @@ text-block-five description: |-
   We are proud to share [the RPD](https://docs.google.com/document/d/1hEL-zxtfMxke_AqBYXuRmGMZMHiE-0WQ/edit?rtpof=true&sd=true) in draft form. This document includes the structure of the evaluation framework, rationale as to why the approach and measures have been chosen, all composed by student participants in their own words. The key evidence drawn upon is to shape the RPD is also included. States of Mind are currently working with the Institute of Education to publish a paper that captures the survey, focus group and interview data in more depth.
 
   Please also view a copy of the survey for students [here](https://docs.google.com/forms/d/e/1FAIpQLSddg1WR9JXxG1TXS2m_my7gBOwsKNrZAUvLaW2m3sYXpn8-Bw/viewform) and a public engagement form [here](https://www.surveymonkey.co.uk/r/RGGFXX7). Do let us know your thoughts on the RPD as this will inform the next phases of the project.
-text-block-six description: "# Phase 5 & 6\n\n2022/23 – Collaboration\n\nA core group
+text-block-six description: "# Phase 5 \n\n2022/23 – Collaboration\n\nA core group
   of 8 young people who took part in various phases of Breaking the Silence continued
   to collaborate and co-produce ways of communicating their findings and insights
   to a wider audience. They took part in the National Education Union’s Beyond Ofsted
@@ -87,12 +87,21 @@ text-block-six description: "# Phase 5 & 6\n\n2022/23 – Collaboration\n\nA cor
   a case for what the evolution of school evaluation could look like framed around
   the Review for Progress and Development.\n\nThe young people have also been invited
   to form part of the Advisory Board for another\norganisation, Rethinking Accountability,
-  who are also hoping to promote change in relation to school evaluation.\n\nPhase
-  6 is about to begin. A new cohort of students attending a London Sixth Form college
-  have taken up the baton and are poised to take Breaking the Silence forward. We
-  aim to implement the Review for Progress and Development in a school, with students
-  and teachers working in partnership to evaluate their school community in an authentic
-  and flexible way. Watch this space… "
+  who are also hoping to promote change in relation to school evaluation.\n\n# Phase
+  6 \n\nFrom October-December 2023 a new group of young people attending a Newham
+  Sixth Form college volunteered to take Breaking the Silence forward into a new phase
+  of action research. \n\nHaving perused the previous findings and after  exploring
+  key literature relating to school evaluation, they noted that for the Review for
+  Progress and Development to be an authentic, representative approach, there was
+  a need for parents to take part in the co-production process. \n\nWith this in mind
+  they agreed upon the following research question: ‘How do parents  think education
+  should be evaluated?’\n\nThe students co-constructed a questionnaire for parents
+  to elicit their ideas. This will be used to generate data in relation to the next
+  action phase as described below. \n\nDue to logistical constraints we were unable
+  to continue working with the students at this time, hence the focus over the coming
+  months will inviting parents to work with States of Mind to continue designing the
+  Review for Progress and Development. By the end of the academic year 2024 the evaluation
+  framework should be fully constructed and ready for trialling in schools. \n"
 image-one: "/uploads/Group%20123.jpg"
 image-two: "/uploads/Group%20124.jpg"
 image-three: "/uploads/1080x1080%20copy%2044.jpg"
