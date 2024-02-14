@@ -65,6 +65,20 @@
   </div>
   </div>
 </div>
+<div class="som-panel scroller right beige book noPad">
+  <div class="flex">
+  <div class="som-left white">
+    <div class="som-image-style">
+      <img src="{{page ['image-five']}}">
+    </div>
+  </div>
+  <div class="som-right">
+    <div class="som-scroll-text right">
+      {{page ['text-block-six description'] | markdownify}}
+    </div>
+  </div>
+  </div>
+</div>
 
 
 {% include footer.html %}
