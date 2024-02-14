@@ -65,7 +65,22 @@
   </div>
   </div>
 </div>
-<div class="som-panel scroller right beige book noPad">
+<div class="som-panel scroller right blue book noPad">
+  <div class="flex">
+  <div class="som-left">
+    <div class="som-scroll-text left">
+      {{page ['text-block-six description'] | markdownify}}
+    </div>
+  </div>
+  <div class="som-right">
+    <img src="{{page ['image-four']}}">
+  </div>
+  </div>
+</div>
+<!-- back it up -->
+
+{% if page ['text-block-seven description'] %}
+<div class="som-panel scroller left beige book noPad">
   <div class="flex">
   <div class="som-left white">
     <div class="som-image-style">
@@ -74,11 +89,26 @@
   </div>
   <div class="som-right">
     <div class="som-scroll-text right">
-      {{page ['text-block-six description'] | markdownify}}
+      {{page ['text-block-seven description'] | markdownify}}
     </div>
   </div>
   </div>
 </div>
+{% endif %}
 
+{% if page ['text-block-eight description'] %}
+<div class="som-panel scroller right blue book noPad">
+  <div class="flex">
+  <div class="som-left">
+    <div class="som-scroll-text left">
+      {{page ['text-block-eight description'] | markdownify}}
+    </div>
+  </div>
+  <div class="som-right">
+    <img src="{{page ['image-four']}}">
+  </div>
+  </div>
+</div>
+{% endif %}
 
 {% include footer.html %}
