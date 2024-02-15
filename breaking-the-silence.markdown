@@ -78,36 +78,39 @@ text-block-five description: |-
 text-block-six description: "# Phase 5 \n\n2022/23 – Collaboration\n\nA core group
   of 8 young people who took part in various phases of Breaking the Silence continued
   to collaborate and co-produce ways of communicating their findings and insights
-  to a wider audience. They took part in the National Education Union’s Beyond Ofsted
-  project alongside teachers and an academic team based at the Institute of Education,
-  UCL.\n\nIn November 2023, States of Mind will attend the launch of Beyond Ofsted
-  alongside MPs, parents and colleagues from the teaching and academic professions.\n\nAs
-  a contribution to Beyond Ofsted, two of our young leaders composed an excellent
-  article, Hungry for Change, outlining the findings of Breaking the Silence and making
-  a case for what the evolution of school evaluation could look like framed around
-  the Review for Progress and Development.\n\nThe young people have also been invited
-  to form part of the Advisory Board for another\norganisation, Rethinking Accountability,
-  who are also hoping to promote change in relation to school evaluation.\n\n# Phase
-  6 \n\nFrom October-December 2023 a new group of young people attending a Newham
-  Sixth Form college volunteered to take Breaking the Silence forward into a new phase
-  of action research. \n\nHaving perused the previous findings and after  exploring
-  key literature relating to school evaluation, they noted that for the Review for
-  Progress and Development to be an authentic, representative approach, there was
-  a need for parents to take part in the co-production process. \n\nWith this in mind
-  they agreed upon the following research question: ‘How do parents  think education
-  should be evaluated?’\n\nThe students co-constructed a questionnaire for parents
-  to elicit their ideas. This will be used to generate data in relation to the next
-  action phase as described below. \n\nDue to logistical constraints we were unable
-  to continue working with the students at this time, hence the focus over the coming
-  months will inviting parents to work with States of Mind to continue designing the
-  Review for Progress and Development. By the end of the academic year 2024 the evaluation
-  framework should be fully constructed and ready for trialling in schools. \n"
+  to a wider audience. They took part in the National Education Union’s [Beyond Ofsted
+  project](https://beyondofsted.org.uk/wp-content/uploads/2023/11/Beyond-Ofsted-Report.pdf)
+  alongside teachers and an academic team based at the Institute of Education, UCL.\n\nIn
+  November 2023, States of Mind will attend the launch of Beyond Ofsted alongside
+  MPs, parents and colleagues from the teaching and academic professions.\n\nAs a
+  contribution to Beyond Ofsted, two of our young leaders composed an excellent article,
+  [Hungry for Change](https://neu.org.uk/latest/blogs/hungry-change), outlining the
+  findings of Breaking the Silence and making a case for what the evolution of school
+  evaluation could look like framed around the Review for Progress and Development.\n\nThe
+  young people have also been invited to form part of the Advisory Board for another\norganisation,
+  Rethinking Accountability, who are also hoping to promote change in relation to
+  school evaluation.\n\n"
 image-one: "/uploads/Group%20123.jpg"
 image-two: "/uploads/Group%20124.jpg"
 image-three: "/uploads/1080x1080%20copy%2044.jpg"
 image-four: "/uploads/Group%20126.jpg"
 image-five: "/uploads/Group%20127.jpg"
 image-six: 
+text-block-seven description: "# Phase 6 \n\nFrom October-December 2023 a new group
+  of young people attending a Newham Sixth Form college volunteered to take Breaking
+  the Silence forward into a new phase of action research. \n\nHaving perused the
+  previous findings and after  exploring key literature relating to school evaluation,
+  they noted that for the Review for Progress and Development to be an authentic,
+  representative approach, there was a need for parents to take part in the co-production
+  process. \n\nWith this in mind they agreed upon the following research question:
+  ‘How do parents  think education should be evaluated?’\n\nThe students co-constructed
+  a questionnaire for parents to elicit their ideas. This will be used to generate
+  data in relation to the next action phase as described below. \n\nDue to logistical
+  constraints we were unable to continue working with the students at this time, hence
+  the focus over the coming months will inviting parents to work with States of Mind
+  to continue designing the Review for Progress and Development. By the end of the
+  academic year 2024 the evaluation framework should be fully constructed and ready
+  for trialling in schools. \n"
 layout: breaking
 ---
 
