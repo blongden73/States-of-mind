@@ -48,7 +48,11 @@ Ambassador description: |-
 
   We provide facilitation, support and psychological thinking throughout the process. We want to create a completely new approach to supporting young people throughout their time in education.
 
-  [Download our curriculum](/uploads/States%20ofMind%20Ambassadors%20Training%20Programme.pdf)
+  [View our info Guide Here]
+  (/uploads/Wellbeing%20Ambassadors%20Info%20and%20Training-2.pdf)]
+
+  [And our 3 year Report here]
+  (/uploads/Wellbeing%20Ambassadors%20Programme_%20Outcomes,%20Year%201-3.pdf)]
 Eduacation description: |-
   # Education
 
